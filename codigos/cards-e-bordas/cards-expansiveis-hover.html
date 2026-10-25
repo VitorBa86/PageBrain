@@ -1,0 +1,87 @@
+<!--
+  SNIPPET: Cards que abrem a lista no hover (clique no celular)
+  CATEGORIA: cards-e-bordas
+  O QUE FAZ: Cards de tema (ex.: ansiedade, depressão) que mostram uma lista escondida ao passar o mouse; no celular abrem com toque.
+  COMO USAR: Classes do card: ansiedade, depressao, autoestima, conflitos, traumas (troque pelos seus temas no CSS e no JS). Dentro de cada card, um elemento com classe "hover-list". Cole em widget HTML.
+  ONDE COLAR: Widget HTML
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: paginas/nossas/psi-andressa-darold
+  USADO EM: 1 página(s) da casa: psi-andressa-darold
+-->
+
+<!-- Cole este código em um widget HTML no Elementor -->
+
+<style>
+  /* Textos colapsados por padrão, sem ocupar espaço */
+  .ansiedade .hover-list,
+  .depressao .hover-list,
+  .autoestima .hover-list,
+  .conflitos .hover-list,
+  .traumas .hover-list {
+    max-height: 0;
+    overflow: hidden;
+    opacity: 0;
+    transform: translateY(6px);
+    transition: max-height 0.5s ease, opacity 0.4s ease, transform 0.4s ease;
+  }
+
+  /* Quando o card está ativo */
+  .ansiedade.card-ativo .hover-list,
+  .depressao.card-ativo .hover-list,
+  .autoestima.card-ativo .hover-list,
+  .conflitos.card-ativo .hover-list,
+  .traumas.card-ativo .hover-list {
+    max-height: 300px; /* maior que o conteúdo real */
+    opacity: 1;
+    transform: translateY(0);
+  }
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+
+  const cards = document.querySelectorAll(
+    '.ansiedade, .depressao, .autoestima, .conflitos, .traumas'
+  );
+
+  function isMobile() {
+    return window.matchMedia('(max-width: 768px)').matches;
+  }
+
+  cards.forEach(function (card) {
+
+    // Desktop: hover
+    card.addEventListener('mouseenter', function () {
+      if (!isMobile()) card.classList.add('card-ativo');
+    });
+
+    card.addEventListener('mouseleave', function () {
+      if (!isMobile()) card.classList.remove('card-ativo');
+    });
+
+    // Mobile: clique
+    card.addEventListener('click', function (e) {
+      if (!isMobile()) return;
+
+      const jaAberto = card.classList.contains('card-ativo');
+
+      // Fecha todos
+      cards.forEach(c => c.classList.remove('card-ativo'));
+
+      // Abre este se estava fechado
+      if (!jaAberto) {
+        card.classList.add('card-ativo');
+        e.stopPropagation();
+      }
+    });
+  });
+
+  // Clique fora fecha no mobile
+  document.addEventListener('click', function () {
+    if (isMobile()) {
+      cards.forEach(c => c.classList.remove('card-ativo'));
+    }
+  });
+
+});
+</script>

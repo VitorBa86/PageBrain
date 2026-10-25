@@ -1,0 +1,1297 @@
+{
+ "total": 25,
+ "versao_elementor": "0.4 (containers flexbox)",
+ "paginas": [
+  {
+   "arquivo": "paginas/captacao/imob-vega-costa-e-silva.json",
+   "titulo": "VEGA E COSTA JSON",
+   "tipo": "captacao",
+   "nicho": "Imobiliário",
+   "pagina_publicada": "../paginas/nossas/imob-vega-costa-e-silva/",
+   "slug": "imob-vega-costa-e-silva",
+   "versao_elementor": "0.4",
+   "tipo_documento": "page",
+   "secoes": 11,
+   "elementos": 194,
+   "widgets": {
+    "text-editor": 46,
+    "icon": 24,
+    "heading": 8,
+    "icon-box": 8,
+    "button": 7,
+    "html": 7,
+    "image-carousel": 3,
+    "image": 2,
+    "form": 2,
+    "nested-tabs": 1,
+    "video": 1,
+    "google_maps": 1,
+    "nested-carousel": 1
+   },
+   "css_custom_em_elementos": 12,
+   "page_settings": [
+    "custom_css"
+   ],
+   "fontes": [
+    "Inter",
+    "Georgia",
+    "system"
+   ],
+   "cores_principais": [
+    "#202422",
+    "#FFFFFF",
+    "#0F2F2B",
+    "#FEBB09",
+    "#DEDED8",
+    "#1C4A43"
+   ],
+   "classes_custom": [
+    "scroll-bottom",
+    "scroll-left",
+    "scroll-right"
+   ],
+   "observacoes": [
+    "7 widget(s) HTML customizado(s)",
+    "CSS base da casa em page_settings.custom_css"
+   ],
+   "preview": "previews/imob-vega-costa-e-silva.jpg"
+  },
+  {
+   "arquivo": "paginas/captacao/psi-renan.json",
+   "titulo": "Renan Psi JSON",
+   "tipo": "captacao",
+   "nicho": "Psicologia",
+   "pagina_publicada": "../paginas/nossas/psi-renan/",
+   "slug": "psi-renan",
+   "versao_elementor": "0.4",
+   "tipo_documento": "page",
+   "secoes": 12,
+   "elementos": 148,
+   "widgets": {
+    "heading": 36,
+    "text-editor": 20,
+    "spacer": 8,
+    "button": 6,
+    "icon-list": 6,
+    "divider": 6,
+    "html": 4,
+    "icon": 2,
+    "google_maps": 1,
+    "toggle": 1,
+    "social-icons": 1
+   },
+   "css_custom_em_elementos": 11,
+   "page_settings": [
+    "custom_css"
+   ],
+   "fontes": [
+    "Inter",
+    "Fraunces",
+    "Nunito Sans",
+    "Roboto"
+   ],
+   "cores_principais": [
+    "#FFFFFF",
+    "#4A4A4A",
+    "#1E1E1E",
+    "#B38A3D",
+    "#1F4E5F",
+    "#FAF8F5"
+   ],
+   "classes_custom": [
+    "scroll-bottom",
+    "scroll-left",
+    "scroll-top",
+    "carrossel",
+    "bordas-pontas"
+   ],
+   "observacoes": [
+    "4 widget(s) HTML customizado(s)",
+    "CSS base da casa em page_settings.custom_css"
+   ],
+   "preview": "previews/psi-renan.jpg"
+  },
+  {
+   "arquivo": "paginas/captacao/info-carol-guglielmi-imagem-pessoal.json",
+   "titulo": "CAPTURA CAROL JSON",
+   "tipo": "captacao",
+   "nicho": "Infoproduto / aplicação",
+   "pagina_publicada": "../paginas/nossas/info-carol-guglielmi-imagem-pessoal/",
+   "slug": "info-carol-guglielmi-imagem-pessoal",
+   "versao_elementor": "0.4",
+   "tipo_documento": "page",
+   "secoes": 8,
+   "elementos": 86,
+   "widgets": {
+    "heading": 34,
+    "button": 5,
+    "image": 5,
+    "icon": 4,
+    "ha-image-compare": 3,
+    "progress": 1,
+    "html": 1,
+    "text-editor": 1
+   },
+   "css_custom_em_elementos": 4,
+   "page_settings": [
+    "custom_css"
+   ],
+   "fontes": [
+    "Inter",
+    "Playfair Display",
+    "Exo 2",
+    "Sora"
+   ],
+   "cores_principais": [
+    "#001371",
+    "#FFFFFF",
+    "#010127",
+    "#192C8F",
+    "#B0BAF0",
+    "#051B86"
+   ],
+   "classes_custom": [
+    "scroll-bottom",
+    "scroll-left"
+   ],
+   "observacoes": [
+    "1 widget(s) HTML customizado(s)",
+    "CSS base da casa em page_settings.custom_css"
+   ],
+   "preview": "previews/info-carol-guglielmi-imagem-pessoal.jpg"
+  },
+  {
+   "arquivo": "paginas/captacao/psi-rosangela-munhoz-psicanalista.json",
+   "titulo": "PSI ROSANGELA JSON",
+   "tipo": "captacao",
+   "nicho": "Psicologia",
+   "pagina_publicada": "../paginas/nossas/psi-rosangela-munhoz-psicanalista/",
+   "slug": "psi-rosangela-munhoz-psicanalista",
+   "versao_elementor": "0.4",
+   "tipo_documento": "page",
+   "secoes": 9,
+   "elementos": 81,
+   "widgets": {
+    "heading": 16,
+    "icon-box": 12,
+    "image": 7,
+    "button": 6,
+    "icon-list": 4,
+    "html": 3,
+    "nav-menu": 1,
+    "video": 1,
+    "toggle": 1
+   },
+   "css_custom_em_elementos": 6,
+   "page_settings": [
+    "custom_css"
+   ],
+   "fontes": [
+    "DM Sans",
+    "Gelasio"
+   ],
+   "cores_principais": [
+    "#2A2540",
+    "#B09FCF",
+    "#FFFFFF",
+    "#C0DCB5",
+    "#EAE5FA",
+    "#F2F8EF"
+   ],
+   "classes_custom": [
+    "scroll-bottom",
+    "scroll-right",
+    "card1",
+    "scroll-left",
+    "linha-anim"
+   ],
+   "observacoes": [
+    "3 widget(s) HTML customizado(s)",
+    "CSS base da casa em page_settings.custom_css"
+   ],
+   "preview": "previews/psi-rosangela-munhoz-psicanalista.jpg"
+  },
+  {
+   "arquivo": "paginas/captacao/psi-andressa-darold.json",
+   "titulo": "PSI ANDRESSA JSON",
+   "tipo": "captacao",
+   "nicho": "Psicologia",
+   "pagina_publicada": "../paginas/nossas/psi-andressa-darold/",
+   "slug": "psi-andressa-darold",
+   "versao_elementor": "0.4",
+   "tipo_documento": "page",
+   "secoes": 6,
+   "elementos": 53,
+   "widgets": {
+    "heading": 20,
+    "icon-list": 7,
+    "button": 2,
+    "html": 1,
+    "image": 1,
+    "toggle": 1,
+    "social-icons": 1
+   },
+   "css_custom_em_elementos": 9,
+   "page_settings": [],
+   "fontes": [
+    "Montserrat",
+    "Playfair Display"
+   ],
+   "cores_principais": [
+    "#FFFFFF",
+    "#5A483A",
+    "#B59E7F",
+    "#EFE8D8",
+    "#000000",
+    "#CCC0A8"
+   ],
+   "classes_custom": [
+    "hover-list",
+    "cards-hover-section",
+    "ansiedade",
+    "depressao",
+    "autoestima",
+    "conflitos"
+   ],
+   "observacoes": [
+    "1 widget(s) HTML customizado(s)"
+   ],
+   "preview": "previews/psi-andressa-darold.jpg"
+  },
+  {
+   "arquivo": "paginas/captacao/saude-cecilia-borges-cirurgia-plastica.json",
+   "titulo": "DRA CECILIA JSON",
+   "tipo": "captacao",
+   "nicho": "Saúde / medicina",
+   "pagina_publicada": "../paginas/nossas/saude-cecilia-borges-cirurgia-plastica/",
+   "slug": "saude-cecilia-borges-cirurgia-plastica",
+   "versao_elementor": "0.4",
+   "tipo_documento": "page",
+   "secoes": 8,
+   "elementos": 71,
+   "widgets": {
+    "heading": 15,
+    "icon-list": 14,
+    "icon-box": 6,
+    "button": 5,
+    "image-carousel": 1,
+    "divider": 1,
+    "image": 1,
+    "google_maps": 1,
+    "html": 1,
+    "text-editor": 1
+   },
+   "css_custom_em_elementos": 11,
+   "page_settings": [
+    "custom_css"
+   ],
+   "fontes": [
+    "Poppins",
+    "Sora"
+   ],
+   "cores_principais": [
+    "#FFFFFF",
+    "#4B0F55",
+    "#E6E6E6",
+    "#D8C7C1",
+    "#F0DBD4",
+    "#585858"
+   ],
+   "classes_custom": [
+    "scroll-bottom",
+    "card-pulse",
+    "scroll-right",
+    "card",
+    "container-brilho",
+    "container-cima"
+   ],
+   "observacoes": [
+    "1 widget(s) HTML customizado(s)",
+    "CSS base da casa em page_settings.custom_css"
+   ],
+   "preview": "previews/saude-cecilia-borges-cirurgia-plastica.jpg"
+  },
+  {
+   "arquivo": "paginas/captacao/servico-goncont-contador.json",
+   "titulo": "CONTADOR GODIM JSON",
+   "tipo": "captacao",
+   "nicho": "Serviço B2B",
+   "pagina_publicada": "../paginas/nossas/servico-goncont-contador/",
+   "slug": "servico-goncont-contador",
+   "versao_elementor": "0.4",
+   "tipo_documento": "page",
+   "secoes": 9,
+   "elementos": 78,
+   "widgets": {
+    "heading": 15,
+    "icon-box": 10,
+    "icon-list": 8,
+    "button": 7,
+    "image": 6,
+    "testimonial": 4,
+    "html": 2,
+    "toggle": 1
+   },
+   "css_custom_em_elementos": 0,
+   "page_settings": [],
+   "fontes": [
+    "Inter",
+    "Montserrat"
+   ],
+   "cores_principais": [
+    "#FFFFFF",
+    "#940C0C",
+    "#0C0C0C",
+    "#F5F5F5",
+    "#4E4E4E",
+    "#1E002A"
+   ],
+   "classes_custom": [
+    "scroll-bottom",
+    "scroll-right",
+    "bot",
+    "scroll-left",
+    "pos",
+    "circ"
+   ],
+   "observacoes": [
+    "2 widget(s) HTML customizado(s)"
+   ],
+   "preview": "previews/servico-goncont-contador.jpg"
+  },
+  {
+   "arquivo": "paginas/captacao/saude-pedro-camargo-psiquiatra.json",
+   "titulo": "DR PEDRO JSON",
+   "tipo": "captacao",
+   "nicho": "Saúde / medicina",
+   "pagina_publicada": "../paginas/nossas/saude-pedro-camargo-psiquiatra/",
+   "slug": "saude-pedro-camargo-psiquiatra",
+   "versao_elementor": "0.4",
+   "tipo_documento": "page",
+   "secoes": 9,
+   "elementos": 115,
+   "widgets": {
+    "heading": 33,
+    "icon-box": 10,
+    "button": 8,
+    "icon": 5,
+    "image": 2,
+    "icon-list": 2,
+    "image-carousel": 2,
+    "html": 2,
+    "nav-menu": 1,
+    "nested-carousel": 1,
+    "shortcode": 1,
+    "toggle": 1,
+    "text-editor": 1
+   },
+   "css_custom_em_elementos": 6,
+   "page_settings": [
+    "background_background",
+    "background_color",
+    "custom_css"
+   ],
+   "fontes": [
+    "Inter",
+    "Georgia",
+    "Sora"
+   ],
+   "cores_principais": [
+    "#001D4C",
+    "#FFFFFF",
+    "#00112C",
+    "#FBFBFB",
+    "#131D33",
+    "#002B72"
+   ],
+   "classes_custom": [
+    "scroll-bottom",
+    "scroll-left",
+    "scroll-right"
+   ],
+   "observacoes": [
+    "2 widget(s) HTML customizado(s)",
+    "CSS base da casa em page_settings.custom_css"
+   ],
+   "preview": "previews/saude-pedro-camargo-psiquiatra.jpg"
+  },
+  {
+   "arquivo": "paginas/captacao/odonto-invisalign-jv-clinica.json",
+   "titulo": "INVISA JSON",
+   "tipo": "captacao",
+   "nicho": "Odontologia",
+   "pagina_publicada": "../paginas/nossas/odonto-invisalign-jv-clinica/",
+   "slug": "odonto-invisalign-jv-clinica",
+   "versao_elementor": "0.4",
+   "tipo_documento": "page",
+   "secoes": 7,
+   "elementos": 71,
+   "widgets": {
+    "heading": 14,
+    "icon-box": 9,
+    "image": 8,
+    "icon-list": 5,
+    "button": 4,
+    "video": 2,
+    "google_maps": 1,
+    "social-icons": 1,
+    "lottie": 1,
+    "html": 1,
+    "text-editor": 1
+   },
+   "css_custom_em_elementos": 8,
+   "page_settings": [
+    "custom_css"
+   ],
+   "fontes": [
+    "Inter",
+    "Brushelva",
+    "Sora"
+   ],
+   "cores_principais": [
+    "#453513",
+    "#FFFFFF",
+    "#AB915E",
+    "#EAE5DF",
+    "#248B32",
+    "#166620"
+   ],
+   "classes_custom": [
+    "scroll-bottom",
+    "scroll-left",
+    "scroll-right",
+    "container",
+    "clip",
+    "video-livre"
+   ],
+   "observacoes": [
+    "1 widget(s) HTML customizado(s)",
+    "CSS base da casa em page_settings.custom_css"
+   ],
+   "preview": "previews/odonto-invisalign-jv-clinica.jpg"
+  },
+  {
+   "arquivo": "paginas/captacao/odonto-rubiane-vitali.json",
+   "titulo": "RUBIANE JSON",
+   "tipo": "captacao",
+   "nicho": "Odontologia",
+   "pagina_publicada": "../paginas/nossas/odonto-rubiane-vitali/",
+   "slug": "odonto-rubiane-vitali",
+   "versao_elementor": "0.4",
+   "tipo_documento": "page",
+   "secoes": 13,
+   "elementos": 129,
+   "widgets": {
+    "heading": 35,
+    "icon-box": 15,
+    "divider": 9,
+    "video": 8,
+    "image": 7,
+    "button": 7,
+    "icon": 6,
+    "image-carousel": 2,
+    "icon-list": 2,
+    "html": 2,
+    "toggle": 1,
+    "google_maps": 1,
+    "social-icons": 1,
+    "lottie": 1
+   },
+   "css_custom_em_elementos": 5,
+   "page_settings": [
+    "custom_css"
+   ],
+   "fontes": [
+    "Poppins"
+   ],
+   "cores_principais": [
+    "#3F3638",
+    "#FFFFFF",
+    "#F56B72",
+    "#E29195",
+    "#55BB63",
+    "#F7C400"
+   ],
+   "classes_custom": [
+    "scroll-bottom",
+    "scroll-left",
+    "scroll-right",
+    "whatsapp"
+   ],
+   "observacoes": [
+    "2 widget(s) HTML customizado(s)",
+    "CSS base da casa em page_settings.custom_css"
+   ],
+   "preview": "previews/odonto-rubiane-vitali.jpg"
+  },
+  {
+   "arquivo": "paginas/captacao/imob-the-palace.json",
+   "titulo": "THE PALACE JSON",
+   "tipo": "captacao",
+   "nicho": "Imobiliário",
+   "pagina_publicada": "../paginas/nossas/imob-the-palace/",
+   "slug": "imob-the-palace",
+   "versao_elementor": "0.4",
+   "tipo_documento": "page",
+   "secoes": 6,
+   "elementos": 110,
+   "widgets": {
+    "heading": 20,
+    "image": 12,
+    "icon-box": 8,
+    "button": 5,
+    "image-carousel": 4,
+    "divider": 2,
+    "nested-tabs": 2,
+    "video": 2,
+    "icon-list": 2,
+    "nav-menu": 1,
+    "nested-carousel": 1,
+    "form": 1,
+    "social-icons": 1,
+    "html": 1,
+    "text-editor": 1
+   },
+   "css_custom_em_elementos": 9,
+   "page_settings": [
+    "custom_css"
+   ],
+   "fontes": [
+    "Montserrat",
+    "Antic Didone",
+    "Sora",
+    "Roboto"
+   ],
+   "cores_principais": [
+    "#4B3325",
+    "#F9F5F2",
+    "#7A7A7A",
+    "#FAE69F",
+    "#E2D4C9",
+    "#FFFFFF"
+   ],
+   "classes_custom": [
+    "scroll-bottom"
+   ],
+   "observacoes": [
+    "1 widget(s) HTML customizado(s)",
+    "CSS base da casa em page_settings.custom_css"
+   ],
+   "preview": "previews/imob-the-palace.jpg"
+  },
+  {
+   "arquivo": "paginas/captacao/psi-maria-rita-sales.json",
+   "titulo": "MARIA RITA JSON",
+   "tipo": "captacao",
+   "nicho": "Psicologia",
+   "pagina_publicada": "../paginas/nossas/psi-maria-rita-sales/",
+   "slug": "psi-maria-rita-sales",
+   "versao_elementor": "0.4",
+   "tipo_documento": "page",
+   "secoes": 12,
+   "elementos": 198,
+   "widgets": {
+    "heading": 55,
+    "text-editor": 28,
+    "button": 11,
+    "spacer": 7,
+    "divider": 6,
+    "toggle": 6,
+    "html": 4,
+    "image": 3,
+    "icon-list": 2,
+    "video": 1,
+    "google_maps": 1,
+    "lottie": 1
+   },
+   "css_custom_em_elementos": 15,
+   "page_settings": [
+    "custom_css",
+    "background_background",
+    "background_color"
+   ],
+   "fontes": [
+    "Karla",
+    "Fraunces"
+   ],
+   "cores_principais": [
+    "#29476D",
+    "#FFFFFF",
+    "#EBEBEB",
+    "#2668A8",
+    "#6F9FC8",
+    "#1D3447"
+   ],
+   "classes_custom": [
+    "scroll-bottom",
+    "gradient-border",
+    "scroll-left",
+    "scroll-right",
+    "whatsapp"
+   ],
+   "observacoes": [
+    "4 widget(s) HTML customizado(s)",
+    "CSS base da casa em page_settings.custom_css"
+   ],
+   "preview": "previews/psi-maria-rita-sales.jpg"
+  },
+  {
+   "arquivo": "paginas/captacao/psi-julia-valdetaro.json",
+   "titulo": "JULIA PSI JSON",
+   "tipo": "captacao",
+   "nicho": "Psicologia",
+   "pagina_publicada": "../paginas/nossas/psi-julia-valdetaro/",
+   "slug": "psi-julia-valdetaro",
+   "versao_elementor": "0.4",
+   "tipo_documento": "page",
+   "secoes": 9,
+   "elementos": 62,
+   "widgets": {
+    "heading": 13,
+    "icon-box": 10,
+    "divider": 5,
+    "image": 4,
+    "button": 3,
+    "html": 2,
+    "nav-menu": 1,
+    "image-carousel": 1,
+    "toggle": 1,
+    "text-editor": 1
+   },
+   "css_custom_em_elementos": 7,
+   "page_settings": [
+    "custom_css"
+   ],
+   "fontes": [
+    "Poppins"
+   ],
+   "cores_principais": [
+    "#734930",
+    "#3F3638",
+    "#553724",
+    "#FFFFFF",
+    "#5A3824",
+    "#FFF5E8"
+   ],
+   "classes_custom": [
+    "scroll-bottom",
+    "scroll-right",
+    "scroll-left"
+   ],
+   "observacoes": [
+    "2 widget(s) HTML customizado(s)",
+    "CSS base da casa em page_settings.custom_css"
+   ],
+   "preview": "previews/psi-julia-valdetaro.jpg"
+  },
+  {
+   "arquivo": "paginas/captacao/psi-vivian-widuch.json",
+   "titulo": "PSI VIVIAN JSON",
+   "tipo": "captacao",
+   "nicho": "Psicologia",
+   "pagina_publicada": "../paginas/nossas/psi-vivian-widuch/",
+   "slug": "psi-vivian-widuch",
+   "versao_elementor": "0.4",
+   "tipo_documento": "page",
+   "secoes": 7,
+   "elementos": 85,
+   "widgets": {
+    "heading": 25,
+    "image": 7,
+    "button": 5,
+    "html": 4,
+    "icon-list": 3,
+    "image-carousel": 2,
+    "nav-menu": 1,
+    "video": 1,
+    "testimonial-carousel": 1,
+    "toggle": 1,
+    "text-editor": 1
+   },
+   "css_custom_em_elementos": 11,
+   "page_settings": [
+    "custom_css"
+   ],
+   "fontes": [
+    "Inter",
+    "Crimson Text",
+    "Montserrat"
+   ],
+   "cores_principais": [
+    "#0F3D64",
+    "#FFFFFF",
+    "#FFC7A4",
+    "#FFF8F0",
+    "#DF8F5C",
+    "#BCBCBC"
+   ],
+   "classes_custom": [
+    "scroll-bottom",
+    "textoAnimado",
+    "menu"
+   ],
+   "observacoes": [
+    "4 widget(s) HTML customizado(s)",
+    "CSS base da casa em page_settings.custom_css"
+   ],
+   "preview": "previews/psi-vivian-widuch.jpg"
+  },
+  {
+   "arquivo": "paginas/captacao/adv-calgarotto.json",
+   "titulo": "CALGAROTTO JSON",
+   "tipo": "captacao",
+   "nicho": "Advocacia",
+   "pagina_publicada": "../paginas/nossas/adv-calgarotto/",
+   "slug": "adv-calgarotto",
+   "versao_elementor": "0.4",
+   "tipo_documento": "page",
+   "secoes": 8,
+   "elementos": 73,
+   "widgets": {
+    "icon-box": 14,
+    "heading": 12,
+    "image": 3,
+    "button": 3,
+    "icon-list": 2,
+    "lottie": 2,
+    "html": 2,
+    "shortcode": 1,
+    "form": 1,
+    "text-editor": 1
+   },
+   "css_custom_em_elementos": 11,
+   "page_settings": [
+    "custom_css"
+   ],
+   "fontes": [
+    "Inter",
+    "Sora",
+    "Nunito Sans"
+   ],
+   "cores_principais": [
+    "#FFFFFF",
+    "#DBB57B",
+    "#081A2E",
+    "#345E8F",
+    "#FFF0DA",
+    "#EEF6FF"
+   ],
+   "classes_custom": [
+    "scroll-bottom",
+    "carrossel",
+    "degrade"
+   ],
+   "observacoes": [
+    "2 widget(s) HTML customizado(s)",
+    "CSS base da casa em page_settings.custom_css"
+   ],
+   "preview": "previews/adv-calgarotto.jpg"
+  },
+  {
+   "arquivo": "paginas/captacao/adv-barros-e-carvalho.json",
+   "titulo": "BARROS ADV JSON",
+   "tipo": "captacao",
+   "nicho": "Advocacia",
+   "pagina_publicada": "../paginas/nossas/adv-barros-e-carvalho/",
+   "slug": "adv-barros-e-carvalho",
+   "versao_elementor": "0.4",
+   "tipo_documento": "page",
+   "secoes": 9,
+   "elementos": 61,
+   "widgets": {
+    "heading": 15,
+    "icon-box": 7,
+    "image": 5,
+    "button": 5,
+    "icon": 1,
+    "nav-menu": 1,
+    "toggle": 1,
+    "icon-list": 1,
+    "google_maps": 1,
+    "html": 1,
+    "text-editor": 1
+   },
+   "css_custom_em_elementos": 7,
+   "page_settings": [
+    "custom_css"
+   ],
+   "fontes": [
+    "Roboto",
+    "Roboto Serif",
+    "Sora"
+   ],
+   "cores_principais": [
+    "#0E231C",
+    "#FFFFFF",
+    "#398C71",
+    "#F2F2F2",
+    "#61A38D",
+    "#C9C9C9"
+   ],
+   "classes_custom": [
+    "scroll-bottom",
+    "scroll-left",
+    "scroll-right"
+   ],
+   "observacoes": [
+    "1 widget(s) HTML customizado(s)",
+    "CSS base da casa em page_settings.custom_css"
+   ],
+   "preview": "previews/adv-barros-e-carvalho.jpg"
+  },
+  {
+   "arquivo": "paginas/captacao/adv-luisa.json",
+   "titulo": "LUISA ADV JSON",
+   "tipo": "captacao",
+   "nicho": "Advocacia",
+   "pagina_publicada": "../paginas/nossas/adv-luisa/",
+   "slug": "adv-luisa",
+   "versao_elementor": "0.4",
+   "tipo_documento": "page",
+   "secoes": 7,
+   "elementos": 52,
+   "widgets": {
+    "heading": 14,
+    "icon-box": 10,
+    "icon-list": 6,
+    "button": 3,
+    "image": 2,
+    "html": 2,
+    "text-editor": 1
+   },
+   "css_custom_em_elementos": 3,
+   "page_settings": [
+    "custom_css"
+   ],
+   "fontes": [
+    "Sora",
+    "AROLSE"
+   ],
+   "cores_principais": [
+    "#E4BD54",
+    "#FFFFFF",
+    "#182142",
+    "#000000",
+    "#C5C5C5",
+    "#181F3A"
+   ],
+   "classes_custom": [
+    "scroll-bottom"
+   ],
+   "observacoes": [
+    "2 widget(s) HTML customizado(s)",
+    "CSS base da casa em page_settings.custom_css"
+   ],
+   "preview": "previews/adv-luisa.jpg"
+  },
+  {
+   "arquivo": "paginas/vendas/tdah-guia-pais.json",
+   "titulo": "TDAH VENDAS JSON",
+   "tipo": "vendas",
+   "nicho": "Infoproduto (guia para pais de crianças com TDAH)",
+   "pagina_publicada": null,
+   "slug": "tdah-guia-pais",
+   "versao_elementor": "0.4",
+   "tipo_documento": "page",
+   "secoes": 10,
+   "elementos": 102,
+   "widgets": {
+    "heading": 23,
+    "icon-box": 14,
+    "image": 12,
+    "button": 5,
+    "text-editor": 3,
+    "icon-list": 2,
+    "image-carousel": 1,
+    "toggle": 1,
+    "html": 1
+   },
+   "css_custom_em_elementos": 8,
+   "page_settings": [
+    "custom_css"
+   ],
+   "fontes": [
+    "Inter",
+    "Sora"
+   ],
+   "cores_principais": [
+    "#FFFFFF",
+    "#5D557A",
+    "#FBE983",
+    "#E37469",
+    "#413B58",
+    "#FAF9F9"
+   ],
+   "classes_custom": [
+    "scroll-bottom",
+    "scroll-left",
+    "flutuar",
+    "scroll-right",
+    "pulsar"
+   ],
+   "observacoes": [
+    "sem página publicada correspondente em paginas/nossas",
+    "1 widget(s) HTML customizado(s)",
+    "CSS base da casa em page_settings.custom_css"
+   ],
+   "preview": "previews/tdah-guia-pais.jpg"
+  },
+  {
+   "arquivo": "paginas/vendas/vendas-workshop-barbearia-toledo.json",
+   "titulo": "WORKSHOP BARBER JSON",
+   "tipo": "vendas",
+   "nicho": "Página de vendas",
+   "pagina_publicada": "../paginas/nossas/vendas-workshop-barbearia-toledo/",
+   "slug": "vendas-workshop-barbearia-toledo",
+   "versao_elementor": "0.4",
+   "tipo_documento": "page",
+   "secoes": 11,
+   "elementos": 134,
+   "widgets": {
+    "heading": 34,
+    "text-editor": 27,
+    "icon-list": 7,
+    "button": 6,
+    "image": 4,
+    "html": 3,
+    "countdown": 1,
+    "counter": 1,
+    "image-carousel": 1
+   },
+   "css_custom_em_elementos": 1,
+   "page_settings": [
+    "custom_css"
+   ],
+   "fontes": [
+    "Sora"
+   ],
+   "cores_principais": [
+    "#FFFFFF",
+    "#FF6B35",
+    "#000000",
+    "#E55A24",
+    "#B0B0B0",
+    "#0F0F0F"
+   ],
+   "classes_custom": [
+    "scroll-bottom",
+    "botao"
+   ],
+   "observacoes": [
+    "3 widget(s) HTML customizado(s)",
+    "CSS base da casa em page_settings.custom_css"
+   ],
+   "preview": "previews/vendas-workshop-barbearia-toledo.jpg"
+  },
+  {
+   "arquivo": "paginas/vendas/pink-gelatin-suplemento.json",
+   "titulo": "PINK GELATIN JSON",
+   "tipo": "vendas",
+   "nicho": "Produto físico (suplemento Pink Gelatin)",
+   "pagina_publicada": null,
+   "slug": "pink-gelatin-suplemento",
+   "versao_elementor": "0.4",
+   "tipo_documento": "page",
+   "secoes": 13,
+   "elementos": 203,
+   "widgets": {
+    "heading": 72,
+    "icon-list": 21,
+    "image": 12,
+    "button": 12,
+    "icon-box": 7,
+    "image-box": 7,
+    "video": 3,
+    "nested-carousel": 2,
+    "image-carousel": 1,
+    "accordion": 1,
+    "html": 1,
+    "text-editor": 1
+   },
+   "css_custom_em_elementos": 68,
+   "page_settings": [
+    "custom_css",
+    "background_background",
+    "background_color"
+   ],
+   "fontes": [
+    "Poppins",
+    "Sora",
+    "Montserrat"
+   ],
+   "cores_principais": [
+    "#FFFFFF",
+    "#000000",
+    "#FC6CA4",
+    "#DF3688",
+    "#220A13",
+    "#F8E1EC"
+   ],
+   "classes_custom": [
+    "scroll-bottom",
+    "borda-animada",
+    "scroll-right",
+    "myPricing",
+    "myRibbon",
+    "scroll-left"
+   ],
+   "observacoes": [
+    "sem página publicada correspondente em paginas/nossas",
+    "1 widget(s) HTML customizado(s)",
+    "CSS base da casa em page_settings.custom_css"
+   ],
+   "preview": "previews/pink-gelatin-suplemento.jpg"
+  },
+  {
+   "arquivo": "paginas/vendas/dark-creator-pack.json",
+   "titulo": "DARK CREA JSON",
+   "tipo": "vendas",
+   "nicho": "Produto digital (presets Dark Creator Pack)",
+   "pagina_publicada": null,
+   "slug": "dark-creator-pack",
+   "versao_elementor": "0.4",
+   "tipo_documento": "page",
+   "secoes": 10,
+   "elementos": 118,
+   "widgets": {
+    "heading": 44,
+    "image": 7,
+    "button": 6,
+    "icon": 5,
+    "icon-list": 5,
+    "ha-image-compare": 3,
+    "html": 3,
+    "image-carousel": 1,
+    "divider": 1,
+    "toggle": 1
+   },
+   "css_custom_em_elementos": 21,
+   "page_settings": [
+    "custom_css"
+   ],
+   "fontes": [
+    "Inter",
+    "Poppins",
+    "Montserrat"
+   ],
+   "cores_principais": [
+    "#FFFFFF",
+    "#000000",
+    "#9E9684",
+    "#4D4D4D",
+    "#363636",
+    "#111111"
+   ],
+   "classes_custom": [
+    "scroll-bottom",
+    "scroll-right",
+    "back",
+    "scroll-left",
+    "back2",
+    "myPricing"
+   ],
+   "observacoes": [
+    "sem página publicada correspondente em paginas/nossas",
+    "3 widget(s) HTML customizado(s)",
+    "CSS base da casa em page_settings.custom_css"
+   ],
+   "preview": "previews/dark-creator-pack.jpg"
+  },
+  {
+   "arquivo": "paginas/vendas/vendas-morelli-churrasco-networking.json",
+   "titulo": "CHURRASCO JSON",
+   "tipo": "vendas",
+   "nicho": "Página de vendas",
+   "pagina_publicada": "../paginas/nossas/vendas-morelli-churrasco-networking/",
+   "slug": "vendas-morelli-churrasco-networking",
+   "versao_elementor": "0.4",
+   "tipo_documento": "page",
+   "secoes": 8,
+   "elementos": 179,
+   "widgets": {
+    "heading": 62,
+    "text-editor": 17,
+    "video": 12,
+    "button": 7,
+    "image": 5,
+    "icon": 4,
+    "icon-list": 3,
+    "image-carousel": 2,
+    "nested-carousel": 1,
+    "toggle": 1,
+    "html": 1
+   },
+   "css_custom_em_elementos": 12,
+   "page_settings": [
+    "custom_css"
+   ],
+   "fontes": [
+    "Inter",
+    "Anton"
+   ],
+   "cores_principais": [
+    "#FFFFFF",
+    "#F1EFEA",
+    "#E14722",
+    "#C93618",
+    "#101521",
+    "#000000"
+   ],
+   "classes_custom": [
+    "scroll-bottom",
+    "botao"
+   ],
+   "observacoes": [
+    "1 widget(s) HTML customizado(s)",
+    "CSS base da casa em page_settings.custom_css"
+   ],
+   "preview": "previews/vendas-morelli-churrasco-networking.jpg"
+  },
+  {
+   "arquivo": "paginas/vendas/vendas-scripts-consignado-jessica.json",
+   "titulo": "JESSICA JSON",
+   "tipo": "vendas",
+   "nicho": "Página de vendas",
+   "pagina_publicada": "../paginas/nossas/vendas-scripts-consignado-jessica/",
+   "slug": "vendas-scripts-consignado-jessica",
+   "versao_elementor": "0.4",
+   "tipo_documento": "page",
+   "secoes": 14,
+   "elementos": 128,
+   "widgets": {
+    "text-editor": 28,
+    "heading": 23,
+    "image": 9,
+    "icon-list": 6,
+    "icon": 5,
+    "button": 4,
+    "image-carousel": 2,
+    "html": 2,
+    "toggle": 1,
+    "divider": 1
+   },
+   "css_custom_em_elementos": 31,
+   "page_settings": [
+    "custom_css"
+   ],
+   "fontes": [
+    "Inter",
+    "Montserrat",
+    "Nunito Sans"
+   ],
+   "cores_principais": [
+    "#FFFFFF",
+    "#F5811E",
+    "#B78241",
+    "#000000",
+    "#31170D",
+    "#0E0E0E"
+   ],
+   "classes_custom": [
+    "scroll-bottom",
+    "scroll-right",
+    "bot",
+    "botao",
+    "guia",
+    "float"
+   ],
+   "observacoes": [
+    "2 widget(s) HTML customizado(s)",
+    "CSS base da casa em page_settings.custom_css"
+   ],
+   "preview": "previews/vendas-scripts-consignado-jessica.jpg"
+  },
+  {
+   "arquivo": "paginas/vendas/vsl-cristao.json",
+   "titulo": "VSL CRISTAO JSON",
+   "tipo": "vendas",
+   "nicho": "VSL (renda extra para público cristão)",
+   "pagina_publicada": null,
+   "slug": "vsl-cristao",
+   "versao_elementor": "0.4",
+   "tipo_documento": "page",
+   "secoes": 3,
+   "elementos": 13,
+   "widgets": {
+    "heading": 6,
+    "button": 2,
+    "video": 1,
+    "text-editor": 1
+   },
+   "css_custom_em_elementos": 1,
+   "page_settings": [],
+   "fontes": [
+    "Montserrat",
+    "Sora"
+   ],
+   "cores_principais": [
+    "#FFFFFF",
+    "#000000",
+    "#FDCC4F",
+    "#A88324",
+    "#0A0A0A",
+    "#424242"
+   ],
+   "classes_custom": [],
+   "observacoes": [
+    "sem página publicada correspondente em paginas/nossas",
+    "página curta (VSL)"
+   ],
+   "preview": "previews/vsl-cristao.jpg"
+  },
+  {
+   "arquivo": "paginas/vendas/vsl-cripto.json",
+   "titulo": "VSL CRIPTO JSON",
+   "tipo": "vendas",
+   "nicho": "VSL (curso de criptomoedas)",
+   "pagina_publicada": null,
+   "slug": "vsl-cripto",
+   "versao_elementor": "0.4",
+   "tipo_documento": "page",
+   "secoes": 12,
+   "elementos": 134,
+   "widgets": {
+    "heading": 43,
+    "button": 9,
+    "icon-box": 9,
+    "html": 8,
+    "image": 8,
+    "divider": 6,
+    "icon-list": 6,
+    "image-carousel": 2,
+    "video": 1,
+    "toggle": 1,
+    "text-editor": 1
+   },
+   "css_custom_em_elementos": 19,
+   "page_settings": [
+    "custom_css"
+   ],
+   "fontes": [
+    "Sora"
+   ],
+   "cores_principais": [
+    "#FFFFFF",
+    "#000000",
+    "#00FE00",
+    "#707070",
+    "#161616",
+    "#242424"
+   ],
+   "classes_custom": [
+    "scroll-bottom",
+    "scroll-right",
+    "container-botao",
+    "botao",
+    "container-html",
+    "degradecinza"
+   ],
+   "observacoes": [
+    "sem página publicada correspondente em paginas/nossas",
+    "8 widget(s) HTML customizado(s)",
+    "CSS base da casa em page_settings.custom_css"
+   ],
+   "preview": "previews/vsl-cripto.jpg"
+  }
+ ]
+}

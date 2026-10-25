@@ -1,0 +1,390 @@
+<!--
+  SNIPPET: Seção de método com cartas voando no scroll (Maria Rita)
+  CATEGORIA: secoes-prontas
+  O QUE FAZ: Seção sticky de ~9 telas em que cartas com as etapas do método entram voando conforme a rolagem.
+  COMO USAR: Widget HTML; container pai sem padding, sem overflow hidden e sem altura mínima. Leia o comentário do topo (tem a correção de overflow do tema).
+  ONDE COLAR: Widget HTML
+  DEPENDÊNCIAS: Google Fonts (link no código)
+  ORIGEM: paginas/nossas/psi-maria-rita-sales
+  USADO EM: 1 página(s) da casa: psi-maria-rita-sales
+-->
+
+<!--
+================================================================================
+  SEÇÃO "MÉTODO LIBERCON": animação de cartas voando com o scroll
+  Para colar no widget "HTML" do Elementor.
+================================================================================
+
+COMO USAR
+  1. Elementor → arraste o widget "HTML" para onde a seção deve ficar.
+  2. Cole TODO o conteúdo deste arquivo dentro do widget.
+  3. Publique e teste rolando a página (o efeito NÃO aparece no editor do
+     Elementor, só na página publicada, o editor não dispara scroll real).
+
+  >>> IMPORTANTE: LEIA ISTO, SENÃO A ANIMAÇÃO NÃO FUNCIONA <<<
+
+  A animação usa "position: sticky". O sticky para de funcionar se QUALQUER
+  elemento acima dele tiver "overflow: hidden". Então, no Elementor:
+
+  a) Selecione a SEÇÃO/CONTAINER que contém este widget e vá em
+     Avançado → deixe TODOS os paddings e margens em 0.
+  b) Na mesma aba Avançado, se houver a opção "Overflow" (ou "Transbordar"),
+     deixe em "Padrão", NUNCA em "Oculto"/"Hidden".
+  c) Se a seção tiver "Altura mínima" definida, remova.
+  d) Alguns temas colocam overflow:hidden no conteúdo. Se as cartas não
+     grudarem na tela, adicione isto no CSS do tema (Aparência →
+     Personalizar → CSS adicional):
+
+         .elementor-section, .e-con, .elementor-widget-html,
+         main, .site-main, #content {
+           overflow: visible !important;
+         }
+
+  A seção ocupa cerca de 9 telas de rolagem, isso é proposital, é o
+  "trilho" que controla o avanço da animação.
+
+O QUE JÁ VEM PRONTO
+  • Fontes Fraunces + Karla do Google Fonts.
+  • CSS escopado em "#mrs-libercon", não afeta o resto do site.
+  • Respeita "reduzir movimento" do sistema: nesse caso mostra uma grade
+    simples com as 5 cartas, sem animação.
+================================================================================
+-->
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Karla:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+<style>
+/* ==========================================================================
+   Método LIBERCON, tudo escopado em #mrs-libercon
+   ========================================================================== */
+#mrs-libercon{
+  --color-navy-900:#1D3447;
+  --color-navy-800:#29476D;
+  --color-blue-100:#B1D5F3;
+  --font-display:'Fraunces',Georgia,serif;
+  --font-sans:'Karla',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Arial,sans-serif;
+  --ease:cubic-bezier(.22,.61,.36,1);
+
+  position:relative;
+  background:var(--color-navy-800);
+  color:#fff;
+  font-family:var(--font-sans);
+  /* NÃO coloque overflow aqui (nem hidden, nem clip, nem auto):
+     qualquer um deles vira contêiner de recorte e QUEBRA o position:sticky
+     do .deck-stage lá dentro, as cartas param de acompanhar a rolagem.
+     Quem corta as cartas que voam é o próprio .deck-stage. */
+  overflow:visible;
+}
+#mrs-libercon *,#mrs-libercon *::before,#mrs-libercon *::after{box-sizing:border-box}
+#mrs-libercon p{margin:0}
+
+/* gaivotas decorativas */
+#mrs-libercon .sky-gulls{position:absolute;inset:0;pointer-events:none;opacity:.5;z-index:1}
+#mrs-libercon .sky-gulls svg{position:absolute;color:var(--color-blue-100)}
+
+/* O sticky só funciona se NENHUM ancestral recortar o conteúdo. O Elementor e
+   vários temas colocam overflow:hidden nos wrappers, o que mataria o efeito.
+   Estas regras liberam apenas os ancestrais diretos deste widget. */
+.elementor-widget-html:has(#mrs-libercon),
+.elementor-widget-wrap:has(#mrs-libercon),
+.elementor-element:has(#mrs-libercon),
+.elementor-section:has(#mrs-libercon),
+.elementor-container:has(#mrs-libercon),
+.e-con:has(#mrs-libercon),
+.e-con-inner:has(#mrs-libercon){
+  overflow:visible !important;
+}
+
+/* trilho alto que controla o scroll; dentro dele um palco fixo (sticky) */
+#mrs-libercon .deck-track{position:relative}
+#mrs-libercon .deck-stage{position:sticky;top:0;height:100vh;display:flex;
+  flex-direction:column;align-items:center;justify-content:center;overflow:hidden;z-index:2}
+
+/* --- TÍTULO revelado palavra por palavra --- */
+#mrs-libercon .libercon-head{position:absolute;inset:0;display:flex;flex-direction:column;
+  align-items:center;justify-content:center;text-align:center;padding:0 24px;z-index:4;
+  transition:opacity .5s var(--ease),transform .5s var(--ease);pointer-events:none}
+#mrs-libercon .eyebrow{font:600 .78rem/1.4em var(--font-sans);letter-spacing:.18em;
+  text-transform:uppercase;color:var(--color-blue-100);margin-bottom:22px;opacity:0;
+  transition:opacity .6s var(--ease)}
+#mrs-libercon .libercon-head.lit .eyebrow{opacity:1}
+#mrs-libercon .libercon-head h2{font-family:var(--font-display);font-weight:400;
+  font-size:clamp(1.6rem,4vw,3rem);line-height:1.25em;color:#fff;margin:0;max-width:20ch;
+  white-space:normal}
+#mrs-libercon .libercon-head h2 .w{display:inline-block;opacity:.12;filter:blur(4px);
+  transform:translateY(10px);
+  transition:opacity .35s var(--ease),filter .35s var(--ease),transform .35s var(--ease)}
+#mrs-libercon .libercon-head h2 .w.on{opacity:1;filter:blur(0);transform:none}
+#mrs-libercon .libercon-head h2 .w.hl.on{color:var(--color-blue-100)}
+#mrs-libercon .libercon-head.gone{opacity:0;transform:translateY(-28px) scale(.96)}
+
+/* baralho */
+#mrs-libercon .deck{position:relative;width:min(430px,86vw);height:min(500px,64vh);
+  opacity:0;transition:opacity .45s var(--ease);z-index:6}
+#mrs-libercon .deck.show{opacity:1}
+#mrs-libercon .deck-progress{margin-top:26px;display:flex;gap:9px;position:relative;z-index:3;
+  opacity:0;transition:opacity .5s var(--ease)}
+#mrs-libercon .deck-progress.show{opacity:1}
+#mrs-libercon .deck-dot{width:9px;height:9px;border-radius:999px;background:rgba(177,213,243,.28);
+  transition:background .4s var(--ease),transform .4s var(--ease)}
+#mrs-libercon .deck-dot.on{background:var(--color-blue-100);transform:scale(1.25)}
+
+#mrs-libercon .deck-card{position:absolute;inset:0;border-radius:20px;padding:38px 34px;
+  display:flex;flex-direction:column;gap:16px;justify-content:center;
+  box-shadow:0 26px 60px rgba(0,0,0,.32);
+  border-top:1px solid rgba(255,255,255,.35);border-left:1px solid rgba(255,255,255,.25);
+  will-change:transform,opacity;backface-visibility:hidden;transform-origin:center 120%}
+
+/* uma cor por carta */
+#mrs-libercon .deck-card[data-i="0"]{background:linear-gradient(150deg,#2668A8,#1D3447)}
+#mrs-libercon .deck-card[data-i="1"]{background:linear-gradient(150deg,#6F9FC8,#2C5A8C)}
+#mrs-libercon .deck-card[data-i="2"]{background:linear-gradient(150deg,#D8CBB2,#B49E78);color:#2C4560}
+#mrs-libercon .deck-card[data-i="3"]{background:linear-gradient(150deg,#B1D5F3,#5E8FC0);color:#1D3447}
+#mrs-libercon .deck-card[data-i="4"]{background:linear-gradient(150deg,#29476D,#12212E)}
+#mrs-libercon .deck-card[data-i="0"],
+#mrs-libercon .deck-card[data-i="1"],
+#mrs-libercon .deck-card[data-i="4"]{color:#fff}
+
+#mrs-libercon .deck-card .badge{width:66px;height:66px;border-radius:16px;display:grid;
+  place-items:center;font-family:var(--font-display);font-size:2.3rem;line-height:1;
+  background:rgba(255,255,255,.16);color:inherit}
+#mrs-libercon .deck-card .num{font:600 .78rem/1.4em var(--font-sans);letter-spacing:.18em;
+  text-transform:uppercase;opacity:.7}
+#mrs-libercon .deck-card h3{font-family:var(--font-display);font-size:1.9rem;line-height:1.1em;
+  color:inherit;margin:0}
+#mrs-libercon .deck-card p{font:400 1.05rem/1.55em var(--font-sans);color:inherit;opacity:.92;
+  margin:0;max-width:34ch}
+
+/* fallback (movimento reduzido): grade simples, sem animação */
+#mrs-libercon .deck-nojs{display:none}
+@media (prefers-reduced-motion: reduce){
+  #mrs-libercon .deck-track{height:auto !important;padding:64px 0}
+  #mrs-libercon .deck-stage{position:static;height:auto;padding:0}
+  #mrs-libercon .deck,
+  #mrs-libercon .deck-progress{display:none}
+  #mrs-libercon .libercon-head{position:static;padding:0 24px;margin-bottom:34px}
+  #mrs-libercon .eyebrow,
+  #mrs-libercon .libercon-head h2 .w{opacity:1 !important;filter:none !important;transform:none !important}
+  #mrs-libercon .libercon-head h2 .w.hl{color:var(--color-blue-100)}
+  #mrs-libercon .deck-nojs{display:grid;grid-template-columns:repeat(5,1fr);gap:16px;width:100%;
+    max-width:1140px;margin:0 auto;padding:0 24px}
+  #mrs-libercon .deck-nojs .nc{border-radius:16px;padding:24px 20px;color:#fff;display:flex;
+    flex-direction:column;gap:10px}
+  #mrs-libercon .deck-nojs .nc[data-i="2"],
+  #mrs-libercon .deck-nojs .nc[data-i="3"]{color:#1D3447}
+}
+@media(max-width:860px){
+  #mrs-libercon .deck-nojs{grid-template-columns:1fr}
+}
+</style>
+
+<section id="mrs-libercon">
+  <div class="sky-gulls" aria-hidden="true">
+    <svg style="top:6%;left:7%;width:46px" viewBox="0 0 100 44" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M4 34 C22 8, 38 8, 50 24 C62 8, 78 8, 96 34"></path></svg>
+    <svg style="top:9%;right:10%;width:30px" viewBox="0 0 100 44" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round"><path d="M4 34 C22 8, 38 8, 50 24 C62 8, 78 8, 96 34"></path></svg>
+  </div>
+
+  <!-- trilho alto: controla o progresso do scroll -->
+  <div class="deck-track" id="mrsDeckTrack">
+    <div class="deck-stage">
+
+      <div class="libercon-head" id="mrsLiberconHead">
+        <span class="eyebrow">O Método</span>
+        <h2 id="mrsLiberconTitle" data-hl="Método|LIBERCON.">Antes de transformar a prática profissional, é preciso transformar a forma como nos relacionamos com nossas escolhas. É desse entendimento que nasce o Método LIBERCON.</h2>
+      </div>
+
+      <div class="deck" id="mrsDeck" aria-hidden="true">
+        <article class="deck-card" data-i="0">
+          <div class="badge">L</div>
+          <div><span class="num">01</span><h3>Liberdade</h3></div>
+          <p>Reconhecer possibilidades e construir uma trajetória alinhada aos próprios valores, sem permanecer preso apenas ao que sempre foi feito.</p>
+        </article>
+        <article class="deck-card" data-i="1">
+          <div class="badge">I</div>
+          <div><span class="num">02</span><h3>Intenção</h3></div>
+          <p>Agir com presença e propósito, transformando decisões automáticas em escolhas conscientes.</p>
+        </article>
+        <article class="deck-card" data-i="2">
+          <div class="badge">E</div>
+          <div><span class="num">03</span><h3>Escolhas</h3></div>
+          <p>Desenvolver discernimento para decidir considerando a realidade, os desejos, os limites e as consequências de cada caminho.</p>
+        </article>
+        <article class="deck-card" data-i="3">
+          <div class="badge">R</div>
+          <div><span class="num">04</span><h3>Responsabilidade</h3></div>
+          <p>Assumir o protagonismo da própria prática profissional, fortalecendo autonomia e coerência.</p>
+        </article>
+        <article class="deck-card" data-i="4">
+          <div class="badge">C</div>
+          <div><span class="num">05</span><h3>Consequências</h3></div>
+          <p>Compreender que toda escolha produz efeitos e aprender a sustentá-los com maturidade, ética e consciência.</p>
+        </article>
+      </div>
+
+      <div class="deck-progress" id="mrsDeckProgress" aria-hidden="true">
+        <span class="deck-dot on"></span><span class="deck-dot"></span><span class="deck-dot"></span><span class="deck-dot"></span><span class="deck-dot"></span>
+      </div>
+
+      <!-- fallback acessível (movimento reduzido) -->
+      <div class="deck-nojs">
+        <div class="nc" data-i="0" style="background:linear-gradient(150deg,#2668A8,#1D3447)"><div class="badge" style="width:52px;height:52px;border-radius:12px;display:grid;place-items:center;font-family:var(--font-display);font-size:1.8rem;background:rgba(255,255,255,.16)">L</div><h3 style="font-family:var(--font-display);font-size:1.2rem;margin:0">Liberdade</h3><p style="font:400 .92rem/1.5em var(--font-sans);margin:0">Reconhecer possibilidades e construir uma trajetória alinhada aos próprios valores, sem permanecer preso apenas ao que sempre foi feito.</p></div>
+        <div class="nc" data-i="1" style="background:linear-gradient(150deg,#6F9FC8,#2C5A8C)"><div class="badge" style="width:52px;height:52px;border-radius:12px;display:grid;place-items:center;font-family:var(--font-display);font-size:1.8rem;background:rgba(255,255,255,.16)">I</div><h3 style="font-family:var(--font-display);font-size:1.2rem;margin:0">Intenção</h3><p style="font:400 .92rem/1.5em var(--font-sans);margin:0">Agir com presença e propósito, transformando decisões automáticas em escolhas conscientes.</p></div>
+        <div class="nc" data-i="2" style="background:linear-gradient(150deg,#D8CBB2,#B49E78)"><div class="badge" style="width:52px;height:52px;border-radius:12px;display:grid;place-items:center;font-family:var(--font-display);font-size:1.8rem;background:rgba(0,0,0,.08)">E</div><h3 style="font-family:var(--font-display);font-size:1.2rem;margin:0">Escolhas</h3><p style="font:400 .92rem/1.5em var(--font-sans);margin:0">Desenvolver discernimento para decidir considerando a realidade, os desejos, os limites e as consequências de cada caminho.</p></div>
+        <div class="nc" data-i="3" style="background:linear-gradient(150deg,#B1D5F3,#5E8FC0)"><div class="badge" style="width:52px;height:52px;border-radius:12px;display:grid;place-items:center;font-family:var(--font-display);font-size:1.8rem;background:rgba(0,0,0,.08)">R</div><h3 style="font-family:var(--font-display);font-size:1.2rem;margin:0">Responsabilidade</h3><p style="font:400 .92rem/1.5em var(--font-sans);margin:0">Assumir o protagonismo da própria prática profissional, fortalecendo autonomia e coerência.</p></div>
+        <div class="nc" data-i="4" style="background:linear-gradient(150deg,#29476D,#12212E)"><div class="badge" style="width:52px;height:52px;border-radius:12px;display:grid;place-items:center;font-family:var(--font-display);font-size:1.8rem;background:rgba(255,255,255,.16)">C</div><h3 style="font-family:var(--font-display);font-size:1.2rem;margin:0">Consequências</h3><p style="font:400 .92rem/1.5em var(--font-sans);margin:0">Compreender que toda escolha produz efeitos e aprender a sustentá-los com maturidade, ética e consciência.</p></div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<script>
+/* ============================================================================
+   LIBERCON: Fase A: título palavra a palavra · Fase B: cartas voando
+   ============================================================================ */
+(function(){
+  var prefersReduced = window.matchMedia &&
+        window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  var section  = document.getElementById('mrs-libercon');
+  var track    = document.getElementById('mrsDeckTrack');
+  var deck     = document.getElementById('mrsDeck');
+  var head     = document.getElementById('mrsLiberconHead');
+  var title    = document.getElementById('mrsLiberconTitle');
+  var progress = document.getElementById('mrsDeckProgress');
+  if(!track || !deck || !title || prefersReduced) return;
+
+  /* fundo da seção: navy (#29476D) → creme (#E6E2DA) quando a última carta sai */
+  var BG_NAVY  = [0x29,0x47,0x6D];
+  var BG_CREAM = [0xE6,0xE2,0xDA];
+  function mixBg(t){                 /* t: 0 = navy, 1 = creme */
+    t = t < 0 ? 0 : (t > 1 ? 1 : t);
+    var r = Math.round(BG_NAVY[0] + (BG_CREAM[0]-BG_NAVY[0])*t);
+    var g = Math.round(BG_NAVY[1] + (BG_CREAM[1]-BG_NAVY[1])*t);
+    var b = Math.round(BG_NAVY[2] + (BG_CREAM[2]-BG_NAVY[2])*t);
+    return 'rgb('+r+','+g+','+b+')';
+  }
+
+  /* --- quebra o título em palavras (spans .w), marcando as de destaque --- */
+  var hlSet = new Set((title.dataset.hl || '').split('|').filter(Boolean));
+  var words = title.textContent.trim().split(/\s+/);
+  title.textContent = '';
+  var wordSpans = words.map(function(w, i){
+    var s = document.createElement('span');
+    s.className = 'w' + (hlSet.has(w) ? ' hl' : '');
+    s.textContent = w;
+    title.appendChild(s);
+    /* espaço real entre as palavras, sem isso elas colam umas nas outras */
+    if(i < words.length - 1) title.appendChild(document.createTextNode(' '));
+    return s;
+  });
+  var W = wordSpans.length;
+
+  var cards = Array.prototype.slice.call(deck.querySelectorAll('.deck-card'));
+  var dots  = Array.prototype.slice.call(progress.querySelectorAll('.deck-dot'));
+  var N = cards.length;
+
+  /* ângulo de repouso, deslocamento e giro do voo de cada carta */
+  var baseRot = [-5, 4, -3, 5, 0];
+  var flyX    = [-135, 150, -160, 140, 0];
+  var flyRot  = [-24, 22, -28, 26, 0];
+
+  /* orçamento de scroll (em telas):
+     revelar título → PAUSA 1 → baralho parado (PAUSA 2) → cartas voam */
+  var TITLE_VH     = 1.6;   // revelar todas as palavras
+  var HOLD_VH      = 1.4;   // PAUSA 1: título completo, parado, antes de sumir
+  var DECK_HOLD_VH = 1.0;   // PAUSA 2: baralho visível e parado antes de voar
+  var PER          = 0.9;   // rolagem por carta
+  var TOTAL = TITLE_VH + HOLD_VH + DECK_HOLD_VH + N * PER + 0.6;
+
+  function sizeTrack(){ track.style.height = (TOTAL * 100) + 'vh'; }
+  sizeTrack();
+
+  /* a última carta do HTML fica por baixo; a primeira, no topo do baralho */
+  cards.forEach(function(c, i){ c.style.zIndex = String(N - i); });
+
+  function restCard(c, depth, i){
+    var ty = Math.min(depth * 10, 40);
+    var sc = 1 - Math.min(depth * 0.03, 0.12);
+    c.style.transform = 'translate3d(0,' + ty + 'px,0) rotate(' + baseRot[i] + 'deg) scale(' + sc + ')';
+    c.style.opacity = '1';
+  }
+
+  var ticking = false;
+  function update(){
+    var rect = track.getBoundingClientRect();
+    var vh = window.innerHeight;
+    var scrollable = track.offsetHeight - vh;
+    if(scrollable <= 0) return;
+
+    var p = Math.max(0, Math.min(1, (-rect.top) / scrollable));  // 0..1 no trilho
+
+    var revealFrac = TITLE_VH / TOTAL;                            // fim da revelação
+    var titleFrac  = (TITLE_VH + HOLD_VH) / TOTAL;                // título sai aqui
+    var flyFrac    = (TITLE_VH + HOLD_VH + DECK_HOLD_VH) / TOTAL; // cartas começam a voar
+
+    if(p <= titleFrac){
+      /* ---- FASE A: revela as palavras e depois SEGURA o título ---- */
+      head.classList.add('lit');
+      head.classList.remove('gone');
+      deck.classList.remove('show');
+      progress.classList.remove('show');
+
+      var tp = Math.min(1, p / revealFrac);
+      var shown = Math.round(tp * (W + 2));   // +2 = pequeno respiro no fim
+      wordSpans.forEach(function(s, i){ s.classList.toggle('on', i < shown); });
+
+      cards.forEach(function(c, i){ restCard(c, i, i); });
+      dots.forEach(function(d, i){ d.classList.toggle('on', i === 0); });
+
+      section.style.backgroundColor = mixBg(0);   // ainda navy
+
+    }else{
+      /* ---- FASE B: título some, baralho aparece (pausa) e depois voa ---- */
+      head.classList.add('gone');
+      deck.classList.add('show');
+      progress.classList.add('show');
+
+      var bp   = Math.max(0, (p - flyFrac) / (1 - flyFrac));  // 0 durante a pausa
+      var prog = bp * N;                                      // 0..N
+
+      cards.forEach(function(c, i){
+        var t = prog - i;
+        if(t <= 0){
+          restCard(c, Math.min(-t, N), i);
+        }else if(t < 1){
+          var e = t * t * (3 - 2 * t);                        // suavização
+          c.style.transform =
+            'translate3d(' + (flyX[i] * e) + 'px,' + (-(vh * 0.9) * e) + 'px,0) ' +
+            'rotate(' + (baseRot[i] + flyRot[i] * e) + 'deg) scale(' + (1 + 0.06 * e) + ')';
+          c.style.opacity = String(1 - Math.max(0, (e - 0.55) / 0.45));
+        }else{
+          c.style.transform =
+            'translate3d(' + flyX[i] + 'px,' + (-vh) + 'px,0) ' +
+            'rotate(' + (baseRot[i] + flyRot[i]) + 'deg)';
+          c.style.opacity = '0';
+        }
+      });
+
+      var active = Math.max(0, Math.min(N - 1, Math.floor(prog)));
+      dots.forEach(function(d, i){ d.classList.toggle('on', i === active); });
+
+      /* fundo vira creme conforme a ÚLTIMA carta voa: começa quando a
+         penúltima parte (prog = N-1) e completa quando a última some (prog = N). */
+      section.style.backgroundColor = mixBg(prog - (N - 1));
+    }
+  }
+
+  window.addEventListener('scroll', function(){
+    if(ticking) return;
+    ticking = true;
+    requestAnimationFrame(function(){ update(); ticking = false; });
+  }, {passive:true});
+
+  window.addEventListener('resize', function(){ sizeTrack(); update(); }, {passive:true});
+
+  update();
+})();
+</script>

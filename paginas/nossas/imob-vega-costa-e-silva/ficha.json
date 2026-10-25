@@ -1,0 +1,262 @@
+{
+ "nome": "PÁGINA VEGA COSTA E SILVA",
+ "slug": "imob-vega-costa-e-silva",
+ "pasta_original": "Vaga e Costa Imobi",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://lp.oreidalanding.com.br/pagina-vega-costa-e-silva/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Imobiliário",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#FFFFFF",
+   "#F7F4EE",
+   "#0F2F2B",
+   "#123A35",
+   "#0A1F1C",
+   "#000000",
+   "#FEBB09"
+  ],
+  "textos": [
+   "#4F5552",
+   "#202422",
+   "#FFFFFF",
+   "#333333",
+   "#7A817D",
+   "#0A1F1C"
+  ],
+  "destaques": [
+   "#FEBB09",
+   "#E7E7E7",
+   "#FF981F",
+   "#0F2F2B",
+   "#123A35",
+   "#FFB341"
+  ],
+  "gradientes": [
+   "linear-gradient(rgb(95, 143, 130), rgb(44, 98, 88))",
+   "linear-gradient(rgb(255, 179, 65), rgb(242, 140, 22))"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Inter",
+   "uso_pct": 83
+  },
+  {
+   "familia": "Georgia",
+   "uso_pct": 10
+  },
+  {
+   "familia": "Roboto",
+   "uso_pct": 7
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  70,
+  65,
+  63,
+  54,
+  49,
+  47,
+  35,
+  30,
+  26,
+  17
+ ],
+ "escala_tipografica_mobile_px": [
+  41,
+  40,
+  37,
+  35,
+  34,
+  17,
+  17,
+  16
+ ],
+ "h1_mobile": "40.95px",
+ "botao_principal": {
+  "fundo": "#FEBB09",
+  "gradiente": null,
+  "texto": "#0A1F1C",
+  "raio": "999px",
+  "padding": "14px 18px",
+  "fonte": "Inter",
+  "tamanho": "16px",
+  "peso": "600",
+  "caixa": "none",
+  "exemplos": [
+   "FALE COM UM CONSULTOR",
+   "QUERO INVESTIR NESSA VALORIZAÇÃO"
+  ]
+ },
+ "raios": [
+  "8px",
+  "12px",
+  "999px",
+  "10%",
+  "44px",
+  "32px"
+ ],
+ "sombras": [
+  "rgba(0, 0, 0, 0.28) 7px 7px 22px 0px",
+  "rgba(0, 0, 0, 0.26) 5px 5px 24px 0px",
+  "rgba(242, 140, 22, 0.28) 0px 10px 26px 0px",
+  "rgba(37, 211, 102, 0.38) 0px 10px 26px 0px, rgba(0, 0, 0, 0.18) 0px 2px 6px 0px"
+ ],
+ "gaps": [
+  "20px",
+  "24px",
+  "5px",
+  "17px",
+  "10px",
+  "12px"
+ ],
+ "largura_conteudo_px": 1180,
+ "altura_pagina_px": 8657,
+ "secoes_qtde": 10,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "Seu novo lar no bairro que mais cresce em Joinville",
+   "fundo": "#0A1F1C",
+   "altura_px": 800
+  },
+  {
+   "ordem": 2,
+   "tipo": "numeros",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 70
+  },
+  {
+   "ordem": 3,
+   "tipo": "produto",
+   "titulo": "Conheça os detalhes do seu mais novo lar",
+   "fundo": "#FFFFFF",
+   "altura_px": 827
+  },
+  {
+   "ordem": 4,
+   "tipo": "prova-dados",
+   "titulo": "A cidade com a maior valorização imobiliária de Santa Catarina",
+   "fundo": "#F7F4EE",
+   "altura_px": 868
+  },
+  {
+   "ordem": 5,
+   "tipo": "formulario",
+   "titulo": "Explore cada detalhe do Vega Costa e Silva",
+   "fundo": "#FFFFFF",
+   "altura_px": 1128
+  },
+  {
+   "ordem": 6,
+   "tipo": "produto",
+   "titulo": "Área de Lazer Completa",
+   "fundo": "#0F2F2B",
+   "altura_px": 1213
+  },
+  {
+   "ordem": 7,
+   "tipo": "lazer",
+   "titulo": "Localização Privilegiada",
+   "fundo": "#FBFAF7",
+   "altura_px": 1274
+  },
+  {
+   "ordem": 8,
+   "tipo": "localizacao",
+   "titulo": "Seu futuro já está sendo construído",
+   "fundo": "#123A35",
+   "altura_px": 672
+  },
+  {
+   "ordem": 9,
+   "tipo": "andamento",
+   "titulo": "Faça sua Simulação Grátis aqui",
+   "fundo": "#F7F4EE",
+   "altura_px": 1023
+  },
+  {
+   "ordem": 10,
+   "tipo": "formulario",
+   "titulo": "Seu novo lar está a um passo de distância.",
+   "fundo": "transparente",
+   "altura_px": 816
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "numeros",
+  "produto",
+  "prova-dados",
+  "formulario",
+  "produto",
+  "lazer",
+  "localizacao",
+  "andamento",
+  "formulario"
+ ],
+ "tags_estilo": [
+  "verde-escuro",
+  "laranja",
+  "serifa-display",
+  "claro-e-escuro"
+ ],
+ "tecnicas": [
+  "Widgets HTML autocontidos para header, rodapé e gráfico",
+  "Tour 360 Momento360",
+  "Contador animado"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "wa-pulse"
+  ],
+  "entrada_elementor": [],
+  "classes_scroll": [
+   "scroll-bottom",
+   "scroll-left",
+   "scroll-right",
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "google-ads",
+  "happy-addons",
+  "jquery",
+  "lenis",
+  "lottie",
+  "meta-pixel",
+  "swiper"
+ ],
+ "snippets_usados": [
+  "animacoes/animacao-scroll-reveal.html",
+  "animacoes/animacao-scroll-reveal-blur.css",
+  "contadores-e-progresso/barra-progresso-animada.html",
+  "cards-e-bordas/vidro-fosco.css",
+  "menus-e-headers/header-fixo-vega.html",
+  "rodapes/rodape-vega.html",
+  "secoes-prontas/grafico-valorizacao-barras.html",
+  "secoes-prontas/tour-360-momento360.html",
+  "whatsapp-e-flutuantes/link-whatsapp-com-mensagem.html",
+  "tracking-e-pixels/meta-pixel.html",
+  "tracking-e-pixels/google-ads-gtag.html",
+  "utilitarios-css/css-base-toda-pagina.css",
+  "utilitarios-css/botao-icone-tamanho.css",
+  "utilitarios-css/elemento-posicao-absoluta.css"
+ ],
+ "relevancia": 5,
+ "resumo": "É a página modelo de lançamento imobiliário do guia (8 dobras). Verde-escuro + laranja, serifa display com palavra em laranja, barra de specs sobreposta ao hero, gráfico de valorização em HTML, formulário de simulação, abas com tour 360, lazer, distâncias, barra de andamento da obra e header/rodapé próprios em widget HTML.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/imob-vega-costa-e-silva.md",
+  "json_elementor": "../../../elementor/paginas/captacao/imob-vega-costa-e-silva.json"
+ }
+}

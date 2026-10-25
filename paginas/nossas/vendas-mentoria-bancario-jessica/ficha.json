@@ -1,0 +1,259 @@
+{
+ "nome": "PÁGINA MENTORIA BANCARIO [JESSICA]",
+ "slug": "vendas-mentoria-bancario-jessica",
+ "pasta_original": "VEnda Mentoria",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://lp.oreidalanding.com.br/pagina-mentoria-bancario-jessica/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Página de vendas",
+ "tipo_pagina": "vendas",
+ "paleta": {
+  "fundos": [
+   "#0E0E0E",
+   "#1F1F1F",
+   "#FFFFFF",
+   "#000000",
+   "#272727",
+   "#DBDBDB",
+   "#444444"
+  ],
+  "textos": [
+   "#FFFFFF",
+   "#000000",
+   "#B78241",
+   "#292929",
+   "#8A5626",
+   "#C91A1A"
+  ],
+  "destaques": [
+   "#444444",
+   "#B78241"
+  ],
+  "gradientes": [
+   "linear-gradient(rgb(19, 19, 19) 0%, rgb(0, 0, 0) 100%)",
+   "linear-gradient(rgb(14, 14, 14) 0%, rgb(0, 0, 0) 100%)",
+   "linear-gradient(206deg, rgba(183, 130, 65, 0.37) 0%, rgba(183, 130, 65, 0.14) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Manrope",
+   "uso_pct": 99
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  52,
+  40,
+  39,
+  34,
+  32,
+  30,
+  29,
+  27
+ ],
+ "escala_tipografica_mobile_px": [
+  23,
+  23,
+  21,
+  20,
+  18,
+  18,
+  18,
+  17
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#00000000",
+  "gradiente": "linear-gradient(-90deg, rgb(183, 130, 65) 0%, rgb(138, 86, 38) 100%)",
+  "texto": "#FFFFFF",
+  "raio": "12px",
+  "padding": "18px 32px",
+  "fonte": "Manrope",
+  "tamanho": "20px",
+  "peso": "500",
+  "caixa": "uppercase",
+  "exemplos": [
+   "QUERO BATER AS METAS",
+   "QUERO COMPRAR AGORA"
+  ]
+ },
+ "raios": [
+  "12px",
+  "22px",
+  "8px",
+  "126px"
+ ],
+ "sombras": [
+  "rgba(0, 0, 0, 0.18) 6px 6px 10px 0px",
+  "rgba(0, 0, 0, 0.5) 16px 16px 23px 0px",
+  "rgba(183, 130, 65, 0.15) 0px 4px 70.6px 18px inset",
+  "rgba(0, 0, 0, 0.5) 14px 14px 10px 0px"
+ ],
+ "gaps": [
+  "20px",
+  "5px",
+  "14px",
+  "10px",
+  "15px",
+  "50px"
+ ],
+ "largura_conteudo_px": 1140,
+ "altura_pagina_px": 10748,
+ "secoes_qtde": 12,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "APRENDA A BATER METAS NO BANCO",
+   "fundo": "#0E0E0E",
+   "altura_px": 800
+  },
+  {
+   "ordem": 2,
+   "tipo": "dor",
+   "titulo": "NÃO É FALTA DE ESFORÇO",
+   "fundo": "#0E0E0E",
+   "altura_px": 717
+  },
+  {
+   "ordem": 3,
+   "tipo": "para-quem-e",
+   "titulo": "PARA QUEM É?",
+   "fundo": "#000000",
+   "altura_px": 1052
+  },
+  {
+   "ordem": 4,
+   "tipo": "solucao",
+   "titulo": "O Método Bate Metas é um treinamento prático que ensina, no dia a dia, como vend",
+   "fundo": "#0E0E0E",
+   "altura_px": 748
+  },
+  {
+   "ordem": 5,
+   "tipo": "conteudo",
+   "titulo": "MÓDULOS",
+   "fundo": "gradiente",
+   "altura_px": 774
+  },
+  {
+   "ordem": 6,
+   "tipo": "bonus",
+   "titulo": "BÔNUS",
+   "fundo": "#1F1F1F",
+   "altura_px": 1901
+  },
+  {
+   "ordem": 7,
+   "tipo": "prova-social",
+   "titulo": "DEPOIMENTOS",
+   "fundo": "gradiente",
+   "altura_px": 939
+  },
+  {
+   "ordem": 8,
+   "tipo": "oferta",
+   "titulo": "DEPOIMENTOS",
+   "fundo": "gradiente",
+   "altura_px": 939
+  },
+  {
+   "ordem": 9,
+   "tipo": "sobre",
+   "titulo": "PLANOS",
+   "fundo": "#272727",
+   "altura_px": 1468
+  },
+  {
+   "ordem": 10,
+   "tipo": "faq",
+   "titulo": "Quem sou eu?",
+   "fundo": "#0E0E0E",
+   "altura_px": 800
+  },
+  {
+   "ordem": 11,
+   "tipo": "rodape",
+   "titulo": "FAQ",
+   "fundo": "#000000",
+   "altura_px": 550
+  },
+  {
+   "ordem": 12,
+   "tipo": null,
+   "titulo": "Todos os direitos reservados © 2026",
+   "fundo": "#000000",
+   "altura_px": 60
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "dor",
+  "para-quem-e",
+  "solucao",
+  "conteudo",
+  "bonus",
+  "prova-social",
+  "oferta",
+  "sobre",
+  "faq",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "preto",
+  "dourado-bronze",
+  "premium",
+  "escuro"
+ ],
+ "tecnicas": [
+  "Borda degradê",
+  "Carrossel linear",
+  "Botão com brilho"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "brilho",
+   "fadeInUp"
+  ],
+  "entrada_elementor": [
+   "fadeInUp"
+  ],
+  "classes_scroll": [
+   "scroll-bottom",
+   "scroll-left",
+   "scroll-right",
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "google-ads",
+  "happy-addons",
+  "jquery",
+  "lenis",
+  "lottie",
+  "meta-pixel",
+  "swiper"
+ ],
+ "snippets_usados": [
+  "animacoes/animacao-scroll-reveal.html",
+  "cards-e-bordas/card-borda-degrade.css",
+  "faixas-e-carrosseis/carrossel-linear-continuo.css",
+  "faixas-e-carrosseis/carrossel-imagem-largura.css",
+  "tracking-e-pixels/meta-pixel.html",
+  "tracking-e-pixels/google-ads-gtag.html",
+  "utilitarios-css/css-base-toda-pagina.css",
+  "utilitarios-css/elemento-posicao-absoluta.css"
+ ],
+ "relevancia": 4,
+ "resumo": "Venda de curso e mentoria para bancários em preto e bronze. Hero com foto em ambiente dourado e prova '+120 pessoas', cards de dor em bronze, 'para quem é' com checks sobre foto, abas de módulos, bônus em cards brancos com mockup e dois planos.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/vendas-mentoria-bancario-jessica.md",
+  "json_elementor": null
+ }
+}

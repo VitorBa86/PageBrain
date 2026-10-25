@@ -1,0 +1,1624 @@
+{
+ "content": [
+  {
+   "id": "40e2f2bc",
+   "settings": {
+    "flex_direction": "column",
+    "boxed_width_mobile": {
+     "unit": "%",
+     "size": 90,
+     "sizes": []
+    },
+    "min_height": {
+     "unit": "px",
+     "size": 750,
+     "sizes": []
+    },
+    "min_height_mobile": {
+     "unit": "px",
+     "size": 0,
+     "sizes": []
+    },
+    "flex_justify_content": "center",
+    "flex_align_items": "center",
+    "background_background": "classic",
+    "background_color": "#FBFBFB",
+    "eae_slider_delay": "5000",
+    "gradient_color_list": [
+     {
+      "eae_animated_gradient_color": "#00a6d8",
+      "_id": "406299d"
+     },
+     {
+      "eae_animated_gradient_color": "#b800c9",
+      "_id": "97dfd12"
+     },
+     {
+      "eae_animated_gradient_color": "#e57600",
+      "_id": "e8bbe27"
+     }
+    ],
+    "padding_mobile": {
+     "unit": "px",
+     "top": "50",
+     "right": "0",
+     "bottom": "50",
+     "left": "0",
+     "isLinked": false
+    }
+   },
+   "elements": [
+    {
+     "id": "4cfb956c",
+     "settings": {
+      "content_width": "full",
+      "title": "Para quem é o atendimento?",
+      "align": "center",
+      "title_color": "#00112C",
+      "typography_typography": "custom",
+      "typography_font_family": "Georgia",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 38,
+       "sizes": []
+      },
+      "typography_font_size_mobile": {
+       "unit": "vw",
+       "size": 7.9,
+       "sizes": []
+      },
+      "typography_font_weight": "500",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.4,
+       "sizes": []
+      },
+      "typography_line_height_widescreen": {
+       "unit": "em",
+       "size": "",
+       "sizes": []
+      },
+      "typography_line_height_laptop": {
+       "unit": "em",
+       "size": "",
+       "sizes": []
+      },
+      "typography_letter_spacing": {
+       "unit": "px",
+       "size": -0.7,
+       "sizes": []
+      },
+      "_element_width": "initial",
+      "_element_width_mobile": "inherit",
+      "_element_custom_width": {
+       "unit": "%",
+       "size": 45,
+       "sizes": []
+      },
+      "_css_classes": "scroll-bottom"
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "heading",
+     "elType": "widget"
+    },
+    {
+     "id": "7fa8daaa",
+     "settings": {
+      "content_width": "full",
+      "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "align": "center",
+      "title_color": "#00112C",
+      "typography_typography": "custom",
+      "typography_font_family": "Inter",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 16,
+       "sizes": []
+      },
+      "typography_font_size_mobile": {
+       "unit": "vw",
+       "size": 4,
+       "sizes": []
+      },
+      "typography_font_weight": "300",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.4,
+       "sizes": []
+      },
+      "typography_line_height_widescreen": {
+       "unit": "em",
+       "size": "",
+       "sizes": []
+      },
+      "typography_line_height_laptop": {
+       "unit": "em",
+       "size": "",
+       "sizes": []
+      },
+      "_element_width": "initial",
+      "_element_width_mobile": "inherit",
+      "_element_custom_width": {
+       "unit": "%",
+       "size": 45,
+       "sizes": []
+      },
+      "_css_classes": "scroll-bottom"
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "heading",
+     "elType": "widget"
+    },
+    {
+     "id": "5b8e2fc7",
+     "settings": {
+      "content_width": "full",
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+       {
+        "eae_animated_gradient_color": "#00a6d8",
+        "_id": "c2b1da0"
+       },
+       {
+        "eae_animated_gradient_color": "#b800c9",
+        "_id": "db33603"
+       },
+       {
+        "eae_animated_gradient_color": "#e57600",
+        "_id": "861ea33"
+       }
+      ],
+      "margin": {
+       "unit": "px",
+       "top": "30",
+       "right": "0",
+       "bottom": "30",
+       "left": "0",
+       "isLinked": false
+      },
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      }
+     },
+     "elements": [
+      {
+       "id": "162656d",
+       "settings": {
+        "content_width": "full",
+        "carousel_items": [
+         {
+          "slide_title": "Slide #1",
+          "_id": "efb7c3e"
+         },
+         {
+          "slide_title": "Slide #1",
+          "_id": "5d604f2"
+         },
+         {
+          "slide_title": "Slide #1",
+          "_id": "cdc9624"
+         },
+         {
+          "slide_title": "Slide #1",
+          "_id": "1671ff8"
+         },
+         {
+          "slide_title": "Slide #1",
+          "_id": "7d3852a"
+         },
+         {
+          "slide_title": "Slide #1",
+          "_id": "e6f3637"
+         },
+         {
+          "slide_title": "Slide #1",
+          "_id": "ab27b25"
+         },
+         {
+          "slide_title": "Slide #1",
+          "_id": "7bfdb63"
+         },
+         {
+          "slide_title": "Slide #1",
+          "_id": "81a8b32"
+         },
+         {
+          "slide_title": "Slide #1",
+          "_id": "7709e64"
+         }
+        ],
+        "arrow_normal_color": "#001D4C",
+        "arrows_position": "outside",
+        "dots_normal_color": "#00112C",
+        "_css_classes": "scroll-bottom",
+        "custom_css": ".swiper-pagination-bullet-active{\n    width: 20px !important;\n    border-radius: 3px;\n    transition: 0.2s;\n}",
+        "slides_to_show": "3",
+        "slides_to_scroll": "1"
+       },
+       "elements": [
+        {
+         "id": "702dcdcb",
+         "settings": {
+          "_title": "Slide #1",
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+           {
+            "eae_animated_gradient_color": "#00a6d8",
+            "_id": "9927716"
+           },
+           {
+            "eae_animated_gradient_color": "#b800c9",
+            "_id": "4f005c4"
+           },
+           {
+            "eae_animated_gradient_color": "#e57600",
+            "_id": "8ee35cb"
+           }
+          ],
+          "flex_direction": "row",
+          "flex_justify_content": "flex-start",
+          "flex_align_items": "stretch"
+         },
+         "elements": [
+          {
+           "id": "220706a0",
+           "settings": {
+            "flex_direction": "column",
+            "content_width": "full",
+            "min_height": {
+             "unit": "px",
+             "size": 0,
+             "sizes": []
+            },
+            "background_background": "classic",
+            "background_color": "#FFFFFF",
+            "eae_slider_delay": "5000",
+            "gradient_color_list": [
+             {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "9d6f8bc"
+             },
+             {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "11b09b5"
+             },
+             {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "f13cdef"
+             }
+            ],
+            "border_radius": {
+             "unit": "px",
+             "top": "12",
+             "right": "12",
+             "bottom": "12",
+             "left": "12",
+             "isLinked": true
+            },
+            "box_shadow_box_shadow_type": "yes",
+            "box_shadow_box_shadow": {
+             "horizontal": 0,
+             "vertical": 0,
+             "blur": 5,
+             "spread": 0,
+             "color": "rgba(0,0,0,0.5)"
+            },
+            "padding": {
+             "unit": "px",
+             "top": "30",
+             "right": "30",
+             "bottom": "30",
+             "left": "30",
+             "isLinked": true
+            }
+           },
+           "elements": [
+            {
+             "id": "64f1f349",
+             "settings": {
+              "content_width": "full",
+              "title_text": "Ansiedade",
+              "description_text": "",
+              "icon_space": {
+               "unit": "px",
+               "size": 14,
+               "sizes": []
+              },
+              "title_bottom_space": {
+               "unit": "px",
+               "size": 0,
+               "sizes": []
+              },
+              "primary_color": "#001D4C",
+              "title_color": "#001D4C",
+              "title_typography_typography": "custom",
+              "title_typography_font_family": "Georgia",
+              "title_typography_font_size": {
+               "unit": "px",
+               "size": 22,
+               "sizes": []
+              },
+              "title_typography_font_weight": "500",
+              "selected_icon": {
+               "value": {
+                "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2025/03/ansiedade.svg",
+                "id": 16891
+               },
+               "library": "svg"
+              }
+             },
+             "elements": [],
+             "isInner": false,
+             "widgetType": "icon-box",
+             "elType": "widget"
+            }
+           ],
+           "isInner": true,
+           "elType": "container"
+          }
+         ],
+         "isInner": true,
+         "elType": "container",
+         "isLocked": true
+        },
+        {
+         "id": "7e363552",
+         "settings": {
+          "_title": "Slide #1",
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+           {
+            "eae_animated_gradient_color": "#00a6d8",
+            "_id": "9927716"
+           },
+           {
+            "eae_animated_gradient_color": "#b800c9",
+            "_id": "4f005c4"
+           },
+           {
+            "eae_animated_gradient_color": "#e57600",
+            "_id": "8ee35cb"
+           }
+          ],
+          "flex_direction": "row",
+          "flex_justify_content": "flex-start",
+          "flex_align_items": "stretch"
+         },
+         "elements": [
+          {
+           "id": "3d0ba73f",
+           "settings": {
+            "flex_direction": "column",
+            "content_width": "full",
+            "min_height": {
+             "unit": "px",
+             "size": 0,
+             "sizes": []
+            },
+            "background_background": "classic",
+            "background_color": "#FFFFFF",
+            "eae_slider_delay": "5000",
+            "gradient_color_list": [
+             {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "9d6f8bc"
+             },
+             {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "11b09b5"
+             },
+             {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "f13cdef"
+             }
+            ],
+            "border_radius": {
+             "unit": "px",
+             "top": "12",
+             "right": "12",
+             "bottom": "12",
+             "left": "12",
+             "isLinked": true
+            },
+            "box_shadow_box_shadow_type": "yes",
+            "box_shadow_box_shadow": {
+             "horizontal": 0,
+             "vertical": 0,
+             "blur": 5,
+             "spread": 0,
+             "color": "rgba(0,0,0,0.5)"
+            },
+            "padding": {
+             "unit": "px",
+             "top": "30",
+             "right": "30",
+             "bottom": "30",
+             "left": "30",
+             "isLinked": true
+            }
+           },
+           "elements": [
+            {
+             "id": "45e3ce39",
+             "settings": {
+              "content_width": "full",
+              "title_text": "Depressão",
+              "description_text": "",
+              "icon_space": {
+               "unit": "px",
+               "size": 14,
+               "sizes": []
+              },
+              "title_bottom_space": {
+               "unit": "px",
+               "size": 0,
+               "sizes": []
+              },
+              "primary_color": "#001D4C",
+              "title_color": "#001D4C",
+              "title_typography_typography": "custom",
+              "title_typography_font_family": "Georgia",
+              "title_typography_font_size": {
+               "unit": "px",
+               "size": 22,
+               "sizes": []
+              },
+              "title_typography_font_weight": "500",
+              "selected_icon": {
+               "value": {
+                "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2025/03/depressao.svg",
+                "id": 16890
+               },
+               "library": "svg"
+              }
+             },
+             "elements": [],
+             "isInner": false,
+             "widgetType": "icon-box",
+             "elType": "widget"
+            }
+           ],
+           "isInner": true,
+           "elType": "container"
+          }
+         ],
+         "isInner": true,
+         "elType": "container",
+         "isLocked": true
+        },
+        {
+         "id": "3a8e76f6",
+         "settings": {
+          "_title": "Slide #1",
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+           {
+            "eae_animated_gradient_color": "#00a6d8",
+            "_id": "9927716"
+           },
+           {
+            "eae_animated_gradient_color": "#b800c9",
+            "_id": "4f005c4"
+           },
+           {
+            "eae_animated_gradient_color": "#e57600",
+            "_id": "8ee35cb"
+           }
+          ],
+          "flex_direction": "row",
+          "flex_justify_content": "flex-start",
+          "flex_align_items": "stretch"
+         },
+         "elements": [
+          {
+           "id": "7f79fcf9",
+           "settings": {
+            "flex_direction": "column",
+            "content_width": "full",
+            "min_height": {
+             "unit": "px",
+             "size": 0,
+             "sizes": []
+            },
+            "background_background": "classic",
+            "background_color": "#FFFFFF",
+            "eae_slider_delay": "5000",
+            "gradient_color_list": [
+             {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "9d6f8bc"
+             },
+             {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "11b09b5"
+             },
+             {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "f13cdef"
+             }
+            ],
+            "border_radius": {
+             "unit": "px",
+             "top": "12",
+             "right": "12",
+             "bottom": "12",
+             "left": "12",
+             "isLinked": true
+            },
+            "box_shadow_box_shadow_type": "yes",
+            "box_shadow_box_shadow": {
+             "horizontal": 0,
+             "vertical": 0,
+             "blur": 5,
+             "spread": 0,
+             "color": "rgba(0,0,0,0.5)"
+            },
+            "padding": {
+             "unit": "px",
+             "top": "30",
+             "right": "30",
+             "bottom": "30",
+             "left": "30",
+             "isLinked": true
+            }
+           },
+           "elements": [
+            {
+             "id": "1af1d58a",
+             "settings": {
+              "content_width": "full",
+              "title_text": "Transtornos de Personalidade",
+              "description_text": "",
+              "icon_space": {
+               "unit": "px",
+               "size": 14,
+               "sizes": []
+              },
+              "title_bottom_space": {
+               "unit": "px",
+               "size": 0,
+               "sizes": []
+              },
+              "primary_color": "#001D4C",
+              "title_color": "#001D4C",
+              "title_typography_typography": "custom",
+              "title_typography_font_family": "Georgia",
+              "title_typography_font_size": {
+               "unit": "px",
+               "size": 22,
+               "sizes": []
+              },
+              "title_typography_font_weight": "500",
+              "selected_icon": {
+               "value": {
+                "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2025/03/personalidade.svg",
+                "id": 16889
+               },
+               "library": "svg"
+              }
+             },
+             "elements": [],
+             "isInner": false,
+             "widgetType": "icon-box",
+             "elType": "widget"
+            }
+           ],
+           "isInner": true,
+           "elType": "container"
+          }
+         ],
+         "isInner": true,
+         "elType": "container",
+         "isLocked": true
+        },
+        {
+         "id": "167da184",
+         "settings": {
+          "_title": "Slide #1",
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+           {
+            "eae_animated_gradient_color": "#00a6d8",
+            "_id": "9927716"
+           },
+           {
+            "eae_animated_gradient_color": "#b800c9",
+            "_id": "4f005c4"
+           },
+           {
+            "eae_animated_gradient_color": "#e57600",
+            "_id": "8ee35cb"
+           }
+          ],
+          "flex_direction": "row",
+          "flex_justify_content": "flex-start",
+          "flex_align_items": "stretch"
+         },
+         "elements": [
+          {
+           "id": "33c57b6b",
+           "settings": {
+            "flex_direction": "column",
+            "content_width": "full",
+            "min_height": {
+             "unit": "px",
+             "size": 0,
+             "sizes": []
+            },
+            "background_background": "classic",
+            "background_color": "#FFFFFF",
+            "eae_slider_delay": "5000",
+            "gradient_color_list": [
+             {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "9d6f8bc"
+             },
+             {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "11b09b5"
+             },
+             {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "f13cdef"
+             }
+            ],
+            "border_radius": {
+             "unit": "px",
+             "top": "12",
+             "right": "12",
+             "bottom": "12",
+             "left": "12",
+             "isLinked": true
+            },
+            "box_shadow_box_shadow_type": "yes",
+            "box_shadow_box_shadow": {
+             "horizontal": 0,
+             "vertical": 0,
+             "blur": 5,
+             "spread": 0,
+             "color": "rgba(0,0,0,0.5)"
+            },
+            "padding": {
+             "unit": "px",
+             "top": "30",
+             "right": "30",
+             "bottom": "30",
+             "left": "30",
+             "isLinked": true
+            }
+           },
+           "elements": [
+            {
+             "id": "59572556",
+             "settings": {
+              "content_width": "full",
+              "title_text": "Transtorno Bipolar",
+              "description_text": "",
+              "icon_space": {
+               "unit": "px",
+               "size": 14,
+               "sizes": []
+              },
+              "title_bottom_space": {
+               "unit": "px",
+               "size": 0,
+               "sizes": []
+              },
+              "primary_color": "#001D4C",
+              "title_color": "#001D4C",
+              "title_typography_typography": "custom",
+              "title_typography_font_family": "Georgia",
+              "title_typography_font_size": {
+               "unit": "px",
+               "size": 22,
+               "sizes": []
+              },
+              "title_typography_font_weight": "500",
+              "selected_icon": {
+               "value": {
+                "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2025/03/bipolar.svg",
+                "id": 16886
+               },
+               "library": "svg"
+              }
+             },
+             "elements": [],
+             "isInner": false,
+             "widgetType": "icon-box",
+             "elType": "widget"
+            }
+           ],
+           "isInner": true,
+           "elType": "container"
+          }
+         ],
+         "isInner": true,
+         "elType": "container",
+         "isLocked": true
+        },
+        {
+         "id": "576d271",
+         "settings": {
+          "_title": "Slide #1",
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+           {
+            "eae_animated_gradient_color": "#00a6d8",
+            "_id": "9927716"
+           },
+           {
+            "eae_animated_gradient_color": "#b800c9",
+            "_id": "4f005c4"
+           },
+           {
+            "eae_animated_gradient_color": "#e57600",
+            "_id": "8ee35cb"
+           }
+          ],
+          "flex_direction": "row",
+          "flex_justify_content": "flex-start",
+          "flex_align_items": "stretch"
+         },
+         "elements": [
+          {
+           "id": "182b1633",
+           "settings": {
+            "flex_direction": "column",
+            "content_width": "full",
+            "min_height": {
+             "unit": "px",
+             "size": 0,
+             "sizes": []
+            },
+            "background_background": "classic",
+            "background_color": "#FFFFFF",
+            "eae_slider_delay": "5000",
+            "gradient_color_list": [
+             {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "9d6f8bc"
+             },
+             {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "11b09b5"
+             },
+             {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "f13cdef"
+             }
+            ],
+            "border_radius": {
+             "unit": "px",
+             "top": "12",
+             "right": "12",
+             "bottom": "12",
+             "left": "12",
+             "isLinked": true
+            },
+            "box_shadow_box_shadow_type": "yes",
+            "box_shadow_box_shadow": {
+             "horizontal": 0,
+             "vertical": 0,
+             "blur": 5,
+             "spread": 0,
+             "color": "rgba(0,0,0,0.5)"
+            },
+            "padding": {
+             "unit": "px",
+             "top": "30",
+             "right": "30",
+             "bottom": "30",
+             "left": "30",
+             "isLinked": true
+            }
+           },
+           "elements": [
+            {
+             "id": "1a334628",
+             "settings": {
+              "content_width": "full",
+              "title_text": "Esquizofrenia",
+              "description_text": "",
+              "icon_space": {
+               "unit": "px",
+               "size": 14,
+               "sizes": []
+              },
+              "title_bottom_space": {
+               "unit": "px",
+               "size": 0,
+               "sizes": []
+              },
+              "primary_color": "#001D4C",
+              "title_color": "#001D4C",
+              "title_typography_typography": "custom",
+              "title_typography_font_family": "Georgia",
+              "title_typography_font_size": {
+               "unit": "px",
+               "size": 22,
+               "sizes": []
+              },
+              "title_typography_font_weight": "500",
+              "selected_icon": {
+               "value": {
+                "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2025/03/mente-criativa.svg",
+                "id": 16887
+               },
+               "library": "svg"
+              }
+             },
+             "elements": [],
+             "isInner": false,
+             "widgetType": "icon-box",
+             "elType": "widget"
+            }
+           ],
+           "isInner": true,
+           "elType": "container"
+          }
+         ],
+         "isInner": true,
+         "elType": "container",
+         "isLocked": true
+        },
+        {
+         "id": "7f6626d9",
+         "settings": {
+          "_title": "Slide #1",
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+           {
+            "eae_animated_gradient_color": "#00a6d8",
+            "_id": "9927716"
+           },
+           {
+            "eae_animated_gradient_color": "#b800c9",
+            "_id": "4f005c4"
+           },
+           {
+            "eae_animated_gradient_color": "#e57600",
+            "_id": "8ee35cb"
+           }
+          ],
+          "flex_direction": "row",
+          "flex_justify_content": "flex-start",
+          "flex_align_items": "stretch"
+         },
+         "elements": [
+          {
+           "id": "58c4ee31",
+           "settings": {
+            "flex_direction": "column",
+            "content_width": "full",
+            "min_height": {
+             "unit": "px",
+             "size": 0,
+             "sizes": []
+            },
+            "background_background": "classic",
+            "background_color": "#FFFFFF",
+            "eae_slider_delay": "5000",
+            "gradient_color_list": [
+             {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "9d6f8bc"
+             },
+             {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "11b09b5"
+             },
+             {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "f13cdef"
+             }
+            ],
+            "border_radius": {
+             "unit": "px",
+             "top": "12",
+             "right": "12",
+             "bottom": "12",
+             "left": "12",
+             "isLinked": true
+            },
+            "box_shadow_box_shadow_type": "yes",
+            "box_shadow_box_shadow": {
+             "horizontal": 0,
+             "vertical": 0,
+             "blur": 5,
+             "spread": 0,
+             "color": "rgba(0,0,0,0.5)"
+            },
+            "padding": {
+             "unit": "px",
+             "top": "30",
+             "right": "30",
+             "bottom": "30",
+             "left": "30",
+             "isLinked": true
+            }
+           },
+           "elements": [
+            {
+             "id": "70fcce54",
+             "settings": {
+              "content_width": "full",
+              "title_text": "Transtorno do Déficit de Atenção e Hiperatividade (TDAH)",
+              "description_text": "",
+              "icon_space": {
+               "unit": "px",
+               "size": 14,
+               "sizes": []
+              },
+              "title_bottom_space": {
+               "unit": "px",
+               "size": 0,
+               "sizes": []
+              },
+              "primary_color": "#001D4C",
+              "title_color": "#001D4C",
+              "title_typography_typography": "custom",
+              "title_typography_font_family": "Georgia",
+              "title_typography_font_size": {
+               "unit": "px",
+               "size": 22,
+               "sizes": []
+              },
+              "title_typography_font_weight": "500",
+              "selected_icon": {
+               "value": {
+                "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2025/03/tdah-1.svg",
+                "id": 16894
+               },
+               "library": "svg"
+              }
+             },
+             "elements": [],
+             "isInner": false,
+             "widgetType": "icon-box",
+             "elType": "widget"
+            }
+           ],
+           "isInner": true,
+           "elType": "container"
+          }
+         ],
+         "isInner": true,
+         "elType": "container",
+         "isLocked": true
+        },
+        {
+         "id": "702702ea",
+         "settings": {
+          "_title": "Slide #1",
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+           {
+            "eae_animated_gradient_color": "#00a6d8",
+            "_id": "9927716"
+           },
+           {
+            "eae_animated_gradient_color": "#b800c9",
+            "_id": "4f005c4"
+           },
+           {
+            "eae_animated_gradient_color": "#e57600",
+            "_id": "8ee35cb"
+           }
+          ],
+          "flex_direction": "row",
+          "flex_justify_content": "flex-start",
+          "flex_align_items": "stretch"
+         },
+         "elements": [
+          {
+           "id": "103b62de",
+           "settings": {
+            "flex_direction": "column",
+            "content_width": "full",
+            "min_height": {
+             "unit": "px",
+             "size": 0,
+             "sizes": []
+            },
+            "background_background": "classic",
+            "background_color": "#FFFFFF",
+            "eae_slider_delay": "5000",
+            "gradient_color_list": [
+             {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "9d6f8bc"
+             },
+             {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "11b09b5"
+             },
+             {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "f13cdef"
+             }
+            ],
+            "border_radius": {
+             "unit": "px",
+             "top": "12",
+             "right": "12",
+             "bottom": "12",
+             "left": "12",
+             "isLinked": true
+            },
+            "box_shadow_box_shadow_type": "yes",
+            "box_shadow_box_shadow": {
+             "horizontal": 0,
+             "vertical": 0,
+             "blur": 5,
+             "spread": 0,
+             "color": "rgba(0,0,0,0.5)"
+            },
+            "padding": {
+             "unit": "px",
+             "top": "30",
+             "right": "30",
+             "bottom": "30",
+             "left": "30",
+             "isLinked": true
+            }
+           },
+           "elements": [
+            {
+             "id": "45bd1c1f",
+             "settings": {
+              "content_width": "full",
+              "title_text": "Transtorno Obsessivo-Compulsivo (TOC)",
+              "description_text": "",
+              "icon_space": {
+               "unit": "px",
+               "size": 14,
+               "sizes": []
+              },
+              "title_bottom_space": {
+               "unit": "px",
+               "size": 0,
+               "sizes": []
+              },
+              "primary_color": "#001D4C",
+              "title_color": "#001D4C",
+              "title_typography_typography": "custom",
+              "title_typography_font_family": "Georgia",
+              "title_typography_font_size": {
+               "unit": "px",
+               "size": 22,
+               "sizes": []
+              },
+              "title_typography_font_weight": "500",
+              "selected_icon": {
+               "value": {
+                "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2025/03/cerebro-1.svg",
+                "id": 16885
+               },
+               "library": "svg"
+              }
+             },
+             "elements": [],
+             "isInner": false,
+             "widgetType": "icon-box",
+             "elType": "widget"
+            }
+           ],
+           "isInner": true,
+           "elType": "container"
+          }
+         ],
+         "isInner": true,
+         "elType": "container",
+         "isLocked": true
+        },
+        {
+         "id": "733f108a",
+         "settings": {
+          "_title": "Slide #1",
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+           {
+            "eae_animated_gradient_color": "#00a6d8",
+            "_id": "9927716"
+           },
+           {
+            "eae_animated_gradient_color": "#b800c9",
+            "_id": "4f005c4"
+           },
+           {
+            "eae_animated_gradient_color": "#e57600",
+            "_id": "8ee35cb"
+           }
+          ],
+          "flex_direction": "row",
+          "flex_justify_content": "flex-start",
+          "flex_align_items": "stretch"
+         },
+         "elements": [
+          {
+           "id": "34c47262",
+           "settings": {
+            "flex_direction": "column",
+            "content_width": "full",
+            "min_height": {
+             "unit": "px",
+             "size": 0,
+             "sizes": []
+            },
+            "background_background": "classic",
+            "background_color": "#FFFFFF",
+            "eae_slider_delay": "5000",
+            "gradient_color_list": [
+             {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "9d6f8bc"
+             },
+             {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "11b09b5"
+             },
+             {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "f13cdef"
+             }
+            ],
+            "border_radius": {
+             "unit": "px",
+             "top": "12",
+             "right": "12",
+             "bottom": "12",
+             "left": "12",
+             "isLinked": true
+            },
+            "box_shadow_box_shadow_type": "yes",
+            "box_shadow_box_shadow": {
+             "horizontal": 0,
+             "vertical": 0,
+             "blur": 5,
+             "spread": 0,
+             "color": "rgba(0,0,0,0.5)"
+            },
+            "padding": {
+             "unit": "px",
+             "top": "30",
+             "right": "30",
+             "bottom": "30",
+             "left": "30",
+             "isLinked": true
+            }
+           },
+           "elements": [
+            {
+             "id": "56ceb652",
+             "settings": {
+              "content_width": "full",
+              "title_text": "Transtorno do Estresse Pós-Traumático (TEPT)",
+              "description_text": "",
+              "icon_space": {
+               "unit": "px",
+               "size": 14,
+               "sizes": []
+              },
+              "title_bottom_space": {
+               "unit": "px",
+               "size": 0,
+               "sizes": []
+              },
+              "primary_color": "#001D4C",
+              "title_color": "#001D4C",
+              "title_typography_typography": "custom",
+              "title_typography_font_family": "Georgia",
+              "title_typography_font_size": {
+               "unit": "px",
+               "size": 22,
+               "sizes": []
+              },
+              "title_typography_font_weight": "500",
+              "selected_icon": {
+               "value": {
+                "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2025/03/mente-criativa.svg",
+                "id": 16887
+               },
+               "library": "svg"
+              }
+             },
+             "elements": [],
+             "isInner": false,
+             "widgetType": "icon-box",
+             "elType": "widget"
+            }
+           ],
+           "isInner": true,
+           "elType": "container"
+          }
+         ],
+         "isInner": true,
+         "elType": "container",
+         "isLocked": true
+        },
+        {
+         "id": "52378800",
+         "settings": {
+          "_title": "Slide #1",
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+           {
+            "eae_animated_gradient_color": "#00a6d8",
+            "_id": "9927716"
+           },
+           {
+            "eae_animated_gradient_color": "#b800c9",
+            "_id": "4f005c4"
+           },
+           {
+            "eae_animated_gradient_color": "#e57600",
+            "_id": "8ee35cb"
+           }
+          ],
+          "flex_direction": "row",
+          "flex_justify_content": "flex-start",
+          "flex_align_items": "stretch"
+         },
+         "elements": [
+          {
+           "id": "4e031c01",
+           "settings": {
+            "flex_direction": "column",
+            "content_width": "full",
+            "min_height": {
+             "unit": "px",
+             "size": 0,
+             "sizes": []
+            },
+            "background_background": "classic",
+            "background_color": "#FFFFFF",
+            "eae_slider_delay": "5000",
+            "gradient_color_list": [
+             {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "9d6f8bc"
+             },
+             {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "11b09b5"
+             },
+             {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "f13cdef"
+             }
+            ],
+            "border_radius": {
+             "unit": "px",
+             "top": "12",
+             "right": "12",
+             "bottom": "12",
+             "left": "12",
+             "isLinked": true
+            },
+            "box_shadow_box_shadow_type": "yes",
+            "box_shadow_box_shadow": {
+             "horizontal": 0,
+             "vertical": 0,
+             "blur": 5,
+             "spread": 0,
+             "color": "rgba(0,0,0,0.5)"
+            },
+            "padding": {
+             "unit": "px",
+             "top": "30",
+             "right": "30",
+             "bottom": "30",
+             "left": "30",
+             "isLinked": true
+            }
+           },
+           "elements": [
+            {
+             "id": "23fea6f",
+             "settings": {
+              "content_width": "full",
+              "title_text": "Transtornos Alimentares",
+              "description_text": "",
+              "icon_space": {
+               "unit": "px",
+               "size": 14,
+               "sizes": []
+              },
+              "title_bottom_space": {
+               "unit": "px",
+               "size": 0,
+               "sizes": []
+              },
+              "primary_color": "#001D4C",
+              "title_color": "#001D4C",
+              "title_typography_typography": "custom",
+              "title_typography_font_family": "Georgia",
+              "title_typography_font_size": {
+               "unit": "px",
+               "size": 22,
+               "sizes": []
+              },
+              "title_typography_font_weight": "500",
+              "selected_icon": {
+               "value": {
+                "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2025/03/hamburguer.svg",
+                "id": 16893
+               },
+               "library": "svg"
+              }
+             },
+             "elements": [],
+             "isInner": false,
+             "widgetType": "icon-box",
+             "elType": "widget"
+            }
+           ],
+           "isInner": true,
+           "elType": "container"
+          }
+         ],
+         "isInner": true,
+         "elType": "container",
+         "isLocked": true
+        },
+        {
+         "id": "5f84f14b",
+         "settings": {
+          "_title": "Slide #1",
+          "eae_slider_delay": "5000",
+          "gradient_color_list": [
+           {
+            "eae_animated_gradient_color": "#00a6d8",
+            "_id": "9927716"
+           },
+           {
+            "eae_animated_gradient_color": "#b800c9",
+            "_id": "4f005c4"
+           },
+           {
+            "eae_animated_gradient_color": "#e57600",
+            "_id": "8ee35cb"
+           }
+          ],
+          "flex_direction": "row",
+          "flex_justify_content": "flex-start",
+          "flex_align_items": "stretch"
+         },
+         "elements": [
+          {
+           "id": "6c043c40",
+           "settings": {
+            "flex_direction": "column",
+            "content_width": "full",
+            "min_height": {
+             "unit": "px",
+             "size": 0,
+             "sizes": []
+            },
+            "background_background": "classic",
+            "background_color": "#FFFFFF",
+            "eae_slider_delay": "5000",
+            "gradient_color_list": [
+             {
+              "eae_animated_gradient_color": "#00a6d8",
+              "_id": "9d6f8bc"
+             },
+             {
+              "eae_animated_gradient_color": "#b800c9",
+              "_id": "11b09b5"
+             },
+             {
+              "eae_animated_gradient_color": "#e57600",
+              "_id": "f13cdef"
+             }
+            ],
+            "border_radius": {
+             "unit": "px",
+             "top": "12",
+             "right": "12",
+             "bottom": "12",
+             "left": "12",
+             "isLinked": true
+            },
+            "box_shadow_box_shadow_type": "yes",
+            "box_shadow_box_shadow": {
+             "horizontal": 0,
+             "vertical": 0,
+             "blur": 5,
+             "spread": 0,
+             "color": "rgba(0,0,0,0.5)"
+            },
+            "padding": {
+             "unit": "px",
+             "top": "30",
+             "right": "30",
+             "bottom": "30",
+             "left": "30",
+             "isLinked": true
+            }
+           },
+           "elements": [
+            {
+             "id": "4ad23ae5",
+             "settings": {
+              "content_width": "full",
+              "title_text": "Transtornos de Personalidade",
+              "description_text": "",
+              "icon_space": {
+               "unit": "px",
+               "size": 14,
+               "sizes": []
+              },
+              "title_bottom_space": {
+               "unit": "px",
+               "size": 0,
+               "sizes": []
+              },
+              "primary_color": "#001D4C",
+              "title_color": "#001D4C",
+              "title_typography_typography": "custom",
+              "title_typography_font_family": "Georgia",
+              "title_typography_font_size": {
+               "unit": "px",
+               "size": 22,
+               "sizes": []
+              },
+              "title_typography_font_weight": "500"
+             },
+             "elements": [],
+             "isInner": false,
+             "widgetType": "icon-box",
+             "elType": "widget"
+            }
+           ],
+           "isInner": true,
+           "elType": "container"
+          }
+         ],
+         "isInner": true,
+         "elType": "container",
+         "isLocked": true
+        }
+       ],
+       "isInner": false,
+       "widgetType": "nested-carousel",
+       "elType": "widget"
+      }
+     ],
+     "isInner": true,
+     "elType": "container"
+    },
+    {
+     "id": "5c2296e0",
+     "settings": {
+      "content_width": "full",
+      "title": "Lorem Ipsum is simply dummy text of the printing and typesetting ",
+      "align": "center",
+      "title_color": "#00112C",
+      "typography_typography": "custom",
+      "typography_font_family": "Inter",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 16,
+       "sizes": []
+      },
+      "typography_font_size_mobile": {
+       "unit": "vw",
+       "size": 4,
+       "sizes": []
+      },
+      "typography_font_weight": "300",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.4,
+       "sizes": []
+      },
+      "typography_line_height_widescreen": {
+       "unit": "em",
+       "size": "",
+       "sizes": []
+      },
+      "typography_line_height_laptop": {
+       "unit": "em",
+       "size": "",
+       "sizes": []
+      },
+      "_margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "10",
+       "left": "0",
+       "isLinked": false
+      },
+      "_element_width": "initial",
+      "_element_width_mobile": "inherit",
+      "_element_custom_width": {
+       "unit": "%",
+       "size": 45,
+       "sizes": []
+      },
+      "_css_classes": "scroll-bottom"
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "heading",
+     "elType": "widget"
+    },
+    {
+     "id": "12d7ded7",
+     "settings": {
+      "content_width": "full",
+      "text": "Agende sua consulta agora",
+      "align": "center",
+      "align_mobile": "justify",
+      "typography_typography": "custom",
+      "typography_font_family": "Inter",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 18,
+       "sizes": []
+      },
+      "typography_font_size_mobile": {
+       "unit": "vw",
+       "size": 4,
+       "sizes": []
+      },
+      "typography_font_weight": "500",
+      "background_color": "#001D4C",
+      "hover_animation": "grow",
+      "border_radius": {
+       "unit": "px",
+       "top": "12",
+       "right": "12",
+       "bottom": "12",
+       "left": "12",
+       "isLinked": true
+      },
+      "text_padding": {
+       "unit": "px",
+       "top": "24",
+       "right": "24",
+       "bottom": "24",
+       "left": "24",
+       "isLinked": true
+      },
+      "_margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "_element_width": "initial",
+      "_element_width_mobile": "inherit",
+      "_element_custom_width": {
+       "unit": "%",
+       "size": 45,
+       "sizes": []
+      },
+      "_css_classes": "scroll-bottom"
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "button",
+     "elType": "widget"
+    }
+   ],
+   "isInner": false,
+   "elType": "container"
+  }
+ ],
+ "page_settings": [],
+ "version": "0.4",
+ "title": "card 27",
+ "type": "container"
+}

@@ -1,0 +1,285 @@
+{
+ "nome": "Vistoria Alphaville · Laudo de Vistoria Detalhado",
+ "slug": "imob-vistoria-alphaville",
+ "pasta_original": "Vistoria Alphaville",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://vistoriaalphaville.com.br/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Imobiliário",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#FFFFFF",
+   "#0F223C",
+   "#234F80",
+   "#1A3454",
+   "#0E1B2C",
+   "#A78555",
+   "#D1A25F"
+  ],
+  "textos": [
+   "#141414",
+   "#FFFFFF",
+   "#234F80",
+   "#EAF0F7",
+   "#A78555",
+   "#000000"
+  ],
+  "destaques": [
+   "#234F80",
+   "#A78555",
+   "#0F223C",
+   "#1A3454",
+   "#84653A"
+  ],
+  "gradientes": [
+   "linear-gradient(70deg, rgb(26, 52, 84) 0%, rgb(36, 68, 109) 100%)",
+   "linear-gradient(rgb(37, 86, 138) 0%, rgb(20, 53, 88) 100%)",
+   "linear-gradient(212deg, rgb(167, 133, 85) 0%, rgb(132, 101, 58) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Sora",
+   "uso_pct": 90
+  },
+  {
+   "familia": "Nunito Sans",
+   "uso_pct": 7
+  },
+  {
+   "familia": "Trustindex Poppins",
+   "uso_pct": 3
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  42,
+  36,
+  32,
+  22,
+  20,
+  18
+ ],
+ "escala_tipografica_mobile_px": [
+  25,
+  24,
+  20,
+  18,
+  18,
+  16,
+  16,
+  16
+ ],
+ "h1_mobile": "26.91px",
+ "botao_principal": {
+  "fundo": "#00000000",
+  "gradiente": null,
+  "texto": "#A78555",
+  "raio": "6px",
+  "padding": "16px 26px",
+  "fonte": "Sora",
+  "tamanho": "16px",
+  "peso": "400",
+  "caixa": "none",
+  "exemplos": [
+   "Solicitar vistoria de entrada",
+   "Solicitar vistoria de saída",
+   "Solicitar laudo comparativo"
+  ]
+ },
+ "raios": [
+  "12px",
+  "8px",
+  "6px",
+  "30px",
+  "10%",
+  "23px"
+ ],
+ "sombras": [
+  "rgba(0, 0, 0, 0.11) 5px 6px 12px -4px",
+  "rgba(0, 0, 0, 0.11) 7px 7px 6px 0px"
+ ],
+ "gaps": [
+  "20px",
+  "14px",
+  "12px",
+  "30px",
+  "5px",
+  "16px"
+ ],
+ "largura_conteudo_px": 1140,
+ "altura_pagina_px": 9540,
+ "secoes_qtde": 14,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "Segurança técnica do início ao fim da locação",
+   "fundo": "#0F223C",
+   "altura_px": 700
+  },
+  {
+   "ordem": 2,
+   "tipo": "numeros",
+   "titulo": "",
+   "fundo": "#2B4F80",
+   "altura_px": 70
+  },
+  {
+   "ordem": 3,
+   "tipo": "solucao",
+   "titulo": "SOLUÇÕES COMPLETAS PARA LOCAÇÕES IMOBILIÁRIAS",
+   "fundo": "#FFFFFF",
+   "altura_px": 577
+  },
+  {
+   "ordem": 4,
+   "tipo": "servicos",
+   "titulo": "NOSSAS SOLUÇÕES",
+   "fundo": "#F3F9FF",
+   "altura_px": 2020
+  },
+  {
+   "ordem": 5,
+   "tipo": "como-funciona",
+   "titulo": "UMA SOLUÇÃO DO INÍCIO AO FIM",
+   "fundo": "#FFFFFF",
+   "altura_px": 776
+  },
+  {
+   "ordem": 6,
+   "tipo": "como-funciona",
+   "titulo": "COMO FUNCIONA",
+   "fundo": "#FFFFFF",
+   "altura_px": 653
+  },
+  {
+   "ordem": 7,
+   "tipo": "para-quem-e",
+   "titulo": "PARA QUEM SÃO AS NOSSAS SOLUÇÕES?",
+   "fundo": "#F3F9FF",
+   "altura_px": 871
+  },
+  {
+   "ordem": 8,
+   "tipo": "diferenciais",
+   "titulo": "DIFERENCIAIS",
+   "fundo": "#234F80",
+   "altura_px": 633
+  },
+  {
+   "ordem": 9,
+   "tipo": "dor",
+   "titulo": "Evite que a entrega do imóvel se transforme em um problema",
+   "fundo": "#1A3454",
+   "altura_px": 533
+  },
+  {
+   "ordem": 10,
+   "tipo": "prova-social",
+   "titulo": "AVALIAÇÕES DOS NOSSOS CLIENTES",
+   "fundo": "#FFFFFF",
+   "altura_px": 631
+  },
+  {
+   "ordem": 11,
+   "tipo": "faq",
+   "titulo": "PERGUNTAS FREQUENTES",
+   "fundo": "#FAFAFA",
+   "altura_px": 790
+  },
+  {
+   "ordem": 12,
+   "tipo": "cta-final",
+   "titulo": "Precisa receber ou entregar um imóvel?",
+   "fundo": "#0E1B2C",
+   "altura_px": 424
+  },
+  {
+   "ordem": 13,
+   "tipo": "contato",
+   "titulo": "CONTATO",
+   "fundo": "gradiente",
+   "altura_px": 721
+  },
+  {
+   "ordem": 14,
+   "tipo": "rodape",
+   "titulo": "Alameda Grajaú 614 | The Office",
+   "fundo": "#0F2642",
+   "altura_px": 140
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "numeros",
+  "solucao",
+  "servicos",
+  "como-funciona",
+  "como-funciona",
+  "para-quem-e",
+  "diferenciais",
+  "dor",
+  "prova-social",
+  "faq",
+  "cta-final",
+  "contato",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "claro",
+  "azul-marinho",
+  "dourado",
+  "b2b",
+  "organizado"
+ ],
+ "tecnicas": [
+  "Faixa animada (icon-list carrossel)",
+  "Uma mensagem de WhatsApp por CTA de serviço"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "carrossel",
+   "fadeIn",
+   "fadeInUp"
+  ],
+  "entrada_elementor": [
+   "fadeIn",
+   "fadeInUp"
+  ],
+  "classes_scroll": [
+   "scroll-bottom",
+   "scroll-left",
+   "scroll-right",
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "jquery",
+  "lottie",
+  "swiper"
+ ],
+ "snippets_usados": [
+  "animacoes/animacao-scroll-reveal.html",
+  "animacoes/animacao-scroll-reveal-blur.css",
+  "cards-e-bordas/vidro-fosco.css",
+  "faixas-e-carrosseis/faixa-animada-infinita.html",
+  "whatsapp-e-flutuantes/link-whatsapp-com-mensagem.html",
+  "whatsapp-e-flutuantes/whatsapp-flutuante-lottie.md",
+  "utilitarios-css/css-base-toda-pagina.css",
+  "utilitarios-css/botao-icone-tamanho.css",
+  "utilitarios-css/elemento-posicao-absoluta.css"
+ ],
+ "relevancia": 5,
+ "resumo": "Serviço B2B de vistoria imobiliária, muito completo e organizado. Hero com card de serviços, faixa animada com checks, cards brancos com listas de check por serviço, etapas numeradas em cards navy, 'para quem é' em cards brancos e diferenciais em grid de checks.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/imob-vistoria-alphaville.md",
+  "json_elementor": null
+ }
+}

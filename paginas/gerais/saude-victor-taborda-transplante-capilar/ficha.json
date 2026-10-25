@@ -1,0 +1,227 @@
+{
+ "nome": "Transplante Capilar em Guarapuava | Dr. Victor Taborda",
+ "slug": "saude-victor-taborda-transplante-capilar",
+ "pasta_original": "Dr Victor LP",
+ "origem": "paginas/gerais",
+ "prioridade": "referencia",
+ "url": "https://drvictortaborda.com.br/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Saúde / medicina",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#F4F5F1",
+   "#363A35",
+   "#FCFCFC"
+  ],
+  "textos": [
+   "#555A50",
+   "#656764",
+   "#33372F",
+   "#FCFCFC",
+   "#EAEDE6",
+   "#484F46"
+  ],
+  "destaques": [],
+  "gradientes": [
+   "linear-gradient(90deg, rgb(72, 79, 70) 0%, rgb(141, 151, 138) 100%)",
+   "radial-gradient(115% 115% at 100% 0%, rgba(149, 160, 146, 0.1), rgba(0, 0, 0, 0) 50%), linear-gradient(158deg, rgb(255, 255, 255) 0%, rgb(246, 247, 244) 55%, rgb(238, 241, 235) 100%)",
+   "radial-gradient(125% 130% at 85% 0%, rgba(149, 160, 146, 0.34), rgba(0, 0, 0, 0) 56%), none"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Neue montreal",
+   "uso_pct": 81
+  },
+  {
+   "familia": "Neue Montreal",
+   "uso_pct": 19
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  56,
+  48,
+  40,
+  37,
+  32,
+  29,
+  28,
+  24,
+  21,
+  19
+ ],
+ "escala_tipografica_mobile_px": [
+  40,
+  32,
+  32,
+  24,
+  24,
+  19,
+  19,
+  18
+ ],
+ "h1_mobile": "40px",
+ "botao_principal": {
+  "fundo": "#484F4600",
+  "gradiente": null,
+  "texto": "#FCFCFC",
+  "raio": "0px",
+  "padding": "20px 32px",
+  "fonte": "Neue montreal",
+  "tamanho": "16px",
+  "peso": "500",
+  "caixa": "none",
+  "exemplos": [
+   "Agendar minha consulta",
+   "Entrar em contato agora",
+   "Ver todas as avaliações no Google"
+  ]
+ },
+ "raios": [
+  "20px",
+  "8px",
+  "18px",
+  "3px",
+  "10px",
+  "16px"
+ ],
+ "sombras": [
+  "rgba(255, 255, 255, 0.6) 0px 1px 0px 0px inset",
+  "rgba(54, 58, 53, 0.55) 0px 10px 24px -10px, rgba(255, 255, 255, 0.18) 0px 1px 0px 0px inset",
+  "rgba(255, 255, 255, 0.6) 0px 1px 0px 0px inset, rgba(54, 58, 53, 0.5) 0px 14px 30px -22px"
+ ],
+ "gaps": [
+  "20px",
+  "5px",
+  "10px",
+  "12px",
+  "0px 10px",
+  "18px"
+ ],
+ "largura_conteudo_px": 1280,
+ "altura_pagina_px": 9889,
+ "secoes_qtde": 10,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "Transplante capilar em Guarapuava: Encontre-se novamente no espelho",
+   "fundo": "transparente",
+   "altura_px": 889
+  },
+  {
+   "ordem": 2,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "gradiente",
+   "altura_px": 470
+  },
+  {
+   "ordem": 3,
+   "tipo": "",
+   "titulo": "A queda de cabelo vai muito além do espelho",
+   "fundo": "#F4F5F1",
+   "altura_px": 2075
+  },
+  {
+   "ordem": 4,
+   "tipo": "",
+   "titulo": "Resultado natural é prioridade",
+   "fundo": "gradiente",
+   "altura_px": 1112
+  },
+  {
+   "ordem": 5,
+   "tipo": "servicos",
+   "titulo": "Tratamentos e procedimentos",
+   "fundo": "#FFFFFF",
+   "altura_px": 719
+  },
+  {
+   "ordem": 6,
+   "tipo": "sobre",
+   "titulo": "Dr. Victor Taborda",
+   "fundo": "transparente",
+   "altura_px": 966
+  },
+  {
+   "ordem": 7,
+   "tipo": "",
+   "titulo": "Consulta",
+   "fundo": "#F4F5F1",
+   "altura_px": 707
+  },
+  {
+   "ordem": 8,
+   "tipo": "faq",
+   "titulo": "Dúvidas que todo paciente tem",
+   "fundo": "transparente",
+   "altura_px": 747
+  },
+  {
+   "ordem": 9,
+   "tipo": "prova-social",
+   "titulo": "O que os pacientes contam sobre o atendimento",
+   "fundo": "transparente",
+   "altura_px": 831
+  },
+  {
+   "ordem": 10,
+   "tipo": "como-funciona",
+   "titulo": "Dê o primeiro passo para recuperar o seu cabelo",
+   "fundo": "transparente",
+   "altura_px": 697
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "",
+  "",
+  "",
+  "servicos",
+  "sobre",
+  "",
+  "faq",
+  "prova-social",
+  "como-funciona"
+ ],
+ "tags_estilo": [
+  "verde-acinzentado",
+  "off-white",
+  "serifa-italica",
+  "clinico-premium"
+ ],
+ "tecnicas": [
+  "Itálico colorido",
+  "Ressalva de conteúdo informativo sob o CTA"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "bp-fluxo",
+   "bp-pulse",
+   "seta-cima-baixo"
+  ],
+  "entrada_elementor": [],
+  "classes_scroll": []
+ },
+ "bibliotecas": [
+  "ga4",
+  "jquery",
+  "lottie",
+  "meta-pixel",
+  "swiper"
+ ],
+ "snippets_usados": [],
+ "relevancia": 5,
+ "resumo": "Transplante capilar em Guarapuava, verde acinzentado e off-white com serifa itálica. Fotos de identificação com legenda ('Você evita certas fotos'), cards 01 a 04 de diferenciais, tratamentos, bio com timeline de formação, 4 passos, FAQ com card escuro de dúvidas e Google.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": null,
+  "copy_real": null,
+  "json_elementor": null,
+  "ref": "ref/"
+ }
+}

@@ -1,0 +1,304 @@
+{
+ "nome": "PÁGINA JESSICA SCRIPT",
+ "slug": "vendas-scripts-consignado-jessica",
+ "pasta_original": "Vendas Scripts",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://lp.oreidalanding.com.br/pagina-jessica-script/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Página de vendas",
+ "tipo_pagina": "vendas",
+ "paleta": {
+  "fundos": [
+   "#000000",
+   "#0E0E0E",
+   "#252525",
+   "#8F4A10",
+   "#1C1C1C",
+   "#0B4E03"
+  ],
+  "textos": [
+   "#FFFFFF",
+   "#000000",
+   "#F5811E",
+   "#FCCC69",
+   "#31170D",
+   "#29FF0F"
+  ],
+  "destaques": [
+   "#8F4A10",
+   "#F5811E",
+   "#FCCC69",
+   "#31170D"
+  ],
+  "gradientes": [
+   "linear-gradient(rgb(0, 0, 0) 0%, rgb(41, 41, 41) 100%)",
+   "linear-gradient(rgb(14, 14, 14) 0%, rgb(105, 56, 12) 100%)",
+   "linear-gradient(rgb(6, 31, 3) 0%, rgb(14, 65, 8) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Inter",
+   "uso_pct": 68
+  },
+  {
+   "familia": "Nunito Sans",
+   "uso_pct": 18
+  },
+  {
+   "familia": "Roboto",
+   "uso_pct": 9
+  },
+  {
+   "familia": "Montserrat",
+   "uso_pct": 5
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  54,
+  49,
+  43,
+  39,
+  31,
+  22,
+  21,
+  20
+ ],
+ "escala_tipografica_mobile_px": [
+  28,
+  28,
+  25,
+  22,
+  18,
+  16,
+  16,
+  16
+ ],
+ "h1_mobile": "28.08px",
+ "botao_principal": {
+  "fundo": "#00000000",
+  "gradiente": "radial-gradient(51.25% 80.52% at 50.14% 0%, rgb(253, 209, 110) 0%, rgb(245, 129, 30) 100%)",
+  "texto": "#31170D",
+  "raio": "104px",
+  "padding": "26px 42px",
+  "fonte": "Inter",
+  "tamanho": "20px",
+  "peso": "600",
+  "caixa": "uppercase",
+  "exemplos": [
+   "QUERO TER ACESSO AGORA"
+  ]
+ },
+ "raios": [
+  "8px",
+  "999px",
+  "12px",
+  "104px",
+  "20px",
+  "24px"
+ ],
+ "sombras": [
+  "rgba(0, 0, 0, 0.64) 10px 10px 39px 0px",
+  "rgba(0, 0, 0, 0.71) 0px 0px 59px 0px",
+  "rgba(41, 255, 15, 0.27) 0px 0px 76px -16px",
+  "rgba(0, 0, 0, 0.5) 13px 12px 56px 0px"
+ ],
+ "gaps": [
+  "24px",
+  "9px",
+  "20px",
+  "5px",
+  "14px",
+  "25px"
+ ],
+ "largura_conteudo_px": 1240,
+ "altura_pagina_px": 9862,
+ "secoes_qtde": 14,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "GUIA DIGITAL · ACESSO IMEDIATO",
+   "fundo": "#000000",
+   "altura_px": 800
+  },
+  {
+   "ordem": 2,
+   "tipo": "faixa",
+   "titulo": "",
+   "fundo": "gradiente",
+   "altura_px": 70
+  },
+  {
+   "ordem": 3,
+   "tipo": "prova-social",
+   "titulo": "DEPOIMENTOS",
+   "fundo": "gradiente",
+   "altura_px": 814
+  },
+  {
+   "ordem": 4,
+   "tipo": "dor",
+   "titulo": "PROBLEMA",
+   "fundo": "#000000",
+   "altura_px": 927
+  },
+  {
+   "ordem": 5,
+   "tipo": "solucao",
+   "titulo": "SOLUÇÃO",
+   "fundo": "#252525",
+   "altura_px": 729
+  },
+  {
+   "ordem": 6,
+   "tipo": "como-funciona",
+   "titulo": "PASSO A PASSO",
+   "fundo": "#000000",
+   "altura_px": 601
+  },
+  {
+   "ordem": 7,
+   "tipo": "conteudo",
+   "titulo": "CONTEÚDO",
+   "fundo": "#0E0E0E",
+   "altura_px": 1043
+  },
+  {
+   "ordem": 8,
+   "tipo": "bonus",
+   "titulo": "BÔNUS EXCLUSIVO",
+   "fundo": "#000000",
+   "altura_px": 693
+  },
+  {
+   "ordem": 9,
+   "tipo": "oferta",
+   "titulo": "Tenha acesso imediato ao material completo.",
+   "fundo": "gradiente",
+   "altura_px": 1222
+  },
+  {
+   "ordem": 10,
+   "tipo": "garantia",
+   "titulo": "GARANTIA DE 7 DIAS",
+   "fundo": "#000000",
+   "altura_px": 879
+  },
+  {
+   "ordem": 11,
+   "tipo": "sobre",
+   "titulo": "QUEM SOU EU",
+   "fundo": "#0E0E0E",
+   "altura_px": 822
+  },
+  {
+   "ordem": 12,
+   "tipo": "faixa",
+   "titulo": "",
+   "fundo": "gradiente",
+   "altura_px": 70
+  },
+  {
+   "ordem": 13,
+   "tipo": "faq",
+   "titulo": "Perguntas frequentes",
+   "fundo": "#000000",
+   "altura_px": 957
+  },
+  {
+   "ordem": 14,
+   "tipo": "rodape",
+   "titulo": "",
+   "fundo": "#0E0E0E",
+   "altura_px": 236
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "faixa",
+  "prova-social",
+  "dor",
+  "solucao",
+  "como-funciona",
+  "conteudo",
+  "bonus",
+  "oferta",
+  "garantia",
+  "sobre",
+  "faixa",
+  "faq",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "preto",
+  "laranja",
+  "glow",
+  "produto-digital"
+ ],
+ "tecnicas": [
+  "Textura quadriculada",
+  "Faixa animada",
+  "Faixa glow no topo do card"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "btn-spin",
+   "carrossel",
+   "fadeIn",
+   "fadeInUp",
+   "float",
+   "liquidMove",
+   "moveGlow",
+   "pulseGlow"
+  ],
+  "entrada_elementor": [
+   "fadeIn",
+   "fadeInUp"
+  ],
+  "classes_scroll": [
+   "scroll-bottom",
+   "scroll-left",
+   "scroll-right",
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "google-ads",
+  "happy-addons",
+  "jquery",
+  "lenis",
+  "lottie",
+  "meta-pixel",
+  "swiper"
+ ],
+ "snippets_usados": [
+  "botoes/botao-borda-girando-conic.css",
+  "animacoes/animacao-scroll-reveal.html",
+  "animacoes/animacao-scroll-reveal-blur.css",
+  "cards-e-bordas/faixa-glow-topo-card.css",
+  "cards-e-bordas/vidro-fosco.css",
+  "cards-e-bordas/hover-escala.css",
+  "faixas-e-carrosseis/faixa-animada-infinita.html",
+  "faixas-e-carrosseis/carrossel-linear-continuo.css",
+  "faixas-e-carrosseis/carrossel-imagem-largura.css",
+  "fundos-e-texturas/textura-quadriculada.css",
+  "tracking-e-pixels/meta-pixel.html",
+  "tracking-e-pixels/google-ads-gtag.html",
+  "utilitarios-css/css-base-toda-pagina.css",
+  "utilitarios-css/botao-icone-tamanho.css",
+  "utilitarios-css/elemento-posicao-absoluta.css"
+ ],
+ "relevancia": 5,
+ "resumo": "A página de vendas mais completa da casa. Preto com glow laranja, mockups do PDF, faixa animada, prints de alunos, balões de fala na dor, bloco de solução laranja, 3 passos, conteúdo em 2 colunas de checks, bônus em verde, oferta com mockups, selo de garantia e bio.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/vendas-scripts-consignado-jessica.md",
+  "json_elementor": "../../../elementor/paginas/vendas/vendas-scripts-consignado-jessica.json"
+ }
+}

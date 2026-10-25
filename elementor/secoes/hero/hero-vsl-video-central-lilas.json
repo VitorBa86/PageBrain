@@ -1,0 +1,293 @@
+{
+ "content": [
+  {
+   "id": "55c45a1b",
+   "settings": {
+    "flex_direction": "column",
+    "min_height": {
+     "unit": "px",
+     "size": 670,
+     "sizes": []
+    },
+    "flex_align_items": "center",
+    "background_color": "#DCD6F7",
+    "padding": {
+     "unit": "px",
+     "top": "30",
+     "right": "0",
+     "bottom": "30",
+     "left": "0",
+     "isLinked": false
+    },
+    "boxed_width_mobile": {
+     "unit": "%",
+     "size": 90,
+     "sizes": []
+    },
+    "eae_slider_delay": "5000",
+    "gradient_color_list": [
+     {
+      "eae_animated_gradient_color": "#00a6d8",
+      "_id": "bfa0281"
+     },
+     {
+      "eae_animated_gradient_color": "#b800c9",
+      "_id": "d9036a0"
+     },
+     {
+      "eae_animated_gradient_color": "#e57600",
+      "_id": "2f52329"
+     }
+    ]
+   },
+   "elements": [
+    {
+     "id": "49060f61",
+     "settings": {
+      "image": {
+       "url": "",
+       "id": "",
+       "size": "",
+       "alt": "",
+       "source": "library"
+      },
+      "_margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "20",
+       "left": "0",
+       "isLinked": false
+      },
+      "_element_width": "initial",
+      "_element_custom_width": {
+       "unit": "px",
+       "size": 261,
+       "sizes": []
+      },
+      "width_mobile": {
+       "unit": "%",
+       "size": 83,
+       "sizes": []
+      }
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "image",
+     "elType": "widget"
+    },
+    {
+     "id": "47abc38a",
+     "settings": {
+      "title": "Lorem Ipsum is simply dummy text .",
+      "align": "center",
+      "title_color": "#000000",
+      "typography_typography": "custom",
+      "typography_font_family": "Playfair Display",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 42,
+       "sizes": []
+      },
+      "typography_font_weight": "600",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.3,
+       "sizes": []
+      },
+      "_margin": {
+       "unit": "px",
+       "top": "-5",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "_padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "typography_font_size_mobile": {
+       "unit": "vw",
+       "size": 7.2,
+       "sizes": []
+      }
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "heading",
+     "elType": "widget"
+    },
+    {
+     "id": "5d852f16",
+     "settings": {
+      "title": "<span style=\"font-weight:500;background:#814CA2;color:white\">Loren Impsun</span>\nprinting and typesetting industry.",
+      "align": "center",
+      "title_color": "#000000",
+      "typography_typography": "custom",
+      "typography_font_family": "Montserrat",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 21,
+       "sizes": []
+      },
+      "typography_font_weight": "400",
+      "_margin": {
+       "unit": "px",
+       "top": "5",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "typography_font_size_mobile": {
+       "unit": "vw",
+       "size": 4.4,
+       "sizes": []
+      },
+      "typography_line_height_mobile": {
+       "unit": "em",
+       "size": 1.4,
+       "sizes": []
+      }
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "heading",
+     "elType": "widget"
+    },
+    {
+     "id": "3a7779b5",
+     "settings": {
+      "content_width": "full",
+      "youtube_url": "https://www.youtube.com/watch?v=XHOmBV4js_E",
+      "vimeo_url": "https://vimeo.com/235215203",
+      "dailymotion_url": "https://www.dailymotion.com/video/x6tqhqb",
+      "videopress_url": "https://videopress.com/v/ZCAOzTNk",
+      "_element_width": "initial",
+      "_element_custom_width": {
+       "unit": "%",
+       "size": 51,
+       "sizes": []
+      },
+      "_element_custom_width_mobile": {
+       "unit": "px",
+       "size": 308,
+       "sizes": []
+      }
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "video",
+     "elType": "widget"
+    },
+    {
+     "id": "2f669f68",
+     "settings": {
+      "text": "QUERO SER MILIONÁRIA! <br><span style=\"font-weight:400\">Garanta seu acesso!</span>",
+      "typography_typography": "custom",
+      "typography_font_family": "Montserrat",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 16,
+       "sizes": []
+      },
+      "typography_font_weight": "600",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.2,
+       "sizes": []
+      },
+      "background_color": "#FFFFFF00",
+      "background_color_b": "#F2295B",
+      "background_gradient_angle": {
+       "unit": "deg",
+       "size": 79,
+       "sizes": []
+      },
+      "hover_animation": "grow",
+      "border_radius": {
+       "unit": "px",
+       "top": "7",
+       "right": "7",
+       "bottom": "7",
+       "left": "7",
+       "isLinked": true
+      },
+      "text_padding": {
+       "unit": "px",
+       "top": "18",
+       "right": "70",
+       "bottom": "18",
+       "left": "70",
+       "isLinked": false
+      },
+      "button_css_id": "bt_pulse",
+      "align_mobile": "justify",
+      "button_box_shadow_box_shadow": {
+       "horizontal": 0,
+       "vertical": 0,
+       "blur": 48,
+       "spread": 1,
+       "color": "#FF72FC"
+      },
+      "text_padding_mobile": {
+       "unit": "px",
+       "top": "18",
+       "right": "0",
+       "bottom": "18",
+       "left": "0",
+       "isLinked": false
+      },
+      "_element_width_mobile": "initial",
+      "custom_css": "selector .elementor-button{\r\n    animation: 2s cubic-bezier(0.2, 0.5, 0.9, 0.6) 2s infinite brilho;\r\n    background-image: linear-gradient(45deg, #814CA2, #F2295B, #814CA2, #F2295B); /*troque as cores aqui, repetindo conforme indicado*/\r\n    background-size: 400% 200%;\r\n    transition: all .8s;\r\n}\r\n\r\n@keyframes brilho{\r\n    0% {\r\n        background-position: 0 0;\r\n    }  \r\n\r\n    100% {\r\n        background-position: 100% 0;\r\n    }\r\n}\r\n",
+      "_element_custom_width_mobile": {
+       "unit": "%",
+       "size": 80,
+       "sizes": []
+      },
+      "link": {
+       "url": "",
+       "is_external": "",
+       "nofollow": "",
+       "custom_attributes": ""
+      }
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "button",
+     "elType": "widget"
+    },
+    {
+     "id": "571b719a",
+     "settings": {
+      "selected_icon": {
+       "value": "fas fa-arrow-alt-circle-down",
+       "library": "fa-solid"
+      },
+      "primary_color": "#814CA2",
+      "size": {
+       "unit": "px",
+       "size": 39,
+       "sizes": []
+      }
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "icon",
+     "elType": "widget"
+    }
+   ],
+   "isInner": false,
+   "elType": "container"
+  }
+ ],
+ "page_settings": [],
+ "version": "0.4",
+ "title": "Inicial - dobra 05",
+ "type": "container"
+}

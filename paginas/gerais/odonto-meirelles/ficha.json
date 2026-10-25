@@ -1,0 +1,237 @@
+{
+ "nome": "Meirelles Odontologia · Transformando sorrisos",
+ "slug": "odonto-meirelles",
+ "pasta_original": "Meirelle Odonto",
+ "origem": "paginas/gerais",
+ "prioridade": "referencia",
+ "url": "https://meirellesodontologia.com.br/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Odontologia",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#F3DAD1",
+   "#1B1B1B",
+   "#CCAA5D",
+   "#807451",
+   "#E4E4E4"
+  ],
+  "textos": [
+   "#1B1B1B",
+   "#FFFFFF",
+   "#807451",
+   "#7F7D7D"
+  ],
+  "destaques": [
+   "#CCAA5D",
+   "#807451"
+  ],
+  "gradientes": [
+   "linear-gradient(rgb(214, 186, 175) 0%, rgb(243, 218, 209) 100%)",
+   "linear-gradient(rgb(255, 255, 255) 24%, rgb(243, 218, 209) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Poppins",
+   "uso_pct": 100
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  38,
+  32,
+  22,
+  20,
+  16,
+  14,
+  13
+ ],
+ "escala_tipografica_mobile_px": [
+  32,
+  26,
+  20,
+  20,
+  16,
+  16,
+  14,
+  13
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#CCAA5D",
+  "gradiente": null,
+  "texto": "#FFFFFF",
+  "raio": "3px",
+  "padding": "12px 24px",
+  "fonte": "Poppins",
+  "tamanho": "20px",
+  "peso": "500",
+  "caixa": "none",
+  "exemplos": [
+   "Renove seu sorriso agora",
+   "Desperte o seu sorriso",
+   "Sorria com confiança"
+  ]
+ },
+ "raios": [
+  "3px",
+  "0px 0px 50px 50px",
+  "15px",
+  "50px 50px 0px 0px",
+  "30px",
+  "25px"
+ ],
+ "sombras": [],
+ "gaps": [
+  "20px",
+  "5px"
+ ],
+ "largura_conteudo_px": 1140,
+ "altura_pagina_px": 5812,
+ "secoes_qtde": 13,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "Transforme seu Sorriso com Tecnologia de Ponta na Meirelles Odontologia",
+   "fundo": "imagem",
+   "altura_px": 720
+  },
+  {
+   "ordem": 2,
+   "tipo": "sobre",
+   "titulo": "Sobre a Meirelles Odontologia",
+   "fundo": "transparente",
+   "altura_px": 689
+  },
+  {
+   "ordem": 3,
+   "tipo": "beneficios",
+   "titulo": "Benefícios de Sorrir com a Meirelles",
+   "fundo": "gradiente",
+   "altura_px": 949
+  },
+  {
+   "ordem": 4,
+   "tipo": "sobre",
+   "titulo": "Nossa Equipe de Especialistas",
+   "fundo": "#F3DAD1",
+   "altura_px": 540
+  },
+  {
+   "ordem": 5,
+   "tipo": "",
+   "titulo": "Nossa Clínica",
+   "fundo": "transparente",
+   "altura_px": 340
+  },
+  {
+   "ordem": 6,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 120
+  },
+  {
+   "ordem": 7,
+   "tipo": "",
+   "titulo": "Tecnologia de Ponta para Seu Sorriso",
+   "fundo": "gradiente",
+   "altura_px": 810
+  },
+  {
+   "ordem": 8,
+   "tipo": "cta-final",
+   "titulo": "Agende Sua Consulta Agora",
+   "fundo": "imagem",
+   "altura_px": 410
+  },
+  {
+   "ordem": 9,
+   "tipo": "cta-final",
+   "titulo": "Entre em Contato Conosco",
+   "fundo": "transparente",
+   "altura_px": 469
+  },
+  {
+   "ordem": 10,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 450
+  },
+  {
+   "ordem": 11,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 238
+  },
+  {
+   "ordem": 12,
+   "tipo": "",
+   "titulo": "Adicione o texto do seu título aqui",
+   "fundo": "#1B1B1B",
+   "altura_px": 56
+  },
+  {
+   "ordem": 13,
+   "tipo": "rodape",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 20
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "sobre",
+  "beneficios",
+  "sobre",
+  "",
+  "",
+  "",
+  "cta-final",
+  "cta-final",
+  "",
+  "",
+  "",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "rose",
+  "dourado",
+  "claro",
+  "simples"
+ ],
+ "tecnicas": [
+  "Google reviews"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "ctcBounce",
+   "ctc_fadeIn",
+   "ht_ctc_anim_corner",
+   "ht_ctc_cta_stick"
+  ],
+  "entrada_elementor": [],
+  "classes_scroll": []
+ },
+ "bibliotecas": [
+  "ga4",
+  "gtm",
+  "jquery",
+  "swiper"
+ ],
+ "snippets_usados": [],
+ "relevancia": 2,
+ "resumo": "Clínica odontológica simples em rosé e dourado: hero com foto do consultório, sobre, 6 benefícios com ícone, equipe, Google reviews, tecnologia e CTA final.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": null,
+  "copy_real": null,
+  "json_elementor": null,
+  "ref": "ref/"
+ }
+}

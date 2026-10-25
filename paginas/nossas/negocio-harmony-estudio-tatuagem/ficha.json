@@ -1,0 +1,242 @@
+{
+ "nome": "Estudio Tatuagem [Harmony Midia] · Harmony Midia",
+ "slug": "negocio-harmony-estudio-tatuagem",
+ "pasta_original": "Harmony Midia",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://harmonymidia.com/tatuadores/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Negócio local / B2B",
+ "tipo_pagina": "aplicacao",
+ "paleta": {
+  "fundos": [
+   "#070708",
+   "#FBFBFB",
+   "#252525",
+   "#17171D",
+   "#291E3D",
+   "#A77CFF"
+  ],
+  "textos": [
+   "#FFFFFF",
+   "#A77CFF",
+   "#000000"
+  ],
+  "destaques": [
+   "#A77CFF",
+   "#291E3D"
+  ],
+  "gradientes": [
+   "linear-gradient(rgba(255, 255, 255, 0.12) 0%, rgba(255, 255, 255, 0.2) 100%)",
+   "linear-gradient(rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.08) 100%)",
+   "linear-gradient(45deg, rgb(167, 124, 255), rgb(119, 52, 255), rgb(167, 124, 255), rgb(119, 52, 255))"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Nunito Sans",
+   "uso_pct": 98
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  48,
+  36,
+  24,
+  20,
+  18
+ ],
+ "escala_tipografica_mobile_px": [
+  35,
+  33,
+  28,
+  25,
+  24,
+  20,
+  18,
+  16
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#A77CFF",
+  "gradiente": null,
+  "texto": "#FFFFFF",
+  "raio": "13px",
+  "padding": "22px 22px",
+  "fonte": "Nunito Sans",
+  "tamanho": "18px",
+  "peso": "500",
+  "caixa": "none",
+  "exemplos": [
+   "MEU JOGO TAMBÉM VAI VIRAR",
+   "PRECISO FOCAR TAMBÉM NA MINHA ARTE",
+   "QUERO SUPERAR TAMBÉM"
+  ]
+ },
+ "raios": [
+  "13px",
+  "12px",
+  "22px",
+  "25px",
+  "11px",
+  "34px"
+ ],
+ "sombras": [],
+ "gaps": [
+  "20px",
+  "15px",
+  "5px",
+  "40px",
+  "10px"
+ ],
+ "largura_conteudo_px": 1140,
+ "altura_pagina_px": 9879,
+ "secoes_qtde": 11,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "Tenha um fluxo constante de pessoas interessadas em tatuar com você todos os dia",
+   "fundo": "#070708",
+   "altura_px": 800
+  },
+  {
+   "ordem": 2,
+   "tipo": "faixa",
+   "titulo": "",
+   "fundo": "gradiente",
+   "altura_px": 80
+  },
+  {
+   "ordem": 3,
+   "tipo": "prova-social",
+   "titulo": "Confira o depoimentos de alguns de nossos clientes",
+   "fundo": "#FBFBFB",
+   "altura_px": 2304
+  },
+  {
+   "ordem": 4,
+   "tipo": "dor",
+   "titulo": "Descubra agora as principais causas que estão impedindo seu estúdio de faturar m",
+   "fundo": "#17171D",
+   "altura_px": 1485
+  },
+  {
+   "ordem": 5,
+   "tipo": "metodo",
+   "titulo": "Método SCINK",
+   "fundo": "#FBFBFB",
+   "altura_px": 667
+  },
+  {
+   "ordem": 6,
+   "tipo": "metodo",
+   "titulo": "Uma metodologia de captação validada com mais de 20 estúdios",
+   "fundo": "#070708",
+   "altura_px": 1044
+  },
+  {
+   "ordem": 7,
+   "tipo": "servicos",
+   "titulo": "O que fazemos?",
+   "fundo": "#070708",
+   "altura_px": 771
+  },
+  {
+   "ordem": 8,
+   "tipo": "prova-resultados",
+   "titulo": "Resultados da nossa estratégia:",
+   "fundo": "#070708",
+   "altura_px": 939
+  },
+  {
+   "ordem": 9,
+   "tipo": "sobre",
+   "titulo": "Sobre nós",
+   "fundo": "#291E3D",
+   "altura_px": 800
+  },
+  {
+   "ordem": 10,
+   "tipo": "faq",
+   "titulo": "Perguntas Frequentes",
+   "fundo": "#070708",
+   "altura_px": 969
+  },
+  {
+   "ordem": 11,
+   "tipo": null,
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 20
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "faixa",
+  "prova-social",
+  "dor",
+  "metodo",
+  "metodo",
+  "servicos",
+  "prova-resultados",
+  "sobre",
+  "faq"
+ ],
+ "tags_estilo": [
+  "roxo",
+  "preto",
+  "neon",
+  "agencia",
+  "digital"
+ ],
+ "tecnicas": [
+  "Texto com gradiente animado (.brilho)",
+  "Textura quadriculada no fundo",
+  "Faixa animada"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "brilho",
+   "carrossel",
+   "cmplz-fadein",
+   "flutuar",
+   "slideInRight"
+  ],
+  "entrada_elementor": [],
+  "classes_scroll": [
+   "scroll-bottom",
+   "scroll-left",
+   "scroll-right",
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "gtm",
+  "jquery",
+  "lottie",
+  "meta-pixel",
+  "swiper"
+ ],
+ "snippets_usados": [
+  "animacoes/animacao-scroll-reveal.html",
+  "animacoes/texto-gradiente-animado.css",
+  "faixas-e-carrosseis/faixa-animada-infinita.html",
+  "faixas-e-carrosseis/carrossel-imagem-largura.css",
+  "tracking-e-pixels/meta-pixel.html",
+  "tracking-e-pixels/google-tag-manager.html",
+  "utilitarios-css/css-base-toda-pagina.css",
+  "utilitarios-css/botao-icone-tamanho.css",
+  "utilitarios-css/faq-toggle-arredondado.css"
+ ],
+ "relevancia": 3,
+ "resumo": "Agência de marketing para tatuadores em roxo e preto. Formulário já no hero, faixa animada, carrossel de vídeos verticais (reels) com thumbnails chamativas, prints de WhatsApp como prova, diagrama circular do método e cards de resultado.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/negocio-harmony-estudio-tatuagem.md",
+  "json_elementor": null
+ }
+}

@@ -1,0 +1,250 @@
+{
+ "nome": "PÁGINA LUIZ GUSTAVO DENTISTA",
+ "slug": "vendas-odonto-luiz-gustavo-melo",
+ "pasta_original": "Vendas Odonto Infoproduto",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://lp.oreidalanding.com.br/luizgustavomelo_/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Página de vendas",
+ "tipo_pagina": "vendas",
+ "paleta": {
+  "fundos": [
+   "#06132B",
+   "#071E3E",
+   "#0D3266",
+   "#155EC5",
+   "#0E2749",
+   "#FFFFFF"
+  ],
+  "textos": [
+   "#FFFFFF",
+   "#4C96FF",
+   "#000000"
+  ],
+  "destaques": [
+   "#155EC5",
+   "#FFFFFF",
+   "#071E3E",
+   "#0D3266",
+   "#4C96FF",
+   "#0E2749"
+  ],
+  "gradientes": [
+   "linear-gradient(rgb(6, 24, 49) 0%, rgb(7, 30, 62) 100%)",
+   "linear-gradient(rgb(7, 23, 46) 0%, rgb(7, 30, 62) 100%)",
+   "linear-gradient(rgb(16, 38, 80) 0%, rgb(8, 24, 54) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Sora",
+   "uso_pct": 97
+  },
+  {
+   "familia": "Roboto",
+   "uso_pct": 3
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  73,
+  58,
+  45,
+  44,
+  39,
+  30,
+  28,
+  25,
+  22,
+  20
+ ],
+ "escala_tipografica_mobile_px": [
+  30,
+  28,
+  26,
+  25,
+  22,
+  20,
+  18,
+  18
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#00000000",
+  "gradiente": "linear-gradient(171deg, rgba(255, 255, 255, 0.01) 0%, rgba(255, 255, 255, 0.16) 100%)",
+  "texto": "#FFFFFFA5",
+  "raio": "12px",
+  "padding": "12px 20px",
+  "fonte": "Sora",
+  "tamanho": "16px",
+  "peso": "400",
+  "caixa": "none",
+  "exemplos": [
+   "MÓDULO 02",
+   "MÓDULO 03",
+   "MÓDULO 04"
+  ]
+ },
+ "raios": [
+  "12px",
+  "22px",
+  "15px",
+  "23px",
+  "32px",
+  "18px"
+ ],
+ "sombras": [
+  "rgba(0, 0, 0, 0.5) 3px 6px 10px 0px",
+  "rgba(0, 0, 0, 0.15) 0px 8px 29px 5px",
+  "rgba(0, 0, 0, 0.36) 11px -9px 61px 0px",
+  "rgba(0, 0, 0, 0.5) 5px -5px 10px 0px"
+ ],
+ "gaps": [
+  "20px",
+  "5px",
+  "12px",
+  "18px",
+  "10px",
+  "28px"
+ ],
+ "largura_conteudo_px": 1140,
+ "altura_pagina_px": 7461,
+ "secoes_qtde": 10,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "CURSO DE CIRURGIAS ESTÉTICAS PERIODONTAIS",
+   "fundo": "#06132B",
+   "altura_px": 800
+  },
+  {
+   "ordem": 2,
+   "tipo": "beneficios",
+   "titulo": "O que você vai aprender e aplicar na prática",
+   "fundo": "gradiente",
+   "altura_px": 1285
+  },
+  {
+   "ordem": 3,
+   "tipo": "sobre",
+   "titulo": "Quem sou eu?",
+   "fundo": "#06132B",
+   "altura_px": 773
+  },
+  {
+   "ordem": 4,
+   "tipo": "beneficios",
+   "titulo": "Prepare-se para mudar sua forma de pensar cirurgia",
+   "fundo": "#081836",
+   "altura_px": 619
+  },
+  {
+   "ordem": 5,
+   "tipo": "para-quem-e",
+   "titulo": "Para quem é?",
+   "fundo": "gradiente",
+   "altura_px": 614
+  },
+  {
+   "ordem": 6,
+   "tipo": "conteudo",
+   "titulo": "Conteúdo completo da formação",
+   "fundo": "gradiente",
+   "altura_px": 565
+  },
+  {
+   "ordem": 7,
+   "tipo": "bonus",
+   "titulo": "Bônus exclusivo",
+   "fundo": "gradiente",
+   "altura_px": 732
+  },
+  {
+   "ordem": 8,
+   "tipo": "oferta",
+   "titulo": "Qual investimento?",
+   "fundo": "#06132B",
+   "altura_px": 1336
+  },
+  {
+   "ordem": 9,
+   "tipo": "garantia",
+   "titulo": "Perguntas Frequentes",
+   "fundo": "gradiente",
+   "altura_px": 677
+  },
+  {
+   "ordem": 10,
+   "tipo": "faq",
+   "titulo": "Todos os direitos reservados © 2026",
+   "fundo": "#081836",
+   "altura_px": 60
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "beneficios",
+  "sobre",
+  "beneficios",
+  "para-quem-e",
+  "conteudo",
+  "bonus",
+  "oferta",
+  "garantia",
+  "faq",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "azul-royal",
+  "escuro",
+  "gradiente",
+  "tecnologico"
+ ],
+ "tecnicas": [
+  "Borda degradê",
+  "Animação de selo"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "brilho"
+  ],
+  "entrada_elementor": [],
+  "classes_scroll": [
+   "scroll-bottom",
+   "scroll-left",
+   "scroll-right",
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "google-ads",
+  "happy-addons",
+  "jquery",
+  "lenis",
+  "lottie",
+  "meta-pixel",
+  "swiper"
+ ],
+ "snippets_usados": [
+  "botoes/botao-brilho-passando.css",
+  "animacoes/animacao-scroll-reveal.html",
+  "cards-e-bordas/card-borda-degrade.css",
+  "cards-e-bordas/vidro-fosco.css",
+  "tracking-e-pixels/meta-pixel.html",
+  "tracking-e-pixels/google-ads-gtag.html",
+  "utilitarios-css/css-base-toda-pagina.css",
+  "utilitarios-css/faq-toggle-arredondado.css"
+ ],
+ "relevancia": 4,
+ "resumo": "Venda de formação presencial para dentistas em azul royal escuro com gradientes. Palavra-chave em azul claro, cards de aprendizado com ícone, 'sobre' com duas fotos, abas de módulos, bônus, preço com âncora e selo circular de garantia de 7 dias.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/vendas-odonto-luiz-gustavo-melo.md",
+  "json_elementor": null
+ }
+}

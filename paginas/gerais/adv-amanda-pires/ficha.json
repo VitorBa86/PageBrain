@@ -1,0 +1,199 @@
+{
+ "nome": "AP | Advocacia e Assessoria Jurídica",
+ "slug": "adv-amanda-pires",
+ "pasta_original": "Amanda Adv",
+ "origem": "paginas/gerais",
+ "prioridade": "referencia",
+ "url": "https://amandapires.com.br/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Advocacia",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#00293F"
+  ],
+  "textos": [
+   "#FAFAFA",
+   "#C07D5A"
+  ],
+  "destaques": [
+   "#00293F",
+   "#C07D5A"
+  ],
+  "gradientes": [
+   "linear-gradient(90deg, rgb(0, 63, 96) 0.49%, rgb(4, 48, 71) 54.33%, rgb(2, 56, 84) 100%)",
+   "linear-gradient(135deg, rgba(255, 255, 255, 0.055) 0%, rgba(255, 255, 255, 0.016) 38%, rgba(255, 255, 255, 0) 65%), none",
+   "linear-gradient(135deg, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0.024) 35%, rgba(0, 0, 0, 0) 65%), none"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Urbanist",
+   "uso_pct": 78
+  },
+  {
+   "familia": "Baskervville",
+   "uso_pct": 22
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  58,
+  35,
+  28,
+  24,
+  18,
+  16,
+  15
+ ],
+ "escala_tipografica_mobile_px": [
+  35,
+  25,
+  23,
+  16,
+  16,
+  15,
+  14,
+  14
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#00000000",
+  "gradiente": "linear-gradient(90deg, rgba(217, 217, 217, 0.2) 17.31%, rgba(255, 248, 248, 0.2) 100%)",
+  "texto": "#FFFFFF",
+  "raio": "59.504px",
+  "padding": "4px 10px",
+  "fonte": "Urbanist",
+  "tamanho": "18px",
+  "peso": "500",
+  "caixa": "none",
+  "exemplos": [
+   "Agende uma Reunião"
+  ]
+ },
+ "raios": [
+  "9px",
+  "16px",
+  "25px",
+  "59.504px",
+  "30px",
+  "33.557px"
+ ],
+ "sombras": [
+  "rgba(255, 255, 255, 0.14) 0px 1px 1px 0px inset, rgba(203, 231, 245, 0.25) 0px 0px 5px 0px, rgba(155, 205, 230, 0.1) 0px 0px 10px 0px",
+  "rgba(255, 255, 255, 0.2) 0px 1px 0px 0px inset, rgba(255, 255, 255, 0.08) 1px 0px 0px 0px inset, rgba(4, 48, 71, 0.24) 0px -1px 0px 0px inset, rgba(4, 48, 71, 0.12) -1px 0px 0px 0px inset, rgba(0, 0, ",
+  "rgba(255, 255, 255, 0.18) 1px 1px 0px 0px inset, rgba(4, 48, 71, 0.14) -1px -1px 0px 0px inset"
+ ],
+ "gaps": [
+  "20px",
+  "0px 10px",
+  "10px",
+  "13px",
+  "80px"
+ ],
+ "largura_conteudo_px": 1100,
+ "altura_pagina_px": 4541,
+ "secoes_qtde": 8,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "Somos especialistas na elaboração de contratos e na organização do patrimônio da",
+   "fundo": "imagem",
+   "altura_px": 680
+  },
+  {
+   "ordem": 2,
+   "tipo": "servicos",
+   "titulo": "Atuação preventiva em decisões empresariais, imobiliárias e familiares",
+   "fundo": "imagem",
+   "altura_px": 843
+  },
+  {
+   "ordem": 3,
+   "tipo": "",
+   "titulo": "Ajudamos famílias e empresas a organizar seu patrimônio, revisar contratos e con",
+   "fundo": "transparente",
+   "altura_px": 144
+  },
+  {
+   "ordem": 4,
+   "tipo": "",
+   "titulo": "Quem irá te atender",
+   "fundo": "imagem",
+   "altura_px": 1058
+  },
+  {
+   "ordem": 5,
+   "tipo": "",
+   "titulo": "Como nós trabalhamos",
+   "fundo": "transparente",
+   "altura_px": 466
+  },
+  {
+   "ordem": 6,
+   "tipo": "faq",
+   "titulo": "Perguntas frequentes",
+   "fundo": "transparente",
+   "altura_px": 870
+  },
+  {
+   "ordem": 7,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "#718BA521",
+   "altura_px": 209
+  },
+  {
+   "ordem": 8,
+   "tipo": "rodape",
+   "titulo": "© 2026 Amanda Pires. Todos os direitos reservados.",
+   "fundo": "transparente",
+   "altura_px": 50
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "servicos",
+  "",
+  "",
+  "",
+  "faq",
+  "",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "escuro",
+  "azul-petroleo",
+  "monocromatico",
+  "serifa"
+ ],
+ "tecnicas": [
+  "Monograma grande translúcido de fundo"
+ ],
+ "animacoes": {
+  "keyframes": [],
+  "entrada_elementor": [],
+  "classes_scroll": []
+ },
+ "bibliotecas": [
+  "ga4",
+  "gtm",
+  "jquery",
+  "lenis",
+  "lottie",
+  "meta-pixel",
+  "swiper"
+ ],
+ "snippets_usados": [],
+ "relevancia": 4,
+ "resumo": "Advocacia patrimonial monocromática em azul petróleo com serifa clássica. Cards com borda translúcida, equipe em cards alternando foto e bio, áreas em acordeão de duas colunas e FAQ longo.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": null,
+  "copy_real": null,
+  "json_elementor": null,
+  "ref": "ref/"
+ }
+}

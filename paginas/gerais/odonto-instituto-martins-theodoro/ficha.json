@@ -1,0 +1,257 @@
+{
+ "nome": "Odontologia e harmonização na Barra da Tijuca | IMT",
+ "slug": "odonto-instituto-martins-theodoro",
+ "pasta_original": "Instituo LP",
+ "origem": "paginas/gerais",
+ "prioridade": "referencia",
+ "url": "https://institutomartinstheodoro.com.br/",
+ "plataforma": "WordPress",
+ "nicho": "Odontologia",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#F5EFE4",
+   "#1E1C18",
+   "#E6DCC6",
+   "#12110F",
+   "#FFFFFF",
+   "#25D366",
+   "#CBA045"
+  ],
+  "textos": [
+   "#555555",
+   "#141414",
+   "#FFFFFF",
+   "#7C5A21",
+   "#F4E3B0",
+   "#8A8783"
+  ],
+  "destaques": [
+   "#7C5A21",
+   "#E6DCC6",
+   "#F4E3B0"
+  ],
+  "gradientes": [
+   "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='g'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='4' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='180' height='180' f",
+   "linear-gradient(0deg, rgba(20, 20, 20, 0.82), rgba(20, 20, 20, 0.3) 46%, rgba(0, 0, 0, 0))",
+   "linear-gradient(160deg, rgb(237, 234, 227), rgb(223, 218, 208))"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Inter",
+   "uso_pct": 67
+  },
+  {
+   "familia": "Jost",
+   "uso_pct": 19
+  },
+  {
+   "familia": "Fraunces",
+   "uso_pct": 14
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  76,
+  48,
+  42,
+  34,
+  28,
+  23,
+  19,
+  16
+ ],
+ "escala_tipografica_mobile_px": [
+  32,
+  30,
+  28,
+  23,
+  22,
+  19,
+  16,
+  16
+ ],
+ "h1_mobile": "39.375px",
+ "botao_principal": {
+  "fundo": "#00000000",
+  "gradiente": "linear-gradient(100deg, rgb(244, 227, 176) 0%, rgb(203, 160, 69) 40%, rgb(124, 90, 33) 68%, rgb(203, 160, 69) 100%)",
+  "texto": "#2E2205",
+  "raio": "1px",
+  "padding": "17.28px 34.4px",
+  "fonte": "Jost",
+  "tamanho": "12px",
+  "peso": "500",
+  "caixa": "uppercase",
+  "exemplos": [
+   "AGENDAR AVALIAÇÃO",
+   "FALAR SOBRE OS CURSOS"
+  ]
+ },
+ "raios": [
+  "12px",
+  "8px",
+  "1px",
+  "3px",
+  "20px",
+  "6px"
+ ],
+ "sombras": [
+  "rgba(124, 90, 33, 0.16) 3px 3px 6px 0px inset, rgba(255, 253, 247, 0.95) -3px -3px 6px 0px inset",
+  "rgba(255, 253, 247, 0.92) -10px -10px 26px 0px, rgba(124, 90, 33, 0.12) 12px 12px 30px 0px, rgba(255, 253, 247, 0.5) -18px -18px 38px 0px inset, rgba(124, 90, 33, 0.04) 16px 16px 34px 0px inset",
+  "rgba(255, 253, 247, 0.92) -8px -8px 20px 0px, rgba(124, 90, 33, 0.12) 10px 10px 24px 0px, rgba(255, 253, 247, 0.45) -14px -14px 30px 0px inset, rgba(124, 90, 33, 0.035) 12px 12px 26px 0px inset",
+  "rgba(244, 227, 176, 0.07) -8px -8px 20px 0px, rgba(0, 0, 0, 0.55) 10px 10px 24px 0px, rgba(244, 227, 176, 0.024) -14px -14px 30px 0px inset, rgba(0, 0, 0, 0.2) 12px 12px 26px 0px inset"
+ ],
+ "gaps": [
+  "11.2px",
+  "25.6px",
+  "2.4px",
+  "6.4px",
+  "28.8px",
+  "16px"
+ ],
+ "largura_conteudo_px": null,
+ "altura_pagina_px": 15995,
+ "secoes_qtde": 12,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "Onde a odontologia encontra a arte da harmonização",
+   "fundo": "#E6DCC6",
+   "altura_px": 928
+  },
+  {
+   "ordem": 2,
+   "tipo": "servicos",
+   "titulo": "Sou paciente · ver tratamentos",
+   "fundo": "#E6DCC6",
+   "altura_px": 145
+  },
+  {
+   "ordem": 3,
+   "tipo": "sobre",
+   "titulo": "Odontologia conduzida por quem entende de excelência.",
+   "fundo": "#F5EFE4",
+   "altura_px": 1303
+  },
+  {
+   "ordem": 4,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "#F0EADD",
+   "altura_px": 986
+  },
+  {
+   "ordem": 5,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "#F5EFE4",
+   "altura_px": 688
+  },
+  {
+   "ordem": 6,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "#F0EADD",
+   "altura_px": 773
+  },
+  {
+   "ordem": 7,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "#1E1C18",
+   "altura_px": 1853
+  },
+  {
+   "ordem": 8,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "#1E1C18",
+   "altura_px": 980
+  },
+  {
+   "ordem": 9,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "#1E1C18",
+   "altura_px": 773
+  },
+  {
+   "ordem": 10,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "#F5EFE4",
+   "altura_px": 1709
+  },
+  {
+   "ordem": 11,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "#F0EADD",
+   "altura_px": 1922
+  },
+  {
+   "ordem": 12,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "#F5EFE4",
+   "altura_px": 927
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "servicos",
+  "sobre",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  ""
+ ],
+ "tags_estilo": [
+  "creme",
+  "dourado",
+  "serifa",
+  "premium",
+  "editorial"
+ ],
+ "tecnicas": [
+  "Neumorfismo leve nos cards"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "ea-cintila",
+   "ea-correr",
+   "ea-respira",
+   "ea-tracar",
+   "imt-curtain",
+   "imt-deriva",
+   "imt-entra",
+   "imt-faixa-paralaxe",
+   "imt-mark-in",
+   "imt-shine",
+   "imt-trilho"
+  ],
+  "entrada_elementor": [],
+  "classes_scroll": []
+ },
+ "bibliotecas": [
+  "ga4"
+ ],
+ "snippets_usados": [],
+ "relevancia": 5,
+ "resumo": "Instituto de odontologia e harmonização (clínica + cursos) em creme e dourado. Hero com dois caminhos ('Sou paciente' / 'Quero me especializar'), cards suaves de tratamento, lista 'o que muda', fotos full-bleed com legenda, processo em 4 etapas, depoimentos e seção escura de cursos.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": null,
+  "copy_real": null,
+  "json_elementor": null,
+  "ref": "ref/"
+ }
+}

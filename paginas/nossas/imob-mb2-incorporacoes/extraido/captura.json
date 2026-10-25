@@ -1,0 +1,1127 @@
+{
+  "sourceUrl": "https://mb2incorporacoes.com.br/",
+  "finalUrl": "https://mb2incorporacoes.com.br/",
+  "mode": "static",
+  "platform": "WordPress + Elementor",
+  "durationMs": 5582,
+  "fileCount": 159,
+  "totalBytes": 5895289,
+  "counts": {
+    "css": 25,
+    "js": 19,
+    "img": 21,
+    "font": 93,
+    "media": 0,
+    "other": 0,
+    "failed": 0
+  },
+  "warnings": [],
+  "assets": [
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.6.3",
+      "kind": "css",
+      "localPath": "assets/css/frontend-65f280ed.css",
+      "status": "ok",
+      "bytes": 50177
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.7",
+      "kind": "css",
+      "localPath": "assets/css/reset-fb16d67d.css",
+      "status": "ok",
+      "bytes": 5456
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.7",
+      "kind": "css",
+      "localPath": "assets/css/theme-170a850b.css",
+      "status": "ok",
+      "bytes": 5097
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.7",
+      "kind": "css",
+      "localPath": "assets/css/header-footer-457b1d19.css",
+      "status": "ok",
+      "bytes": 7182
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.31.5",
+      "kind": "css",
+      "localPath": "assets/css/frontend.min-36478842.css",
+      "status": "ok",
+      "bytes": 53527
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/css/post-5.css?ver=1791360776",
+      "kind": "css",
+      "localPath": "assets/css/post-5-cdea5bf7.css",
+      "status": "ok",
+      "bytes": 1433
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/fadeIn.min.css?ver=3.31.5",
+      "kind": "css",
+      "localPath": "assets/css/fadeIn.min-b437c228.css",
+      "status": "ok",
+      "bytes": 77
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.31.5",
+      "kind": "css",
+      "localPath": "assets/css/widget-image.min-6a010497.css",
+      "status": "ok",
+      "bytes": 254
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/plugins/pro-elements/assets/css/widget-nav-menu.min.css?ver=3.27.4",
+      "kind": "css",
+      "localPath": "assets/css/widget-nav-menu.min-43256f85.css",
+      "status": "ok",
+      "bytes": 26890
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.31.5",
+      "kind": "css",
+      "localPath": "assets/css/widget-heading.min-ee42898d.css",
+      "status": "ok",
+      "bytes": 600
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.31.5",
+      "kind": "css",
+      "localPath": "assets/css/widget-icon-list.min-387e321d.css",
+      "status": "ok",
+      "bytes": 10470
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/plugins/pro-elements/assets/css/widget-lottie.min.css?ver=3.27.4",
+      "kind": "css",
+      "localPath": "assets/css/widget-lottie.min-cf539352.css",
+      "status": "ok",
+      "bytes": 546
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/plugins/jet-tabs/assets/css/jet-tabs-frontend.css?ver=2.2.7",
+      "kind": "css",
+      "localPath": "assets/css/jet-tabs-frontend-083634e4.css",
+      "status": "ok",
+      "bytes": 35356
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=3.31.5",
+      "kind": "css",
+      "localPath": "assets/css/e-animation-grow.min-c2e08a68.css",
+      "status": "ok",
+      "bytes": 198
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css?ver=3.31.5",
+      "kind": "css",
+      "localPath": "assets/css/fadeInUp.min-bb98dfe1.css",
+      "status": "ok",
+      "bytes": 130
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=3.31.5",
+      "kind": "css",
+      "localPath": "assets/css/widget-icon-box.min-3b081d8e.css",
+      "status": "ok",
+      "bytes": 4430
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/css/post-83.css?ver=1791360981",
+      "kind": "css",
+      "localPath": "assets/css/post-83-82686334.css",
+      "status": "ok",
+      "bytes": 61365
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/css/post-116.css?ver=1791360981",
+      "kind": "css",
+      "localPath": "assets/css/post-116-afe07ebc.css",
+      "status": "ok",
+      "bytes": 11259
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/css/post-61.css?ver=1791360776",
+      "kind": "css",
+      "localPath": "assets/css/post-61-a7ad90c5.css",
+      "status": "ok",
+      "bytes": 11368
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/css/post-40.css?ver=1791360776",
+      "kind": "css",
+      "localPath": "assets/css/post-40-85167828.css",
+      "status": "ok",
+      "bytes": 10802
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1777479256",
+      "kind": "css",
+      "localPath": "assets/css/roboto-1b44e923.css",
+      "status": "ok",
+      "bytes": 93276
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1777479279",
+      "kind": "css",
+      "localPath": "assets/css/robotoslab-b49c9250.css",
+      "status": "ok",
+      "bytes": 20187
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/css/inter.css?ver=1777480541",
+      "kind": "css",
+      "localPath": "assets/css/inter-173499eb.css",
+      "status": "ok",
+      "bytes": 38988
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1777479903",
+      "kind": "css",
+      "localPath": "assets/css/poppins-a8ff480f.css",
+      "status": "ok",
+      "bytes": 19872
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/2026/05/cropped-fav-icon-2-32x32.png",
+      "kind": "img",
+      "localPath": "assets/img/cropped-fav-icon-2-32x32-e1dcadd3.png",
+      "status": "ok",
+      "bytes": 1032
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/2026/05/cropped-fav-icon-2-192x192.png",
+      "kind": "img",
+      "localPath": "assets/img/cropped-fav-icon-2-192x192-b1724a9b.png",
+      "status": "ok",
+      "bytes": 5170
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/2026/05/cropped-fav-icon-2-180x180.png",
+      "kind": "img",
+      "localPath": "assets/img/cropped-fav-icon-2-180x180-d5eca5b1.png",
+      "status": "ok",
+      "bytes": 4932
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.31.5",
+      "kind": "css",
+      "localPath": "assets/css/widget-divider.min-e999e190.css",
+      "status": "ok",
+      "bytes": 4298
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/2026/04/LOGO-BRANCA-MB2.svg",
+      "kind": "img",
+      "localPath": "assets/img/LOGO-BRANCA-MB2-2fe240f5.svg",
+      "status": "ok",
+      "bytes": 11471
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/2026/05/local-1024x583.webp",
+      "kind": "img",
+      "localPath": "assets/img/local-1024x583-115f1e42.webp",
+      "status": "ok",
+      "bytes": 143054
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/2026/05/local-300x171.webp",
+      "kind": "img",
+      "localPath": "assets/img/local-300x171-8e053e78.webp",
+      "status": "ok",
+      "bytes": 16870
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/2026/05/local-768x437.webp",
+      "kind": "img",
+      "localPath": "assets/img/local-768x437-12cc0d2f.webp",
+      "status": "ok",
+      "bytes": 88636
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/2026/05/local.webp",
+      "kind": "img",
+      "localPath": "assets/img/local-23ce1a1e.webp",
+      "status": "ok",
+      "bytes": 331092
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/2026/05/whatsapp_image_2026_05_27_at_16_40_54_1-1024x756.webp",
+      "kind": "img",
+      "localPath": "assets/img/whatsapp_image_2026_05_27_at_16_40_54_1-1024x756-410abbb1.webp",
+      "status": "ok",
+      "bytes": 59640
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/2026/05/whatsapp_image_2026_05_27_at_16_40_54_1-300x221.webp",
+      "kind": "img",
+      "localPath": "assets/img/whatsapp_image_2026_05_27_at_16_40_54_1-300x221-bb702b7d.webp",
+      "status": "ok",
+      "bytes": 13056
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/2026/05/whatsapp_image_2026_05_27_at_16_40_54_1-768x567.webp",
+      "kind": "img",
+      "localPath": "assets/img/whatsapp_image_2026_05_27_at_16_40_54_1-768x567-d47635a5.webp",
+      "status": "ok",
+      "bytes": 42420
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/2026/05/whatsapp_image_2026_05_27_at_16_40_54_1.webp",
+      "kind": "img",
+      "localPath": "assets/img/whatsapp_image_2026_05_27_at_16_40_54_1-b21103aa.webp",
+      "status": "ok",
+      "bytes": 135100
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "kind": "js",
+      "localPath": "assets/js/jquery.min-f7a57ff2.js",
+      "status": "ok",
+      "bytes": 87553
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "kind": "js",
+      "localPath": "assets/js/jquery-migrate.min-5d9ed191.js",
+      "status": "ok",
+      "bytes": 13577
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.4.7",
+      "kind": "js",
+      "localPath": "assets/js/hello-frontend-53ee3e5b.js",
+      "status": "ok",
+      "bytes": 1830
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.31.5",
+      "kind": "js",
+      "localPath": "assets/js/webpack.runtime.min-aec5ddf4.js",
+      "status": "ok",
+      "bytes": 5707
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.31.5",
+      "kind": "js",
+      "localPath": "assets/js/frontend-modules.min-a7247ae7.js",
+      "status": "ok",
+      "bytes": 49432
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+      "kind": "js",
+      "localPath": "assets/js/core.min-d5650679.js",
+      "status": "ok",
+      "bytes": 18674
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.31.5",
+      "kind": "js",
+      "localPath": "assets/js/frontend.min-081f6ae6.js",
+      "status": "ok",
+      "bytes": 32879
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/plugins/pro-elements/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1",
+      "kind": "js",
+      "localPath": "assets/js/jquery.smartmenus.min-609f3fa1.js",
+      "status": "ok",
+      "bytes": 24109
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/plugins/pro-elements/assets/lib/lottie/lottie.min.js?ver=5.6.6",
+      "kind": "js",
+      "localPath": "assets/js/lottie.min-6cf3718f.js",
+      "status": "ok",
+      "bytes": 252588
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/plugins/gtranslate/js/globe.js?ver=7.1.3",
+      "kind": "js",
+      "localPath": "assets/js/globe-3dd6b29c.js",
+      "status": "ok",
+      "bytes": 24969
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/plugins/jet-engine/assets/lib/slick/slick.min.js?ver=1.8.1",
+      "kind": "js",
+      "localPath": "assets/js/slick.min-bf337373.js",
+      "status": "ok",
+      "bytes": 43897
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/plugins/jet-engine/assets/lib/jet-plugins/jet-plugins.js?ver=1.1.0",
+      "kind": "js",
+      "localPath": "assets/js/jet-plugins-781e4412.js",
+      "status": "ok",
+      "bytes": 6534
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/plugins/jet-engine/assets/js/frontend.js?ver=3.6.3",
+      "kind": "js",
+      "localPath": "assets/js/frontend-ba8644ff.js",
+      "status": "ok",
+      "bytes": 67945
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/plugins/pro-elements/assets/js/webpack-pro.runtime.min.js?ver=3.27.4",
+      "kind": "js",
+      "localPath": "assets/js/webpack-pro.runtime.min-88cd4849.js",
+      "status": "ok",
+      "bytes": 6262
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+      "kind": "js",
+      "localPath": "assets/js/hooks.min-1161c534.js",
+      "status": "ok",
+      "bytes": 5107
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+      "kind": "js",
+      "localPath": "assets/js/i18n.min-584065b0.js",
+      "status": "ok",
+      "bytes": 5791
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/plugins/pro-elements/assets/js/frontend.min.js?ver=3.27.4",
+      "kind": "js",
+      "localPath": "assets/js/frontend.min-5e85cc73.js",
+      "status": "ok",
+      "bytes": 24209
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/plugins/pro-elements/assets/js/elements-handlers.min.js?ver=3.27.4",
+      "kind": "js",
+      "localPath": "assets/js/elements-handlers.min-c651e022.js",
+      "status": "ok",
+      "bytes": 44707
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/plugins/jet-tabs/assets/js/jet-tabs-frontend.min.js?ver=2.2.7",
+      "kind": "js",
+      "localPath": "assets/js/jet-tabs-frontend.min-5fca78f0.js",
+      "status": "ok",
+      "bytes": 22544
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/2026/05/AURORA.webp",
+      "kind": "img",
+      "localPath": "assets/img/AURORA-1426c8c2.webp",
+      "status": "ok",
+      "bytes": 237100
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/2026/05/wave.webp",
+      "kind": "img",
+      "localPath": "assets/img/wave-97b41677.webp",
+      "status": "ok",
+      "bytes": 190820
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/2026/05/facahada_02_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/facahada_02_1_1x-9a210158.webp",
+      "status": "ok",
+      "bytes": 275702
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/2026/04/3055.webp",
+      "kind": "img",
+      "localPath": "assets/img/3055-d79d54f0.webp",
+      "status": "ok",
+      "bytes": 212842
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/2026/04/campe.webp",
+      "kind": "img",
+      "localPath": "assets/img/campe-4d5bbf3a.webp",
+      "status": "ok",
+      "bytes": 117976
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/2026/04/frame_23-3.webp",
+      "kind": "img",
+      "localPath": "assets/img/frame_23-3-b8045879.webp",
+      "status": "ok",
+      "bytes": 222362
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/plugins/jet-tabs/assets/images/spinner-32.svg",
+      "kind": "img",
+      "localPath": "assets/img/spinner-32-e5c02e72.svg",
+      "status": "ok",
+      "bytes": 1232
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/2026/05/BG01-3.webp",
+      "kind": "img",
+      "localPath": "assets/img/BG01-3-37ee0e28.webp",
+      "status": "ok",
+      "bytes": 211560
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/2026/05/parte1-4mb.webp",
+      "kind": "img",
+      "localPath": "assets/img/parte1-4mb-6d516543.webp",
+      "status": "ok",
+      "bytes": 118404
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-547c0a87.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-547c0a87-cb5dff37.woff2",
+      "status": "ok",
+      "bytes": 27380
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-2c5c12ea.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-2c5c12ea-bc3f7b85.woff2",
+      "status": "ok",
+      "bytes": 19980
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-b9c48815.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-b9c48815-d65b8c86.woff2",
+      "status": "ok",
+      "bytes": 12096
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-e15a177c.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-e15a177c-aadcf2ec.woff2",
+      "status": "ok",
+      "bytes": 20484
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-5cd0dc1d.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-5cd0dc1d-c50e2d43.woff2",
+      "status": "ok",
+      "bytes": 10596
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-02076e7d.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-02076e7d-a8544843.woff2",
+      "status": "ok",
+      "bytes": 91900
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-85a02229.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-85a02229-755b6e12.woff2",
+      "status": "ok",
+      "bytes": 51832
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-a375c31d.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-a375c31d-830f4868.woff2",
+      "status": "ok",
+      "bytes": 25960
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-13755630.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-13755630-ab6b01e6.woff2",
+      "status": "ok",
+      "bytes": 18748
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-da72a9f7.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-da72a9f7-76a98709.woff2",
+      "status": "ok",
+      "bytes": 11232
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-3b78c6fa.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-3b78c6fa-4d5e8503.woff2",
+      "status": "ok",
+      "bytes": 18996
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-f059b71e.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-f059b71e-14298633.woff2",
+      "status": "ok",
+      "bytes": 10252
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-b6db4a06.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-b6db4a06-133230be.woff2",
+      "status": "ok",
+      "bytes": 85068
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-6ab57b19.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-6ab57b19-c9ffb52d.woff2",
+      "status": "ok",
+      "bytes": 48256
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-56de4385.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-56de4385-7d0d3d38.woff2",
+      "status": "ok",
+      "bytes": 32340
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-fa7c06b8.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-fa7c06b8-17cfd6ba.woff2",
+      "status": "ok",
+      "bytes": 21420
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-ca82665f.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-ca82665f-1cc64c29.woff2",
+      "status": "ok",
+      "bytes": 2224
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-cb40bc4b.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-cb40bc4b-03c25643.woff2",
+      "status": "ok",
+      "bytes": 14856
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-429238b9.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-429238b9-5305a0c9.woff2",
+      "status": "ok",
+      "bytes": 9980
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-ef584ac5.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-ef584ac5-be3ac2d5.woff2",
+      "status": "ok",
+      "bytes": 21188
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-c5e794db.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-c5e794db-c12730b5.woff2",
+      "status": "ok",
+      "bytes": 34236
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-08e0d50c.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-08e0d50c-f43fa5ce.woff2",
+      "status": "ok",
+      "bytes": 41984
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-93f11d58.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-93f11d58-7c54ad33.woff2",
+      "status": "ok",
+      "bytes": 5720
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-7d01d947.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-7d01d947-6ddcc148.woff2",
+      "status": "ok",
+      "bytes": 8404
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-758f68ea.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-758f68ea-758c9759.woff2",
+      "status": "ok",
+      "bytes": 45300
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-360bd262.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-360bd262-edfd5fa4.woff2",
+      "status": "ok",
+      "bytes": 5980
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-39a602a6.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-39a602a6-9e2f021e.woff2",
+      "status": "ok",
+      "bytes": 8720
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-6fc19dfc.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-6fc19dfc-0d490e64.woff2",
+      "status": "ok",
+      "bytes": 45772
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-e88b8c9f.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-e88b8c9f-908cf745.woff2",
+      "status": "ok",
+      "bytes": 5956
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-311b40f0.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-311b40f0-6681dcc8.woff2",
+      "status": "ok",
+      "bytes": 8712
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-2244f050.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-2244f050-581c90e0.woff2",
+      "status": "ok",
+      "bytes": 45968
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-2dbff688.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-2dbff688-e2677504.woff2",
+      "status": "ok",
+      "bytes": 5964
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-60aca29c.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-60aca29c-1863985a.woff2",
+      "status": "ok",
+      "bytes": 8668
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-91200cf0.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-91200cf0-7be801b2.woff2",
+      "status": "ok",
+      "bytes": 44976
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-cb20a6b5.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-cb20a6b5-8bfb5847.woff2",
+      "status": "ok",
+      "bytes": 5856
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-aa83815c.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-aa83815c-91bd50ed.woff2",
+      "status": "ok",
+      "bytes": 8504
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-ead2e67f.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-ead2e67f-1d35f704.woff2",
+      "status": "ok",
+      "bytes": 45596
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-2a218d23.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-2a218d23-99a9428e.woff2",
+      "status": "ok",
+      "bytes": 6012
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-7b7b057d.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-7b7b057d-03e5bfb6.woff2",
+      "status": "ok",
+      "bytes": 8724
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-5afe1c41.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-5afe1c41-fc431c7b.woff2",
+      "status": "ok",
+      "bytes": 45060
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-f9a2a21e.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-f9a2a21e-863fb3d1.woff2",
+      "status": "ok",
+      "bytes": 5860
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-638b5d9d.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-638b5d9d-8980a42f.woff2",
+      "status": "ok",
+      "bytes": 8596
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-65f24a29.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-65f24a29-7aa2400c.woff2",
+      "status": "ok",
+      "bytes": 44692
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-cc94d36e.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-cc94d36e-0b8b5be1.woff2",
+      "status": "ok",
+      "bytes": 5932
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-2fd9ae31.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-2fd9ae31-efdfbe1e.woff2",
+      "status": "ok",
+      "bytes": 8680
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-687c311d.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-687c311d-4d9f1d90.woff2",
+      "status": "ok",
+      "bytes": 41944
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-f86081bc.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-f86081bc-0d126f12.woff2",
+      "status": "ok",
+      "bytes": 5812
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-f19361b5.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-f19361b5-a1e3d947.woff2",
+      "status": "ok",
+      "bytes": 8488
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-a7db2864.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-a7db2864-9bb3c216.woff2",
+      "status": "ok",
+      "bytes": 36136
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-40a4c285.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-40a4c285-4839997a.woff2",
+      "status": "ok",
+      "bytes": 5364
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-285e6dee.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-285e6dee-5cac8f52.woff2",
+      "status": "ok",
+      "bytes": 7484
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-1f81f35a.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-1f81f35a-2c2fe545.woff2",
+      "status": "ok",
+      "bytes": 39192
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-33caf375.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-33caf375-66e1be2f.woff2",
+      "status": "ok",
+      "bytes": 5508
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-e45eb333.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-e45eb333-ec2f3232.woff2",
+      "status": "ok",
+      "bytes": 7932
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-dedddbf7.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-dedddbf7-ff128edb.woff2",
+      "status": "ok",
+      "bytes": 39412
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-664d5007.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-664d5007-e7b4fe4a.woff2",
+      "status": "ok",
+      "bytes": 5524
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-de430313.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-de430313-a3e20146.woff2",
+      "status": "ok",
+      "bytes": 7840
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-8fe2ec7c.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-8fe2ec7c-ae3bd992.woff2",
+      "status": "ok",
+      "bytes": 39660
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-c9d614f4.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-c9d614f4-3042b845.woff2",
+      "status": "ok",
+      "bytes": 5644
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-e6a077c3.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-e6a077c3-51fe7ed7.woff2",
+      "status": "ok",
+      "bytes": 7884
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-42acf878.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-42acf878-4255394d.woff2",
+      "status": "ok",
+      "bytes": 39084
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-86b12e74.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-86b12e74-74d87ef4.woff2",
+      "status": "ok",
+      "bytes": 5484
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-57e843b6.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-57e843b6-37d182b3.woff2",
+      "status": "ok",
+      "bytes": 7748
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-ad3722d3.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-ad3722d3-4aac393e.woff2",
+      "status": "ok",
+      "bytes": 39292
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-b1eb82d1.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-b1eb82d1-3f7aefa1.woff2",
+      "status": "ok",
+      "bytes": 5524
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-93818c37.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-93818c37-5bef0f65.woff2",
+      "status": "ok",
+      "bytes": 8000
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-23090f00.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-23090f00-3006b413.woff2",
+      "status": "ok",
+      "bytes": 39252
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-71994884.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-71994884-6da10e00.woff2",
+      "status": "ok",
+      "bytes": 5432
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-742b18be.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-742b18be-2602c797.woff2",
+      "status": "ok",
+      "bytes": 7816
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-61ee1b60.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-61ee1b60-0a88a62a.woff2",
+      "status": "ok",
+      "bytes": 38940
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-e4a3a357.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-e4a3a357-1320b676.woff2",
+      "status": "ok",
+      "bytes": 5492
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-d0e6a9ae.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-d0e6a9ae-b292d58a.woff2",
+      "status": "ok",
+      "bytes": 7824
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-c4609759.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-c4609759-11332075.woff2",
+      "status": "ok",
+      "bytes": 38192
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-84c939dc.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-84c939dc-1dd16994.woff2",
+      "status": "ok",
+      "bytes": 5380
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-df089f64.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-df089f64-da2b2885.woff2",
+      "status": "ok",
+      "bytes": 7632
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-59bd2d54.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-59bd2d54-c7f258b2.woff2",
+      "status": "ok",
+      "bytes": 40480
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-09f504e0.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-09f504e0-dbfd38b3.woff2",
+      "status": "ok",
+      "bytes": 25464
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-ec145187.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-ec145187-55f3976b.woff2",
+      "status": "ok",
+      "bytes": 4452
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-6b29be68.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-6b29be68-4df88873.woff2",
+      "status": "ok",
+      "bytes": 18780
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-48514a2c.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-48514a2c-24d8c579.woff2",
+      "status": "ok",
+      "bytes": 45184
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-a81d578b.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-a81d578b-41b2a745.woff2",
+      "status": "ok",
+      "bytes": 22440
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-894b2e7f.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-894b2e7f-78f796dd.woff2",
+      "status": "ok",
+      "bytes": 15344
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-e2103707.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-e2103707-b6707160.woff2",
+      "status": "ok",
+      "bytes": 31820
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-8ed4bb54.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-8ed4bb54-76c7be03.woff2",
+      "status": "ok",
+      "bytes": 47208
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-210e0792.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-210e0792-eba49938.woff2",
+      "status": "ok",
+      "bytes": 36652
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-f6655444.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-f6655444-f24c6044.woff2",
+      "status": "ok",
+      "bytes": 23664
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-0249f65a.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-0249f65a-e3f99d41.woff2",
+      "status": "ok",
+      "bytes": 4348
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-b5151e85.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-b5151e85-a6ca23c7.woff2",
+      "status": "ok",
+      "bytes": 17624
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-ba5507f2.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-ba5507f2-f540fefd.woff2",
+      "status": "ok",
+      "bytes": 41348
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-da69b94e.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-da69b94e-a3de99ec.woff2",
+      "status": "ok",
+      "bytes": 20556
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-bbbbbd37.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-bbbbbd37-99b1e69e.woff2",
+      "status": "ok",
+      "bytes": 14340
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-f0106b44.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-f0106b44-2dd5feec.woff2",
+      "status": "ok",
+      "bytes": 29392
+    },
+    {
+      "url": "https://mb2incorporacoes.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-0f7fcdc8.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-0f7fcdc8-0e0a9c03.woff2",
+      "status": "ok",
+      "bytes": 43136
+    }
+  ]
+}

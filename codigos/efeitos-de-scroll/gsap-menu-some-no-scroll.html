@@ -1,0 +1,99 @@
+<!--
+  SNIPPET: Menu some ao rolar (GSAP)
+  CATEGORIA: efeitos-de-scroll
+  O QUE FAZ: O menu fixo sobe e desaparece quando a pessoa passa de 60% da página, e volta ao rolar para cima.
+  COMO USAR: Classe "menu" no container do menu. Widget HTML no fim da página. Instruções completas no comentário do código.
+  ONDE COLAR: Widget HTML no fim da página
+  DEPENDÊNCIAS: GSAP e ScrollTrigger
+  ORIGEM: paginas/nossas/psi-vivian-widuch
+  USADO EM: 1 página(s) da casa: psi-vivian-widuch
+-->
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+
+<script>
+// Registra o plugin ScrollTrigger
+gsap.registerPlugin(ScrollTrigger);
+
+// Seleciona o menu
+const menu = document.querySelector('.menu');
+
+if (menu) {
+    // Cria a animação de fade-up (desaparece subindo)
+    gsap.to(menu, {
+        opacity: 0,        // Fica invisível
+        y: -50,            // Move 50px para cima
+        pointerEvents: 'none', // Desabilita cliques quando invisível
+        ease: 'power2.in', // Suavização na saída
+        scrollTrigger: {
+            trigger: 'body',
+            start: '60% top',  // Começa quando 60% da página passou o topo
+            end: '61% top',    // Termina em 65% (transição rápida de 5%)
+            scrub: 1,          // Sincroniza com o scroll
+            // markers: true,  // Descomente para ver os marcadores de debug
+            
+            // Opcional: registra no console quando desaparece
+            onEnter: () => console.log('🔼 Menu desaparecendo...'),
+            onLeaveBack: () => console.log('🔽 Menu voltando...')
+        }
+    });
+    
+    console.log('✅ Efeito fade-up aplicado ao menu!');
+    
+} else {
+    console.error('❌ Elemento com classe .menu não encontrado!');
+}
+</script>
+
+<!-- 
+============================================
+COMO USAR:
+============================================
+
+1. Cole este código em um widget HTML do Elementor
+   (coloque no final da página, antes do </body>)
+
+2. Adicione a classe "menu" no container que você quer 
+   que desapareça:
+   - Selecione o container no Elementor
+   - Vá em Avançado > CSS Classes
+   - Adicione: menu
+
+3. Quando a página atingir 60% de scroll, o menu 
+   desaparece subindo com fade-out
+
+============================================
+AJUSTES OPCIONAIS:
+============================================
+
+• Mudar quando desaparece:
+  start: '60% top' → Mude o 60% para outro valor
+  (exemplo: '50% top' = desaparece mais cedo)
+
+• Velocidade da transição:
+  end: '65% top' → Diferença entre start e end
+  (menor diferença = mais rápido)
+
+• Distância do movimento:
+  y: -50 → Aumente para subir mais (ex: -100)
+           ou diminua para subir menos (ex: -20)
+
+• Suavidade:
+  scrub: 1 → Valores menores = mais rápido
+             Valores maiores = mais suave
+
+============================================
+EFEITO REVERSO (REAPARECE AO VOLTAR):
+============================================
+
+O menu reaparece automaticamente quando você 
+rola de volta para cima! Isso acontece porque 
+o scrub mantém a animação sincronizada.
+
+Se quiser que ele NÃO reapareça, mude para:
+  scrub: false
+  toggleActions: 'play none none none'
+
+============================================
+-->

@@ -1,0 +1,408 @@
+{
+ "content": [
+  {
+   "id": "60b0d019",
+   "settings": {
+    "flex_direction": "row",
+    "min_height": {
+     "unit": "px",
+     "size": 686,
+     "sizes": []
+    },
+    "flex_justify_content": "flex-start",
+    "flex_align_items": "center",
+    "flex_gap": {
+     "column": "40",
+     "row": "40",
+     "isLinked": true,
+     "unit": "px",
+     "size": 40
+    },
+    "background_background": "classic",
+    "background_color": "#FFFFFF",
+    "padding": {
+     "unit": "px",
+     "top": "30",
+     "right": "0",
+     "bottom": "0",
+     "left": "0",
+     "isLinked": false
+    },
+    "boxed_width_tablet": {
+     "unit": "%",
+     "size": 90,
+     "sizes": []
+    },
+    "boxed_width_mobile": {
+     "unit": "%",
+     "size": 100,
+     "sizes": []
+    },
+    "flex_direction_tablet": "column-reverse",
+    "flex_justify_content_tablet": "center",
+    "margin_tablet": {
+     "unit": "px",
+     "top": "0",
+     "right": "0",
+     "bottom": "0",
+     "left": "0",
+     "isLinked": false
+    },
+    "padding_tablet": {
+     "unit": "px",
+     "top": "120",
+     "right": "0",
+     "bottom": "80",
+     "left": "0",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "0480",
+     "right": "0",
+     "bottom": "80",
+     "left": "0",
+     "isLinked": false
+    },
+    "custom_css": ".scroll-left{\r\n    opacity: 0;\r\n    transition: 0.5s all;\r\n    transform: translate3d(-30px, 0, 0);\r\n}\r\n\r\n.scroll-right{\r\n    opacity: 0;\r\n    transition: 0.5s all;\r\n    transform: translate3d(30px, 0, 0);\r\n}\r\n\r\n.scroll-bottom{\r\n    opacity: 0;\r\n    transition: 0.5s all;\r\n    transform: translate3d(0, 80px, 0);\r\n}\r\n\r\n.scroll-top{\r\n    opacity: 0;\r\n    transition: 0.5s all;\r\n    transform: translate3d(0, -80px, 0);\r\n}\r\n\r\n.ativo{\r\n    opacity: 1;\r\n    transition: 0.5s all;\r\n    transform: translate3d(0, 0, 0);\r\n}\r\n",
+    "flex_direction_mobile": "row",
+    "eae_slider_delay": "5000",
+    "gradient_color_list": [
+     {
+      "eae_animated_gradient_color": "#00a6d8",
+      "_id": "164b48f"
+     },
+     {
+      "eae_animated_gradient_color": "#b800c9",
+      "_id": "2f48c6b"
+     },
+     {
+      "eae_animated_gradient_color": "#e57600",
+      "_id": "f4cb0b9"
+     }
+    ]
+   },
+   "elements": [
+    {
+     "id": "1fdc68f2",
+     "settings": {
+      "content_width": "full",
+      "width": {
+       "unit": "%",
+       "size": 45,
+       "sizes": []
+      },
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "width_tablet": {
+       "unit": "%",
+       "size": 100,
+       "sizes": []
+      },
+      "width_mobile": {
+       "unit": "%",
+       "size": 90
+      },
+      "_flex_size": "none",
+      "_element_width_mobile": "initial",
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+       {
+        "eae_animated_gradient_color": "#00a6d8",
+        "_id": "4b439f7"
+       },
+       {
+        "eae_animated_gradient_color": "#b800c9",
+        "_id": "0f45b92"
+       },
+       {
+        "eae_animated_gradient_color": "#e57600",
+        "_id": "60e4244"
+       }
+      ]
+     },
+     "elements": [
+      {
+       "id": "56d5b8ac",
+       "settings": {
+        "title": "Lorem Ipsum is simply ",
+        "title_color": "#3F3638",
+        "typography_typography": "custom",
+        "typography_font_family": "Poppins",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 18,
+         "sizes": []
+        },
+        "typography_font_weight": "500",
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.4,
+         "sizes": []
+        },
+        "_element_width": "inherit",
+        "_element_custom_width": {
+         "unit": "%",
+         "size": 45,
+         "sizes": []
+        },
+        "align_mobile": "left",
+        "typography_font_size_mobile": {
+         "unit": "vw",
+         "size": 4.4,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "heading",
+       "elType": "widget"
+      },
+      {
+       "id": "567250f",
+       "settings": {
+        "title": "Lorem Ipsum is simply dummy text of the printing and",
+        "title_color": "#3F3638",
+        "typography_typography": "custom",
+        "typography_font_family": "Poppins",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 30,
+         "sizes": []
+        },
+        "typography_font_weight": "600",
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.4,
+         "sizes": []
+        },
+        "_element_width": "inherit",
+        "_element_custom_width": {
+         "unit": "%",
+         "size": 45,
+         "sizes": []
+        },
+        "align_mobile": "left",
+        "typography_font_size_mobile": {
+         "unit": "vw",
+         "size": 8.5,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "heading",
+       "elType": "widget"
+      },
+      {
+       "id": "6cfb53ba",
+       "settings": {
+        "width": {
+         "unit": "%",
+         "size": 25,
+         "sizes": []
+        },
+        "text": "Divisória",
+        "color": "#F56B72",
+        "weight": {
+         "unit": "px",
+         "size": 2,
+         "sizes": []
+        },
+        "gap": {
+         "unit": "px",
+         "size": 2,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 64,
+         "sizes": []
+        },
+        "align_mobile": "left"
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "divider",
+       "elType": "widget"
+      },
+      {
+       "id": "10fc7a90",
+       "settings": {
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "title_color": "#3F3638",
+        "typography_typography": "custom",
+        "typography_font_family": "Poppins",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 16,
+         "sizes": []
+        },
+        "typography_font_weight": "300",
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.4,
+         "sizes": []
+        },
+        "_margin": {
+         "unit": "px",
+         "top": "5",
+         "right": "0",
+         "bottom": "10",
+         "left": "0",
+         "isLinked": false
+        },
+        "_element_width": "inherit",
+        "_element_custom_width": {
+         "unit": "%",
+         "size": 45,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "heading",
+       "elType": "widget"
+      },
+      {
+       "id": "54b753d1",
+       "settings": {
+        "text": "Agendar minha Avaliação",
+        "typography_typography": "custom",
+        "typography_font_family": "Poppins",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 16,
+         "sizes": []
+        },
+        "typography_font_weight": "500",
+        "background_color": "#55BB63",
+        "background_color_b": "#F56B72",
+        "background_gradient_angle": {
+         "unit": "deg",
+         "size": 151,
+         "sizes": []
+        },
+        "hover_animation": "grow",
+        "border_radius": {
+         "unit": "px",
+         "top": "5",
+         "right": "5",
+         "bottom": "5",
+         "left": "5",
+         "isLinked": true
+        },
+        "text_padding": {
+         "unit": "px",
+         "top": "22",
+         "right": "70",
+         "bottom": "22",
+         "left": "70",
+         "isLinked": false
+        },
+        "_element_width": "inherit",
+        "_element_custom_width": {
+         "unit": "%",
+         "size": 45,
+         "sizes": []
+        },
+        "align_mobile": "justify",
+        "text_padding_mobile": {
+         "unit": "px",
+         "top": "22",
+         "right": "20",
+         "bottom": "22",
+         "left": "20",
+         "isLinked": false
+        },
+        "selected_icon": {
+         "value": "fab fa-whatsapp",
+         "library": "fa-brands"
+        },
+        "icon_indent": {
+         "unit": "px",
+         "size": 8,
+         "sizes": []
+        },
+        "link": {
+         "url": "teste",
+         "is_external": "",
+         "nofollow": "",
+         "custom_attributes": ""
+        }
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "button",
+       "elType": "widget"
+      }
+     ],
+     "isInner": true,
+     "elType": "container"
+    },
+    {
+     "id": "52ed92ef",
+     "settings": {
+      "carousel": [
+       {
+        "id": 9807,
+        "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/10/smirking-young-man.jpg"
+       },
+       {
+        "id": 9808,
+        "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/10/smirking-young-man-1.jpg"
+       }
+      ],
+      "thumbnail_size": "medium_large",
+      "slides_to_show": "1",
+      "arrows_position": "outside",
+      "arrows_color": "#F56B72",
+      "dots_size": {
+       "unit": "px",
+       "size": 9,
+       "sizes": []
+      },
+      "dots_inactive_color": "#00000014",
+      "dots_color": "#F56B72",
+      "image_spacing": "custom",
+      "image_border_border": "solid",
+      "image_border_width": {
+       "unit": "px",
+       "top": "1",
+       "right": "1",
+       "bottom": "1",
+       "left": "1",
+       "isLinked": true
+      },
+      "image_border_color": "#C5C5C5",
+      "image_border_radius": {
+       "unit": "px",
+       "top": "8",
+       "right": "8",
+       "bottom": "8",
+       "left": "8",
+       "isLinked": true
+      },
+      "custom_css": "@media(min-width:1024px){\n    selector .swiper-slide-image{\n        width:75% !important;\n    }\n}"
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "image-carousel",
+     "elType": "widget"
+    }
+   ],
+   "isInner": false,
+   "elType": "container"
+  }
+ ],
+ "page_settings": [],
+ "version": "0.4",
+ "title": "texxto e imagem 01",
+ "type": "container"
+}

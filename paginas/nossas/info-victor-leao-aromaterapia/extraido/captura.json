@@ -1,0 +1,756 @@
+{
+  "sourceUrl": "https://victorleaogotaconsciencia.com/consultoria-gratuita/",
+  "finalUrl": "https://victorleaogotaconsciencia.com/consultoria-gratuita/",
+  "mode": "static",
+  "platform": "WordPress + Elementor",
+  "durationMs": 3292,
+  "fileCount": 106,
+  "totalBytes": 6726820,
+  "counts": {
+    "css": 1,
+    "js": 4,
+    "img": 43,
+    "font": 57,
+    "media": 0,
+    "other": 0,
+    "failed": 0
+  },
+  "warnings": [],
+  "assets": [
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/litespeed/css/ab428de0c932b1a50d07234750acf663.css?ver=48fb2",
+      "kind": "css",
+      "localPath": "assets/css/ab428de0c932b1a50d07234750acf663-bb65f003.css",
+      "status": "ok",
+      "bytes": 182628
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/cropped-logo-32x32.png",
+      "kind": "img",
+      "localPath": "assets/img/cropped-logo-32x32-76b2e17e.png",
+      "status": "ok",
+      "bytes": 1119
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/cropped-logo-192x192.png",
+      "kind": "img",
+      "localPath": "assets/img/cropped-logo-192x192-5e35fc04.png",
+      "status": "ok",
+      "bytes": 3749
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/cropped-logo-180x180.png",
+      "kind": "img",
+      "localPath": "assets/img/cropped-logo-180x180-80e111da.png",
+      "status": "ok",
+      "bytes": 3570
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/LOGO.svg",
+      "kind": "img",
+      "localPath": "assets/img/LOGO-697bb084.svg",
+      "status": "ok",
+      "bytes": 29260
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/LOGO-MARROM.svg",
+      "kind": "img",
+      "localPath": "assets/img/LOGO-MARROM-245d55f9.svg",
+      "status": "ok",
+      "bytes": 29262
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/01.jpg",
+      "kind": "img",
+      "localPath": "assets/img/01-9ac3d958.jpg",
+      "status": "ok",
+      "bytes": 33532
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/01-300x200.jpg",
+      "kind": "img",
+      "localPath": "assets/img/01-300x200-ea89f3ca.jpg",
+      "status": "ok",
+      "bytes": 14384
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/02.jpg",
+      "kind": "img",
+      "localPath": "assets/img/02-e2f9bb15.jpg",
+      "status": "ok",
+      "bytes": 33792
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/02-300x200.jpg",
+      "kind": "img",
+      "localPath": "assets/img/02-300x200-c89f9db8.jpg",
+      "status": "ok",
+      "bytes": 17406
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/03.jpg",
+      "kind": "img",
+      "localPath": "assets/img/03-294fd8d3.jpg",
+      "status": "ok",
+      "bytes": 30689
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/03-300x200.jpg",
+      "kind": "img",
+      "localPath": "assets/img/03-300x200-584ae209.jpg",
+      "status": "ok",
+      "bytes": 13121
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/04.jpg",
+      "kind": "img",
+      "localPath": "assets/img/04-20d87ce9.jpg",
+      "status": "ok",
+      "bytes": 30697
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/04-300x200.jpg",
+      "kind": "img",
+      "localPath": "assets/img/04-300x200-a5389356.jpg",
+      "status": "ok",
+      "bytes": 14039
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/LOGO-1.png",
+      "kind": "img",
+      "localPath": "assets/img/LOGO-1-bc17af0e.png",
+      "status": "ok",
+      "bytes": 4357
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/LOGO-1-300x56.png",
+      "kind": "img",
+      "localPath": "assets/img/LOGO-1-300x56-4644009f.png",
+      "status": "ok",
+      "bytes": 3644
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/c.png",
+      "kind": "img",
+      "localPath": "assets/img/c-b432d053.png",
+      "status": "ok",
+      "bytes": 921
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/R-copiar-3.png",
+      "kind": "img",
+      "localPath": "assets/img/R-copiar-3-e5cd2bc9.png",
+      "status": "ok",
+      "bytes": 724
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/e.png",
+      "kind": "img",
+      "localPath": "assets/img/e-659119c4.png",
+      "status": "ok",
+      "bytes": 643
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/s.png",
+      "kind": "img",
+      "localPath": "assets/img/s-34cc1580.png",
+      "status": "ok",
+      "bytes": 958
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/DEPO-1.jpg",
+      "kind": "img",
+      "localPath": "assets/img/DEPO-1-fef6d148.jpg",
+      "status": "ok",
+      "bytes": 104063
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/DEPO-1-300x272.jpg",
+      "kind": "img",
+      "localPath": "assets/img/DEPO-1-300x272-9c8ecc0a.jpg",
+      "status": "ok",
+      "bytes": 13933
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/DEPO-1-768x695.jpg",
+      "kind": "img",
+      "localPath": "assets/img/DEPO-1-768x695-988c6777.jpg",
+      "status": "ok",
+      "bytes": 76808
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/DEPO-4.jpg",
+      "kind": "img",
+      "localPath": "assets/img/DEPO-4-18744635.jpg",
+      "status": "ok",
+      "bytes": 90710
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/DEPO-4-300x272.jpg",
+      "kind": "img",
+      "localPath": "assets/img/DEPO-4-300x272-1b9605c2.jpg",
+      "status": "ok",
+      "bytes": 24377
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/DEPO-4-768x695.jpg",
+      "kind": "img",
+      "localPath": "assets/img/DEPO-4-768x695-4f09838b.jpg",
+      "status": "ok",
+      "bytes": 106598
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/DEPO-2.jpg",
+      "kind": "img",
+      "localPath": "assets/img/DEPO-2-9248dc5c.jpg",
+      "status": "ok",
+      "bytes": 52336
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/DEPO-2-300x272.jpg",
+      "kind": "img",
+      "localPath": "assets/img/DEPO-2-300x272-e805571d.jpg",
+      "status": "ok",
+      "bytes": 16523
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/DEPO-2-768x695.jpg",
+      "kind": "img",
+      "localPath": "assets/img/DEPO-2-768x695-dd1e7af5.jpg",
+      "status": "ok",
+      "bytes": 67746
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/DEPO-3.jpg",
+      "kind": "img",
+      "localPath": "assets/img/DEPO-3-a00fa643.jpg",
+      "status": "ok",
+      "bytes": 79772
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/DEPO-3-300x272.jpg",
+      "kind": "img",
+      "localPath": "assets/img/DEPO-3-300x272-2e7ec03f.jpg",
+      "status": "ok",
+      "bytes": 19078
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/DEPO-3-768x695.jpg",
+      "kind": "img",
+      "localPath": "assets/img/DEPO-3-768x695-fe4661c2.jpg",
+      "status": "ok",
+      "bytes": 87540
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/foto-comunidade.png",
+      "kind": "img",
+      "localPath": "assets/img/foto-comunidade-fa4bd9f9.png",
+      "status": "ok",
+      "bytes": 102693
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/foto-comunidade-300x159.png",
+      "kind": "img",
+      "localPath": "assets/img/foto-comunidade-300x159-8c1b19dd.png",
+      "status": "ok",
+      "bytes": 40354
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "kind": "js",
+      "localPath": "assets/js/jquery.min-700a996e.js",
+      "status": "ok",
+      "bytes": 87553
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/litespeed/js/30d9ed7c416c63c804aa4f044eba6312.js?ver=48fb2",
+      "kind": "js",
+      "localPath": "assets/js/30d9ed7c416c63c804aa4f044eba6312-ac57e1f2.js",
+      "status": "ok",
+      "bytes": 222333
+    },
+    {
+      "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496",
+      "kind": "js",
+      "localPath": "assets/js/v4513226cdae34746b4dedf0b4dfa099e1781791509496-2ee85334.js",
+      "status": "ok",
+      "bytes": 31612
+    },
+    {
+      "url": "https://static.cloudflareinsights.com/beacon.min.js/v4bc70e2c01a94c73b74392e4234840661791215815920",
+      "kind": "js",
+      "localPath": "assets/js/v4bc70e2c01a94c73b74392e4234840661791215815920-e3e473ca.js",
+      "status": "ok",
+      "bytes": 31679
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/PARTE-1.webp",
+      "kind": "img",
+      "localPath": "assets/img/PARTE-1-512a885e.webp",
+      "status": "ok",
+      "bytes": 261428
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/PARTE-3.webp",
+      "kind": "img",
+      "localPath": "assets/img/PARTE-3-4f4d2f0b.webp",
+      "status": "ok",
+      "bytes": 414046
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/PARTE-4-1.webp",
+      "kind": "img",
+      "localPath": "assets/img/PARTE-4-1-d9bbe93a.webp",
+      "status": "ok",
+      "bytes": 292856
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/PARTE-5-1.webp",
+      "kind": "img",
+      "localPath": "assets/img/PARTE-5-1-256a105d.webp",
+      "status": "ok",
+      "bytes": 269944
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/PARTE-06.webp",
+      "kind": "img",
+      "localPath": "assets/img/PARTE-06-fd871570.webp",
+      "status": "ok",
+      "bytes": 22454
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/PARTE-QUEM-SOU-EU.webp",
+      "kind": "img",
+      "localPath": "assets/img/PARTE-QUEM-SOU-EU-3c1b80d9.webp",
+      "status": "ok",
+      "bytes": 703304
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/PARTE-1-MB-1.webp",
+      "kind": "img",
+      "localPath": "assets/img/PARTE-1-MB-1-8e38b8f3.webp",
+      "status": "ok",
+      "bytes": 144572
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/PARTE-3-MB.webp",
+      "kind": "img",
+      "localPath": "assets/img/PARTE-3-MB-d35049df.webp",
+      "status": "ok",
+      "bytes": 268020
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/PARTE-4-MB-1-1.webp",
+      "kind": "img",
+      "localPath": "assets/img/PARTE-4-MB-1-1-2032a4aa.webp",
+      "status": "ok",
+      "bytes": 87190
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/uploads/2025/10/PARTE-QUEM-SOU-EU-MB.webp",
+      "kind": "img",
+      "localPath": "assets/img/PARTE-QUEM-SOU-EU-MB-0be2e9ef.webp",
+      "status": "ok",
+      "bytes": 162216
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf",
+      "kind": "font",
+      "localPath": "assets/font/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMM-adb51bc7.ttf",
+      "status": "ok",
+      "bytes": 45952
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf",
+      "kind": "font",
+      "localPath": "assets/font/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMM-e88cdb08.ttf",
+      "status": "ok",
+      "bytes": 46164
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf",
+      "kind": "font",
+      "localPath": "assets/font/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMM-2c991027.ttf",
+      "status": "ok",
+      "bytes": 46220
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf",
+      "kind": "font",
+      "localPath": "assets/font/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMM-6de289c2.ttf",
+      "status": "ok",
+      "bytes": 46152
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf",
+      "kind": "font",
+      "localPath": "assets/font/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMM-a23cdb37.ttf",
+      "status": "ok",
+      "bytes": 46324
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf",
+      "kind": "font",
+      "localPath": "assets/font/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMM-5d56cc34.ttf",
+      "status": "ok",
+      "bytes": 46444
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf",
+      "kind": "font",
+      "localPath": "assets/font/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMM-bc868164.ttf",
+      "status": "ok",
+      "bytes": 46392
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf",
+      "kind": "font",
+      "localPath": "assets/font/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMM-810fea69.ttf",
+      "status": "ok",
+      "bytes": 46516
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf",
+      "kind": "font",
+      "localPath": "assets/font/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMM-9128c2e2.ttf",
+      "status": "ok",
+      "bytes": 46556
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf",
+      "kind": "font",
+      "localPath": "assets/font/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubE-8437d2e7.ttf",
+      "status": "ok",
+      "bytes": 44744
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf",
+      "kind": "font",
+      "localPath": "assets/font/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZE-85d033c9.ttf",
+      "status": "ok",
+      "bytes": 44820
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf",
+      "kind": "font",
+      "localPath": "assets/font/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaa-426c2722.ttf",
+      "status": "ok",
+      "bytes": 44792
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+      "kind": "font",
+      "localPath": "assets/font/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubE-c29b1083.ttf",
+      "status": "ok",
+      "bytes": 44724
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf",
+      "kind": "font",
+      "localPath": "assets/font/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2-0753679b.ttf",
+      "status": "ok",
+      "bytes": 44796
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf",
+      "kind": "font",
+      "localPath": "assets/font/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYa-4507cf55.ttf",
+      "status": "ok",
+      "bytes": 44900
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf",
+      "kind": "font",
+      "localPath": "assets/font/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYj-0763584e.ttf",
+      "status": "ok",
+      "bytes": 44864
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf",
+      "kind": "font",
+      "localPath": "assets/font/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZE-8ac1c1c9.ttf",
+      "status": "ok",
+      "bytes": 44964
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf",
+      "kind": "font",
+      "localPath": "assets/font/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZt-f5356de1.ttf",
+      "status": "ok",
+      "bytes": 44948
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf",
+      "kind": "font",
+      "localPath": "assets/font/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm-4a162444.ttf",
+      "status": "ok",
+      "bytes": 27732
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf",
+      "kind": "font",
+      "localPath": "assets/font/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm-acc4043d.ttf",
+      "status": "ok",
+      "bytes": 28036
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf",
+      "kind": "font",
+      "localPath": "assets/font/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm-925f8f7e.ttf",
+      "status": "ok",
+      "bytes": 27992
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf",
+      "kind": "font",
+      "localPath": "assets/font/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm-a42bc6f5.ttf",
+      "status": "ok",
+      "bytes": 27856
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf",
+      "kind": "font",
+      "localPath": "assets/font/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm-9b18400d.ttf",
+      "status": "ok",
+      "bytes": 27868
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf",
+      "kind": "font",
+      "localPath": "assets/font/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm-2414543c.ttf",
+      "status": "ok",
+      "bytes": 27952
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf",
+      "kind": "font",
+      "localPath": "assets/font/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm-f141a751.ttf",
+      "status": "ok",
+      "bytes": 27872
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf",
+      "kind": "font",
+      "localPath": "assets/font/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm-2ac50ef6.ttf",
+      "status": "ok",
+      "bytes": 27980
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf",
+      "kind": "font",
+      "localPath": "assets/font/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm-22cb7a56.ttf",
+      "status": "ok",
+      "bytes": 28000
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf",
+      "kind": "font",
+      "localPath": "assets/font/pxiAyp8kv8JHgFVrJJLmE0tCMPc-c4b8c0cb.ttf",
+      "status": "ok",
+      "bytes": 17568
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf",
+      "kind": "font",
+      "localPath": "assets/font/pxiDyp8kv8JHgFVrJJLmv1pVF9eL-4dc9fc33.ttf",
+      "status": "ok",
+      "bytes": 17504
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf",
+      "kind": "font",
+      "localPath": "assets/font/pxiDyp8kv8JHgFVrJJLm21lVF9eL-c95ae9d2.ttf",
+      "status": "ok",
+      "bytes": 17432
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrJJLucHtF.ttf",
+      "kind": "font",
+      "localPath": "assets/font/pxiGyp8kv8JHgFVrJJLucHtF-fbaf20df.ttf",
+      "status": "ok",
+      "bytes": 17340
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf",
+      "kind": "font",
+      "localPath": "assets/font/pxiDyp8kv8JHgFVrJJLmg1hVF9eL-fa6e4d6a.ttf",
+      "status": "ok",
+      "bytes": 17360
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf",
+      "kind": "font",
+      "localPath": "assets/font/pxiDyp8kv8JHgFVrJJLmr19VF9eL-bdde0704.ttf",
+      "status": "ok",
+      "bytes": 17296
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf",
+      "kind": "font",
+      "localPath": "assets/font/pxiDyp8kv8JHgFVrJJLmy15VF9eL-2920a948.ttf",
+      "status": "ok",
+      "bytes": 17104
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf",
+      "kind": "font",
+      "localPath": "assets/font/pxiDyp8kv8JHgFVrJJLm111VF9eL-c7df1427.ttf",
+      "status": "ok",
+      "bytes": 17060
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf",
+      "kind": "font",
+      "localPath": "assets/font/pxiDyp8kv8JHgFVrJJLm81xVF9eL-719ce8ba.ttf",
+      "status": "ok",
+      "bytes": 17040
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrLPTucHtF.ttf",
+      "kind": "font",
+      "localPath": "assets/font/pxiGyp8kv8JHgFVrLPTucHtF-ed876af7.ttf",
+      "status": "ok",
+      "bytes": 16348
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf",
+      "kind": "font",
+      "localPath": "assets/font/pxiByp8kv8JHgFVrLFj_Z1xlEA-ae12fc6b.ttf",
+      "status": "ok",
+      "bytes": 16288
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf",
+      "kind": "font",
+      "localPath": "assets/font/pxiByp8kv8JHgFVrLDz8Z1xlEA-4b0d272c.ttf",
+      "status": "ok",
+      "bytes": 16172
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJfedw.ttf",
+      "kind": "font",
+      "localPath": "assets/font/pxiEyp8kv8JHgFVrJJfedw-c74e082a.ttf",
+      "status": "ok",
+      "bytes": 16148
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf",
+      "kind": "font",
+      "localPath": "assets/font/pxiByp8kv8JHgFVrLGT9Z1xlEA-b1795223.ttf",
+      "status": "ok",
+      "bytes": 16100
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf",
+      "kind": "font",
+      "localPath": "assets/font/pxiByp8kv8JHgFVrLEj6Z1xlEA-0407f0f7.ttf",
+      "status": "ok",
+      "bytes": 16044
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf",
+      "kind": "font",
+      "localPath": "assets/font/pxiByp8kv8JHgFVrLCz7Z1xlEA-e653e888.ttf",
+      "status": "ok",
+      "bytes": 15816
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf",
+      "kind": "font",
+      "localPath": "assets/font/pxiByp8kv8JHgFVrLDD4Z1xlEA-d3d0b150.ttf",
+      "status": "ok",
+      "bytes": 15708
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf",
+      "kind": "font",
+      "localPath": "assets/font/pxiByp8kv8JHgFVrLBT5Z1xlEA-a3912871.ttf",
+      "status": "ok",
+      "bytes": 15664
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSdSn0-NKQc.ttf",
+      "kind": "font",
+      "localPath": "assets/font/xMQOuFFYT72X5wkB_18qmnndmSdSn0-NKQc-ee69acc3.ttf",
+      "status": "ok",
+      "bytes": 32100
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSfSnk-NKQc.ttf",
+      "kind": "font",
+      "localPath": "assets/font/xMQOuFFYT72X5wkB_18qmnndmSfSnk-NKQc-172d514c.ttf",
+      "status": "ok",
+      "bytes": 32172
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmScMnk-NKQc.ttf",
+      "kind": "font",
+      "localPath": "assets/font/xMQOuFFYT72X5wkB_18qmnndmScMnk-NKQc-c03433d3.ttf",
+      "status": "ok",
+      "bytes": 32120
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSdSnk-NKQc.ttf",
+      "kind": "font",
+      "localPath": "assets/font/xMQOuFFYT72X5wkB_18qmnndmSdSnk-NKQc-ee45fca2.ttf",
+      "status": "ok",
+      "bytes": 32012
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSdgnk-NKQc.ttf",
+      "kind": "font",
+      "localPath": "assets/font/xMQOuFFYT72X5wkB_18qmnndmSdgnk-NKQc-516087a4.ttf",
+      "status": "ok",
+      "bytes": 32044
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSeMmU-NKQc.ttf",
+      "kind": "font",
+      "localPath": "assets/font/xMQOuFFYT72X5wkB_18qmnndmSeMmU-NKQc-4470a958.ttf",
+      "status": "ok",
+      "bytes": 32112
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSe1mU-NKQc.ttf",
+      "kind": "font",
+      "localPath": "assets/font/xMQOuFFYT72X5wkB_18qmnndmSe1mU-NKQc-d7551a77.ttf",
+      "status": "ok",
+      "bytes": 32036
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSfSmU-NKQc.ttf",
+      "kind": "font",
+      "localPath": "assets/font/xMQOuFFYT72X5wkB_18qmnndmSfSmU-NKQc-3e6e2996.ttf",
+      "status": "ok",
+      "bytes": 32124
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/themes/twentytwentyfour/assets/fonts/inter/Inter-VariableFont_slnt,wght.woff2",
+      "kind": "font",
+      "localPath": "assets/font/Inter-VariableFont_slnt-wght-38e726a4.woff2",
+      "status": "ok",
+      "bytes": 326628
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_normal_400.woff2",
+      "kind": "font",
+      "localPath": "assets/font/cardo_normal_400-74e4c05e.woff2",
+      "status": "ok",
+      "bytes": 146060
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_italic_400.woff2",
+      "kind": "font",
+      "localPath": "assets/font/cardo_italic_400-e2678667.woff2",
+      "status": "ok",
+      "bytes": 105184
+    },
+    {
+      "url": "https://victorleaogotaconsciencia.com/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_normal_700.woff2",
+      "kind": "font",
+      "localPath": "assets/font/cardo_normal_700-4a37bafe.woff2",
+      "status": "ok",
+      "bytes": 132564
+    }
+  ]
+}

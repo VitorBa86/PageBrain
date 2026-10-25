@@ -1,0 +1,217 @@
+{
+ "nome": "PÁGINA [Dra Cecilia Borges]",
+ "slug": "saude-cecilia-borges-cirurgia-plastica",
+ "pasta_original": "Dra Cecilia",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://lp.oreidalanding.com.br/cecilia-borges/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Saúde / medicina",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#D8C7C1",
+   "#4B0F55",
+   "#F0DBD4",
+   "#FFFFFF"
+  ],
+  "textos": [
+   "#4B0F55",
+   "#E6E6E6",
+   "#FFFFFF"
+  ],
+  "destaques": [
+   "#4B0F55"
+  ],
+  "gradientes": [
+   "linear-gradient(rgb(216, 199, 193) 0%, rgb(184, 165, 158) 100%)",
+   "linear-gradient(90deg, rgb(75, 15, 85) 0%, rgb(75, 15, 85) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Poppins",
+   "uso_pct": 97
+  },
+  {
+   "familia": "Sora",
+   "uso_pct": 3
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  48,
+  43,
+  41,
+  30,
+  23,
+  22,
+  18,
+  17
+ ],
+ "escala_tipografica_mobile_px": [
+  35,
+  27,
+  22,
+  22,
+  18,
+  18,
+  17,
+  16
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#00000000",
+  "gradiente": "linear-gradient(90deg, rgb(75, 15, 85) 0%, rgb(75, 15, 85) 100%)",
+  "texto": "#FFFFFF",
+  "raio": "400px",
+  "padding": "25px 66px",
+  "fonte": "Poppins",
+  "tamanho": "18px",
+  "peso": "500",
+  "caixa": "none",
+  "exemplos": [
+   "Agende sua avaliação"
+  ]
+ },
+ "raios": [
+  "222px",
+  "400px",
+  "8px",
+  "16px",
+  "10%",
+  "67px"
+ ],
+ "sombras": [
+  "rgba(255, 255, 255, 0.12) 0px 4px 70.6px 18px inset"
+ ],
+ "gaps": [
+  "20px",
+  "26px",
+  "5px",
+  "8px"
+ ],
+ "largura_conteudo_px": 1140,
+ "altura_pagina_px": 5513,
+ "secoes_qtde": 8,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "Dra Cecília Borges",
+   "fundo": "#D8C7C1",
+   "altura_px": 800
+  },
+  {
+   "ordem": 2,
+   "tipo": "prova-resultados",
+   "titulo": "",
+   "fundo": "#4B0F55",
+   "altura_px": 20
+  },
+  {
+   "ordem": 3,
+   "tipo": "servicos",
+   "titulo": "Resultados Ressignificantes",
+   "fundo": "#F0DBD4",
+   "altura_px": 703
+  },
+  {
+   "ordem": 4,
+   "tipo": "para-quem-e",
+   "titulo": "Referência em Procedimentos de Alta Precisão",
+   "fundo": "#D8C7C1",
+   "altura_px": 1074
+  },
+  {
+   "ordem": 5,
+   "tipo": "sobre",
+   "titulo": "Este acompanhamento é ideal para você que:",
+   "fundo": "#4B0F55",
+   "altura_px": 698
+  },
+  {
+   "ordem": 6,
+   "tipo": "localizacao",
+   "titulo": "Muito prazer, sou a Dra. Cecília Borges.",
+   "fundo": "#D8C7C1",
+   "altura_px": 800
+  },
+  {
+   "ordem": 7,
+   "tipo": "rodape",
+   "titulo": "Nossa Clínica",
+   "fundo": "gradiente",
+   "altura_px": 1358
+  },
+  {
+   "ordem": 8,
+   "tipo": null,
+   "titulo": "Todos os direitos reservados © 2026",
+   "fundo": "#4B0F55",
+   "altura_px": 60
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "prova-resultados",
+  "servicos",
+  "para-quem-e",
+  "sobre",
+  "localizacao",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "roxo-uva",
+  "rose",
+  "feminino",
+  "premium"
+ ],
+ "tecnicas": [
+  "Borda degradê nos cards (mask-composite)",
+  "Botão com brilho",
+  "Carrossel linear"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "brilho",
+   "brilho-container",
+   "card-pulse"
+  ],
+  "entrada_elementor": [],
+  "classes_scroll": [
+   "scroll-bottom",
+   "scroll-left",
+   "scroll-right",
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "google-ads",
+  "happy-addons",
+  "jquery",
+  "lenis",
+  "lottie",
+  "meta-pixel",
+  "swiper"
+ ],
+ "snippets_usados": [
+  "animacoes/animacao-scroll-reveal.html",
+  "cards-e-bordas/card-borda-degrade.css",
+  "faixas-e-carrosseis/carrossel-linear-continuo.css",
+  "whatsapp-e-flutuantes/link-whatsapp-com-mensagem.html",
+  "tracking-e-pixels/meta-pixel.html",
+  "tracking-e-pixels/google-ads-gtag.html",
+  "utilitarios-css/css-base-toda-pagina.css"
+ ],
+ "relevancia": 4,
+ "resumo": "Cirurgiã plástica em roxo uva e rosé. Carrossel de resultados com tarja, cards roxos de procedimento dentro de um container claro arredondado, faixa roxa com 6 checks em pílulas brancas e card da clínica com lista e mapa.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/saude-cecilia-borges-cirurgia-plastica.md",
+  "json_elementor": "../../../elementor/paginas/captacao/saude-cecilia-borges-cirurgia-plastica.json"
+ }
+}

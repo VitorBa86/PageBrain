@@ -1,0 +1,39 @@
+<!--
+  SNIPPET: Tour 360 incorporado (Momento360)
+  CATEGORIA: secoes-prontas
+  O QUE FAZ: Incorpora um tour 360 do Momento360 com cantos arredondados e altura responsiva.
+  COMO USAR: Widget HTML. Troque a URL do iframe pela do seu tour.
+  ONDE COLAR: Widget HTML
+  DEPENDÊNCIAS: Conta no Momento360
+  ORIGEM: paginas/nossas/imob-vega-costa-e-silva
+  USADO EM: 1 página(s) da casa: imob-vega-costa-e-silva
+-->
+
+<div class="momento360-wrapper">
+  <iframe src="https://momento360.com/e/uc/0334747dab364af1badb1e7f2d7cc807?utm_campaign=embed&amp;upload-key=37873713fa0e478d80880e56ab82b6fe" frameborder="0" allowfullscreen="" allow="accelerometer; gyroscope; autoplay; fullscreen" loading="lazy">
+  </iframe>
+</div>
+
+<style>
+.momento360-wrapper {
+    width: 100%;
+    height: 650px;
+    overflow: hidden;
+    border-radius: 16px;
+    background: #000;
+}
+
+.momento360-wrapper iframe {
+    width: 100%;
+    height: 100%;
+    display: block;
+    border: 0;
+}
+
+@media (max-width: 767px) {
+    .momento360-wrapper {
+        height: 500px;
+        border-radius: 12px;
+    }
+}
+</style>

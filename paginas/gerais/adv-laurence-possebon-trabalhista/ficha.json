@@ -1,0 +1,282 @@
+{
+ "nome": "Advogado Trabalhista em Caxias do Sul | Laurence Possebon",
+ "slug": "adv-laurence-possebon-trabalhista",
+ "pasta_original": "Lauren Adv",
+ "origem": "paginas/gerais",
+ "prioridade": "referencia",
+ "url": "https://laurencepossebon.adv.br/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Advocacia",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#ECE9E2",
+   "#002C42",
+   "#011520",
+   "#F7F2E9",
+   "#FAFAFC",
+   "#15465F"
+  ],
+  "textos": [
+   "#FFFFFF",
+   "#00314A",
+   "#172A24",
+   "#012233",
+   "#6EC1E4",
+   "#17263B"
+  ],
+  "destaques": [
+   "#00314A",
+   "#172A24",
+   "#6EC1E4",
+   "#17263B",
+   "#15465F"
+  ],
+  "gradientes": [
+   "linear-gradient(128deg, rgb(255, 255, 255) 0px, rgb(223, 217, 205) 100%)",
+   "linear-gradient(210deg, rgba(226, 220, 205, 0.31) 0px, rgb(250, 250, 252) 100%)",
+   "linear-gradient(rgb(255, 255, 255) 0px, rgb(253, 253, 253) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Manrope",
+   "uso_pct": 99
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  200,
+  59,
+  55,
+  44,
+  36,
+  25,
+  24,
+  22,
+  20
+ ],
+ "escala_tipografica_mobile_px": [
+  35,
+  27,
+  24,
+  22,
+  21,
+  20,
+  19,
+  19
+ ],
+ "h1_mobile": "34px",
+ "botao_principal": {
+  "fundo": "#61CE7000",
+  "gradiente": null,
+  "texto": "#00314A",
+  "raio": "3px",
+  "padding": "13px 40px",
+  "fonte": "Manrope",
+  "tamanho": "20px",
+  "peso": "600",
+  "caixa": "uppercase",
+  "exemplos": [
+   "FALAR COM O ADVOGADO",
+   "SOLICITAR ANÁLISE DO MEU CASO",
+   "VER A LOCALIZAÇÃO DO ESCRITÓRIO"
+  ]
+ },
+ "raios": [
+  "10px",
+  "8px",
+  "3px",
+  "18px",
+  "999px",
+  "14px"
+ ],
+ "sombras": [
+  "rgba(213, 190, 149, 0.3) 0px 20px 30px -6px",
+  "rgba(0, 0, 0, 0.15) 0px 0px 10px 0px"
+ ],
+ "gaps": [
+  "20px",
+  "5px",
+  "0px 10px",
+  "10px",
+  "60px",
+  "20px 40px"
+ ],
+ "largura_conteudo_px": 1140,
+ "altura_pagina_px": 15460,
+ "secoes_qtde": 15,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "Trabalhou e não recebeu tudo que era seu por direito?",
+   "fundo": "#011520",
+   "altura_px": 765
+  },
+  {
+   "ordem": 2,
+   "tipo": "servicos",
+   "titulo": "ÁREAS DE ATUAÇÃO",
+   "fundo": "imagem",
+   "altura_px": 1614
+  },
+  {
+   "ordem": 3,
+   "tipo": "prova-social",
+   "titulo": "ESCRITÓRIO AVALIADO EM 5 ESTRELAS NO",
+   "fundo": "#002C42",
+   "altura_px": 963
+  },
+  {
+   "ordem": 4,
+   "tipo": "como-funciona",
+   "titulo": "PASSO A PASSO",
+   "fundo": "imagem",
+   "altura_px": 2640
+  },
+  {
+   "ordem": 5,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 56
+  },
+  {
+   "ordem": 6,
+   "tipo": "diferenciais",
+   "titulo": "DIFERENCIAIS",
+   "fundo": "#ECE9E2",
+   "altura_px": 1494
+  },
+  {
+   "ordem": 7,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "gradiente",
+   "altura_px": 91
+  },
+  {
+   "ordem": 8,
+   "tipo": "",
+   "titulo": "QUEM CUIDA DO SEU CASO",
+   "fundo": "imagem",
+   "altura_px": 1024
+  },
+  {
+   "ordem": 9,
+   "tipo": "",
+   "titulo": "Formações e credenciais",
+   "fundo": "imagem",
+   "altura_px": 1938
+  },
+  {
+   "ordem": 10,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 56
+  },
+  {
+   "ordem": 11,
+   "tipo": "",
+   "titulo": "O ESCRITÓRIO",
+   "fundo": "#ECE9E2",
+   "altura_px": 1679
+  },
+  {
+   "ordem": 12,
+   "tipo": "faq",
+   "titulo": "SUA DÚVIDA PODE ESTAR AQUI",
+   "fundo": "transparente",
+   "altura_px": 2711
+  },
+  {
+   "ordem": 13,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 20
+  },
+  {
+   "ordem": 14,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 20
+  },
+  {
+   "ordem": 15,
+   "tipo": "rodape",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 20
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "servicos",
+  "prova-social",
+  "como-funciona",
+  "",
+  "diferenciais",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "faq",
+  "",
+  "",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "navy",
+  "bege",
+  "glass",
+  "premium"
+ ],
+ "tecnicas": [
+  "Glassmorphism",
+  "Animações de entrada pesadas (no print estático aparecem apagadas)"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "animacao-logo-completa",
+   "fadeIn",
+   "girarContinuamente",
+   "gradientAnimation",
+   "hide-scroll",
+   "mover-direita",
+   "mover-direita-mobile",
+   "shinery"
+  ],
+  "entrada_elementor": [],
+  "classes_scroll": [
+   "scroll-bottom",
+   "scroll-left",
+   "scroll-right",
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "gtm",
+  "jquery",
+  "lenis",
+  "lottie",
+  "meta-pixel",
+  "swiper"
+ ],
+ "snippets_usados": [],
+ "relevancia": 4,
+ "resumo": "Advogado trabalhista com navy e bege, selos e glassmorphism. Hero com selo 'Escritório 5 estrelas no Google' e tag '10 anos de experiência', casos em grid, depoimentos, processo com números gigantes vazados em cards de vidro sobre foto e marquee com o nome do advogado.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": null,
+  "copy_real": null,
+  "json_elementor": null,
+  "ref": "ref/"
+ }
+}

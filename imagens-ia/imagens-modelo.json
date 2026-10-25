@@ -1,0 +1,45 @@
+{
+  "pagina": "nome-do-cliente",
+  "molde": "vendas-mentoria-bancario-jessica",
+  "estilo_nicho": "Infoproduto e vendas",
+  "paleta": ["#0E0E0E", "#F7931E", "#FFFFFF"],
+  "slots": [
+    {
+      "id": "IMG-01",
+      "secao": "01 hero",
+      "tipo": "fundo-hero",
+      "origem": "gerar",
+      "largura": 1440,
+      "altura": 800,
+      "proporcao": "16:9",
+      "slot_do_molde": "S01-1",
+      "prompt": "Wide background for a website hero, empty left side for text, ...",
+      "modelo": "seedream-5-pro",
+      "status": "pendente"
+    },
+    {
+      "id": "IMG-02",
+      "secao": "01 hero",
+      "tipo": "composicao-expert",
+      "origem": "foto do cliente + gerar",
+      "referencia": "fotos-do-cliente/expert-01.jpg",
+      "largura": 620,
+      "altura": 780,
+      "proporcao": "4:5",
+      "prompt": "Keep the person from the reference exactly as is ...",
+      "modelo": "imagen-nano-banana-2",
+      "status": "aguardando aprovação do cliente"
+    },
+    {
+      "id": "IMG-09",
+      "secao": "07 depoimentos",
+      "tipo": "print",
+      "origem": "print do cliente",
+      "largura": 280,
+      "altura": 498,
+      "proporcao": "0.56",
+      "prompt": "",
+      "status": "pedir ao cliente (trocar nome e borrar foto)"
+    }
+  ]
+}

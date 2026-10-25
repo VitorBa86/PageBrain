@@ -1,0 +1,277 @@
+{
+ "nome": "PÁGINA RENAN",
+ "slug": "psi-renan",
+ "pasta_original": "Renan Psi",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://lp.oreidalanding.com.br/pagina-renan/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Psicologia",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#FAF8F5",
+   "#F2EEE8",
+   "#173B47",
+   "#1F4E5F",
+   "#FFDFDF",
+   "#8E44AD",
+   "#C0392B"
+  ],
+  "textos": [
+   "#4A4A4A",
+   "#2A2A2A",
+   "#FFFFFF",
+   "#1E1E1E",
+   "#B38A3D",
+   "#1F4E5F"
+  ],
+  "destaques": [
+   "#1F4E5F",
+   "#FAF8F5",
+   "#173B47",
+   "#B38A3D"
+  ],
+  "gradientes": [
+   "linear-gradient(rgb(42, 120, 149), rgb(42, 120, 149)), linear-gradient(rgb(42, 120, 149), rgb(42, 120, 149)), linear-gradient(rgb(42, 120, 149), rgb(42, 120, 149)), linear-gradient(rgb(42, 120, 149), rgb(42, 120, 149)), linear-gradient(rgb(42, 120, 149), rgb(42, 120, 149)), linear-gradient(rgb(42, 1",
+   "linear-gradient(192deg, rgb(23, 59, 71) 0%, rgb(31, 78, 95) 100%)",
+   "linear-gradient(230deg, rgb(23, 59, 71) 0%, rgb(31, 78, 95) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Inter",
+   "uso_pct": 49
+  },
+  {
+   "familia": "Fraunces",
+   "uso_pct": 11
+  },
+  {
+   "familia": "Nunito Sans",
+   "uso_pct": 7
+  },
+  {
+   "familia": "Roboto",
+   "uso_pct": 5
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  44,
+  42,
+  41,
+  28,
+  25,
+  24,
+  23,
+  22,
+  21,
+  19
+ ],
+ "escala_tipografica_mobile_px": [
+  32,
+  29,
+  27,
+  27,
+  21,
+  20,
+  18,
+  17
+ ],
+ "h1_mobile": "27.3px",
+ "botao_principal": {
+  "fundo": "#1F4E5F",
+  "gradiente": null,
+  "texto": "#FFFFFF",
+  "raio": "42px",
+  "padding": "15px 30px",
+  "fonte": "Inter",
+  "tamanho": "16px",
+  "peso": "500",
+  "caixa": "uppercase",
+  "exemplos": [
+   "AGENDAR MINHA CONSULTA",
+   "AGENDAR SESSÃO"
+  ]
+ },
+ "raios": [
+  "9px",
+  "14px",
+  "42px",
+  "8px",
+  "3px",
+  "4px"
+ ],
+ "sombras": [
+  "rgba(31, 78, 95, 0.06) 0px 12px 40px 0px",
+  "rgba(0, 0, 0, 0.06) 0px 2px 10px 0px",
+  "rgba(0, 0, 0, 0.08) 0px 2px 6px 0px"
+ ],
+ "gaps": [
+  "20px",
+  "14px",
+  "6px",
+  "16px",
+  "5px",
+  "24px"
+ ],
+ "largura_conteudo_px": 1140,
+ "altura_pagina_px": 9518,
+ "secoes_qtde": 12,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "Renan Boucault",
+   "fundo": "#FAF8F5",
+   "altura_px": 800
+  },
+  {
+   "ordem": 2,
+   "tipo": "faixa",
+   "titulo": "",
+   "fundo": "gradiente",
+   "altura_px": 70
+  },
+  {
+   "ordem": 3,
+   "tipo": "servicos",
+   "titulo": "SERVIÇOS",
+   "fundo": "#F2EEE8",
+   "altura_px": 1735
+  },
+  {
+   "ordem": 4,
+   "tipo": "como-funciona",
+   "titulo": "O CAMINHO TERAPÊUTICO",
+   "fundo": "#FAF8F5",
+   "altura_px": 1691
+  },
+  {
+   "ordem": 5,
+   "tipo": "antes-depois",
+   "titulo": "O QUE MUDA",
+   "fundo": "#F2EEE8",
+   "altura_px": 828
+  },
+  {
+   "ordem": 6,
+   "tipo": "prova-social",
+   "titulo": "O QUE DIZEM AS PACIENTES",
+   "fundo": "#FAF8F5",
+   "altura_px": 728
+  },
+  {
+   "ordem": 7,
+   "tipo": "sobre",
+   "titulo": "Renan Boucault",
+   "fundo": "#173B47",
+   "altura_px": 975
+  },
+  {
+   "ordem": 8,
+   "tipo": "faixa",
+   "titulo": "",
+   "fundo": "gradiente",
+   "altura_px": 70
+  },
+  {
+   "ordem": 9,
+   "tipo": "localizacao",
+   "titulo": "ATENDIMENTO PRESENCIAL",
+   "fundo": "#FAF8F5",
+   "altura_px": 828
+  },
+  {
+   "ordem": 10,
+   "tipo": "faq",
+   "titulo": "PERGUNTAS FREQUENTES",
+   "fundo": "#F2EEE8",
+   "altura_px": 836
+  },
+  {
+   "ordem": 11,
+   "tipo": "cta-final",
+   "titulo": "DÊ O PRIMEIRO PASSO",
+   "fundo": "#1F4E5F",
+   "altura_px": 591
+  },
+  {
+   "ordem": 12,
+   "tipo": "rodape",
+   "titulo": "Renan Boucault",
+   "fundo": "#FAF8F5",
+   "altura_px": 367
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "faixa",
+  "servicos",
+  "como-funciona",
+  "antes-depois",
+  "prova-social",
+  "sobre",
+  "faixa",
+  "localizacao",
+  "faq",
+  "cta-final",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "off-white",
+  "azul-petroleo",
+  "serifa-italica",
+  "acolhedor"
+ ],
+ "tecnicas": [
+  "Carrossel de avaliações Google em HTML",
+  "Faixa animada",
+  "Scroll reveal"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "carrossel"
+  ],
+  "entrada_elementor": [],
+  "classes_scroll": [
+   "scroll-bottom",
+   "scroll-left",
+   "scroll-right",
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "google-ads",
+  "happy-addons",
+  "jquery",
+  "lenis",
+  "lottie",
+  "meta-pixel",
+  "swiper"
+ ],
+ "snippets_usados": [
+  "animacoes/animacao-scroll-reveal.html",
+  "animacoes/animacao-scroll-reveal-blur.css",
+  "faixas-e-carrosseis/faixa-animada-infinita.html",
+  "faixas-e-carrosseis/carrossel-avaliacoes-google.html",
+  "secoes-prontas/linha-do-tempo-etapas.html",
+  "whatsapp-e-flutuantes/link-whatsapp-com-mensagem.html",
+  "tracking-e-pixels/meta-pixel.html",
+  "tracking-e-pixels/google-ads-gtag.html",
+  "utilitarios-css/css-base-toda-pagina.css",
+  "utilitarios-css/botao-icone-tamanho.css",
+  "utilitarios-css/elemento-posicao-absoluta.css"
+ ],
+ "relevancia": 5,
+ "resumo": "Terapia de relacionamentos, uma das mais refinadas da casa. Off-white e petróleo, Fraunces com palavra em itálico, faixa marquee petróleo, cards com foto no topo, linha do tempo zigue-zague com scroll, comparativo 'antes e com a terapia' em vermelho e verde e 'sobre' escuro.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/psi-renan.md",
+  "json_elementor": "../../../elementor/paginas/captacao/psi-renan.json"
+ }
+}

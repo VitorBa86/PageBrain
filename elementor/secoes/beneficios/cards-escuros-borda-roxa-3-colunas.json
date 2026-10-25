@@ -1,0 +1,403 @@
+{
+ "content": [
+  {
+   "id": "5fbc3373",
+   "settings": {
+    "flex_direction": "row",
+    "margin": {
+     "unit": "px",
+     "top": "0",
+     "right": "0",
+     "bottom": "0",
+     "left": "0",
+     "isLinked": false
+    },
+    "padding": {
+     "unit": "px",
+     "top": "80",
+     "right": "-1",
+     "bottom": "80",
+     "left": "0",
+     "isLinked": false
+    },
+    "margin_mobile": {
+     "unit": "px",
+     "top": "20",
+     "right": "0",
+     "bottom": "0",
+     "left": "0",
+     "isLinked": false
+    },
+    "background_background": "classic",
+    "background_color": "#000000",
+    "eae_slider_delay": "5000",
+    "gradient_color_list": [
+     {
+      "eae_animated_gradient_color": "#00a6d8",
+      "_id": "ced07f3"
+     },
+     {
+      "eae_animated_gradient_color": "#b800c9",
+      "_id": "da91c4c"
+     },
+     {
+      "eae_animated_gradient_color": "#e57600",
+      "_id": "78ffaed"
+     }
+    ]
+   },
+   "elements": [
+    {
+     "id": "594eb00c",
+     "settings": {
+      "min_height": {
+       "unit": "px",
+       "size": 0,
+       "sizes": []
+      },
+      "background_background": "gradient",
+      "background_color": "#5B117F52",
+      "background_color_b": "#5B117F1A",
+      "background_gradient_angle": {
+       "unit": "deg",
+       "size": 132,
+       "sizes": []
+      },
+      "border_border": "solid",
+      "border_width": {
+       "unit": "px",
+       "top": "1",
+       "right": "1",
+       "bottom": "1",
+       "left": "1",
+       "isLinked": true
+      },
+      "border_color": "#FFFFFF2E",
+      "border_radius": {
+       "unit": "px",
+       "top": "10",
+       "right": "10",
+       "bottom": "10",
+       "left": "10",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "30",
+       "right": "30",
+       "bottom": "30",
+       "left": "30",
+       "isLinked": true
+      },
+      "css_classes": "scroll-bottom",
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+       {
+        "eae_animated_gradient_color": "#00a6d8",
+        "_id": "aaba486"
+       },
+       {
+        "eae_animated_gradient_color": "#b800c9",
+        "_id": "f4fad85"
+       },
+       {
+        "eae_animated_gradient_color": "#e57600",
+        "_id": "8692c1b"
+       }
+      ]
+     },
+     "elements": [
+      {
+       "id": "2d35ee04",
+       "settings": {
+        "view": "stacked",
+        "title_text": "Lorem Ipsum",
+        "description_text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the.",
+        "text_align": "left",
+        "primary_color": "#920E81",
+        "icon_size": {
+         "unit": "px",
+         "size": 28,
+         "sizes": []
+        },
+        "icon_padding": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "border_radius": {
+         "unit": "px",
+         "top": "12",
+         "right": "12",
+         "bottom": "12",
+         "left": "12",
+         "isLinked": true
+        },
+        "title_color": "#AF0199",
+        "title_typography_typography": "custom",
+        "title_typography_font_family": "Sora",
+        "title_typography_font_size": {
+         "unit": "px",
+         "size": 24,
+         "sizes": []
+        },
+        "title_typography_font_weight": "600",
+        "description_color": "#FFFFFF",
+        "description_typography_typography": "custom",
+        "description_typography_font_family": "Sora",
+        "description_typography_font_size": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "description_typography_font_weight": "200"
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "icon-box",
+       "elType": "widget"
+      }
+     ],
+     "isInner": true,
+     "elType": "container"
+    },
+    {
+     "id": "7646060c",
+     "settings": {
+      "min_height": {
+       "unit": "px",
+       "size": 0,
+       "sizes": []
+      },
+      "background_background": "gradient",
+      "background_color": "#5B117F52",
+      "background_color_b": "#5B117F1A",
+      "background_gradient_angle": {
+       "unit": "deg",
+       "size": 132,
+       "sizes": []
+      },
+      "border_border": "solid",
+      "border_width": {
+       "unit": "px",
+       "top": "1",
+       "right": "1",
+       "bottom": "1",
+       "left": "1",
+       "isLinked": true
+      },
+      "border_color": "#FFFFFF2E",
+      "border_radius": {
+       "unit": "px",
+       "top": "10",
+       "right": "10",
+       "bottom": "10",
+       "left": "10",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "30",
+       "right": "30",
+       "bottom": "30",
+       "left": "30",
+       "isLinked": true
+      },
+      "css_classes": "scroll-bottom",
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+       {
+        "eae_animated_gradient_color": "#00a6d8",
+        "_id": "868265e"
+       },
+       {
+        "eae_animated_gradient_color": "#b800c9",
+        "_id": "93f80f2"
+       },
+       {
+        "eae_animated_gradient_color": "#e57600",
+        "_id": "124eda0"
+       }
+      ]
+     },
+     "elements": [
+      {
+       "id": "44f0c8cd",
+       "settings": {
+        "view": "stacked",
+        "title_text": "Lorem Ipsum",
+        "description_text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the.",
+        "text_align": "left",
+        "primary_color": "#920E81",
+        "icon_size": {
+         "unit": "px",
+         "size": 28,
+         "sizes": []
+        },
+        "icon_padding": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "border_radius": {
+         "unit": "px",
+         "top": "12",
+         "right": "12",
+         "bottom": "12",
+         "left": "12",
+         "isLinked": true
+        },
+        "title_color": "#AF0199",
+        "title_typography_typography": "custom",
+        "title_typography_font_family": "Sora",
+        "title_typography_font_size": {
+         "unit": "px",
+         "size": 24,
+         "sizes": []
+        },
+        "title_typography_font_weight": "600",
+        "description_color": "#FFFFFF",
+        "description_typography_typography": "custom",
+        "description_typography_font_family": "Sora",
+        "description_typography_font_size": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "description_typography_font_weight": "200",
+        "content_width": "full"
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "icon-box",
+       "elType": "widget"
+      }
+     ],
+     "isInner": true,
+     "elType": "container"
+    },
+    {
+     "id": "3d3d7ed2",
+     "settings": {
+      "min_height": {
+       "unit": "px",
+       "size": 0,
+       "sizes": []
+      },
+      "background_background": "gradient",
+      "background_color": "#5B117F52",
+      "background_color_b": "#5B117F1A",
+      "background_gradient_angle": {
+       "unit": "deg",
+       "size": 132,
+       "sizes": []
+      },
+      "border_border": "solid",
+      "border_width": {
+       "unit": "px",
+       "top": "1",
+       "right": "1",
+       "bottom": "1",
+       "left": "1",
+       "isLinked": true
+      },
+      "border_color": "#FFFFFF2E",
+      "border_radius": {
+       "unit": "px",
+       "top": "10",
+       "right": "10",
+       "bottom": "10",
+       "left": "10",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "30",
+       "right": "30",
+       "bottom": "30",
+       "left": "30",
+       "isLinked": true
+      },
+      "css_classes": "scroll-bottom",
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+       {
+        "eae_animated_gradient_color": "#00a6d8",
+        "_id": "91b5e22"
+       },
+       {
+        "eae_animated_gradient_color": "#b800c9",
+        "_id": "6a05b5d"
+       },
+       {
+        "eae_animated_gradient_color": "#e57600",
+        "_id": "6aca2b2"
+       }
+      ]
+     },
+     "elements": [
+      {
+       "id": "c86ff9",
+       "settings": {
+        "view": "stacked",
+        "title_text": "Lorem Ipsum",
+        "description_text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the.",
+        "text_align": "left",
+        "primary_color": "#920E81",
+        "icon_size": {
+         "unit": "px",
+         "size": 28,
+         "sizes": []
+        },
+        "icon_padding": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "border_radius": {
+         "unit": "px",
+         "top": "12",
+         "right": "12",
+         "bottom": "12",
+         "left": "12",
+         "isLinked": true
+        },
+        "title_color": "#AF0199",
+        "title_typography_typography": "custom",
+        "title_typography_font_family": "Sora",
+        "title_typography_font_size": {
+         "unit": "px",
+         "size": 24,
+         "sizes": []
+        },
+        "title_typography_font_weight": "600",
+        "description_color": "#FFFFFF",
+        "description_typography_typography": "custom",
+        "description_typography_font_family": "Sora",
+        "description_typography_font_size": {
+         "unit": "px",
+         "size": 15,
+         "sizes": []
+        },
+        "description_typography_font_weight": "200",
+        "content_width": "full"
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "icon-box",
+       "elType": "widget"
+      }
+     ],
+     "isInner": true,
+     "elType": "container"
+    }
+   ],
+   "isInner": true,
+   "elType": "container"
+  }
+ ],
+ "page_settings": [],
+ "version": "0.4",
+ "title": "card 06",
+ "type": "container"
+}

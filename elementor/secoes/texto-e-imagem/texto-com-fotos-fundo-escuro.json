@@ -1,0 +1,284 @@
+{
+ "content": [
+  {
+   "id": "7128acdb",
+   "settings": {
+    "flex_direction": "row",
+    "min_height": {
+     "unit": "px",
+     "size": 700,
+     "sizes": []
+    },
+    "background_background": "classic",
+    "background_color": "#1B1B1B",
+    "boxed_width_mobile": {
+     "unit": "%",
+     "size": 90,
+     "sizes": []
+    },
+    "flex_justify_content": "space-between",
+    "flex_align_items": "center",
+    "padding": {
+     "unit": "px",
+     "top": "80",
+     "right": "0",
+     "bottom": "80",
+     "left": "0",
+     "isLinked": false
+    },
+    "background_image": {
+     "url": "",
+     "id": "",
+     "size": "",
+     "alt": "",
+     "source": "library"
+    },
+    "background_position": "top center",
+    "background_repeat": "no-repeat",
+    "background_size_mobile": "cover",
+    "eae_slider_delay": "5000",
+    "gradient_color_list": [
+     {
+      "eae_animated_gradient_color": "#00a6d8",
+      "_id": "c9d7d36"
+     },
+     {
+      "eae_animated_gradient_color": "#b800c9",
+      "_id": "16f6888"
+     },
+     {
+      "eae_animated_gradient_color": "#e57600",
+      "_id": "f301865"
+     }
+    ]
+   },
+   "elements": [
+    {
+     "id": "7d919fad",
+     "settings": {
+      "content_width": "full",
+      "width": {
+       "unit": "%",
+       "size": 45,
+       "sizes": []
+      },
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+       {
+        "eae_animated_gradient_color": "#00a6d8",
+        "_id": "f7fa2f5"
+       },
+       {
+        "eae_animated_gradient_color": "#b800c9",
+        "_id": "e5cda17"
+       },
+       {
+        "eae_animated_gradient_color": "#e57600",
+        "_id": "99a71f1"
+       }
+      ]
+     },
+     "elements": [
+      {
+       "id": "6ddde87f",
+       "settings": {
+        "title": "LOREM IMPSUM",
+        "title_color": "#BC8344",
+        "typography_typography": "custom",
+        "typography_font_family": "Belleza",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 36,
+         "sizes": []
+        },
+        "typography_font_size_mobile": {
+         "unit": "vw",
+         "size": 8.5,
+         "sizes": []
+        },
+        "typography_font_weight": "600",
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.3,
+         "sizes": []
+        },
+        "typography_line_height_widescreen": {
+         "unit": "em",
+         "size": "",
+         "sizes": []
+        },
+        "typography_line_height_laptop": {
+         "unit": "em",
+         "size": "",
+         "sizes": []
+        },
+        "_element_width": "inherit",
+        "_element_width_mobile": "inherit",
+        "_element_custom_width": {
+         "unit": "%",
+         "size": 45,
+         "sizes": []
+        },
+        "align": "left",
+        "align_mobile": "center",
+        "_css_classes": "scroll-left"
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "heading",
+       "elType": "widget"
+      },
+      {
+       "id": "4511afda",
+       "settings": {
+        "image": {
+         "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/10/smirking-young-man-6.jpg",
+         "id": 9846,
+         "size": "",
+         "alt": "",
+         "source": "library"
+        },
+        "_margin": {
+         "unit": "px",
+         "top": "60",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": false
+        },
+        "_margin_mobile": {
+         "unit": "px",
+         "top": "40",
+         "right": "0",
+         "bottom": "20",
+         "left": "0",
+         "isLinked": false
+        },
+        "_element_width": "initial",
+        "_element_width_mobile": "inherit",
+        "_element_custom_width": {
+         "unit": "%",
+         "size": 51,
+         "sizes": []
+        },
+        "_css_classes": "scroll-left",
+        "hide_widescreen": "hidden-widescreen",
+        "hide_desktop": "hidden-desktop",
+        "hide_laptop": "hidden-laptop"
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "image",
+       "elType": "widget"
+      },
+      {
+       "id": "75c6a53e",
+       "settings": {
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,<br><br>\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,<br><br>\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,<br><br>\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "title_color": "#FFFFFF",
+        "typography_typography": "custom",
+        "typography_font_family": "Sora",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 17,
+         "sizes": []
+        },
+        "typography_font_size_mobile": {
+         "unit": "px",
+         "size": 16,
+         "sizes": []
+        },
+        "typography_font_weight": "200",
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.4,
+         "sizes": []
+        },
+        "typography_line_height_widescreen": {
+         "unit": "em",
+         "size": "",
+         "sizes": []
+        },
+        "typography_line_height_laptop": {
+         "unit": "em",
+         "size": "",
+         "sizes": []
+        },
+        "_element_width": "inherit",
+        "_element_width_mobile": "inherit",
+        "_element_custom_width": {
+         "unit": "%",
+         "size": 45,
+         "sizes": []
+        },
+        "_margin": {
+         "unit": "px",
+         "top": "10",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": false
+        },
+        "_css_classes": "scroll-left"
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "heading",
+       "elType": "widget"
+      }
+     ],
+     "isInner": true,
+     "elType": "container"
+    },
+    {
+     "id": "3bdfb57c",
+     "settings": {
+      "image": {
+       "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/10/smirking-young-man-1.jpg",
+       "id": 9808,
+       "size": "",
+       "alt": "",
+       "source": "library"
+      },
+      "_margin": {
+       "unit": "px",
+       "top": "60",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "_element_width": "initial",
+      "_element_width_mobile": "inherit",
+      "_element_custom_width": {
+       "unit": "%",
+       "size": 51,
+       "sizes": []
+      },
+      "_css_classes": "scroll-right",
+      "hide_tablet": "hidden-tablet",
+      "hide_mobile": "hidden-mobile"
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "image",
+     "elType": "widget"
+    }
+   ],
+   "isInner": false,
+   "elType": "container"
+  }
+ ],
+ "page_settings": [],
+ "version": "0.4",
+ "title": "texto e imagem 03",
+ "type": "container"
+}

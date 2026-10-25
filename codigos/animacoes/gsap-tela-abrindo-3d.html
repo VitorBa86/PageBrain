@@ -1,0 +1,123 @@
+<!--
+  SNIPPET: Imagem que abre como tela de notebook (GSAP)
+  CATEGORIA: animacoes
+  O QUE FAZ: O container começa deitado (rotateX -90) e vai "abrindo" em 3D enquanto a pessoa rola. Ótimo para mockup de tela.
+  COMO USAR: Coloque a classe "thumb" no container da imagem (ou troque seletorContainer). Cole em um widget HTML no fim da página.
+  ONDE COLAR: Widget HTML no fim da página
+  DEPENDÊNCIAS: GSAP e ScrollTrigger
+  ORIGEM: paginas/nossas/psi-vivian-widuch
+  USADO EM: 1 página(s) da casa: psi-vivian-widuch
+-->
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+
+<script>
+// Registra o plugin ScrollTrigger
+gsap.registerPlugin(ScrollTrigger);
+
+// ============================================
+// CONFIGURAÇÃO - MUDE AQUI
+// ============================================
+const seletorContainer = '.thumb'; // ⬅️ MUDE para o seletor do seu container
+// Exemplos: '.laptop-screen', '#tela-3d', '[data-id="abc123"]'
+// ============================================
+
+// Seleciona o container
+const container = document.querySelector(seletorContainer);
+
+if (container) {
+    // Define o ponto de origem da transformação (eixo inferior para simular dobradiça)
+    container.style.transformOrigin = 'bottom center';
+    container.style.transformStyle = 'preserve-3d';
+    
+    // Estado inicial: tela fechada (rotacionada para frente)
+    gsap.set(container, {
+        rotateX: -90, // Começa "fechado" (rotacionado 90 graus para frente)
+        opacity: 0.3,
+        scale: 0.9
+    });
+    
+    // Animação de abertura da tela como um laptop
+    gsap.to(container, {
+        rotateX: 0,      // Abre até ficar plano (0 graus)
+        opacity: 1,      // Fica totalmente visível
+        scale: 1,        // Retorna ao tamanho normal
+        ease: 'power2.out', // Suavização natural
+        scrollTrigger: {
+            trigger: container,
+            start: 'top 90%',   // Começa quando container está a 10% do topo (90% da viewport)
+            end: 'top 50%',     // Termina quando container chega ao meio da tela
+            scrub: 1.5,         // Sincroniza com o scroll (valores maiores = mais suave)
+            // markers: true,   // Descomente para ver os marcadores de debug
+            
+            // Opcional: adiciona efeitos extras durante o scroll
+            onUpdate: (self) => {
+                // Calcula o progresso da animação (0 a 1)
+                const progress = self.progress;
+                
+                // Adiciona um leve efeito de perspectiva conforme abre
+                const perspective = 2000 - (progress * 1000);
+                container.parentElement.style.perspective = `${perspective}px`;
+            }
+        }
+    });
+    
+    // Animação adicional: leve movimento para cima enquanto abre
+    gsap.to(container, {
+        y: -20, // Move 20px para cima
+        scrollTrigger: {
+            trigger: container,
+            start: 'top 90%',
+            end: 'top 50%',
+            scrub: 1.5
+        }
+    });
+    
+    console.log('✅ Animação 3D de abertura aplicada com sucesso!');
+    
+} else {
+    console.error('❌ Container não encontrado! Verifique o seletor:', seletorContainer);
+    console.log('💡 Dica: Inspecione o elemento e use a classe, ID ou data-id correto');
+}
+</script>
+
+<!-- 
+============================================
+COMO USAR NO ELEMENTOR:
+============================================
+
+1. Cole este código em um widget HTML do Elementor
+
+2. Mude o seletor na linha 12:
+   const seletorContainer = '.seu-container';
+   
+   Para descobrir o seletor correto:
+   - Clique com botão direito no container > Inspecionar
+   - Procure por: class="..." ou data-id="..."
+   - Use: '.nome-da-classe' ou '[data-id="abc123"]'
+
+3. Ajustes opcionais:
+   - scrub: 1.5 → Controla a suavidade (maior = mais suave)
+   - rotateX: -90 → Ângulo inicial (90 = fechado, 180 = virado)
+   - y: -20 → Movimento vertical durante abertura
+   - scale: 0.9 → Tamanho inicial (0.8 = menor, 1 = normal)
+
+4. Para debug, descomente a linha:
+   // markers: true
+
+============================================
+DICAS DE ESTILO CSS PARA O CONTAINER:
+============================================
+
+Adicione estas propriedades CSS ao seu container para 
+um efeito ainda mais realista:
+
+.seu-container {
+    box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+============================================
+-->

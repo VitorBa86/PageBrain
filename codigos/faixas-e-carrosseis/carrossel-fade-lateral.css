@@ -1,0 +1,30 @@
+/*
+  SNIPPET: Carrossel com fade nas laterais
+  CATEGORIA: faixas-e-carrosseis
+  O QUE FAZ: Escurece as bordas esquerda e direita do carrossel, dando efeito de que as imagens somem nas pontas.
+  COMO USAR: Cole no CSS personalizado do widget de carrossel. Troque rgba(0,0,0,1) pela cor de fundo da seção.
+  ONDE COLAR: CSS personalizado do widget Carrossel
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: coleção original da casa (fadelateral)
+  USADO EM: nenhuma página publicada encontrada (só na biblioteca)
+*/
+
+selector::before {
+    content:"";
+    display: block;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index:500;
+    background-color:orange;
+    background: rgb(0,0,0);
+background: -moz-linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 15%, rgba(0,0,0,0) 85%, rgba(0,0,0,1) 100%);
+background: -webkit-linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 15%, rgba(0,0,0,0) 85%, rgba(0,0,0,1) 100%);
+background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 15%, rgba(0,0,0,0) 85%, rgba(0,0,0,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#000000",GradientType=1);
+}
+
+selector .elementor-swiper-button-prev, selector .elementor-swiper-button-next{
+    z-index: 9999;
+
+}

@@ -1,0 +1,192 @@
+{
+ "nome": "EntreLaços · Clínica Odontológica · Odontologia integrada · Odontopediatria",
+ "slug": "odonto-entrelacos",
+ "pasta_original": "Entre lacos Odonto",
+ "origem": "paginas/gerais",
+ "prioridade": "referencia",
+ "url": "https://entrelacosodontologia.com.br/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Odontologia",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#F7F2EF",
+   "#575B28"
+  ],
+  "textos": [
+   "#575B28",
+   "#E9E4DC",
+   "#000000",
+   "#F7F2EF",
+   "#FFFFFF",
+   "#D5AE8F"
+  ],
+  "destaques": [
+   "#575B28",
+   "#D5AE8F"
+  ],
+  "gradientes": []
+ },
+ "fontes": [
+  {
+   "familia": "Caviar Dreams",
+   "uso_pct": 70
+  },
+  {
+   "familia": "Playfair Display",
+   "uso_pct": 19
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  91,
+  76,
+  72,
+  70,
+  65,
+  48,
+  42,
+  32,
+  28,
+  18
+ ],
+ "escala_tipografica_mobile_px": [
+  40,
+  36,
+  32,
+  28,
+  24,
+  16,
+  15,
+  14
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#575B28",
+  "gradiente": null,
+  "texto": "#FFFFFF",
+  "raio": "0px",
+  "padding": "24px 40px",
+  "fonte": "Caviar Dreams",
+  "tamanho": "18px",
+  "peso": "400",
+  "caixa": "none",
+  "exemplos": [
+   "Agendar avaliação",
+   "Agende sua avaliação aqui"
+  ]
+ },
+ "raios": [
+  "12px",
+  "30px",
+  "100px"
+ ],
+ "sombras": [],
+ "gaps": [
+  "20px",
+  "35px",
+  "16px",
+  "11px",
+  "15px",
+  "5px"
+ ],
+ "largura_conteudo_px": 1280,
+ "altura_pagina_px": 6379,
+ "secoes_qtde": 7,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "O cuidado com você começa antes do consultório",
+   "fundo": "#F7F2EF",
+   "altura_px": 734
+  },
+  {
+   "ordem": 2,
+   "tipo": "",
+   "titulo": "500+",
+   "fundo": "#F7F2EF",
+   "altura_px": 156
+  },
+  {
+   "ordem": 3,
+   "tipo": "servicos",
+   "titulo": "Nossos tratamentos",
+   "fundo": "#F7F2EF",
+   "altura_px": 1480
+  },
+  {
+   "ordem": 4,
+   "tipo": "diferenciais",
+   "titulo": "Razões concretas para confiar na EntreLaços",
+   "fundo": "#575B28",
+   "altura_px": 1138
+  },
+  {
+   "ordem": 5,
+   "tipo": "",
+   "titulo": "Uma clínica que trata gente, não apenas dentes",
+   "fundo": "#F7F2EF",
+   "altura_px": 1027
+  },
+  {
+   "ordem": 6,
+   "tipo": "prova-social",
+   "titulo": "O que nossos clientes dizem",
+   "fundo": "#F7F2EF",
+   "altura_px": 493
+  },
+  {
+   "ordem": 7,
+   "tipo": "cta-final",
+   "titulo": "Vamos criar um plano de cuidado que faça sentido para você?",
+   "fundo": "#F7F2EF",
+   "altura_px": 828
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "",
+  "servicos",
+  "diferenciais",
+  "",
+  "prova-social",
+  "cta-final"
+ ],
+ "tags_estilo": [
+  "rosa-claro",
+  "verde-oliva",
+  "serifa-italica",
+  "feminino",
+  "editorial"
+ ],
+ "tecnicas": [
+  "Itálico colorido nos títulos",
+  "Bordas de 1px em vez de sombras"
+ ],
+ "animacoes": {
+  "keyframes": [],
+  "entrada_elementor": [],
+  "classes_scroll": [
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "happy-addons",
+  "jquery",
+  "lottie",
+  "swiper"
+ ],
+ "snippets_usados": [],
+ "relevancia": 5,
+ "resumo": "Clínica em BH, uma das melhores referências do acervo: rosa claríssimo e verde-oliva com serifa e palavra em itálico rosé. Foto em arco, números em linha, grid de tratamentos com bordas finas e numeração, '5 razões concretas' numeradas em fundo oliva, depoimento e CTA final com nome da marca em marca d'água.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": null,
+  "copy_real": null,
+  "json_elementor": null,
+  "ref": "ref/"
+ }
+}

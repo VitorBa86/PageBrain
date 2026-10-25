@@ -1,0 +1,4 @@
+# PageBrain · dependências dos scripts (Python 3.9+)
+# Depois de instalar: python3 -m playwright install chromium  (só se não tiver o Google Chrome)
+playwright>=1.40
+Pillow>=9.0

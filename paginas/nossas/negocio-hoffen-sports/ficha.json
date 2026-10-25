@@ -1,0 +1,225 @@
+{
+ "nome": "Hoffen Sports",
+ "slug": "negocio-hoffen-sports",
+ "pasta_original": "Hoffen Sports",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://hoffensports.com.br/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Negócio local / B2B",
+ "tipo_pagina": "institucional",
+ "paleta": {
+  "fundos": [
+   "#FFFFFF",
+   "#E6E7E7",
+   "#1B1B1B",
+   "#054167",
+   "#7DC3CE",
+   "#313134",
+   "#000000"
+  ],
+  "textos": [
+   "#313134",
+   "#E6E7E7",
+   "#000000",
+   "#FFFFFF",
+   "#7DC3CE"
+  ],
+  "destaques": [
+   "#7DC3CE",
+   "#E6E7E7",
+   "#054167"
+  ],
+  "gradientes": []
+ },
+ "fontes": [
+  {
+   "familia": "Exo 2",
+   "uso_pct": 67
+  },
+  {
+   "familia": "Montserrat",
+   "uso_pct": 33
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  39,
+  34,
+  33,
+  32,
+  29,
+  21,
+  17
+ ],
+ "escala_tipografica_mobile_px": [
+  29,
+  25,
+  24,
+  22,
+  21,
+  20,
+  17,
+  17
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#61CE7000",
+  "gradiente": null,
+  "texto": "#313134",
+  "raio": "3px",
+  "padding": "5px 5px",
+  "fonte": "Montserrat",
+  "tamanho": "14px",
+  "peso": "400",
+  "caixa": "none",
+  "exemplos": [
+   "CONHEÇA NOSSOS PRODUTOS",
+   "MAIS DETALHES",
+   "SOLICITAR ORÇAMENTO"
+  ]
+ },
+ "raios": [
+  "122px",
+  "22px",
+  "3px",
+  "449px",
+  "6px",
+  "44px"
+ ],
+ "sombras": [],
+ "gaps": [
+  "20px",
+  "11px",
+  "5px",
+  "10px",
+  "30px",
+  "55px"
+ ],
+ "largura_conteudo_px": 1140,
+ "altura_pagina_px": 4721,
+ "secoes_qtde": 8,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "",
+   "fundo": "#000000A8",
+   "altura_px": 88
+  },
+  {
+   "ordem": 2,
+   "tipo": "sobre",
+   "titulo": "PERFORMANCE DESENVOLVIDA COM ENGENHARIA E PRECISÃO",
+   "fundo": "#054167",
+   "altura_px": 862
+  },
+  {
+   "ordem": 3,
+   "tipo": "sobre",
+   "titulo": "A Hoffen Sports é a divisão do Grupo Hoffen dedicada ao desenvolvimento e fabric",
+   "fundo": "#E6E7E7",
+   "altura_px": 602
+  },
+  {
+   "ordem": 4,
+   "tipo": "diferenciais",
+   "titulo": "HOFFEN SPORTS. UMA EMPRESA DO GRUPO HOFFEN.",
+   "fundo": "#E6E7E7",
+   "altura_px": 632
+  },
+  {
+   "ordem": 5,
+   "tipo": "catalogo",
+   "titulo": "ENGENHARIA APLICADA AO ESPORTE",
+   "fundo": "#1B1B1B",
+   "altura_px": 998
+  },
+  {
+   "ordem": 6,
+   "tipo": "cta-final",
+   "titulo": "EQUIPAMENTOS",
+   "fundo": "#E6E7E7",
+   "altura_px": 808
+  },
+  {
+   "ordem": 7,
+   "tipo": "rodape",
+   "titulo": "VAMOS DESENVOLVER O EQUIPAMENTO IDEAL PARA O SEU PROJETO?",
+   "fundo": "#7DC3CE",
+   "altura_px": 601
+  },
+  {
+   "ordem": 8,
+   "tipo": null,
+   "titulo": "CNPJ: 65.280.143/0001-40",
+   "fundo": "#313134",
+   "altura_px": 226
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "sobre",
+  "sobre",
+  "diferenciais",
+  "catalogo",
+  "cta-final",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "escuro",
+  "cinza",
+  "azul-claro",
+  "industrial"
+ ],
+ "tecnicas": [
+  "Toggle de container (snippet toggle-abrir-fechar-container)",
+  "Vídeo com som ao clicar (snippet video-clique-som-tela-cheia)",
+  "JetEngine listing"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "fadeIn",
+   "fadeInDown",
+   "fadeInUp"
+  ],
+  "entrada_elementor": [
+   "fadeIn",
+   "fadeInDown",
+   "fadeInUp"
+  ],
+  "classes_scroll": [
+   "scroll-bottom",
+   "scroll-left",
+   "scroll-right",
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "jet-engine",
+  "jquery",
+  "lottie",
+  "swiper"
+ ],
+ "snippets_usados": [
+  "animacoes/animacao-scroll-reveal.html",
+  "cards-e-bordas/hover-escala.css",
+  "video-e-midia/video-clique-som-tela-cheia.html",
+  "interacoes/toggle-abrir-fechar-container.html",
+  "interacoes/container-clicavel-link.html",
+  "whatsapp-e-flutuantes/link-whatsapp-com-mensagem.html",
+  "utilitarios-css/css-base-toda-pagina.css",
+  "utilitarios-css/botao-icone-tamanho.css",
+  "utilitarios-css/elemento-posicao-absoluta.css"
+ ],
+ "relevancia": 3,
+ "resumo": "Institucional de fabricante de equipamentos esportivos, visual industrial em preto, cinza e azul-claro. Cards de categoria com foto, faixa escura com 6 ícones de diferencial, catálogo de produtos em carrossel e CTA azul-claro.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/negocio-hoffen-sports.md",
+  "json_elementor": null
+ }
+}

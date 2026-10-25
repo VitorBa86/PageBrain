@@ -1,0 +1,235 @@
+{
+ "nome": "PÁGINA MORELLI CHURRASCO NETWORKING",
+ "slug": "vendas-morelli-churrasco-networking",
+ "pasta_original": "Vendas Morelli",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://lp.oreidalanding.com.br/pagina-morelli-churrasco-networking/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Página de vendas",
+ "tipo_pagina": "vendas",
+ "paleta": {
+  "fundos": [
+   "#090D16",
+   "#050505",
+   "#101521",
+   "#C93618"
+  ],
+  "textos": [
+   "#FFFFFF",
+   "#F1EFEA",
+   "#E14722",
+   "#AAA6A0",
+   "#F0C6BA",
+   "#CAA46A"
+  ],
+  "destaques": [
+   "#C93618",
+   "#E14722",
+   "#F0C6BA",
+   "#CAA46A"
+  ],
+  "gradientes": [
+   "linear-gradient(58deg, rgb(5, 5, 5) 0%, rgb(58, 16, 6) 100%)",
+   "linear-gradient(145deg, rgb(90, 34, 34) 0%, rgb(11, 16, 26) 100%)",
+   "linear-gradient(349deg, rgb(16, 22, 36) 0%, rgb(77, 25, 13) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Inter",
+   "uso_pct": 75
+  },
+  {
+   "familia": "Roboto",
+   "uso_pct": 14
+  },
+  {
+   "familia": "Anton",
+   "uso_pct": 11
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  62,
+  59,
+  54,
+  49,
+  44,
+  43,
+  35,
+  28,
+  22,
+  20
+ ],
+ "escala_tipografica_mobile_px": [
+  35,
+  32,
+  30,
+  20,
+  16,
+  16,
+  15,
+  14
+ ],
+ "h1_mobile": "31.98px",
+ "botao_principal": {
+  "fundo": "#C93618",
+  "gradiente": "linear-gradient(-45deg, rgb(225, 71, 34), rgb(185, 50, 22), rgb(225, 71, 34), rgb(240, 90, 50), rgb(225, 71, 34), rgb(185, 50, 22))",
+  "texto": "#FFFFFF",
+  "raio": "6px",
+  "padding": "14px 30px",
+  "fonte": "Inter",
+  "tamanho": "18px",
+  "peso": "700",
+  "caixa": "uppercase",
+  "exemplos": [
+   "GARANTIR MINHA VAGA · LOTE 1",
+   "GARANTIR ACESSO NETWORKING",
+   "GARANTIR BUSINESS MATCH"
+  ]
+ },
+ "raios": [
+  "12px",
+  "18px",
+  "10px",
+  "6px",
+  "8px",
+  "22px"
+ ],
+ "sombras": [
+  "rgba(0, 0, 0, 0.63) 2px 2px 18px 10px",
+  "rgba(0, 0, 0, 0.78) 13px 13px 59px 0px"
+ ],
+ "gaps": [
+  "20px",
+  "10px",
+  "5px",
+  "30px",
+  "64px",
+  "14px"
+ ],
+ "largura_conteudo_px": 1220,
+ "altura_pagina_px": 7400,
+ "secoes_qtde": 8,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "NETWORKING ESTRATÉGICO PARA EMPRESÁRIOS BRASILEIROS NOS EUA",
+   "fundo": "#000000",
+   "altura_px": 750
+  },
+  {
+   "ordem": 2,
+   "tipo": "video",
+   "titulo": "O CONCEITO",
+   "fundo": "#050505",
+   "altura_px": 1045
+  },
+  {
+   "ordem": 3,
+   "tipo": "como-funciona",
+   "titulo": "COMO FUNCIONA",
+   "fundo": "#090D16",
+   "altura_px": 903
+  },
+  {
+   "ordem": 4,
+   "tipo": "prova-social",
+   "titulo": "HISTÓRIAS DE QUEM VIVEU ESSA EXPERIÊNCIA",
+   "fundo": "#010101",
+   "altura_px": 883
+  },
+  {
+   "ordem": 5,
+   "tipo": "oferta",
+   "titulo": "INGRESSOS",
+   "fundo": "gradiente",
+   "altura_px": 1573
+  },
+  {
+   "ordem": 6,
+   "tipo": "localizacao",
+   "titulo": "ORLANDO NÃO É ACASO",
+   "fundo": "#090D16",
+   "altura_px": 1196
+  },
+  {
+   "ordem": 7,
+   "tipo": "faq",
+   "titulo": "PERGUNTAS FREQUENTES",
+   "fundo": "#050505",
+   "altura_px": 874
+  },
+  {
+   "ordem": 8,
+   "tipo": "rodape",
+   "titulo": "",
+   "fundo": "#020202",
+   "altura_px": 176
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "video",
+  "como-funciona",
+  "prova-social",
+  "oferta",
+  "localizacao",
+  "faq",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "preto",
+  "laranja-fogo",
+  "condensada",
+  "evento"
+ ],
+ "tecnicas": [
+  "CTA por e-mail (mailto) quando não há checkout"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "gradient",
+   "shinery"
+  ],
+  "entrada_elementor": [],
+  "classes_scroll": [
+   "scroll-bottom",
+   "scroll-left",
+   "scroll-right",
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "google-ads",
+  "happy-addons",
+  "jquery",
+  "lenis",
+  "lottie",
+  "meta-pixel",
+  "swiper"
+ ],
+ "snippets_usados": [
+  "animacoes/animacao-scroll-reveal.html",
+  "animacoes/animacao-scroll-reveal-blur.css",
+  "faixas-e-carrosseis/carrossel-linear-continuo.css",
+  "faixas-e-carrosseis/carrossel-imagem-largura.css",
+  "tracking-e-pixels/meta-pixel.html",
+  "tracking-e-pixels/google-ads-gtag.html",
+  "utilitarios-css/css-base-toda-pagina.css",
+  "utilitarios-css/faq-toggle-arredondado.css",
+  "utilitarios-css/elemento-posicao-absoluta.css"
+ ],
+ "relevancia": 4,
+ "resumo": "Venda de ingressos de evento em preto e laranja fogo com tipografia condensada. Números do evento, 'como funciona' em 4 cards, vídeos de depoimento e ingressos em formato de ticket com 3 níveis.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/vendas-morelli-churrasco-networking.md",
+  "json_elementor": "../../../elementor/paginas/vendas/vendas-morelli-churrasco-networking.json"
+ }
+}

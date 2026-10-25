@@ -1,0 +1,221 @@
+{
+ "nome": "Construtora Vitta · Vitta Incorporadora · Concretizando Sonhos Imobiliários no Circuito das Águas e Sul de Minas Desde 2012, a Vitta Incorporadora se destaca no mercado imobiliário, oferecendo imóveis de médio e alto padrão nas melhores localizações do Circuito das Águas e Sul de Minas. Com mais de 300 unidades entregues, nossos empreendimentos em Lindóia, Águas de Lindóia, Serra Negra, Monte Sião e Hortolândia são reconhecidos pela qualidade, segurança e pontualidade na entrega. Os apartamentos da Vitta Incorporadora são projetados para proporcionar conforto e sofisticação, com diferenciais como varanda gourmet, vagas cobertas e aquecimento a gás. Além disso, nossos empreendimentos oferecem condições de pagamento facilitadas, com parcelas a partir de R$ 1.592/mês. Seja para morar ou investir, a Vitta Incorporadora transforma o sonho da casa própria em realidade, sempre com compromisso e excelência. Navegue pelo nosso site para conhecer nossos lançamentos e fazer parte dessa história de sucesso.",
+ "slug": "imob-construtora-vitta",
+ "pasta_original": "Construtora Vitta",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://construtoravitta.com.br/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Imobiliário",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#0B0E3B",
+   "#FFFFFF",
+   "#F1F1F1",
+   "#0E1253",
+   "#080A2A",
+   "#D9A528",
+   "#494949"
+  ],
+  "textos": [
+   "#000000",
+   "#FFFFFF"
+  ],
+  "destaques": [
+   "#D9A528",
+   "#0B0E3B",
+   "#0E1253"
+  ],
+  "gradientes": []
+ },
+ "fontes": [
+  {
+   "familia": "Poppins",
+   "uso_pct": 100
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  52,
+  32,
+  28,
+  27,
+  24,
+  22,
+  21,
+  20,
+  18
+ ],
+ "escala_tipografica_mobile_px": [
+  27,
+  25,
+  23,
+  20,
+  18,
+  18,
+  18,
+  16
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#D9A528",
+  "gradiente": null,
+  "texto": "#000000",
+  "raio": "4px",
+  "padding": "25px 40px",
+  "fonte": "Poppins",
+  "tamanho": "17px",
+  "peso": "500",
+  "caixa": "none",
+  "exemplos": [
+   "Quero conhecer o Villágio das águas",
+   "Quero comprar um apartamento na planta"
+  ]
+ },
+ "raios": [
+  "12px",
+  "4px",
+  "6px",
+  "10%",
+  "40px"
+ ],
+ "sombras": [],
+ "gaps": [
+  "20px",
+  "5px",
+  "10px",
+  "30px",
+  "40px",
+  "18px"
+ ],
+ "largura_conteudo_px": 1140,
+ "altura_pagina_px": 6321,
+ "secoes_qtde": 10,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "APARTAMENTOS NA PLANTA À PARTIR DE R$199.000,00 NO INTERIOR PAULISTA",
+   "fundo": "#0E1253",
+   "altura_px": 755
+  },
+  {
+   "ordem": 2,
+   "tipo": "oferta",
+   "titulo": "3 OPÇÕES DE APARTAMENTOS",
+   "fundo": "#FFFFFF",
+   "altura_px": 697
+  },
+  {
+   "ordem": 3,
+   "tipo": "beneficios",
+   "titulo": "PAZ E TRANQUILIDADE COM SOFISTICAÇÃO E CONFORTO",
+   "fundo": "#F1F1F1",
+   "altura_px": 631
+  },
+  {
+   "ordem": 4,
+   "tipo": "oferta",
+   "titulo": "PAGAMENTO FACILITADO PELA INCORPORADORA",
+   "fundo": "#FFFFFF",
+   "altura_px": 761
+  },
+  {
+   "ordem": 5,
+   "tipo": "prova-dados",
+   "titulo": "PORQUE COMPRAR UM APARTAMENTO NA PLANTA?",
+   "fundo": "#F1F1F1",
+   "altura_px": 736
+  },
+  {
+   "ordem": 6,
+   "tipo": "formulario",
+   "titulo": "PREENCHA O FORMULÁRIO PARA UM DE NOSSOS CONSULTORES ENTRAR EM CONTATO",
+   "fundo": "#0B0E3B",
+   "altura_px": 863
+  },
+  {
+   "ordem": 7,
+   "tipo": "sobre",
+   "titulo": "A VITTA INCORPORADORA",
+   "fundo": "#0B0E3B",
+   "altura_px": 983
+  },
+  {
+   "ordem": 8,
+   "tipo": "faq",
+   "titulo": "FAQ",
+   "fundo": "#FFFFFF",
+   "altura_px": 518
+  },
+  {
+   "ordem": 9,
+   "tipo": "rodape",
+   "titulo": "VILLÁGIO DAS ÁGUAS",
+   "fundo": "#0B0E3B",
+   "altura_px": 267
+  },
+  {
+   "ordem": 10,
+   "tipo": null,
+   "titulo": "2024 © VILLÁGIO DAS ÁGUAS - TODOS OS DIREITOS RESERVADOS",
+   "fundo": "#080A2A",
+   "altura_px": 111
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "oferta",
+  "beneficios",
+  "oferta",
+  "prova-dados",
+  "formulario",
+  "sobre",
+  "faq",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "claro",
+  "azul-marinho",
+  "amarelo-mostarda",
+  "imobiliario"
+ ],
+ "tecnicas": [
+  "Carrossel de imagens dentro do card",
+  "Âncora #oferta nos botões"
+ ],
+ "animacoes": {
+  "keyframes": [],
+  "entrada_elementor": [],
+  "classes_scroll": [
+   "scroll-bottom",
+   "scroll-left",
+   "scroll-right",
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "gtm",
+  "jquery",
+  "lenis",
+  "lottie",
+  "swiper"
+ ],
+ "snippets_usados": [
+  "animacoes/animacao-scroll-reveal.html",
+  "efeitos-de-scroll/lenis-scroll-suave.html",
+  "cards-e-bordas/vidro-fosco.css",
+  "tracking-e-pixels/google-tag-manager.html",
+  "utilitarios-css/elemento-posicao-absoluta.css"
+ ],
+ "relevancia": 4,
+ "resumo": "Lançamento de apartamentos na planta com azul-marinho e amarelo-mostarda. Cards de tipologia com carrossel de fotos, seção de pagamento com render do prédio, print de notícia do G1 como prova e formulário sobre foto da cidade.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/imob-construtora-vitta.md",
+  "json_elementor": null
+ }
+}

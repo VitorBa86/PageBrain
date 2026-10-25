@@ -1,0 +1,38 @@
+<!--
+  SNIPPET: Scroll suave (Lenis)
+  CATEGORIA: efeitos-de-scroll
+  O QUE FAZ: Deixa a rolagem da página suave e com inércia, sensação de site premium.
+  COMO USAR: Cole em um widget HTML no fim da página. Pode apagar o console.log.
+  ONDE COLAR: Widget HTML
+  DEPENDÊNCIAS: Biblioteca Lenis (script referenciado no topo)
+  ORIGEM: paginas/nossas/adv-luisa
+  USADO EM: 3 página(s) da casa: adv-luisa, imob-construtora-vitta, odonto-rubiane-vitali
+-->
+
+<script src="https://cdn.jsdelivr.net/gh/studio-freight/lenis@1.0.22/bundled/lenis.min.js"></script>
+
+<script>
+    const lenis = new Lenis({
+      duration: 1.2,
+      easing: (t) => Math.min(1, 1.001 - Math.pow(2, -10 * t)),
+      orientation: 'vertical',
+      gestureOrientation: 'vertical',
+      smoothWheel: true,
+      wheelMultiplier: 1,
+      smoothTouch: false,
+      touchMultiplier: 2,
+      infinite: false,
+    })
+
+    //get scroll value
+    lenis.on('scroll', (e) => {
+      console.log(e)
+    })
+
+    function raf(time) {
+      lenis.raf(time)
+       requestAnimationFrame(raf)
+    }
+
+    requestAnimationFrame(raf)
+</script>

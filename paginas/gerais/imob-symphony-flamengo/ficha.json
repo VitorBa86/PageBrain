@@ -1,0 +1,220 @@
+{
+ "nome": "Symphony Flamengo | Apartamentos de 1, 2, 3 quartos e Coberturas Duplex",
+ "slug": "imob-symphony-flamengo",
+ "pasta_original": "Symphony imobi",
+ "origem": "paginas/gerais",
+ "prioridade": "referencia",
+ "url": "https://symphonyresidences.com.br/",
+ "plataforma": "desconhecida",
+ "nicho": "Imobiliário",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#FFFFFF",
+   "#E9E1D2",
+   "#4A2C25",
+   "#FAC981"
+  ],
+  "textos": [
+   "#F4EAD8",
+   "#5A352E",
+   "#FAC981",
+   "#FFFFFF",
+   "#8C7D63",
+   "#0F0D0A"
+  ],
+  "destaques": [
+   "#FAC981",
+   "#E9E1D2",
+   "#5A352E",
+   "#4A2C25"
+  ],
+  "gradientes": [
+   "linear-gradient(rgba(0, 0, 0, 0.45) 0%, rgba(0, 0, 0, 0.15) 35%, rgba(0, 0, 0, 0) 60%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "BigCity Grotesque Pro",
+   "uso_pct": 100
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  35,
+  29,
+  23,
+  22,
+  17,
+  16
+ ],
+ "escala_tipografica_mobile_px": [
+  22,
+  20,
+  16,
+  16,
+  15,
+  15,
+  15,
+  14
+ ],
+ "h1_mobile": "28px",
+ "botao_principal": {
+  "fundo": "#FAC981",
+  "gradiente": null,
+  "texto": "#0F0D0A",
+  "raio": "0px",
+  "padding": "15.2px 36px",
+  "fonte": "BigCity Grotesque Pro",
+  "tamanho": "12.48px",
+  "peso": "100",
+  "caixa": "uppercase",
+  "exemplos": [
+   "RECEBA MAIS INFORMAÇÕES",
+   "VISITE O DECORADO"
+  ]
+ },
+ "raios": [
+  "12px",
+  "40px 0px 0px 40px"
+ ],
+ "sombras": [
+  "rgba(0, 0, 0, 0.45) 0px 20px 60px 0px"
+ ],
+ "gaps": [
+  "12px",
+  "9.6px",
+  "32px",
+  "14.4px",
+  "40px",
+  "64px"
+ ],
+ "largura_conteudo_px": null,
+ "altura_pagina_px": 8332,
+ "secoes_qtde": 11,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "UMA NOVA FORMA DE VIVER O FLAMENGO.",
+   "fundo": "imagem",
+   "altura_px": 900
+  },
+  {
+   "ordem": 2,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "imagem",
+   "altura_px": 157
+  },
+  {
+   "ordem": 3,
+   "tipo": "sobre",
+   "titulo": "AQUI A HISTÓRIA NÃO FICA PARA TRÁS. ELA PERMANECE.",
+   "fundo": "#E9E1D2",
+   "altura_px": 762
+  },
+  {
+   "ordem": 4,
+   "tipo": "",
+   "titulo": "VIVER COM TUDO AO REDOR",
+   "fundo": "#EFE7D6",
+   "altura_px": 668
+  },
+  {
+   "ordem": 5,
+   "tipo": "localizacao",
+   "titulo": "UM ENDEREÇO QUE EQUILIBRA ROTINA, DESLOCAMENTO E QUALIDADE DE VIDA.",
+   "fundo": "#FFFFFF",
+   "altura_px": 1102
+  },
+  {
+   "ordem": 6,
+   "tipo": "servicos",
+   "titulo": "UM CONJUNTO QUE RESPEITA O PASSADO E RESPONDE ÀS NECESSIDADES DA VIDA ATUAL.",
+   "fundo": "#E9E1D2",
+   "altura_px": 966
+  },
+  {
+   "ordem": 7,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "#FFFFFF",
+   "altura_px": 289
+  },
+  {
+   "ordem": 8,
+   "tipo": "servicos",
+   "titulo": "Além das áreas de lazer, o empreendimento oferece soluções que facilitam a rotin",
+   "fundo": "imagem",
+   "altura_px": 907
+  },
+  {
+   "ordem": 9,
+   "tipo": "",
+   "titulo": "PARCEIROS",
+   "fundo": "#FFFFFF",
+   "altura_px": 900
+  },
+  {
+   "ordem": 10,
+   "tipo": "produto",
+   "titulo": "FAÇA DOWNLOAD DO BOOK DE PLANTAS",
+   "fundo": "#FFFFFF",
+   "altura_px": 747
+  },
+  {
+   "ordem": 11,
+   "tipo": "formulario",
+   "titulo": "RECEBA MAIS INFORMAÇÕES",
+   "fundo": "#E9E1D2",
+   "altura_px": 762
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "",
+  "sobre",
+  "",
+  "localizacao",
+  "servicos",
+  "",
+  "servicos",
+  "",
+  "produto",
+  "formulario"
+ ],
+ "tags_estilo": [
+  "madeira",
+  "creme",
+  "dourado",
+  "alto-padrao"
+ ],
+ "tecnicas": [
+  "Textura de madeira como fundo"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "a"
+  ],
+  "entrada_elementor": [],
+  "classes_scroll": []
+ },
+ "bibliotecas": [
+  "ga4",
+  "gtm",
+  "jquery",
+  "meta-pixel"
+ ],
+ "snippets_usados": [],
+ "relevancia": 4,
+ "resumo": "Lançamento no Flamengo com textura de madeira, creme e dourado. Formulário logo após o hero, localização com lista, imagem grande com clave de sol (conceito Symphony), galeria, infraestrutura com ícones, parceiros com foto e download do book de plantas.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": null,
+  "copy_real": null,
+  "json_elementor": null,
+  "ref": "ref/"
+ }
+}

@@ -1,0 +1,327 @@
+{
+ "nome": "Advogado em Belo Horizonte | Luciana Delpino | Fale conosco",
+ "slug": "adv-luciana-delpino",
+ "pasta_original": "Luciana Adv",
+ "origem": "paginas/gerais",
+ "prioridade": "referencia",
+ "url": "https://www.lucianadelpino.com.br/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Advocacia",
+ "tipo_pagina": "institucional",
+ "paleta": {
+  "fundos": [
+   "#435D51",
+   "#FFFFFF",
+   "#E9E9E9",
+   "#9BAE88",
+   "#FF6E00",
+   "#EB6500"
+  ],
+  "textos": [
+   "#303841",
+   "#FFFFFF",
+   "#9BAE88",
+   "#365F4B",
+   "#FF5722",
+   "#FF6E00"
+  ],
+  "destaques": [
+   "#9BAE88",
+   "#FF6E00",
+   "#EB6500",
+   "#365F4B"
+  ],
+  "gradientes": [
+   "linear-gradient(90deg, rgb(155, 174, 136) 0%, rgb(155, 174, 136) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "DM Sans",
+   "uso_pct": 81
+  },
+  {
+   "familia": "Urbanist",
+   "uso_pct": 19
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  58,
+  55,
+  50,
+  45,
+  40,
+  38,
+  32,
+  26,
+  24
+ ],
+ "escala_tipografica_mobile_px": [
+  40,
+  38,
+  35,
+  32,
+  30,
+  26,
+  24,
+  21
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#FF6E00",
+  "gradiente": null,
+  "texto": "#FFFFFF",
+  "raio": "0px",
+  "padding": "20px 40px",
+  "fonte": "Urbanist",
+  "tamanho": "16px",
+  "peso": "800",
+  "caixa": "none",
+  "exemplos": [
+   "FALE CONOSCO AGORA",
+   "SOBRE NÓS",
+   "FALAR COM UM ADVOGADO AGORA"
+  ]
+ },
+ "raios": [
+  "2px"
+ ],
+ "sombras": [
+  "rgba(0, 0, 0, 0.25) 0px 10px 50px 0px",
+  "rgba(0, 0, 0, 0.08) 0px 0px 10px 0px",
+  "rgba(0, 0, 0, 0.3) 0px 0px 10px 0px",
+  "rgba(0, 0, 0, 0.5) 0px 0px 10px 0px"
+ ],
+ "gaps": [
+  "20px",
+  "10px",
+  "15px",
+  "12px",
+  "5px",
+  "0px 20px"
+ ],
+ "largura_conteudo_px": 1140,
+ "altura_pagina_px": 11620,
+ "secoes_qtde": 17,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "Advogado em Belo Horizonte",
+   "fundo": "imagem",
+   "altura_px": 803
+  },
+  {
+   "ordem": 2,
+   "tipo": "servicos",
+   "titulo": "20+ anos de atuação jurídica comprovada",
+   "fundo": "transparente",
+   "altura_px": 224
+  },
+  {
+   "ordem": 3,
+   "tipo": "",
+   "titulo": "Luciana Delpino",
+   "fundo": "#FFFFFF",
+   "altura_px": 855
+  },
+  {
+   "ordem": 4,
+   "tipo": "servicos",
+   "titulo": "Áreas de atuação",
+   "fundo": "#E9E9E9",
+   "altura_px": 1876
+  },
+  {
+   "ordem": 5,
+   "tipo": "",
+   "titulo": "Um escritório de advocacia em Belo Horizonte que cuida de pessoas",
+   "fundo": "transparente",
+   "altura_px": 800
+  },
+  {
+   "ordem": 6,
+   "tipo": "",
+   "titulo": "Principais queixas que atendemos",
+   "fundo": "#435D50",
+   "altura_px": 753
+  },
+  {
+   "ordem": 7,
+   "tipo": "sobre",
+   "titulo": "Quem é a advogada Luciana Delpino?",
+   "fundo": "#FFFFFF",
+   "altura_px": 1112
+  },
+  {
+   "ordem": 8,
+   "tipo": "prova-social",
+   "titulo": "Depoimentos de clientes",
+   "fundo": "#E9E9E9",
+   "altura_px": 508
+  },
+  {
+   "ordem": 9,
+   "tipo": "sobre",
+   "titulo": "Por que escolher a Luciana Delpino Sociedade de Advogados?",
+   "fundo": "transparente",
+   "altura_px": 909
+  },
+  {
+   "ordem": 10,
+   "tipo": "sobre",
+   "titulo": "Advogado em Belo Horizonte",
+   "fundo": "#435D51",
+   "altura_px": 764
+  },
+  {
+   "ordem": 11,
+   "tipo": "blog",
+   "titulo": "Blog (Dicas e informações)",
+   "fundo": "#E9E9E9",
+   "altura_px": 981
+  },
+  {
+   "ordem": 12,
+   "tipo": "faq",
+   "titulo": "Perguntas frequentes (FAQ)",
+   "fundo": "transparente",
+   "altura_px": 634
+  },
+  {
+   "ordem": 13,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 20
+  },
+  {
+   "ordem": 14,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "#FFFFFF",
+   "altura_px": 20
+  },
+  {
+   "ordem": 15,
+   "tipo": "cta-final",
+   "titulo": "Fale Conosco",
+   "fundo": "#435D51",
+   "altura_px": 646
+  },
+  {
+   "ordem": 16,
+   "tipo": "localizacao",
+   "titulo": "Endereço",
+   "fundo": "#435D51",
+   "altura_px": 558
+  },
+  {
+   "ordem": 17,
+   "tipo": "rodape",
+   "titulo": "",
+   "fundo": "#435D51",
+   "altura_px": 61
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "servicos",
+  "",
+  "servicos",
+  "",
+  "",
+  "sobre",
+  "prova-social",
+  "sobre",
+  "sobre",
+  "blog",
+  "faq",
+  "",
+  "",
+  "cta-final",
+  "localizacao",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "verde-musgo",
+  "laranja",
+  "institucional",
+  "seo"
+ ],
+ "tecnicas": [
+  "Conteúdo pensado para SEO local"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "AboundBottom",
+   "AboundLeft",
+   "AboundRight",
+   "AboundTop",
+   "Beat",
+   "BlurIn",
+   "BlurInBottom",
+   "BlurInLeft",
+   "BlurInRight",
+   "BlurInTop",
+   "BlurOut",
+   "BlurOutBottom",
+   "BlurOutLeft",
+   "BlurOutRight",
+   "BlurOutTop",
+   "BounceFromDown",
+   "BounceFromTop",
+   "BounceY",
+   "BounceZoomIn",
+   "BounceZoomOut",
+   "DoorCloseLeft",
+   "DoorCloseRight",
+   "DoorOpenLeft",
+   "DoorOpenRight",
+   "ElevateLeft",
+   "ElevateRight",
+   "FadeIn",
+   "FadeInBottom",
+   "FadeInLeft",
+   "FadeInRight",
+   "FadeInTop",
+   "FadeOut",
+   "FadeOutBottom",
+   "FadeOutLeft",
+   "FadeOutRight",
+   "FadeOutTop",
+   "FlipInBottom",
+   "FlipInTop",
+   "FlipOutBottom",
+   "FlipOutTop"
+  ],
+  "entrada_elementor": [
+   "bounceIn",
+   "fadeIn",
+   "fadeInLeft",
+   "fadeInRight",
+   "fadeInUp",
+   "zoomIn"
+  ],
+  "classes_scroll": []
+ },
+ "bibliotecas": [
+  "ga4",
+  "gtm",
+  "jquery",
+  "lottie",
+  "swiper"
+ ],
+ "snippets_usados": [],
+ "relevancia": 2,
+ "resumo": "Site institucional antigo de advocacia em BH, verde-musgo com botões laranja. Cards de área com foto, lista de queixas atendidas, bio com fotos P&B e lista de motivos. A captura tem blocos duplicados e áreas vazias.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": null,
+  "copy_real": null,
+  "json_elementor": null,
+  "ref": "ref/"
+ }
+}

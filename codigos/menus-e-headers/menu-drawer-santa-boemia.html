@@ -1,0 +1,297 @@
+<!--
+  SNIPPET: Menu com drawer lateral no celular (Santa Boemia)
+  CATEGORIA: menus-e-headers
+  O QUE FAZ: Navbar no desktop e gaveta (drawer) lateral no celular, com tokens de cor da marca e reset defensivo contra o tema.
+  COMO USAR: Widget HTML no topo da página, margens e paddings do widget zerados. Prefixo sb- em tudo.
+  ONDE COLAR: Widget HTML no topo da página
+  DEPENDÊNCIAS: Montserrat e Oswald
+  ORIGEM: paginas/nossas/negocio-bar-santa-boemia
+  USADO EM: 1 página(s) da casa: negocio-bar-santa-boemia
+-->
+
+<!-- =========================================================
+     SANTA BOEMIA: MENU (navbar desktop + drawer mobile)
+     Widget HTML para Elementor. Autocontido: CSS + HTML + JS.
+
+     COMO USAR
+     1. Adicione um widget "HTML" no TOPO da página (antes de tudo).
+     2. Cole este arquivo inteiro.
+     3. Na aba Avançado do widget, zere as margens/paddings.
+
+     Tudo usa o prefixo "sb-" nas classes e IDs para não conflitar
+     com o tema do WordPress. Fontes: Montserrat (menu) e Oswald (botão).
+     ========================================================= -->
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Oswald:wght@500;600;700&display=swap" rel="stylesheet">
+
+<style>
+/* ---------- tokens da marca ---------- */
+.sb-navbar,.sb-drawer,.sb-scrim{
+  --gold:#E6BD21; --gold-dp:#C9A317;
+  --cream:#F5F0E1; --cream-dp:#EAE2CC;
+  --ink:#111010; --surface:#FFFDF7;
+  --fg:#111010; --fg-muted:#6E6455;
+  --border:#1110101f; --input:#11101033;
+  --cond:"Oswald",Impact,sans-serif;
+  --menu:"Montserrat",-apple-system,Segoe UI,sans-serif;
+  --r:6px; --r-pill:999px;
+}
+/* reset defensivo, temas WP injetam estilo em links, botões e imagens,
+   às vezes com !important. Blindamos só o escopo do menu. */
+.sb-navbar *,.sb-drawer *,.sb-scrim{box-sizing:border-box!important}
+.sb-navbar img,.sb-drawer img{max-width:100%!important;display:block;height:auto;
+  border:0!important;border-radius:0!important;box-shadow:none!important;padding:0!important}
+.sb-navbar a,.sb-drawer a{text-decoration:none!important;box-shadow:none!important;color:inherit}
+.sb-drawer .sb-foot a.sb-ig{color:var(--fg)!important}
+.sb-drawer .sb-foot a.sb-ig:hover{color:var(--gold-dp)!important}
+.sb-navbar .sb-links a{color:var(--fg-muted)!important}
+.sb-navbar .sb-links a:hover{color:var(--fg)!important}
+.sb-drawer nav a{color:var(--fg)!important}
+.sb-drawer nav a:hover{color:var(--gold-dp)!important}
+.sb-btn--primary{color:var(--gold)!important}
+.sb-btn--ghost{color:var(--fg-muted)!important}
+.sb-navbar a:hover,.sb-drawer a:hover{text-decoration:none!important}
+.sb-navbar button,.sb-drawer button{font-family:inherit;margin:0;
+  background:transparent;border-radius:0;-webkit-appearance:none;appearance:none}
+/* o tema pode mirar em "nav a", reforçamos tamanho e peso dos nossos links */
+.sb-navbar .sb-links a{font-size:.95rem!important;font-weight:500!important;
+  font-family:var(--menu)!important;text-transform:none!important}
+.sb-drawer nav a{font-size:1.06rem!important;font-weight:500!important;
+  font-family:var(--menu)!important;text-transform:none!important}
+.sb-drawer nav a .sb-n{font-size:.72rem!important;font-weight:600!important}
+
+/* ---------- botões ---------- */
+.sb-btn{display:inline-flex;align-items:center;justify-content:center;gap:9px;border-radius:var(--r);padding:14px 30px;font-family:var(--cond);font-weight:600;font-size:.98rem;line-height:1.2em;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;border:2px solid transparent;cursor:pointer;transition:transform .2s,background .25s,color .25s,border-color .25s}
+.sb-btn:hover{transform:translateY(-1px)}
+.sb-btn--primary{background:var(--ink);color:var(--gold)}
+.sb-btn--primary:hover{background:#000}
+.sb-btn--ghost{border-width:1.5px;border-color:var(--input);color:var(--fg-muted);background:transparent}
+.sb-btn--ghost:hover{border-color:var(--ink);color:var(--fg);background:transparent}
+.sb-btn--sm{padding:9px 20px;font-size:.86rem}
+
+/* ---------- navbar ---------- */
+.sb-navbar{position:sticky;top:0;z-index:60;background:var(--surface);border-bottom:1px solid var(--border);transition:border-color .3s}
+.sb-nav{max-width:1240px;margin:0 auto;padding:10px clamp(20px,5vw,56px);display:flex;align-items:center;gap:18px}
+.sb-navbar.scrolled{border-bottom-color:var(--ink)}
+.sb-nav .sb-brand{display:flex;align-items:center;gap:10px;text-decoration:none;flex-shrink:0}
+.sb-nav .sb-brand img{height:40px;width:auto}
+
+/* links inline, desktop. Montserrat, conforme pedido. */
+.sb-nav .sb-links{display:flex;gap:26px;align-items:center;margin-left:auto;margin-right:22px}
+.sb-nav .sb-links a{font-family:var(--menu);font-weight:500;font-size:.95rem;line-height:1.2em;
+  letter-spacing:.01em;text-decoration:none;color:var(--fg-muted);position:relative;
+  padding:4px 0;transition:color .25s}
+.sb-nav .sb-links a::after{content:"";position:absolute;left:0;right:100%;bottom:0;height:1.5px;
+  background:var(--gold-dp);transition:right .3s cubic-bezier(.22,1,.36,1)}
+.sb-nav .sb-links a:hover{color:var(--fg)}
+.sb-nav .sb-links a:hover::after{right:0}
+
+/* botão hambúrguer, 3 traços que viram X */
+.sb-nav-toggle{display:none;width:44px;height:44px;place-items:center;background:transparent;border:1.5px solid var(--border);border-radius:var(--r);padding:0;cursor:pointer;color:var(--fg);flex-shrink:0;transition:border-color .25s,background .25s}
+.sb-nav-toggle:hover{border-color:var(--ink)}
+.sb-nav-toggle .sb-bars{width:20px;height:14px;position:relative;display:block}
+.sb-nav-toggle .sb-bars i{position:absolute;left:0;width:100%;height:2px;background:currentColor;border-radius:2px;
+  transition:transform .38s cubic-bezier(.65,.05,.36,1),opacity .2s ease,width .38s cubic-bezier(.65,.05,.36,1)}
+.sb-nav-toggle .sb-bars i:nth-child(1){top:0}
+.sb-nav-toggle .sb-bars i:nth-child(2){top:6px;width:74%}
+.sb-nav-toggle .sb-bars i:nth-child(3){top:12px}
+.sb-nav-toggle[aria-expanded="true"] .sb-bars i:nth-child(1){transform:translateY(6px) rotate(45deg)}
+.sb-nav-toggle[aria-expanded="true"] .sb-bars i:nth-child(2){opacity:0;width:0}
+.sb-nav-toggle[aria-expanded="true"] .sb-bars i:nth-child(3){transform:translateY(-6px) rotate(-45deg)}
+
+/* véu escuro */
+.sb-scrim{position:fixed;inset:0;z-index:70;background:#111010;opacity:0;visibility:hidden;
+  transition:opacity .42s ease,visibility .42s;backdrop-filter:blur(0px)}
+.sb-scrim.open{opacity:.55;visibility:visible;backdrop-filter:blur(2px)}
+
+/* menu lateral */
+.sb-drawer{position:fixed;top:0;right:0;bottom:0;z-index:80;width:min(380px,86vw);
+  background:var(--surface);border-left:1px solid var(--border);
+  display:flex;flex-direction:column;gap:0;
+  transform:translateX(100%);transition:transform .46s cubic-bezier(.22,1,.36,1);
+  box-shadow:none;overflow-y:auto;overscroll-behavior:contain}
+.sb-drawer.open{transform:none}
+.sb-drawer .sb-top{display:flex;align-items:center;justify-content:space-between;gap:16px;
+  padding:18px clamp(22px,5vw,32px);border-bottom:1px solid var(--border)}
+.sb-drawer .sb-top img{height:38px;width:auto}
+.sb-drawer .sb-close{width:40px;height:40px;display:grid;place-items:center;background:transparent;
+  border:1.5px solid var(--border);border-radius:var(--r);cursor:pointer;color:var(--fg);
+  transition:border-color .25s,transform .25s}
+.sb-drawer .sb-close:hover{border-color:var(--ink);transform:rotate(90deg)}
+.sb-drawer nav{display:flex;flex-direction:column;padding:12px clamp(22px,5vw,32px) 8px}
+.sb-drawer nav a{font-family:var(--menu);font-weight:500;font-size:1.06rem;line-height:1.3em;
+  letter-spacing:.01em;text-decoration:none;color:var(--fg);
+  padding:16px 0;border-bottom:1px solid var(--border);
+  display:flex;align-items:center;justify-content:space-between;gap:12px;
+  transition:color .25s,padding-left .3s;
+  opacity:0;transform:translateX(22px)}
+.sb-drawer nav a .sb-n{font-family:var(--menu);font-weight:600;font-size:.72rem;letter-spacing:.14em;
+  color:var(--fg-muted);transition:color .25s}
+.sb-drawer nav a:hover{color:var(--gold-dp);padding-left:8px}
+.sb-drawer nav a:hover .sb-n{color:var(--gold-dp)}
+.sb-drawer.open nav a{opacity:1;transform:none;
+  transition:opacity .42s ease,transform .46s cubic-bezier(.22,1,.36,1),color .25s,padding-left .3s}
+.sb-drawer.open nav a:nth-child(1){transition-delay:.13s}
+.sb-drawer.open nav a:nth-child(2){transition-delay:.19s}
+.sb-drawer.open nav a:nth-child(3){transition-delay:.25s}
+.sb-drawer.open nav a:nth-child(4){transition-delay:.31s}
+.sb-drawer .sb-acts{display:flex;flex-direction:column;gap:10px;padding:20px clamp(22px,5vw,32px) 4px;
+  opacity:0;transform:translateY(14px);transition:opacity .4s ease,transform .4s ease}
+.sb-drawer.open .sb-acts{opacity:1;transform:none;transition-delay:.36s}
+.sb-drawer .sb-acts .sb-btn{width:100%}
+.sb-drawer .sb-foot{margin-top:auto;padding:22px clamp(22px,5vw,32px) 28px;
+  border-top:1px solid var(--border);display:flex;flex-direction:column;gap:14px;
+  opacity:0;transform:translateY(12px);transition:opacity .4s ease .34s,transform .4s ease .34s}
+.sb-drawer.open .sb-foot{opacity:1;transform:none}
+.sb-drawer .sb-foot .sb-lbl{font-family:var(--menu);font-weight:600;font-size:.72rem;letter-spacing:.16em;
+  text-transform:uppercase;color:var(--fg-muted);line-height:1.3em}
+.sb-drawer .sb-foot p{font-family:var(--menu);font-size:.86rem;line-height:1.6em;color:var(--fg-muted);margin:0}
+.sb-drawer .sb-foot a.ig{font-family:var(--menu);font-size:.88rem;color:var(--fg);text-decoration:none;transition:color .25s}
+.sb-drawer .sb-foot a.ig:hover{color:var(--gold-dp)}
+body.no-scroll{overflow:hidden}
+
+/* ---------- responsivo ---------- */
+@media(max-width:768px){
+  .sb-nav{gap:10px;padding:8px 14px}
+  .sb-nav .sb-brand img{height:34px}
+  .sb-nav .sb-links{display:none}          /* no mobile a navegação vive no drawer */
+  .sb-nav-toggle{display:grid}
+  .sb-nav .sb-brand{margin-right:auto}
+}
+@media(max-width:640px){
+  .sb-nav #sbNavCta{padding:9px 15px;font-size:.78rem;letter-spacing:.05em}
+  .sb-nav-toggle{width:40px;height:40px}
+}
+
+@media (prefers-reduced-motion:reduce){
+  .sb-navbar *,.sb-drawer *,.sb-scrim{animation:none!important;transition:none!important}
+  .sb-drawer nav a,.sb-drawer .sb-acts,.sb-drawer .sb-foot{opacity:1;transform:none}
+}
+</style>
+
+<div class="sb-navbar">
+  <nav class="sb-nav" id="sbNav">
+    <a class="sb-brand" href="#topo">
+      <img decoding="async" src="https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/LOGO-1.svg" alt="Santa Boemia">
+    </a>
+    <div class="sb-links">
+      <a href="#cardapio">Cardápio</a>
+      <a href="#a-casa">A Casa</a>
+      <a href="#happy-hour">Happy Hour</a>
+      <a href="#onde-estamos">Onde Estamos</a>
+    </div>
+    <a class="sb-btn sb-btn--primary sb-btn--sm" id="sbNavCta" href="#">Como Chegar</a>
+    <button class="sb-nav-toggle" id="sbNavToggle" aria-label="Abrir menu" aria-expanded="false" aria-controls="sb-drawer">
+      <span class="sb-bars" aria-hidden="true"><i></i><i></i><i></i></span>
+    </button>
+  </nav>
+</div>
+
+<!-- véu + menu lateral -->
+<div class="sb-scrim" id="sbScrim" hidden=""></div>
+<aside class="sb-drawer" id="sbDrawer" aria-label="Menu de navegação" aria-hidden="true">
+  <div class="sb-top">
+    <img decoding="async" src="https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/LOGO-1.svg" alt="Santa Boemia">
+    <button class="sb-close" id="sbDrawerClose" aria-label="Fechar menu">
+      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><line x1="5" y1="5" x2="19" y2="19"></line><line x1="19" y1="5" x2="5" y2="19"></line></svg>
+    </button>
+  </div>
+  <nav>
+    <a href="#cardapio">Cardápio <span class="sb-n">01</span></a>
+    <a href="#a-casa">A Casa <span class="sb-n">02</span></a>
+    <a href="#happy-hour">Happy Hour <span class="sb-n">03</span></a>
+    <a href="#onde-estamos">Onde Estamos <span class="sb-n">04</span></a>
+  </nav>
+  <div class="sb-acts">
+    <a class="sb-btn sb-btn--primary" id="sbDrawerMapa" href="#">📍 Como chegar</a>
+    <a class="sb-btn sb-btn--ghost" id="sbDrawerCardapio" href="#">🍺 Ver Cardápio</a>
+  </div>
+  <div class="sb-foot">
+    <span class="sb-lbl">Onde estamos</span>
+    <p>R. Mármore, 534 · Santa Tereza<br>Belo Horizonte, MG</p>
+    <span class="sb-lbl">Horários</span>
+    <p>Qua a sex: 17h às 00h<br>Sábado: 11h às 01h<br>Domingo: 11h às 22h</p>
+    <a class="sb-ig" href="https://www.instagram.com/santaboemia.st/" target="_blank" rel="noopener">@santaboemia.st</a>
+  </div>
+</aside>
+
+<script>
+(function(){
+  var URL_MAPA     = 'https://www.google.com/maps/dir/?api=1&destination=R.+M%C3%A1rmore,+534+-+Santa+Tereza,+Belo+Horizonte';
+  var URL_CARDAPIO = 'https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDgyODcwNjEyOTE2NjM0?story_media_id=3807235830466137460&igsh=Zjk5b3p5ZG45em0x';
+
+  /* aplica as URLs nos CTAs do menu */
+  [['sbNavCta',URL_MAPA],['sbDrawerMapa',URL_MAPA],['sbDrawerCardapio',URL_CARDAPIO]]
+    .forEach(function(pair){
+      var el = document.getElementById(pair[0]);
+      if(el){ el.href = pair[1]; el.target = '_blank'; el.rel = 'noopener'; }
+    });
+
+  /* borda inferior da navbar reforça ao rolar */
+  var navbar = document.querySelector('.sb-navbar');
+  var onScroll = function(){ navbar.classList.toggle('scrolled', window.scrollY > 12); };
+  onScroll();
+  addEventListener('scroll', onScroll, {passive:true});
+
+/* ---------------------------------------------------------
+   MENU LATERAL (drawer)
+   Abre pelo hambúrguer em qualquer largura de tela.
+   --------------------------------------------------------- */
+const toggle  = document.getElementById('sbNavToggle');
+const drawer  = document.getElementById('sbDrawer');
+const scrim   = document.getElementById('sbScrim');
+const closeBt = document.getElementById('sbDrawerClose');
+let lastFocus = null;
+
+function openMenu(){
+  lastFocus = document.activeElement;
+  scrim.hidden = false;
+  requestAnimationFrame(() => scrim.classList.add('open'));
+  drawer.classList.add('open');
+  drawer.setAttribute('aria-hidden','false');
+  toggle.setAttribute('aria-expanded','true');
+  toggle.setAttribute('aria-label','Fechar menu');
+  document.body.classList.add('sb-no-scroll');
+  closeBt.focus();
+}
+
+function closeMenu(){
+  scrim.classList.remove('open');
+  drawer.classList.remove('open');
+  drawer.setAttribute('aria-hidden','true');
+  toggle.setAttribute('aria-expanded','false');
+  toggle.setAttribute('aria-label','Abrir menu');
+  document.body.classList.remove('sb-no-scroll');
+  // esconde o véu só depois da transição, para não cortar o fade
+  const done = () => { if(!scrim.classList.contains('open')) scrim.hidden = true; };
+  scrim.addEventListener('transitionend', done, {once:true});
+  setTimeout(done, 500); // rede de segurança se transitionend não disparar
+  if(lastFocus) lastFocus.focus();
+}
+
+const isOpen = () => drawer.classList.contains('open');
+toggle.addEventListener('click',  () => isOpen() ? closeMenu() : openMenu());
+closeBt.addEventListener('click', closeMenu);
+scrim.addEventListener('click',   closeMenu);
+drawer.querySelectorAll('nav a, .sb-acts a').forEach(a => a.addEventListener('click', closeMenu));
+addEventListener('keydown', e => { if(e.key === 'Escape' && isOpen()) closeMenu(); });
+
+/* mantém o foco dentro do menu enquanto ele estiver aberto */
+/* Se a tela crescer para desktop com o menu aberto (girar o celular, redimensionar),
+   fecha o drawer, senão ele fica preso na tela e o scroll travado. */
+const mqDesktop = matchMedia('(min-width: 769px)');
+const onBreakpoint = e => { if(e.matches && isOpen()) closeMenu(); };
+mqDesktop.addEventListener ? mqDesktop.addEventListener('change', onBreakpoint)
+                           : mqDesktop.addListener(onBreakpoint);
+
+drawer.addEventListener('keydown', e => {
+  if(e.key !== 'Tab' || !isOpen()) return;
+  const f = drawer.querySelectorAll('a[href], button');
+  const first = f[0], last = f[f.length - 1];
+  if(e.shiftKey && document.activeElement === first){ e.preventDefault(); last.focus(); }
+  else if(!e.shiftKey && document.activeElement === last){ e.preventDefault(); first.focus(); }
+});
+})();
+</script>

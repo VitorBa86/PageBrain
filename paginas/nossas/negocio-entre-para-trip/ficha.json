@@ -1,0 +1,281 @@
+{
+ "nome": "Entre Para Trip Portal · O Entre Para Trip é uma extensão dos nossos perfis pessoais. A audiência nos acompanha pela identificação com nosso estilo de vida e nossos valores.",
+ "slug": "negocio-entre-para-trip",
+ "pasta_original": "Entre pra trip",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://entreparatrip.com.br/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Negócio local / B2B",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#07101C",
+   "#000000",
+   "#F1F4F8",
+   "#FFFFFF",
+   "#25D366",
+   "#DADDE3",
+   "#FF6E00"
+  ],
+  "textos": [
+   "#FFFFFF",
+   "#07101C",
+   "#000000",
+   "#2C3A4B",
+   "#0D1B2A",
+   "#25D366"
+  ],
+  "destaques": [
+   "#25D366",
+   "#FF6E00",
+   "#2C3A4B"
+  ],
+  "gradientes": [
+   "linear-gradient(rgb(250, 208, 38) 0%, rgb(255, 176, 47) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Poppins",
+   "uso_pct": 100
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  55,
+  50,
+  36,
+  35,
+  30,
+  22,
+  20,
+  18,
+  16,
+  15
+ ],
+ "escala_tipografica_mobile_px": [
+  28,
+  24,
+  16,
+  15,
+  15,
+  14,
+  14,
+  14
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#25D366",
+  "gradiente": null,
+  "texto": "#FFFFFF",
+  "raio": "4px",
+  "padding": "16px 30px",
+  "fonte": "Poppins",
+  "tamanho": "15px",
+  "peso": "500",
+  "caixa": "none",
+  "exemplos": [
+   "QUERO MINHA VAGA NA PRÓXIMA EXPEDIÇÃO",
+   "QUERO CONHECER O INVESTIMENTO",
+   "SOLICITAR MINHA VAGA - FALAR COM A EQUIPE"
+  ]
+ },
+ "raios": [
+  "4px",
+  "8px",
+  "3px",
+  "5px",
+  "20px"
+ ],
+ "sombras": [],
+ "gaps": [
+  "20px",
+  "30px",
+  "14px",
+  "15px",
+  "7px",
+  "12px"
+ ],
+ "largura_conteudo_px": 1250,
+ "altura_pagina_px": 8625,
+ "secoes_qtde": 15,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "EXPEDIÇÕES",
+   "fundo": "transparente",
+   "altura_px": 85
+  },
+  {
+   "ordem": 2,
+   "tipo": "para-quem-e",
+   "titulo": "PARA QUEM JÁ SABE QUE DÁ PRA MAIS · E PAROU DE ESPERAR.",
+   "fundo": "#000000",
+   "altura_px": 900
+  },
+  {
+   "ordem": 3,
+   "tipo": "beneficios",
+   "titulo": "O QUE ACONTECE",
+   "fundo": "#F1F4F8",
+   "altura_px": 558
+  },
+  {
+   "ordem": 4,
+   "tipo": "sobre",
+   "titulo": "QUEM LIDERA CADA EXPEDIÇÃO:",
+   "fundo": "#07101C",
+   "altura_px": 1253
+  },
+  {
+   "ordem": 5,
+   "tipo": "oferta",
+   "titulo": "INCLUSO",
+   "fundo": "#F1F4F8",
+   "altura_px": 582
+  },
+  {
+   "ordem": 6,
+   "tipo": "numeros",
+   "titulo": "NÚMEROS QUE IMPORTAM",
+   "fundo": "#000000",
+   "altura_px": 1128
+  },
+  {
+   "ordem": 7,
+   "tipo": "galeria",
+   "titulo": "IMAGENS QUE NÃO PRECISAM DE FILTRO",
+   "fundo": "#F1F4F8",
+   "altura_px": 917
+  },
+  {
+   "ordem": 8,
+   "tipo": "escassez",
+   "titulo": "30 VAGAS SELECIONADAS. QUANDO ACABA, A PRÓXIMA É DAQUI A MESES.",
+   "fundo": "gradiente",
+   "altura_px": 260
+  },
+  {
+   "ordem": 9,
+   "tipo": "oferta",
+   "titulo": "PRÓXIMA EXPEDIÇÃO",
+   "fundo": "#07101C",
+   "altura_px": 326
+  },
+  {
+   "ordem": 10,
+   "tipo": "faq",
+   "titulo": "PRÓXIMA EXPEDIÇÃO",
+   "fundo": "#07101C",
+   "altura_px": 329
+  },
+  {
+   "ordem": 11,
+   "tipo": "cta-final",
+   "titulo": "PRÓXIMA EXPEDIÇÃO",
+   "fundo": "#07101C",
+   "altura_px": 285
+  },
+  {
+   "ordem": 12,
+   "tipo": null,
+   "titulo": "PRÓXIMA EXPEDIÇÃO",
+   "fundo": "#07101C",
+   "altura_px": 308
+  },
+  {
+   "ordem": 13,
+   "tipo": null,
+   "titulo": "RESPOSTAS DIRETAS:",
+   "fundo": "#F1F4F8",
+   "altura_px": 618
+  },
+  {
+   "ordem": 14,
+   "tipo": null,
+   "titulo": "VOCÊ TEM INFORMAÇÃO SUFICIENTE.",
+   "fundo": "#000000",
+   "altura_px": 900
+  },
+  {
+   "ordem": 15,
+   "tipo": null,
+   "titulo": "",
+   "fundo": "#07101C",
+   "altura_px": 260
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "para-quem-e",
+  "beneficios",
+  "sobre",
+  "oferta",
+  "numeros",
+  "galeria",
+  "escassez",
+  "oferta",
+  "faq",
+  "cta-final"
+ ],
+ "tags_estilo": [
+  "escuro",
+  "verde-whatsapp",
+  "laranja",
+  "aventura",
+  "fotografico"
+ ],
+ "tecnicas": [
+  "Preloader com logo (snippet preloader-com-logo)",
+  "Autoplay de vídeo no iOS (snippet video-autoplay-ios)",
+  "Galeria que vira carrossel no mobile",
+  "FAQ em duas colunas em HTML"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "fadeIn",
+   "fadeInDown",
+   "fadeUp",
+   "logoIn"
+  ],
+  "entrada_elementor": [
+   "fadeIn",
+   "fadeInDown"
+  ],
+  "classes_scroll": [
+   "scroll-bottom",
+   "scroll-left",
+   "scroll-right",
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "jquery",
+  "lottie",
+  "swiper"
+ ],
+ "snippets_usados": [
+  "animacoes/animacao-scroll-reveal.html",
+  "animacoes/animacao-scroll-reveal-blur.css",
+  "faixas-e-carrosseis/carrossel-mobile-autoscroll.html",
+  "secoes-prontas/faq-duas-colunas.html",
+  "video-e-midia/video-autoplay-ios.html",
+  "video-e-midia/preloader-com-logo.html",
+  "whatsapp-e-flutuantes/link-whatsapp-com-mensagem.html",
+  "utilitarios-css/css-base-toda-pagina.css",
+  "utilitarios-css/botao-icone-tamanho.css",
+  "utilitarios-css/elemento-posicao-absoluta.css"
+ ],
+ "relevancia": 4,
+ "resumo": "Expedições de viagem em grupo, escura e fotográfica. Ícones de linha para as experiências, fundadores lado a lado em foto cheia, incluso e não incluso em 3 colunas, números, galeria em grid, faixa amarela de escassez e cards de expedição com foto de fundo e botão laranja.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/negocio-entre-para-trip.md",
+  "json_elementor": null
+ }
+}

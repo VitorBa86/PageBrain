@@ -1,0 +1,66 @@
+{
+ "nome": "psi-graziela-ferraz-braz",
+ "slug": "psi-graziela-ferraz-braz",
+ "pasta_original": "Psi Graziele",
+ "origem": "paginas/gerais",
+ "prioridade": "referencia",
+ "url": "https://psigrazielaferrazbraz.com.br/",
+ "plataforma": "SPA (React/Vue)",
+ "nicho": "Psicologia",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [],
+  "textos": [],
+  "destaques": [],
+  "gradientes": []
+ },
+ "fontes": [],
+ "escala_tipografica_desktop_px": [],
+ "escala_tipografica_mobile_px": [],
+ "h1_mobile": null,
+ "botao_principal": null,
+ "raios": [],
+ "sombras": [],
+ "gaps": [],
+ "largura_conteudo_px": null,
+ "altura_pagina_px": 900,
+ "secoes_qtde": 0,
+ "secoes": [],
+ "tipos_de_secao": [],
+ "tags_estilo": [
+  "verde-salvia",
+  "off-white",
+  "serifa-italica",
+  "minimalista"
+ ],
+ "tecnicas": [
+  "Formulário para WhatsApp"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "accordion-down",
+   "accordion-up",
+   "enter",
+   "exit",
+   "pulse",
+   "spin"
+  ],
+  "entrada_elementor": [],
+  "classes_scroll": []
+ },
+ "bibliotecas": [
+  "google-ads"
+ ],
+ "snippets_usados": [],
+ "relevancia": 4,
+ "resumo": "Psicóloga junguiana minimalista em verde sálvia: serifa com itálico sublinhado, foto em card arredondado, bio com foto ambiente, cards de especialidade, lista do que se transforma, 4 passos e formulário de contato que envia para o WhatsApp.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": null,
+  "copy_real": null,
+  "json_elementor": null,
+  "ref": null
+ }
+}

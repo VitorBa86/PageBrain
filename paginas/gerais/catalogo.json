@@ -1,0 +1,1490 @@
+{
+ "pasta": "paginas/gerais",
+ "prioridade": "referencia",
+ "total": 32,
+ "paginas": [
+  {
+   "slug": "adv-ademar-alcantara-criminalista",
+   "nome": "Dr. Ademar de Alcântara - Advogado Criminalista BH",
+   "pasta_original": "Ademar Dr LP",
+   "nicho": "Advocacia",
+   "tipo_pagina": "institucional",
+   "url": "https://www.criminalistabh.com.br/",
+   "prioridade": "referencia",
+   "relevancia": 3,
+   "estilo": [
+    "escuro",
+    "azul-violeta",
+    "institucional",
+    "seo-local"
+   ],
+   "cores_fundo": [
+    "#FFFFFF",
+    "#10132D",
+    "#0A0A0A"
+   ],
+   "cores_destaque": [
+    "#FFFFFF",
+    "#42548C"
+   ],
+   "fontes": [
+    "Open Sans",
+    "Trustindex Open Sans",
+    "Geologica"
+   ],
+   "secoes": [
+    "hero",
+    "",
+    "sobre",
+    "servicos",
+    "diferenciais",
+    "sobre",
+    "",
+    "sobre",
+    "sobre",
+    "sobre",
+    "rodape"
+   ],
+   "destaque": "Site de advogado criminalista em BH com foco em SEO local: hero escuro com 4 ícones de serviço, cards de área com foto em carrossel, grade de 'regiões atendidas' com um card por bairro ou cidade, diferenciais, sobre e blog em grid.",
+   "style_guide": "adv-ademar-alcantara-criminalista/style-guide.html",
+   "como_usar": "adv-ademar-alcantara-criminalista/como-usar.md",
+   "ficha": "adv-ademar-alcantara-criminalista/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "adv-amanda-pires",
+   "nome": "AP | Advocacia e Assessoria Jurídica",
+   "pasta_original": "Amanda Adv",
+   "nicho": "Advocacia",
+   "tipo_pagina": "captacao",
+   "url": "https://amandapires.com.br/",
+   "prioridade": "referencia",
+   "relevancia": 4,
+   "estilo": [
+    "escuro",
+    "azul-petroleo",
+    "monocromatico",
+    "serifa"
+   ],
+   "cores_fundo": [
+    "#00293F"
+   ],
+   "cores_destaque": [
+    "#00293F",
+    "#C07D5A"
+   ],
+   "fontes": [
+    "Urbanist",
+    "Baskervville"
+   ],
+   "secoes": [
+    "hero",
+    "servicos",
+    "",
+    "",
+    "",
+    "faq",
+    "",
+    "rodape"
+   ],
+   "destaque": "Advocacia patrimonial monocromática em azul petróleo com serifa clássica. Cards com borda translúcida, equipe em cards alternando foto e bio, áreas em acordeão de duas colunas e FAQ longo.",
+   "style_guide": "adv-amanda-pires/style-guide.html",
+   "como_usar": "adv-amanda-pires/como-usar.md",
+   "ficha": "adv-amanda-pires/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "adv-garcia-almeida-trabalhista",
+   "nome": "Advogado Trabalhista | Garcia Almeida & Cintra",
+   "pasta_original": "GArcia adv",
+   "nicho": "Advocacia",
+   "tipo_pagina": "captacao",
+   "url": "https://garciaealmeidaadvogados.com.br/advogado-direito-trabalho",
+   "prioridade": "referencia",
+   "relevancia": 5,
+   "estilo": [
+    "navy",
+    "off-white",
+    "serifa-italica",
+    "verde-whatsapp"
+   ],
+   "cores_fundo": [
+    "#09162E",
+    "#23272A",
+    "#25D366"
+   ],
+   "cores_destaque": [
+    "#25D366"
+   ],
+   "fontes": [
+    "Manrope",
+    "Instrument Serif",
+    "Montserrat"
+   ],
+   "secoes": [
+    "hero",
+    "",
+    "servicos",
+    "",
+    "prova-social",
+    "",
+    "como-funciona",
+    "",
+    "faq",
+    "rodape"
+   ],
+   "destaque": "Advocacia trabalhista muito alinhada ao padrão da casa: hero escuro com pergunta em serifa itálica, alternância off-white e navy, rótulos pequenos, cards escuros de direitos, personas com foto ('trabalhadores demitidos'...), processo 01 a 05, FAQ dividido e CTA final em card com foto.",
+   "style_guide": "adv-garcia-almeida-trabalhista/style-guide.html",
+   "como_usar": "adv-garcia-almeida-trabalhista/como-usar.md",
+   "ficha": "adv-garcia-almeida-trabalhista/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "adv-isabela-amorim",
+   "nome": "Isabela Amorim Siqueira · Advocacia",
+   "pasta_original": "Isabela Amorim Adv",
+   "nicho": "Advocacia",
+   "tipo_pagina": "captacao",
+   "url": "https://isabelaamorimadvogada.com.br/",
+   "prioridade": "referencia",
+   "relevancia": 5,
+   "estilo": [
+    "bordo",
+    "dourado",
+    "creme",
+    "serifa-italica",
+    "feminino"
+   ],
+   "cores_fundo": [
+    "#FAF7F2",
+    "#FFFFFF",
+    "#3A0D18"
+   ],
+   "cores_destaque": [
+    "#128C4A",
+    "#4C1220",
+    "#3A0D18"
+   ],
+   "fontes": [
+    "Inter",
+    "Marcellus"
+   ],
+   "secoes": [
+    "hero",
+    "servicos",
+    "servicos",
+    "servicos",
+    "sobre",
+    "sobre"
+   ],
+   "destaque": "Advogada criminal e do consumidor em bordô, dourado e creme. Hero com foto em card arredondado, palavra em itálico, tags de áreas sob o CTA, faixa (marquee) de áreas, cards de serviço com etiqueta e lista de checks e bio com pílulas de credenciais.",
+   "style_guide": "adv-isabela-amorim/style-guide.html",
+   "como_usar": "adv-isabela-amorim/como-usar.md",
+   "ficha": "adv-isabela-amorim/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "adv-laurence-possebon-trabalhista",
+   "nome": "Advogado Trabalhista em Caxias do Sul | Laurence Possebon",
+   "pasta_original": "Lauren Adv",
+   "nicho": "Advocacia",
+   "tipo_pagina": "captacao",
+   "url": "https://laurencepossebon.adv.br/",
+   "prioridade": "referencia",
+   "relevancia": 4,
+   "estilo": [
+    "navy",
+    "bege",
+    "glass",
+    "premium"
+   ],
+   "cores_fundo": [
+    "#ECE9E2",
+    "#002C42",
+    "#011520"
+   ],
+   "cores_destaque": [
+    "#00314A",
+    "#172A24",
+    "#6EC1E4"
+   ],
+   "fontes": [
+    "Manrope"
+   ],
+   "secoes": [
+    "hero",
+    "servicos",
+    "prova-social",
+    "como-funciona",
+    "",
+    "diferenciais",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "faq",
+    "",
+    "",
+    "rodape"
+   ],
+   "destaque": "Advogado trabalhista com navy e bege, selos e glassmorphism. Hero com selo 'Escritório 5 estrelas no Google' e tag '10 anos de experiência', casos em grid, depoimentos, processo com números gigantes vazados em cards de vidro sobre foto e marquee com o nome do advogado.",
+   "style_guide": "adv-laurence-possebon-trabalhista/style-guide.html",
+   "como_usar": "adv-laurence-possebon-trabalhista/como-usar.md",
+   "ficha": "adv-laurence-possebon-trabalhista/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "adv-leandro-fialho",
+   "nome": "Advocacia Especializada em BH | Leandro Fialho Advogados",
+   "pasta_original": "LEandro Fialho Adv",
+   "nicho": "Advocacia",
+   "tipo_pagina": "institucional",
+   "url": "https://consultoriojuridico.com.br/",
+   "prioridade": "referencia",
+   "relevancia": 4,
+   "estilo": [
+    "navy",
+    "dourado",
+    "corporativo",
+    "claro"
+   ],
+   "cores_fundo": [
+    "#F6F6F6",
+    "#FFFFFF",
+    "#323A4D"
+   ],
+   "cores_destaque": [
+    "#D3AB67",
+    "#323A4D",
+    "#1A5490"
+   ],
+   "fontes": [
+    "Encode Sans",
+    "Trustindex Poppins"
+   ],
+   "secoes": [
+    "hero",
+    "servicos",
+    "rodape"
+   ],
+   "destaque": "Escritório patrimonial em BH, navy e dourado. Hero com três fotos verticais em mosaico, barra de 4 números com ícone, cards de valores com filete dourado no topo, especialidades em cards de foto, acordos extrajudiciais e blog.",
+   "style_guide": "adv-leandro-fialho/style-guide.html",
+   "como_usar": "adv-leandro-fialho/como-usar.md",
+   "ficha": "adv-leandro-fialho/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "adv-luciana-delpino",
+   "nome": "Advogado em Belo Horizonte | Luciana Delpino | Fale conosco",
+   "pasta_original": "Luciana Adv",
+   "nicho": "Advocacia",
+   "tipo_pagina": "institucional",
+   "url": "https://www.lucianadelpino.com.br/",
+   "prioridade": "referencia",
+   "relevancia": 2,
+   "estilo": [
+    "verde-musgo",
+    "laranja",
+    "institucional",
+    "seo"
+   ],
+   "cores_fundo": [
+    "#435D51",
+    "#FFFFFF",
+    "#E9E9E9"
+   ],
+   "cores_destaque": [
+    "#9BAE88",
+    "#FF6E00",
+    "#EB6500"
+   ],
+   "fontes": [
+    "DM Sans",
+    "Urbanist"
+   ],
+   "secoes": [
+    "hero",
+    "servicos",
+    "",
+    "servicos",
+    "",
+    "",
+    "sobre",
+    "prova-social",
+    "sobre",
+    "sobre",
+    "blog",
+    "faq",
+    "",
+    "",
+    "cta-final",
+    "localizacao",
+    "rodape"
+   ],
+   "destaque": "Site institucional antigo de advocacia em BH, verde-musgo com botões laranja. Cards de área com foto, lista de queixas atendidas, bio com fotos P&B e lista de motivos. A captura tem blocos duplicados e áreas vazias.",
+   "style_guide": "adv-luciana-delpino/style-guide.html",
+   "como_usar": "adv-luciana-delpino/como-usar.md",
+   "ficha": "adv-luciana-delpino/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "adv-marques-e-doria-criminal",
+   "nome": "Marques e Doria · MarqueseDoria",
+   "pasta_original": "Marques Adv",
+   "nicho": "Advocacia",
+   "tipo_pagina": "captacao",
+   "url": "https://marquesedorialavras.com.br/criminal/",
+   "prioridade": "referencia",
+   "relevancia": 5,
+   "estilo": [
+    "preto",
+    "dourado",
+    "serifa",
+    "premium"
+   ],
+   "cores_fundo": [
+    "#0A0A0A",
+    "#B39133",
+    "#C9A227"
+   ],
+   "cores_destaque": [
+    "#C9A227",
+    "#FFFFFF",
+    "#C8A45D"
+   ],
+   "fontes": [
+    "Inter",
+    "Playfair Display",
+    "Cinzel"
+   ],
+   "secoes": [
+    "hero",
+    "servicos",
+    "",
+    "faq",
+    "",
+    "rodape"
+   ],
+   "destaque": "Advocacia criminal em preto e dourado com Playfair. Headline curta com palavra em dourado, 3x3 cards escuros com ícone dourado, 4 passos numerados, FAQ em acordeão dourado e CTA final tipográfico grande com 'cada hora conta'.",
+   "style_guide": "adv-marques-e-doria-criminal/style-guide.html",
+   "como_usar": "adv-marques-e-doria-criminal/como-usar.md",
+   "ficha": "adv-marques-e-doria-criminal/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "adv-neiva-leal",
+   "nome": "Advogado BH, Escritório de Advocacia BH | Neiva Leal",
+   "pasta_original": "Neiva Adv",
+   "nicho": "Advocacia",
+   "tipo_pagina": "institucional",
+   "url": "https://neivaleal.com.br/",
+   "prioridade": "referencia",
+   "relevancia": 2,
+   "estilo": [
+    "navy",
+    "bege",
+    "institucional",
+    "seo"
+   ],
+   "cores_fundo": [
+    "#2D415C",
+    "#F2F2F2",
+    "#FFFFFF"
+   ],
+   "cores_destaque": [
+    "#FFFFFF",
+    "#2D415C",
+    "#5FA533"
+   ],
+   "fontes": [
+    "Outfit"
+   ],
+   "secoes": [
+    "hero",
+    "sobre",
+    "sobre",
+    "cta-final",
+    "blog",
+    "faq",
+    "sobre",
+    "",
+    "sobre",
+    "sobre",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "sobre",
+    "servicos",
+    "faq",
+    "sobre",
+    "rodape"
+   ],
+   "destaque": "Escritório de BH com site institucional e muito texto de SEO no fim. Bloco 'por que escolher' sobre foto com 6 ícones, cards de sócios e blog.",
+   "style_guide": "adv-neiva-leal/style-guide.html",
+   "como_usar": "adv-neiva-leal/como-usar.md",
+   "ficha": "adv-neiva-leal/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "adv-rayane-guedes-criminal",
+   "nome": "Rayane Guedes ADV | Advocacia Criminal",
+   "pasta_original": "Rayane Adv",
+   "nicho": "Advocacia",
+   "tipo_pagina": "captacao",
+   "url": "https://rayaneguedesadvocacia.com.br/",
+   "prioridade": "referencia",
+   "relevancia": 4,
+   "estilo": [
+    "preto",
+    "bronze",
+    "serifa-italica",
+    "premium",
+    "feminino"
+   ],
+   "cores_fundo": [
+    "#111317",
+    "#191B1F",
+    "#25D366"
+   ],
+   "cores_destaque": [
+    "#25D366",
+    "#C49464"
+   ],
+   "fontes": [
+    "Inter",
+    "DM Serif Display"
+   ],
+   "secoes": [
+    "hero",
+    "sobre",
+    "servicos",
+    "diferenciais",
+    "como-funciona",
+    "faq",
+    "",
+    "blog",
+    "cta-final"
+   ],
+   "destaque": "Advogada criminal em preto e bronze com serifa itálica dourada. Foto P&B, cards escuros de área com um card dourado de destaque, diferenciais em lista com números grandes de fundo e artigos.",
+   "style_guide": "adv-rayane-guedes-criminal/style-guide.html",
+   "como_usar": "adv-rayane-guedes-criminal/como-usar.md",
+   "ficha": "adv-rayane-guedes-criminal/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "imob-alpha-vert",
+   "nome": "Casas e Apartamentos à Venda em Alphaville | ALPHA VERT",
+   "pasta_original": "Alphaver imob",
+   "nicho": "Imobiliário",
+   "tipo_pagina": "captacao",
+   "url": "https://www.alphavert.com.br/",
+   "prioridade": "referencia",
+   "relevancia": 3,
+   "estilo": [
+    "cinza-verde",
+    "renders",
+    "alto-padrao",
+    "editorial"
+   ],
+   "cores_fundo": [
+    "#E2E2DB",
+    "#67684F",
+    "#313131"
+   ],
+   "cores_destaque": [
+    "#313131"
+   ],
+   "fontes": [
+    "Gotham Book 0",
+    "Gotham 1"
+   ],
+   "secoes": [
+    "hero",
+    "",
+    "",
+    "diferenciais",
+    "",
+    "diferenciais",
+    "",
+    "",
+    "",
+    "rodape"
+   ],
+   "destaque": "Lançamento de casas em Alphaville (Webflow) com renders grandes, linhas diagonais decorativas, plantas por pavimento em abas, ícones de diferenciais e clube com carrossel.",
+   "style_guide": "imob-alpha-vert/style-guide.html",
+   "como_usar": "imob-alpha-vert/como-usar.md",
+   "ficha": "imob-alpha-vert/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "imob-alto-pacaembu",
+   "nome": "Alto Pacaembu",
+   "pasta_original": "Alto Pacaembu Imob",
+   "nicho": "Imobiliário",
+   "tipo_pagina": "captacao",
+   "url": "https://altopacaembu.com.br/",
+   "prioridade": "referencia",
+   "relevancia": 3,
+   "estilo": [
+    "turquesa",
+    "verde-agua",
+    "claro",
+    "imobiliario"
+   ],
+   "cores_fundo": [
+    "#035959",
+    "#0FC2BF",
+    "#0DABA8"
+   ],
+   "cores_destaque": [
+    "#035959",
+    "#0FC2BF",
+    "#0DABA8"
+   ],
+   "fontes": [
+    "Plus Jakarta Sans"
+   ],
+   "secoes": [
+    "hero",
+    "",
+    "",
+    "",
+    "produto",
+    "",
+    "",
+    "",
+    "diferenciais",
+    "",
+    "",
+    "produto",
+    "localizacao",
+    "",
+    "",
+    "",
+    "rodape"
+   ],
+   "destaque": "Lançamento econômico em turquesa. Formulário já no hero, galeria em grade de fotos, blocos de cor com frase, masterplan com legenda, diferenciais de apartamento e condomínio em duas colunas, tipologias e localização.",
+   "style_guide": "imob-alto-pacaembu/style-guide.html",
+   "como_usar": "imob-alto-pacaembu/como-usar.md",
+   "ficha": "imob-alto-pacaembu/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "imob-arvoz-vila-mariana",
+   "nome": "Arvóz Vila Mariana | Samar Engenharia e Grupo Riema",
+   "pasta_original": "Arvozvil imob",
+   "nicho": "Imobiliário",
+   "tipo_pagina": "captacao",
+   "url": "https://www.arvozvilamariana.com.br/",
+   "prioridade": "referencia",
+   "relevancia": 2,
+   "estilo": [
+    "bege",
+    "terracota",
+    "minimalista"
+   ],
+   "cores_fundo": [
+    "#E1DCD1",
+    "#FFFFFF",
+    "#F1F1F1"
+   ],
+   "cores_destaque": [
+    "#BB6229"
+   ],
+   "fontes": [
+    "Barlow"
+   ],
+   "secoes": [
+    "hero",
+    "",
+    "rodape"
+   ],
+   "destaque": "Lançamento minimalista em bege com acento terracota: hero com vista aérea, render vertical grande, números em destaque (119 m², 3 suítes), galeria com miniaturas, ficha técnica centralizada e formulário simples.",
+   "style_guide": "imob-arvoz-vila-mariana/style-guide.html",
+   "como_usar": "imob-arvoz-vila-mariana/como-usar.md",
+   "ficha": "imob-arvoz-vila-mariana/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "imob-embraed",
+   "nome": "Embraed Empreendimentos - Construtora em Balneário Camboriú - SC | Brasil",
+   "pasta_original": "EMbaed Imob",
+   "nicho": "Imobiliário",
+   "tipo_pagina": "institucional",
+   "url": "https://www.embraed.com.br/pt-BR",
+   "prioridade": "referencia",
+   "relevancia": 3,
+   "estilo": [
+    "institucional",
+    "navy",
+    "dourado",
+    "luxo"
+   ],
+   "cores_fundo": [
+    "#022C3A",
+    "#FFFFFF",
+    "#25D366"
+   ],
+   "cores_destaque": [
+    "#9A8555"
+   ],
+   "fontes": [
+    "seravek",
+    "friz-quadrata-com"
+   ],
+   "secoes": [
+    "hero",
+    "",
+    "",
+    "",
+    "sobre",
+    "",
+    "blog",
+    "",
+    "",
+    "",
+    "",
+    "rodape"
+   ],
+   "destaque": "Institucional de construtora de luxo (Balneário Camboriú): hero escuro com marca de parceria (Armani Residences), cards de lançamento com fotos verticais, slider de empreendimento, números da empresa, frase-manifesto em faixa navy e blog.",
+   "style_guide": "imob-embraed/style-guide.html",
+   "como_usar": "imob-embraed/como-usar.md",
+   "ficha": "imob-embraed/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "imob-lindenberg-moema",
+   "nome": "Lindenberg Moema",
+   "pasta_original": "Linderberg Imob",
+   "nicho": "Imobiliário",
+   "tipo_pagina": "captacao",
+   "url": "https://lindenbergmoema.com.br/",
+   "prioridade": "referencia",
+   "relevancia": 4,
+   "estilo": [
+    "bege",
+    "marrom-cafe",
+    "serifa",
+    "alto-padrao",
+    "editorial"
+   ],
+   "cores_fundo": [
+    "#FAF4ED",
+    "#F2EADF",
+    "#23160E"
+   ],
+   "cores_destaque": [
+    "#51332A",
+    "#573717",
+    "#BA9D80"
+   ],
+   "fontes": [
+    "Lato",
+    "Montserrat",
+    "Inter"
+   ],
+   "secoes": [
+    "hero",
+    "",
+    "",
+    "",
+    "produto",
+    "",
+    "",
+    "",
+    "produto",
+    "cta-final"
+   ],
+   "destaque": "Lançamento de alto padrão em Moema, bege e marrom café com serifa. Linhas verticais finas como textura, bloco de localização com distâncias em card marrom, ficha técnica completa, vídeo, diferenciais comuns e privativos e plantas.",
+   "style_guide": "imob-lindenberg-moema/style-guide.html",
+   "como_usar": "imob-lindenberg-moema/como-usar.md",
+   "ficha": "imob-lindenberg-moema/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "imob-msb-sanchez",
+   "nome": "MSB Sanchez",
+   "pasta_original": "Msb Imobi",
+   "nicho": "Imobiliário",
+   "tipo_pagina": "institucional",
+   "url": "https://msbsanchez.com.br/",
+   "prioridade": "referencia",
+   "relevancia": 3,
+   "estilo": [
+    "azul",
+    "cinza",
+    "script",
+    "institucional"
+   ],
+   "cores_fundo": [
+    "#10324E",
+    "#173E62",
+    "#FFFFFF"
+   ],
+   "cores_destaque": [
+    "#10324E",
+    "#040D47",
+    "#007AFF"
+   ],
+   "fontes": [
+    "Roboto",
+    "Be Vietnam"
+   ],
+   "secoes": [
+    "hero",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "formulario"
+   ],
+   "destaque": "Incorporadora com títulos em script manuscrito, hero com tag 'Em construção' e miniaturas dos outros projetos, abas de projetos (em construção, entregues), história com montagem de imagens, números e diferenciais em cards de borda branca sobre foto.",
+   "style_guide": "imob-msb-sanchez/style-guide.html",
+   "como_usar": "imob-msb-sanchez/como-usar.md",
+   "ficha": "imob-msb-sanchez/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "imob-symphony-flamengo",
+   "nome": "Symphony Flamengo | Apartamentos de 1, 2, 3 quartos e Coberturas Duplex",
+   "pasta_original": "Symphony imobi",
+   "nicho": "Imobiliário",
+   "tipo_pagina": "captacao",
+   "url": "https://symphonyresidences.com.br/",
+   "prioridade": "referencia",
+   "relevancia": 4,
+   "estilo": [
+    "madeira",
+    "creme",
+    "dourado",
+    "alto-padrao"
+   ],
+   "cores_fundo": [
+    "#FFFFFF",
+    "#E9E1D2",
+    "#4A2C25"
+   ],
+   "cores_destaque": [
+    "#FAC981",
+    "#E9E1D2",
+    "#5A352E"
+   ],
+   "fontes": [
+    "BigCity Grotesque Pro"
+   ],
+   "secoes": [
+    "hero",
+    "",
+    "sobre",
+    "",
+    "localizacao",
+    "servicos",
+    "",
+    "servicos",
+    "",
+    "produto",
+    "formulario"
+   ],
+   "destaque": "Lançamento no Flamengo com textura de madeira, creme e dourado. Formulário logo após o hero, localização com lista, imagem grande com clave de sol (conceito Symphony), galeria, infraestrutura com ícones, parceiros com foto e download do book de plantas.",
+   "style_guide": "imob-symphony-flamengo/style-guide.html",
+   "como_usar": "imob-symphony-flamengo/como-usar.md",
+   "ficha": "imob-symphony-flamengo/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "imob-tide-residencial",
+   "nome": "Tide Residencial | Recreio dos Bandeirantes",
+   "pasta_original": "TIderesidencial Imob",
+   "nicho": "Imobiliário",
+   "tipo_pagina": "captacao",
+   "url": "https://tideresidencial.com.br/",
+   "prioridade": "referencia",
+   "relevancia": 3,
+   "estilo": [
+    "navy",
+    "bronze",
+    "praia",
+    "imobiliario"
+   ],
+   "cores_fundo": [
+    "#172331",
+    "#FFFFFF",
+    "#987F69"
+   ],
+   "cores_destaque": [
+    "#172331",
+    "#987F69",
+    "#21485E"
+   ],
+   "fontes": [
+    "Times",
+    "Condor"
+   ],
+   "secoes": [
+    "hero",
+    "formulario",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "formulario",
+    "",
+    "rodape"
+   ],
+   "destaque": "Lançamento no Recreio em navy e bronze: hero com foto de praia e slogan 'A maré a seu favor', formulário logo abaixo, carrossel de renders, grade de 12 ícones de lazer, plantas com tabela de áreas, distâncias e formulário final.",
+   "style_guide": "imob-tide-residencial/style-guide.html",
+   "como_usar": "imob-tide-residencial/como-usar.md",
+   "ficha": "imob-tide-residencial/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "odonto-benatti",
+   "nome": "Benatti Odontologia - Dentistas Especialistas em SP",
+   "pasta_original": "Benattio Odonto",
+   "nicho": "Odontologia",
+   "tipo_pagina": "institucional",
+   "url": "https://benattiodontologia.com.br/",
+   "prioridade": "referencia",
+   "relevancia": 3,
+   "estilo": [
+    "branco",
+    "cinza",
+    "p-e-b",
+    "clinica-premium"
+   ],
+   "cores_fundo": [
+    "#111111",
+    "#013A65",
+    "#FFFFFF"
+   ],
+   "cores_destaque": [
+    "#013A65"
+   ],
+   "fontes": [
+    "Josefin Sans",
+    "Trebuchet MS",
+    "Trustindex Poppins"
+   ],
+   "secoes": [
+    "hero",
+    "",
+    "",
+    "",
+    "servicos",
+    "sobre",
+    "sobre",
+    "",
+    "",
+    "",
+    "",
+    "blog"
+   ],
+   "destaque": "Clínica odontológica premium em São Paulo, branca com fotos P&B: vídeo de fundo no hero, 3 pilares com ícone, fotos da clínica, especialidades com foto, ícones de tratamentos, vídeo do fundador, logos de universidades (Harvard, Columbia, USP), antes e depois, Google e artigos.",
+   "style_guide": "odonto-benatti/style-guide.html",
+   "como_usar": "odonto-benatti/como-usar.md",
+   "ficha": "odonto-benatti/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "odonto-entrelacos",
+   "nome": "EntreLaços · Clínica Odontológica · Odontologia integrada · Odontopediatria",
+   "pasta_original": "Entre lacos Odonto",
+   "nicho": "Odontologia",
+   "tipo_pagina": "captacao",
+   "url": "https://entrelacosodontologia.com.br/",
+   "prioridade": "referencia",
+   "relevancia": 5,
+   "estilo": [
+    "rosa-claro",
+    "verde-oliva",
+    "serifa-italica",
+    "feminino",
+    "editorial"
+   ],
+   "cores_fundo": [
+    "#F7F2EF",
+    "#575B28"
+   ],
+   "cores_destaque": [
+    "#575B28",
+    "#D5AE8F"
+   ],
+   "fontes": [
+    "Caviar Dreams",
+    "Playfair Display"
+   ],
+   "secoes": [
+    "hero",
+    "",
+    "servicos",
+    "diferenciais",
+    "",
+    "prova-social",
+    "cta-final"
+   ],
+   "destaque": "Clínica em BH, uma das melhores referências do acervo: rosa claríssimo e verde-oliva com serifa e palavra em itálico rosé. Foto em arco, números em linha, grid de tratamentos com bordas finas e numeração, '5 razões concretas' numeradas em fundo oliva, depoimento e CTA final com nome da marca em marca d'água.",
+   "style_guide": "odonto-entrelacos/style-guide.html",
+   "como_usar": "odonto-entrelacos/como-usar.md",
+   "ficha": "odonto-entrelacos/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "odonto-instituto-martins-theodoro",
+   "nome": "Odontologia e harmonização na Barra da Tijuca | IMT",
+   "pasta_original": "Instituo LP",
+   "nicho": "Odontologia",
+   "tipo_pagina": "captacao",
+   "url": "https://institutomartinstheodoro.com.br/",
+   "prioridade": "referencia",
+   "relevancia": 5,
+   "estilo": [
+    "creme",
+    "dourado",
+    "serifa",
+    "premium",
+    "editorial"
+   ],
+   "cores_fundo": [
+    "#F5EFE4",
+    "#1E1C18",
+    "#E6DCC6"
+   ],
+   "cores_destaque": [
+    "#7C5A21",
+    "#E6DCC6",
+    "#F4E3B0"
+   ],
+   "fontes": [
+    "Inter",
+    "Jost",
+    "Fraunces"
+   ],
+   "secoes": [
+    "hero",
+    "servicos",
+    "sobre",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "destaque": "Instituto de odontologia e harmonização (clínica + cursos) em creme e dourado. Hero com dois caminhos ('Sou paciente' / 'Quero me especializar'), cards suaves de tratamento, lista 'o que muda', fotos full-bleed com legenda, processo em 4 etapas, depoimentos e seção escura de cursos.",
+   "style_guide": "odonto-instituto-martins-theodoro/style-guide.html",
+   "como_usar": "odonto-instituto-martins-theodoro/como-usar.md",
+   "ficha": "odonto-instituto-martins-theodoro/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "odonto-meirelles",
+   "nome": "Meirelles Odontologia · Transformando sorrisos",
+   "pasta_original": "Meirelle Odonto",
+   "nicho": "Odontologia",
+   "tipo_pagina": "captacao",
+   "url": "https://meirellesodontologia.com.br/",
+   "prioridade": "referencia",
+   "relevancia": 2,
+   "estilo": [
+    "rose",
+    "dourado",
+    "claro",
+    "simples"
+   ],
+   "cores_fundo": [
+    "#F3DAD1",
+    "#1B1B1B",
+    "#CCAA5D"
+   ],
+   "cores_destaque": [
+    "#CCAA5D",
+    "#807451"
+   ],
+   "fontes": [
+    "Poppins"
+   ],
+   "secoes": [
+    "hero",
+    "sobre",
+    "beneficios",
+    "sobre",
+    "",
+    "",
+    "",
+    "cta-final",
+    "cta-final",
+    "",
+    "",
+    "",
+    "rodape"
+   ],
+   "destaque": "Clínica odontológica simples em rosé e dourado: hero com foto do consultório, sobre, 6 benefícios com ícone, equipe, Google reviews, tecnologia e CTA final.",
+   "style_guide": "odonto-meirelles/style-guide.html",
+   "como_usar": "odonto-meirelles/como-usar.md",
+   "ficha": "odonto-meirelles/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "psi-evelyn-mendes",
+   "nome": "Home - Evelyn Mendes - Psicóloga",
+   "pasta_original": "PSI EVELY",
+   "nicho": "Psicologia",
+   "tipo_pagina": "captacao",
+   "url": "https://psievelynmendes.com.br/",
+   "prioridade": "referencia",
+   "relevancia": 4,
+   "estilo": [
+    "azul-acinzentado",
+    "creme",
+    "serifa",
+    "feminino",
+    "textura"
+   ],
+   "cores_fundo": [
+    "#BCC6CE",
+    "#FAF9F8",
+    "#F2EFEA"
+   ],
+   "cores_destaque": [
+    "#35445B"
+   ],
+   "fontes": [
+    "Onest",
+    "Noto Serif TC"
+   ],
+   "secoes": [
+    "hero",
+    "",
+    "prova-social",
+    "para-quem-e",
+    "beneficios",
+    "",
+    "",
+    "faq",
+    "blog"
+   ],
+   "destaque": "Psicóloga para mulheres sobrecarregadas: azul acinzentado e creme com textura topográfica. Selo Google no hero, depoimentos logo após, cards de identificação, benefícios, bio com credenciais, cards de formato de atendimento, 4 passos, FAQ e feed do Instagram.",
+   "style_guide": "psi-evelyn-mendes/style-guide.html",
+   "como_usar": "psi-evelyn-mendes/como-usar.md",
+   "ficha": "psi-evelyn-mendes/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "psi-graziela-ferraz-braz",
+   "nome": "psi-graziela-ferraz-braz",
+   "pasta_original": "Psi Graziele",
+   "nicho": "Psicologia",
+   "tipo_pagina": "captacao",
+   "url": "https://psigrazielaferrazbraz.com.br/",
+   "prioridade": "referencia",
+   "relevancia": 4,
+   "estilo": [
+    "verde-salvia",
+    "off-white",
+    "serifa-italica",
+    "minimalista"
+   ],
+   "cores_fundo": [],
+   "cores_destaque": [],
+   "fontes": [],
+   "secoes": [],
+   "destaque": "Psicóloga junguiana minimalista em verde sálvia: serifa com itálico sublinhado, foto em card arredondado, bio com foto ambiente, cards de especialidade, lista do que se transforma, 4 passos e formulário de contato que envia para o WhatsApp.",
+   "style_guide": "psi-graziela-ferraz-braz/style-guide.html",
+   "como_usar": "psi-graziela-ferraz-braz/como-usar.md",
+   "ficha": "psi-graziela-ferraz-braz/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "psi-lindiomara-santos",
+   "nome": "Lindiomara Santos | Psicóloga em Natal RN",
+   "pasta_original": "Lindio Psi",
+   "nicho": "Psicologia",
+   "tipo_pagina": "captacao",
+   "url": "https://lindiomarapsi.com.br/",
+   "prioridade": "referencia",
+   "relevancia": 4,
+   "estilo": [
+    "off-white",
+    "navy",
+    "dourado",
+    "serifa-italica",
+    "feminino"
+   ],
+   "cores_fundo": [
+    "#F1EFEA",
+    "#E5E3DE",
+    "#E4405F"
+   ],
+   "cores_destaque": [
+    "#2B465C",
+    "#E4405F",
+    "#3C5A72"
+   ],
+   "fontes": [
+    "Bricolage Grotesque",
+    "utile-display"
+   ],
+   "secoes": [
+    "hero",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "servicos",
+    "",
+    "faq",
+    "rodape"
+   ],
+   "destaque": "Psicóloga de comportamento alimentar com off-white, botão navy e molduras douradas deslocadas atrás das fotos. Serifa com itálico, monograma em marca d'água, cards suaves e um card dourado de dúvida.",
+   "style_guide": "psi-lindiomara-santos/style-guide.html",
+   "como_usar": "psi-lindiomara-santos/como-usar.md",
+   "ficha": "psi-lindiomara-santos/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "psi-nicole-cooper",
+   "nome": "Nicole Cooper · Psicóloga Online · CRP 06/207758",
+   "pasta_original": "PSI Nicole Cooper",
+   "nicho": "Psicologia",
+   "tipo_pagina": "captacao",
+   "url": "https://www.psicologanicolecooper.com.br/",
+   "prioridade": "referencia",
+   "relevancia": 4,
+   "estilo": [
+    "marrom-cafe",
+    "terracota",
+    "creme",
+    "serifa-italica",
+    "acolhedor"
+   ],
+   "cores_fundo": [
+    "#FDF8F2",
+    "#F2E2D5",
+    "#311507"
+   ],
+   "cores_destaque": [
+    "#E3D2C3",
+    "#7A3C20",
+    "#EBDCCD"
+   ],
+   "fontes": [
+    "Raleway",
+    "Instrument Serif",
+    "Playfair Display"
+   ],
+   "secoes": [
+    "hero",
+    "",
+    "",
+    "como-funciona",
+    "",
+    "",
+    "faq",
+    "como-funciona"
+   ],
+   "destaque": "Psicóloga online em marrom café e terracota: marquee no topo, foto conceitual em sépia, diagrama circular de etapas em fundo marrom, cards 01 a 04 em itálico, bio com card de nome, vantagens do online e CTA final em card dividido com foto.",
+   "style_guide": "psi-nicole-cooper/style-guide.html",
+   "como_usar": "psi-nicole-cooper/como-usar.md",
+   "ficha": "psi-nicole-cooper/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "psi-rafael-magalhaes",
+   "nome": "Psicólogo Rafael Magalhães · CRP · 05/78606",
+   "pasta_original": "Psi Rafael",
+   "nicho": "Psicologia",
+   "tipo_pagina": "captacao",
+   "url": "https://psirafaelmagalhespinto.com.br/",
+   "prioridade": "referencia",
+   "relevancia": 3,
+   "estilo": [
+    "azul-royal",
+    "branco",
+    "simples"
+   ],
+   "cores_fundo": [
+    "#0A3252",
+    "#FFFFFF",
+    "#050A30"
+   ],
+   "cores_destaque": [
+    "#0A3252",
+    "#E4F3FF",
+    "#0D4F83"
+   ],
+   "fontes": [
+    "Poppins",
+    "Rubik",
+    "Lato"
+   ],
+   "secoes": [
+    "hero",
+    "sobre",
+    "",
+    "",
+    "",
+    "",
+    "sobre",
+    "",
+    "faq",
+    "",
+    "",
+    "rodape"
+   ],
+   "destaque": "Psicólogo online em azul royal e branco: hero com foto recortada sobre forma azul, 4 cards de dor com borda azul, pilares em card sobre foto, vídeo, bio em card azul sobre foto e FAQ em fundo azul.",
+   "style_guide": "psi-rafael-magalhaes/style-guide.html",
+   "como_usar": "psi-rafael-magalhaes/como-usar.md",
+   "ficha": "psi-rafael-magalhaes/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "saude-ramon-valim-cirurgia-plastica",
+   "nome": "Cirurgião Plástico na Barra da Tijuca · Dr. Ramon Valim | Valim Concept Clinic",
+   "pasta_original": "Dr monvalim",
+   "nicho": "Saúde / medicina",
+   "tipo_pagina": "captacao",
+   "url": "https://drramonvalim.com.br/lp-gmn",
+   "prioridade": "referencia",
+   "relevancia": 4,
+   "estilo": [
+    "verde-escuro",
+    "dourado",
+    "serifa",
+    "premium"
+   ],
+   "cores_fundo": [
+    "#F7F7F4",
+    "#16362B",
+    "#ECEDE8"
+   ],
+   "cores_destaque": [
+    "#16362B",
+    "#F7F7F4",
+    "#F7E399"
+   ],
+   "fontes": [
+    "Inter",
+    "Cormorant Garamond"
+   ],
+   "secoes": [
+    "hero",
+    "",
+    "servicos",
+    "para-quem-e",
+    "",
+    "sobre",
+    "como-funciona",
+    "",
+    "diferenciais",
+    "faq",
+    "como-funciona"
+   ],
+   "destaque": "Cirurgião plástico no Rio em verde-escuro e dourado claro: vídeo 'o que esperar da sua 1ª consulta', protocolos em zigue-zague com foto e etiqueta, cards de identificação ('mamas flácidas', 'barriga flácida'), galeria de resultados com marca e bio.",
+   "style_guide": "saude-ramon-valim-cirurgia-plastica/style-guide.html",
+   "como_usar": "saude-ramon-valim-cirurgia-plastica/como-usar.md",
+   "ficha": "saude-ramon-valim-cirurgia-plastica/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "saude-rogerio-capobianco-cirurgia-plastica",
+   "nome": "Dr. Rogerio Capobianco · Cirurgia Plástica",
+   "pasta_original": "Dr Rogerio",
+   "nicho": "Saúde / medicina",
+   "tipo_pagina": "captacao",
+   "url": "https://rogeriocapobianco.com.br/",
+   "prioridade": "referencia",
+   "relevancia": 4,
+   "estilo": [
+    "preto",
+    "branco",
+    "luxo",
+    "p-e-b"
+   ],
+   "cores_fundo": [
+    "#0E0700",
+    "#191919",
+    "#E7E7E7"
+   ],
+   "cores_destaque": [
+    "#0E0700",
+    "#FFFFFF"
+   ],
+   "fontes": [
+    "Karla",
+    "El Messiri",
+    "Montserrat"
+   ],
+   "secoes": [
+    "hero",
+    "sobre",
+    "servicos",
+    "",
+    "",
+    "sobre",
+    "sobre",
+    "",
+    "",
+    "",
+    "",
+    "sobre",
+    "formulario",
+    "sobre",
+    "",
+    "localizacao",
+    "cta-final",
+    "rodape"
+   ],
+   "destaque": "Cirurgião de alto padrão em preto e branco: hero com foto P&B dramática, grade masonry de procedimentos com foto e seta, bio com credenciais e ícones, faixa de abas de categorias, depoimentos escuros, números e mosaico final.",
+   "style_guide": "saude-rogerio-capobianco-cirurgia-plastica/style-guide.html",
+   "como_usar": "saude-rogerio-capobianco-cirurgia-plastica/como-usar.md",
+   "ficha": "saude-rogerio-capobianco-cirurgia-plastica/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "saude-victor-taborda-transplante-capilar",
+   "nome": "Transplante Capilar em Guarapuava | Dr. Victor Taborda",
+   "pasta_original": "Dr Victor LP",
+   "nicho": "Saúde / medicina",
+   "tipo_pagina": "captacao",
+   "url": "https://drvictortaborda.com.br/",
+   "prioridade": "referencia",
+   "relevancia": 5,
+   "estilo": [
+    "verde-acinzentado",
+    "off-white",
+    "serifa-italica",
+    "clinico-premium"
+   ],
+   "cores_fundo": [
+    "#F4F5F1",
+    "#363A35",
+    "#FCFCFC"
+   ],
+   "cores_destaque": [],
+   "fontes": [
+    "Neue montreal",
+    "Neue Montreal"
+   ],
+   "secoes": [
+    "hero",
+    "",
+    "",
+    "",
+    "servicos",
+    "sobre",
+    "",
+    "faq",
+    "prova-social",
+    "como-funciona"
+   ],
+   "destaque": "Transplante capilar em Guarapuava, verde acinzentado e off-white com serifa itálica. Fotos de identificação com legenda ('Você evita certas fotos'), cards 01 a 04 de diferenciais, tratamentos, bio com timeline de formação, 4 passos, FAQ com card escuro de dúvidas e Google.",
+   "style_guide": "saude-victor-taborda-transplante-capilar/style-guide.html",
+   "como_usar": "saude-victor-taborda-transplante-capilar/como-usar.md",
+   "ficha": "saude-victor-taborda-transplante-capilar/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "saude-vinicius-prieto-cirurgia-plastica",
+   "nome": "Dr. Vinícius Prieto · Cirurgia Plástica & Estilo de Vida",
+   "pasta_original": "Dr Vinicius",
+   "nicho": "Saúde / medicina",
+   "tipo_pagina": "captacao",
+   "url": "https://drviniciusprieto.com.br/",
+   "prioridade": "referencia",
+   "relevancia": 4,
+   "estilo": [
+    "grafite",
+    "laranja-queimado",
+    "claro-e-escuro",
+    "ilustrado"
+   ],
+   "cores_fundo": [
+    "#F8F8F8",
+    "#272727"
+   ],
+   "cores_destaque": [
+    "#BD4A14"
+   ],
+   "fontes": [
+    "Apparat"
+   ],
+   "secoes": [
+    "hero",
+    "",
+    "servicos",
+    "prova-social",
+    "sobre",
+    "prova-social",
+    "faq",
+    "rodape"
+   ],
+   "destaque": "Cirurgião plástico reparador em grafite e laranja queimado: hero escuro com palavras em laranja, ilustração em traço de corpo, cards de procedimento com foto, Google, bio escura com checks de formação e card de etapas numeradas ao lado do contato.",
+   "style_guide": "saude-vinicius-prieto-cirurgia-plastica/style-guide.html",
+   "como_usar": "saude-vinicius-prieto-cirurgia-plastica/como-usar.md",
+   "ficha": "saude-vinicius-prieto-cirurgia-plastica/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "saude-wendell-uguetto-ginecomastia",
+   "nome": "Dr. Wendell Uguetto - Ginecomastia e Cirurgia Plástica Masculina",
+   "pasta_original": "LP Gine Doutor",
+   "nicho": "Saúde / medicina",
+   "tipo_pagina": "captacao",
+   "url": "https://lpg.ginecomastiatratamento.com.br/",
+   "prioridade": "referencia",
+   "relevancia": 3,
+   "estilo": [
+    "teal",
+    "branco",
+    "clinico",
+    "masculino"
+   ],
+   "cores_fundo": [
+    "#F3F3F3",
+    "#FFFFFF",
+    "#009F92"
+   ],
+   "cores_destaque": [
+    "#FFFFFF",
+    "#009F92",
+    "#22C55E"
+   ],
+   "fontes": [
+    "Inter",
+    "Montserrat"
+   ],
+   "secoes": [
+    "hero",
+    "",
+    "",
+    "",
+    "",
+    "sobre",
+    "beneficios",
+    "sobre",
+    "cta-final",
+    "",
+    "faq"
+   ],
+   "destaque": "Ginecomastia em teal e branco: prova '+20.000 pacientes' acima da headline, diagrama circular de benefícios em faixa teal, cards de resultado, bio, carrossel da clínica, grid de cirurgias masculinas, diferenciais, depoimentos, mídia (Istoé, UOL, Globo) e endereços em cards.",
+   "style_guide": "saude-wendell-uguetto-ginecomastia/style-guide.html",
+   "como_usar": "saude-wendell-uguetto-ginecomastia/como-usar.md",
+   "ficha": "saude-wendell-uguetto-ginecomastia/ficha.json",
+   "json_elementor": null
+  }
+ ]
+}

@@ -1,0 +1,350 @@
+{
+ "content": [
+  {
+   "id": "4211586c",
+   "settings": {
+    "flex_direction": "row",
+    "margin": {
+     "unit": "px",
+     "top": "40",
+     "right": "0",
+     "bottom": "0",
+     "left": "0",
+     "isLinked": false
+    },
+    "padding": {
+     "unit": "px",
+     "top": "0",
+     "right": "0",
+     "bottom": "0",
+     "left": "0",
+     "isLinked": false
+    },
+    "margin_mobile": {
+     "unit": "px",
+     "top": "30",
+     "right": "0",
+     "bottom": "0",
+     "left": "0",
+     "isLinked": false
+    },
+    "eae_slider_delay": "5000",
+    "gradient_color_list": [
+     {
+      "eae_animated_gradient_color": "#00a6d8",
+      "_id": "e211562"
+     },
+     {
+      "eae_animated_gradient_color": "#b800c9",
+      "_id": "3db2376"
+     },
+     {
+      "eae_animated_gradient_color": "#e57600",
+      "_id": "295f53e"
+     }
+    ]
+   },
+   "elements": [
+    {
+     "id": "1171b203",
+     "settings": {
+      "background_background": "classic",
+      "background_color": "#1E4D4B",
+      "border_radius": {
+       "unit": "px",
+       "top": "8",
+       "right": "8",
+       "bottom": "8",
+       "left": "8",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "css_classes": "scroll-bottom",
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+       {
+        "eae_animated_gradient_color": "#00a6d8",
+        "_id": "91afe0b"
+       },
+       {
+        "eae_animated_gradient_color": "#b800c9",
+        "_id": "e76b388"
+       },
+       {
+        "eae_animated_gradient_color": "#e57600",
+        "_id": "8a69a3f"
+       }
+      ]
+     },
+     "elements": [
+      {
+       "id": "78c7ae34",
+       "settings": {
+        "title_text": "⁠Pilates Mat",
+        "description_text": "",
+        "image_size": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "image_border_radius": {
+         "unit": "px",
+         "size": 5,
+         "sizes": []
+        },
+        "title_color": "#FFFFFF",
+        "title_typography_typography": "custom",
+        "title_typography_font_family": "Sora",
+        "title_typography_font_size": {
+         "unit": "px",
+         "size": 20,
+         "sizes": []
+        },
+        "title_typography_font_weight": "500",
+        "description_color": "#313131",
+        "description_typography_typography": "custom",
+        "description_typography_font_family": "Sora",
+        "description_typography_font_size": {
+         "unit": "px",
+         "size": 16,
+         "sizes": []
+        },
+        "description_typography_font_weight": "300",
+        "_margin": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "30",
+         "left": "0",
+         "isLinked": false
+        },
+        "image": {
+         "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/05/02-1.jpg",
+         "id": 2821,
+         "size": "",
+         "alt": "",
+         "source": "library"
+        }
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "image-box",
+       "elType": "widget"
+      }
+     ],
+     "isInner": true,
+     "elType": "container"
+    },
+    {
+     "id": "199b2126",
+     "settings": {
+      "background_background": "classic",
+      "background_color": "#1E4D4B",
+      "border_radius": {
+       "unit": "px",
+       "top": "8",
+       "right": "8",
+       "bottom": "8",
+       "left": "8",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "css_classes": "scroll-bottom",
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+       {
+        "eae_animated_gradient_color": "#00a6d8",
+        "_id": "91afe0b"
+       },
+       {
+        "eae_animated_gradient_color": "#b800c9",
+        "_id": "e76b388"
+       },
+       {
+        "eae_animated_gradient_color": "#e57600",
+        "_id": "8a69a3f"
+       }
+      ],
+      "content_width": "full"
+     },
+     "elements": [
+      {
+       "id": "76759e4d",
+       "settings": {
+        "title_text": "⁠Pilates Mat",
+        "description_text": "",
+        "image_size": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "image_border_radius": {
+         "unit": "px",
+         "size": 5,
+         "sizes": []
+        },
+        "title_color": "#FFFFFF",
+        "title_typography_typography": "custom",
+        "title_typography_font_family": "Sora",
+        "title_typography_font_size": {
+         "unit": "px",
+         "size": 20,
+         "sizes": []
+        },
+        "title_typography_font_weight": "500",
+        "description_color": "#313131",
+        "description_typography_typography": "custom",
+        "description_typography_font_family": "Sora",
+        "description_typography_font_size": {
+         "unit": "px",
+         "size": 16,
+         "sizes": []
+        },
+        "description_typography_font_weight": "300",
+        "_margin": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "30",
+         "left": "0",
+         "isLinked": false
+        },
+        "image": {
+         "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/05/02-1.jpg",
+         "id": 2821,
+         "size": "",
+         "alt": "",
+         "source": "library"
+        }
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "image-box",
+       "elType": "widget"
+      }
+     ],
+     "isInner": true,
+     "elType": "container"
+    },
+    {
+     "id": "b81cade",
+     "settings": {
+      "background_background": "classic",
+      "background_color": "#1E4D4B",
+      "border_radius": {
+       "unit": "px",
+       "top": "8",
+       "right": "8",
+       "bottom": "8",
+       "left": "8",
+       "isLinked": true
+      },
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "css_classes": "scroll-bottom",
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+       {
+        "eae_animated_gradient_color": "#00a6d8",
+        "_id": "91afe0b"
+       },
+       {
+        "eae_animated_gradient_color": "#b800c9",
+        "_id": "e76b388"
+       },
+       {
+        "eae_animated_gradient_color": "#e57600",
+        "_id": "8a69a3f"
+       }
+      ],
+      "content_width": "full"
+     },
+     "elements": [
+      {
+       "id": "31e69994",
+       "settings": {
+        "title_text": "⁠Pilates Mat",
+        "description_text": "",
+        "image_size": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "image_border_radius": {
+         "unit": "px",
+         "size": 5,
+         "sizes": []
+        },
+        "title_color": "#FFFFFF",
+        "title_typography_typography": "custom",
+        "title_typography_font_family": "Sora",
+        "title_typography_font_size": {
+         "unit": "px",
+         "size": 20,
+         "sizes": []
+        },
+        "title_typography_font_weight": "500",
+        "description_color": "#313131",
+        "description_typography_typography": "custom",
+        "description_typography_font_family": "Sora",
+        "description_typography_font_size": {
+         "unit": "px",
+         "size": 16,
+         "sizes": []
+        },
+        "description_typography_font_weight": "300",
+        "_margin": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "30",
+         "left": "0",
+         "isLinked": false
+        },
+        "image": {
+         "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/05/02-1.jpg",
+         "id": 2821,
+         "size": "",
+         "alt": "",
+         "source": "library"
+        }
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "image-box",
+       "elType": "widget"
+      }
+     ],
+     "isInner": true,
+     "elType": "container"
+    }
+   ],
+   "isInner": true,
+   "elType": "container"
+  }
+ ],
+ "page_settings": [],
+ "version": "0.4",
+ "title": "card 04",
+ "type": "container"
+}

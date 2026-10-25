@@ -1,0 +1,226 @@
+{
+ "nome": "PÁGINA ADV SOUZA SANTOS [FELIPPE AUGUSTO]",
+ "slug": "adv-souza-santos",
+ "pasta_original": "Souza Santos",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://lp.oreidalanding.com.br/souza-santos/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Advocacia",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#051014",
+   "#000000",
+   "#E6E6E6"
+  ],
+  "textos": [
+   "#D3D3D3",
+   "#FFFFFF",
+   "#051014",
+   "#E8D59F"
+  ],
+  "destaques": [],
+  "gradientes": [
+   "linear-gradient(133deg, rgb(38, 38, 38) 0%, rgb(18, 30, 34) 100%)",
+   "radial-gradient(69.74% 92.44% at 50% 0%, rgb(215, 65, 71) 0%, rgb(158, 7, 9) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Open Sans",
+   "uso_pct": 87
+  },
+  {
+   "familia": "Forum",
+   "uso_pct": 10
+  },
+  {
+   "familia": "Lora",
+   "uso_pct": 2
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  44,
+  41,
+  40,
+  38,
+  37,
+  33,
+  30,
+  27,
+  24,
+  23
+ ],
+ "escala_tipografica_mobile_px": [
+  30,
+  27,
+  25,
+  22,
+  21,
+  19,
+  18,
+  17
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#00000000",
+  "gradiente": "radial-gradient(69.74% 92.44% at 50% 0%, rgb(215, 65, 71) 0%, rgb(158, 7, 9) 100%)",
+  "texto": "#FFFFFF",
+  "raio": "8px",
+  "padding": "18px 22px",
+  "fonte": "Open Sans",
+  "tamanho": "18px",
+  "peso": "400",
+  "caixa": "none",
+  "exemplos": [
+   "QUERO AVALIAR MEU CASO",
+   "Falar com quem entende bancários",
+   "QUERO ANALISAR MINHA SITUAÇÃO"
+  ]
+ },
+ "raios": [
+  "12px",
+  "8px",
+  "22px",
+  "6px"
+ ],
+ "sombras": [],
+ "gaps": [
+  "20px",
+  "18px",
+  "14px",
+  "10px",
+  "5px",
+  "80px"
+ ],
+ "largura_conteudo_px": 1140,
+ "altura_pagina_px": 8364,
+ "secoes_qtde": 9,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "Dr. Felippe Augusto - CEO",
+   "fundo": "#051014",
+   "altura_px": 800
+  },
+  {
+   "ordem": 2,
+   "tipo": "dor",
+   "titulo": "Quando o bancário precisa enfrentar um banco, não basta apenas um advogado. Ele",
+   "fundo": "#040E11",
+   "altura_px": 2373
+  },
+  {
+   "ordem": 3,
+   "tipo": "diferenciais",
+   "titulo": "Dr. Felippe Augusto",
+   "fundo": "#051014",
+   "altura_px": 934
+  },
+  {
+   "ordem": 4,
+   "tipo": "sobre",
+   "titulo": "Bancário, o que eu vou te contar agora parece com a sua rotina?",
+   "fundo": "#051014",
+   "altura_px": 1091
+  },
+  {
+   "ordem": 5,
+   "tipo": "dor",
+   "titulo": "Perguntas Frequentes",
+   "fundo": "#051014",
+   "altura_px": 1642
+  },
+  {
+   "ordem": 6,
+   "tipo": "faq",
+   "titulo": "Conheça a experiência de bancários que confiaram na atuação do nosso escritório.",
+   "fundo": "#E6E6E6",
+   "altura_px": 231
+  },
+  {
+   "ordem": 7,
+   "tipo": "prova-social",
+   "titulo": "Nossos Escritórios",
+   "fundo": "gradiente",
+   "altura_px": 934
+  },
+  {
+   "ordem": 8,
+   "tipo": "localizacao",
+   "titulo": "MENU",
+   "fundo": "#070707",
+   "altura_px": 262
+  },
+  {
+   "ordem": 9,
+   "tipo": "rodape",
+   "titulo": "Todos os direitos reservados © 2026 | Souza Santos Advogados",
+   "fundo": "#000000",
+   "altura_px": 96
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "dor",
+  "diferenciais",
+  "sobre",
+  "dor",
+  "faq",
+  "prova-social",
+  "localizacao",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "escuro",
+  "preto",
+  "vermelho",
+  "premium",
+  "editorial"
+ ],
+ "tecnicas": [
+  "Formas vermelhas abstratas como decoração",
+  "Vidro fosco (backdrop-filter)"
+ ],
+ "animacoes": {
+  "keyframes": [],
+  "entrada_elementor": [],
+  "classes_scroll": [
+   "scroll-bottom",
+   "scroll-left",
+   "scroll-right",
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "google-ads",
+  "happy-addons",
+  "jquery",
+  "lenis",
+  "lottie",
+  "meta-pixel",
+  "swiper"
+ ],
+ "snippets_usados": [
+  "animacoes/animacao-scroll-reveal.html",
+  "cards-e-bordas/vidro-fosco.css",
+  "tracking-e-pixels/meta-pixel.html",
+  "tracking-e-pixels/google-ads-gtag.html",
+  "utilitarios-css/css-base-toda-pagina.css",
+  "utilitarios-css/faq-toggle-arredondado.css",
+  "utilitarios-css/elemento-posicao-absoluta.css"
+ ],
+ "relevancia": 4,
+ "resumo": "Advocacia trabalhista bancária em preto e vermelho, muito premium, com fotos editoriais do advogado e muito texto. Selo 'TOP3 Brasil' no hero, FAQ longo em cards escuros e faixa clara com avaliações do Google.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/adv-souza-santos.md",
+  "json_elementor": null
+ }
+}

@@ -1,0 +1,73 @@
+/*
+  SNIPPET: Elementos decorativos flutuando
+  CATEGORIA: animacoes
+  O QUE FAZ: Dois elementos (ícones, imagens, selos) sobem e descem suavemente em loop, com ritmos diferentes.
+  COMO USAR: Coloque as classes "elemento1" e "elemento2" nos widgets de imagem decorativa. Cole o CSS no CSS da página.
+  ONDE COLAR: CSS personalizado da página
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: PÁGINAS NOSSAS/vendas-templates-arquiteto-jardel (CSS custom)
+  USADO EM: 1 página(s) da casa: vendas-templates-arquiteto-jardel
+*/
+
+/* ANIMAÇÃO 1 */
+
+/* Elemento 1 */
+.elemento1{
+    position: absolute;
+    bottom: -120px;
+    left: 0;
+    animation: float1 6s ease-in-out infinite;
+}
+
+/* Elemento 2 */
+.elemento2{
+    position: absolute;
+    right: -40px;
+    top: -120px;
+    animation: float2 7s ease-in-out infinite;
+}
+
+
+/* Animação 1 */
+@keyframes float1 {
+    0%{
+        transform: translateY(0px);
+    }
+    50%{
+        transform: translateY(-20px);
+    }
+    100%{
+        transform: translateY(0px);
+    }
+}
+
+/* Animação 2 */
+@keyframes float2 {
+    0%{
+        transform: translateY(0px);
+    }
+    50%{
+        transform: translateY(20px);
+    }
+    100%{
+        transform: translateY(0px);
+    }
+}
+
+
+@media(max-width:800px){
+    .elemento1{
+    position: absolute;
+    bottom: -80px;
+    left: 0;
+    animation: float1 5s ease-in-out infinite;
+}
+
+/* Elemento 2 */
+.elemento2{
+    position: absolute;
+    right: 0px;
+    top: -50px;
+    animation: float2 8s ease-in-out infinite;
+}
+}

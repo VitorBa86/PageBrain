@@ -1,0 +1,248 @@
+{
+ "nome": "Embraed Empreendimentos - Construtora em Balneário Camboriú - SC | Brasil",
+ "slug": "imob-embraed",
+ "pasta_original": "EMbaed Imob",
+ "origem": "paginas/gerais",
+ "prioridade": "referencia",
+ "url": "https://www.embraed.com.br/pt-BR",
+ "plataforma": "desconhecida",
+ "nicho": "Imobiliário",
+ "tipo_pagina": "institucional",
+ "paleta": {
+  "fundos": [
+   "#022C3A",
+   "#FFFFFF",
+   "#25D366",
+   "#9A8555"
+  ],
+  "textos": [
+   "#FFFFFF",
+   "#022C3A",
+   "#9A8555",
+   "#8A8E95",
+   "#B8A98A"
+  ],
+  "destaques": [
+   "#9A8555"
+  ],
+  "gradientes": []
+ },
+ "fontes": [
+  {
+   "familia": "seravek",
+   "uso_pct": 60
+  },
+  {
+   "familia": "friz-quadrata-com",
+   "uso_pct": 40
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  32,
+  27,
+  24,
+  20,
+  17,
+  16,
+  15,
+  14,
+  13
+ ],
+ "escala_tipografica_mobile_px": [
+  20,
+  18,
+  17,
+  16,
+  15,
+  14,
+  14,
+  12
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#00000000",
+  "gradiente": null,
+  "texto": "#9A8555",
+  "raio": "0px",
+  "padding": "12px 16px",
+  "fonte": "seravek",
+  "tamanho": "14.72px",
+  "peso": "700",
+  "caixa": "uppercase",
+  "exemplos": [
+   "CARREGAR MAIS"
+  ]
+ },
+ "raios": [
+  "100%"
+ ],
+ "sombras": [
+  "rgb(2, 37, 48) 0px 2px 6px 0px",
+  "rgba(0, 0, 0, 0.3) 3px 3px 5px 0px"
+ ],
+ "gaps": [
+  "30px",
+  "16px",
+  "20px normal",
+  "12px",
+  "8px"
+ ],
+ "largura_conteudo_px": 1350,
+ "altura_pagina_px": 6993,
+ "secoes_qtde": 12,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 900
+  },
+  {
+   "ordem": 2,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 900
+  },
+  {
+   "ordem": 3,
+   "tipo": "",
+   "titulo": "Hyde",
+   "fundo": "transparente",
+   "altura_px": 756
+  },
+  {
+   "ordem": 4,
+   "tipo": "",
+   "titulo": "EMPREENDIMENTOS",
+   "fundo": "transparente",
+   "altura_px": 910
+  },
+  {
+   "ordem": 5,
+   "tipo": "sobre",
+   "titulo": "NOSSA HISTÓRIA",
+   "fundo": "transparente",
+   "altura_px": 931
+  },
+  {
+   "ordem": 6,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 769
+  },
+  {
+   "ordem": 7,
+   "tipo": "blog",
+   "titulo": "BLOG DA EMBRAED",
+   "fundo": "transparente",
+   "altura_px": 888
+  },
+  {
+   "ordem": 8,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 244
+  },
+  {
+   "ordem": 9,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "#FFFFFF",
+   "altura_px": 290
+  },
+  {
+   "ordem": 10,
+   "tipo": "",
+   "titulo": "SEDE CORPORATIVA",
+   "fundo": "transparente",
+   "altura_px": 425
+  },
+  {
+   "ordem": 11,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 151
+  },
+  {
+   "ordem": 12,
+   "tipo": "rodape",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 159
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "",
+  "",
+  "",
+  "sobre",
+  "",
+  "blog",
+  "",
+  "",
+  "",
+  "",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "institucional",
+  "navy",
+  "dourado",
+  "luxo"
+ ],
+ "tecnicas": [
+  "Menu lateral fixo"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "animate",
+   "closeMapSidebar",
+   "dash",
+   "fade-spin",
+   "fadeIn",
+   "fadeOut",
+   "fancybox-rotate",
+   "left-direction",
+   "menuTriggerLine1Off",
+   "menuTriggerLine1On",
+   "menuTriggerLine2Off",
+   "menuTriggerLine2On",
+   "menuTriggerLine3Off",
+   "menuTriggerLine3On",
+   "openMapSidebar",
+   "scrool-down-pipe",
+   "slideInFull",
+   "slideOutFull",
+   "spin",
+   "sweep",
+   "upScale"
+  ],
+  "entrada_elementor": [],
+  "classes_scroll": []
+ },
+ "bibliotecas": [
+  "ga4",
+  "google-ads",
+  "gtm",
+  "jquery",
+  "meta-pixel"
+ ],
+ "snippets_usados": [],
+ "relevancia": 3,
+ "resumo": "Institucional de construtora de luxo (Balneário Camboriú): hero escuro com marca de parceria (Armani Residences), cards de lançamento com fotos verticais, slider de empreendimento, números da empresa, frase-manifesto em faixa navy e blog.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": null,
+  "copy_real": null,
+  "json_elementor": null,
+  "ref": "ref/"
+ }
+}

@@ -1,0 +1,316 @@
+{
+ "content": [
+  {
+   "id": "6973775e",
+   "settings": {
+    "flex_direction": "column",
+    "min_height": {
+     "unit": "px",
+     "size": 692,
+     "sizes": []
+    },
+    "flex_justify_content": "center",
+    "flex_align_items": "center",
+    "background_background": "classic",
+    "background_color": "#000000",
+    "padding": {
+     "unit": "px",
+     "top": "0",
+     "right": "0",
+     "bottom": "0",
+     "left": "0",
+     "isLinked": false
+    },
+    "_title": "PT QSE",
+    "boxed_width_mobile": {
+     "unit": "%",
+     "size": 90,
+     "sizes": []
+    },
+    "min_height_mobile": {
+     "unit": "px",
+     "size": 593,
+     "sizes": []
+    },
+    "background_image": {
+     "url": "",
+     "id": "",
+     "size": "",
+     "alt": "",
+     "source": "library"
+    },
+    "background_position": "top center",
+    "background_repeat": "no-repeat",
+    "background_size_mobile": "initial",
+    "background_bg_width_mobile": {
+     "unit": "%",
+     "size": 100,
+     "sizes": []
+    },
+    "padding_mobile": {
+     "unit": "%",
+     "top": "100",
+     "right": "0",
+     "bottom": "10",
+     "left": "0",
+     "isLinked": false
+    },
+    "background_image_mobile": {
+     "url": "",
+     "id": "",
+     "size": "",
+     "alt": "",
+     "source": "library"
+    },
+    "eae_slider_delay": "5000",
+    "gradient_color_list": [
+     {
+      "eae_animated_gradient_color": "#00a6d8",
+      "_id": "4f4c8f0"
+     },
+     {
+      "eae_animated_gradient_color": "#b800c9",
+      "_id": "d776723"
+     },
+     {
+      "eae_animated_gradient_color": "#e57600",
+      "_id": "471857b"
+     }
+    ]
+   },
+   "elements": [
+    {
+     "id": "39de5da2",
+     "settings": {
+      "min_height": {
+       "unit": "px",
+       "size": 0,
+       "sizes": []
+      },
+      "flex_direction": "row",
+      "flex_justify_content": "flex-end",
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+       {
+        "eae_animated_gradient_color": "#00a6d8",
+        "_id": "df1fcd7"
+       },
+       {
+        "eae_animated_gradient_color": "#b800c9",
+        "_id": "4fe89cd"
+       },
+       {
+        "eae_animated_gradient_color": "#e57600",
+        "_id": "847e4c2"
+       }
+      ]
+     },
+     "elements": [
+      {
+       "id": "111d692",
+       "settings": {
+        "content_width": "full",
+        "width": {
+         "unit": "%",
+         "size": 45,
+         "sizes": []
+        },
+        "min_height": {
+         "unit": "px",
+         "size": 21,
+         "sizes": []
+        },
+        "flex_direction": "column",
+        "margin": {
+         "unit": "px",
+         "top": "-25",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": false
+        },
+        "padding": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": false
+        },
+        "margin_mobile": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": false
+        },
+        "eae_slider_delay": "5000",
+        "gradient_color_list": [
+         {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "00ec1c4"
+         },
+         {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "9c7b48c"
+         },
+         {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "fbbea0c"
+         }
+        ]
+       },
+       "elements": [
+        {
+         "id": "27769e09",
+         "settings": {
+          "title": "Nome Expert",
+          "align": "left",
+          "title_color": "#EAC31B",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 51,
+           "sizes": []
+          },
+          "typography_font_weight": "600",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.3,
+           "sizes": []
+          },
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": false
+          },
+          "_element_custom_width": {
+           "unit": "%",
+           "size": 93,
+           "sizes": []
+          },
+          "custom_css": "selector {\r\n    opacity: 0.3;\r\n    background: linear-gradient(90deg, #0d0d0d, #fff, #0d0d0d);\r\n    background-size: 80%;\r\n    background-repeat: no-repeat;\r\n    -webkit-background-clip: text;\r\n    -webkit-text-fill-color: transparent;\r\n    animation: sombra 5s linear infinite alternate;\r\n}\r\n\r\n\r\n@keyframes sombra {\r\n    0% {\r\n         background-position: -300%;\r\n    }\r\n    100% {\r\n         background-position: 300%;\r\n    }\r\n}",
+          "typography_font_size_mobile": {
+           "unit": "vw",
+           "size": 10,
+           "sizes": []
+          }
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "heading",
+         "elType": "widget"
+        },
+        {
+         "id": "2e417ad5",
+         "settings": {
+          "title": "Quem sou eu?",
+          "align": "left",
+          "title_color": "#EAC31B",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 58,
+           "sizes": []
+          },
+          "typography_font_weight": "600",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.3,
+           "sizes": []
+          },
+          "_margin": {
+           "unit": "px",
+           "top": "-38",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": false
+          },
+          "_element_custom_width": {
+           "unit": "%",
+           "size": 93,
+           "sizes": []
+          },
+          "typography_font_size_mobile": {
+           "unit": "vw",
+           "size": 11,
+           "sizes": []
+          },
+          "_margin_mobile": {
+           "unit": "px",
+           "top": "-28",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": false
+          }
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "heading",
+         "elType": "widget"
+        },
+        {
+         "id": "44b18068",
+         "settings": {
+          "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. <br><br>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.<br><br>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "align": "left",
+          "title_color": "#FFFFFF",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 16,
+           "sizes": []
+          },
+          "typography_font_weight": "300",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.4,
+           "sizes": []
+          },
+          "_element_width": "inherit",
+          "_element_custom_width": {
+           "unit": "%",
+           "size": 93,
+           "sizes": []
+          }
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "heading",
+         "elType": "widget"
+        }
+       ],
+       "isInner": true,
+       "elType": "container"
+      }
+     ],
+     "isInner": true,
+     "elType": "container"
+    }
+   ],
+   "isInner": false,
+   "elType": "container"
+  }
+ ],
+ "page_settings": [],
+ "version": "0.4",
+ "title": "quem sou eu 01",
+ "type": "container"
+}

@@ -1,0 +1,395 @@
+<!--
+  SNIPPET: Gráfico de crescimento de faturamento (Workshop)
+  CATEGORIA: secoes-prontas
+  O QUE FAZ: Gráfico escuro com barras/linha de faturamento e destaque laranja, para página de vendas mostrar resultado.
+  COMO USAR: Widget HTML. Edite valores e rótulos no HTML.
+  ONDE COLAR: Widget HTML
+  DEPENDÊNCIAS: Inter
+  ORIGEM: paginas/nossas/vendas-workshop-barbearia-toledo
+  USADO EM: 1 página(s) da casa: vendas-workshop-barbearia-toledo
+-->
+
+<div class="grafico-faturamento-elementor">
+  <style>
+    .grafico-faturamento-elementor {
+      --gf-bg: #0f0f0f;
+      --gf-panel: #1a1a1a;
+      --gf-text: #ffffff;
+      --gf-muted: #b0b0b0;
+      --gf-grid: rgba(255, 255, 255, .12);
+      --gf-border: rgba(255, 255, 255, .18);
+      --gf-orange: #ff6b35;
+      --gf-focus: #ffaa00;
+      position: relative;
+      width: 100%;
+      padding: clamp(16px, 3vw, 32px);
+      overflow: hidden;
+      border: 1px solid var(--gf-border);
+      background:
+        radial-gradient(circle at 84% 8%, rgba(196, 30, 58, .16), transparent 32%),
+        var(--gf-bg);
+      color: var(--gf-text);
+      font-family: Inter, Arial, sans-serif;
+      box-sizing: border-box;
+    }
+
+    .grafico-faturamento-elementor *,
+    .grafico-faturamento-elementor *::before,
+    .grafico-faturamento-elementor *::after {
+      box-sizing: border-box;
+    }
+
+    .grafico-faturamento-elementor .gf-titulo {
+      margin: 0 0 22px;
+      color: var(--gf-text);
+      font-size: clamp(18px, 2.3vw, 28px);
+      font-weight: 700;
+      line-height: 1.15;
+      letter-spacing: -.03em;
+    }
+
+    .grafico-faturamento-elementor .gf-titulo span {
+      color: var(--gf-orange);
+    }
+
+    .grafico-faturamento-elementor .gf-area {
+      position: relative;
+      width: 100%;
+      min-height: 300px;
+    }
+
+    .grafico-faturamento-elementor .gf-svg {
+      display: block;
+      width: 100%;
+      min-height: 300px;
+      overflow: visible;
+      background: rgba(26, 26, 26, .72);
+    }
+
+    .grafico-faturamento-elementor .gf-svg text {
+      fill: var(--gf-text);
+      font-family: Inter, Arial, sans-serif;
+      font-size: 12px;
+    }
+
+    .grafico-faturamento-elementor .gf-svg .gf-tick {
+      fill: var(--gf-muted);
+    }
+
+    .grafico-faturamento-elementor .gf-svg .gf-eixo-titulo {
+      fill: var(--gf-text);
+      font-weight: 600;
+    }
+
+    .grafico-faturamento-elementor .gf-svg .gf-grade {
+      stroke: var(--gf-grid);
+      stroke-width: 1;
+      shape-rendering: crispEdges;
+    }
+
+    .grafico-faturamento-elementor .gf-svg .gf-eixo {
+      stroke: var(--gf-border);
+      stroke-width: 1;
+      shape-rendering: crispEdges;
+    }
+
+    .grafico-faturamento-elementor .gf-svg .gf-area-laranja {
+      opacity: 0;
+    }
+
+    .grafico-faturamento-elementor .gf-svg .gf-linha {
+      fill: none;
+      stroke: var(--gf-orange);
+      stroke-width: 4;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      filter: drop-shadow(0 0 8px rgba(255, 107, 53, .42));
+    }
+
+    .grafico-faturamento-elementor .gf-svg .gf-ponto {
+      fill: var(--gf-orange);
+      stroke: var(--gf-panel);
+      stroke-width: 4;
+      filter: drop-shadow(0 0 7px rgba(255, 107, 53, .55));
+      transform-box: fill-box;
+      transform-origin: center;
+    }
+
+    .grafico-faturamento-elementor .gf-svg .gf-hit {
+      fill: transparent;
+      cursor: pointer;
+    }
+
+    .grafico-faturamento-elementor .gf-svg .gf-anel {
+      fill: none;
+      stroke: var(--gf-focus);
+      stroke-width: 2;
+      opacity: 0;
+      pointer-events: none;
+    }
+
+    .grafico-faturamento-elementor .gf-svg .gf-hit:hover + .gf-anel,
+    .grafico-faturamento-elementor .gf-svg .gf-hit:focus + .gf-anel {
+      opacity: 1;
+    }
+
+    .grafico-faturamento-elementor .gf-svg .gf-hit:focus {
+      outline: none;
+    }
+
+    .grafico-faturamento-elementor .gf-svg .gf-valor-final {
+      fill: var(--gf-text);
+      font-weight: 700;
+      opacity: 0;
+    }
+
+    .grafico-faturamento-elementor.gf-animar .gf-area-laranja {
+      animation: gf-area-entrar .7s ease 1.05s forwards;
+    }
+
+    .grafico-faturamento-elementor.gf-animar .gf-linha {
+      animation: gf-desenhar 1.65s cubic-bezier(.2, .8, .2, 1) forwards;
+    }
+
+    .grafico-faturamento-elementor.gf-animar .gf-ponto {
+      opacity: 0;
+      transform: scale(0);
+      animation: gf-ponto-entrar .36s cubic-bezier(.2, .9, .25, 1.35) forwards;
+    }
+
+    .grafico-faturamento-elementor.gf-animar .gf-valor-final {
+      animation: gf-texto-entrar .45s ease 1.8s forwards;
+    }
+
+    .grafico-faturamento-elementor .gf-tooltip {
+      position: absolute;
+      z-index: 4;
+      min-width: 136px;
+      padding: 10px 12px;
+      border: 1px solid rgba(255, 107, 53, .42);
+      border-radius: 7px;
+      background: #242424;
+      color: var(--gf-text);
+      box-shadow: 0 14px 34px rgba(0, 0, 0, .42);
+      opacity: 0;
+      transform: translate(-50%, calc(-100% - 14px));
+      pointer-events: none;
+      transition: opacity .16s ease;
+    }
+
+    .grafico-faturamento-elementor .gf-tooltip.gf-visivel {
+      opacity: 1;
+    }
+
+    .grafico-faturamento-elementor .gf-tooltip strong,
+    .grafico-faturamento-elementor .gf-tooltip span {
+      display: block;
+    }
+
+    .grafico-faturamento-elementor .gf-tooltip strong {
+      color: var(--gf-orange);
+      font-size: 15px;
+    }
+
+    .grafico-faturamento-elementor .gf-tooltip span {
+      color: var(--gf-muted);
+      font-size: 11px;
+    }
+
+    .grafico-faturamento-elementor .gf-acessivel {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      margin: -1px;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      white-space: nowrap;
+      border: 0;
+    }
+
+    @keyframes gf-desenhar { to { stroke-dashoffset: 0; } }
+    @keyframes gf-area-entrar { to { opacity: 1; } }
+    @keyframes gf-ponto-entrar { to { opacity: 1; transform: scale(1); } }
+    @keyframes gf-texto-entrar { to { opacity: 1; transform: translateY(-3px); } }
+
+    @media (max-width: 520px) {
+      .grafico-faturamento-elementor { padding: 16px 10px; }
+      .grafico-faturamento-elementor .gf-svg .gf-linha { stroke-width: 3; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .grafico-faturamento-elementor *,
+      .grafico-faturamento-elementor *::before,
+      .grafico-faturamento-elementor *::after {
+        animation-duration: .001ms !important;
+        animation-delay: 0ms !important;
+        transition-duration: .001ms !important;
+      }
+    }
+  </style>
+
+  <h3 class="gf-titulo">Evolução do <span>faturamento mensal</span></h3>
+  <div class="gf-area">
+    <svg class="gf-svg" role="img" aria-label="Faturamento mensal de março a agosto, subindo de 24 mil para 51 mil reais."></svg>
+    <div class="gf-tooltip" role="tooltip" aria-hidden="true"></div>
+  </div>
+  <ol class="gf-acessivel">
+    <li>Março: R$ 24.000</li><li>Abril: R$ 23.000</li><li>Maio: R$ 28.000</li>
+    <li>Junho: R$ 29.000</li><li>Julho: R$ 46.000</li><li>Agosto: R$ 51.000</li>
+  </ol>
+
+  <script>
+    (() => {
+      document.querySelectorAll('.grafico-faturamento-elementor').forEach((raiz, indiceInstancia) => {
+      if (raiz.dataset.iniciado) return;
+      raiz.dataset.iniciado = 'true';
+
+      const meses = ['JAN', 'FEV', 'MAR', 'ABR', 'MAI', 'JUN', 'JUL', 'AGO', 'SET', 'OUT', 'NOV', 'DEZ'];
+      const dados = [
+        { mes: 'MAR', indice: 2, valor: 24000 },
+        { mes: 'ABR', indice: 3, valor: 23000 },
+        { mes: 'MAI', indice: 4, valor: 28000 },
+        { mes: 'JUN', indice: 5, valor: 29000 },
+        { mes: 'JUL', indice: 6, valor: 46000 },
+        { mes: 'AGO', indice: 7, valor: 51000 }
+      ];
+
+      const svg = raiz.querySelector('.gf-svg');
+      const area = raiz.querySelector('.gf-area');
+      const tooltip = raiz.querySelector('.gf-tooltip');
+      const ns = 'http://www.w3.org/2000/svg';
+      const moeda = new Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'BRL', maximumFractionDigits: 0 });
+      let larguraRenderizada = 0;
+      let temporizador;
+      let jaAnimou = false;
+
+      function criar(nome, atributos = {}, texto = '') {
+        const elemento = document.createElementNS(ns, nome);
+        Object.entries(atributos).forEach(([chave, valor]) => elemento.setAttribute(chave, valor));
+        if (texto) elemento.textContent = texto;
+        return elemento;
+      }
+
+      function curva(pontos) {
+        let caminho = `M ${pontos[0].x} ${pontos[0].y}`;
+        for (let i = 0; i < pontos.length - 1; i++) {
+          const atual = pontos[i];
+          const proximo = pontos[i + 1];
+          const anterior = pontos[i - 1] || atual;
+          const seguinte = pontos[i + 2] || proximo;
+          caminho += ` C ${atual.x + (proximo.x - anterior.x) / 6} ${atual.y + (proximo.y - anterior.y) / 6}, ${proximo.x - (seguinte.x - atual.x) / 6} ${proximo.y - (seguinte.y - atual.y) / 6}, ${proximo.x} ${proximo.y}`;
+        }
+        return caminho;
+      }
+
+      function mostrarTooltip(item, x, y) {
+        const retanguloSvg = svg.getBoundingClientRect();
+        const retanguloArea = area.getBoundingClientRect();
+        const viewBox = svg.viewBox.baseVal;
+        tooltip.innerHTML = `<strong>${moeda.format(item.valor)}</strong><span>${item.mes} · faturamento</span>`;
+        tooltip.style.left = `${retanguloSvg.left - retanguloArea.left + (x / viewBox.width) * retanguloSvg.width}px`;
+        tooltip.style.top = `${retanguloSvg.top - retanguloArea.top + (y / viewBox.height) * retanguloSvg.height}px`;
+        tooltip.classList.add('gf-visivel');
+        tooltip.setAttribute('aria-hidden', 'false');
+      }
+
+      function esconderTooltip() {
+        tooltip.classList.remove('gf-visivel');
+        tooltip.setAttribute('aria-hidden', 'true');
+      }
+
+      function desenhar(animar) {
+        const largura = Math.max(300, Math.round(area.clientWidth));
+        larguraRenderizada = largura;
+        const altura = Math.round(Math.max(300, Math.min(590, largura * .54)));
+        const compacto = largura < 520;
+        const margem = { topo: 34, direita: compacto ? 14 : 34, base: 62, esquerda: compacto ? 64 : 84 };
+        const larguraPlot = largura - margem.esquerda - margem.direita;
+        const alturaPlot = altura - margem.topo - margem.base;
+        const x = indice => margem.esquerda + (indice / 11) * larguraPlot;
+        const y = valor => margem.topo + alturaPlot - (valor / 60000) * alturaPlot;
+        const pontos = dados.map(item => ({ ...item, x: x(item.indice), y: y(item.valor) }));
+
+        svg.replaceChildren();
+        svg.setAttribute('viewBox', `0 0 ${largura} ${altura}`);
+        svg.style.aspectRatio = `${largura} / ${altura}`;
+
+        const defs = criar('defs');
+        const idGradiente = `gf-gradiente-area-${indiceInstancia}`;
+        const gradiente = criar('linearGradient', { id: idGradiente, x1: '0', x2: '0', y1: '0', y2: '1' });
+        gradiente.append(criar('stop', { offset: '0%', 'stop-color': '#ff6b35', 'stop-opacity': '.27' }), criar('stop', { offset: '100%', 'stop-color': '#ff6b35', 'stop-opacity': '0' }));
+        defs.append(gradiente);
+        svg.append(defs);
+
+        [0, 20000, 40000, 60000].forEach(valor => {
+          const posicaoY = y(valor);
+          svg.append(criar('line', { class: valor === 0 ? 'gf-eixo' : 'gf-grade', x1: margem.esquerda, x2: largura - margem.direita, y1: posicaoY, y2: posicaoY }));
+          svg.append(criar('text', { class: 'gf-tick', x: margem.esquerda - 12, y: posicaoY + 4, 'text-anchor': 'end' }, valor === 0 ? 'R$ 0' : `R$ ${valor / 1000} mil`));
+        });
+
+        const mesesVisiveis = compacto ? new Set([0, 2, 5, 8, 11]) : new Set(meses.map((_, indice) => indice));
+        meses.forEach((mes, indice) => {
+          const posicaoX = x(indice);
+          svg.append(criar('line', { class: 'gf-eixo', x1: posicaoX, x2: posicaoX, y1: y(0), y2: y(0) + 5 }));
+          if (mesesVisiveis.has(indice)) svg.append(criar('text', { class: 'gf-tick', x: posicaoX, y: y(0) + 26, 'text-anchor': indice === 0 ? 'start' : indice === 11 ? 'end' : 'middle' }, mes));
+        });
+
+        svg.append(criar('text', { class: 'gf-eixo-titulo', x: margem.esquerda + larguraPlot / 2, y: altura - 14, 'text-anchor': 'middle' }, 'Mês'));
+        svg.append(criar('text', { class: 'gf-eixo-titulo', x: 18, y: margem.topo + alturaPlot / 2, 'text-anchor': 'middle', transform: `rotate(-90 18 ${margem.topo + alturaPlot / 2})` }, 'Faturamento (R$)'));
+
+        const caminhoLinha = curva(pontos);
+        const areaLaranja = criar('path', { class: 'gf-area-laranja', fill: `url(#${idGradiente})`, d: `${caminhoLinha} L ${pontos.at(-1).x} ${y(0)} L ${pontos[0].x} ${y(0)} Z` });
+        const linha = criar('path', { class: 'gf-linha', d: caminhoLinha });
+        svg.append(areaLaranja, linha);
+
+        if (animar && !matchMedia('(prefers-reduced-motion: reduce)').matches) {
+          const comprimento = linha.getTotalLength();
+          linha.style.strokeDasharray = comprimento;
+          linha.style.strokeDashoffset = comprimento;
+        } else {
+          areaLaranja.style.opacity = '1';
+        }
+
+        pontos.forEach((ponto, indice) => {
+          const marcador = criar('circle', { class: 'gf-ponto', cx: ponto.x, cy: ponto.y, r: compacto ? 5 : 6 });
+          if (animar) marcador.style.animationDelay = `${.2 + indice * .25}s`;
+          svg.append(marcador);
+          const hit = criar('circle', { class: 'gf-hit', cx: ponto.x, cy: ponto.y, r: compacto ? 22 : 18, tabindex: '0', role: 'button', 'aria-label': `${ponto.mes}: ${moeda.format(ponto.valor)}` });
+          const anel = criar('circle', { class: 'gf-anel', cx: ponto.x, cy: ponto.y, r: compacto ? 12 : 13 });
+          hit.addEventListener('pointerenter', () => mostrarTooltip(ponto, ponto.x, ponto.y));
+          hit.addEventListener('pointerleave', esconderTooltip);
+          hit.addEventListener('focus', () => mostrarTooltip(ponto, ponto.x, ponto.y));
+          hit.addEventListener('blur', esconderTooltip);
+          svg.append(hit, anel);
+        });
+
+        const ultimo = pontos.at(-1);
+        const valorFinal = criar('text', { class: 'gf-valor-final', x: ultimo.x - 5, y: ultimo.y - 18, 'text-anchor': 'end' }, 'R$ 51 mil');
+        if (!animar) valorFinal.style.opacity = '1';
+        svg.append(valorFinal);
+
+        raiz.classList.toggle('gf-animar', animar);
+      }
+
+      const observadorEntrada = new IntersectionObserver(entradas => {
+        if (entradas[0].isIntersecting && !jaAnimou) {
+          jaAnimou = true;
+          desenhar(true);
+          observadorEntrada.disconnect();
+        }
+      }, { threshold: .25 });
+
+      desenhar(false);
+      observadorEntrada.observe(raiz);
+
+      new ResizeObserver(() => {
+        const larguraAtual = Math.max(300, Math.round(area.clientWidth));
+        if (Math.abs(larguraAtual - larguraRenderizada) < 2) return;
+        clearTimeout(temporizador);
+        temporizador = setTimeout(() => desenhar(false), 80);
+      }).observe(area);
+      });
+    })();
+  </script>
+</div>

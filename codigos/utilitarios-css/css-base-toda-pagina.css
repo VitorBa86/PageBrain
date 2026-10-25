@@ -1,0 +1,38 @@
+/*
+  SNIPPET: CSS base de toda página (o que sempre uso)
+  CATEGORIA: utilitarios-css
+  O QUE FAZ: Seleção de texto discreta, sem rolagem horizontal, sem margem no último parágrafo e barra de rolagem personalizada. Vai em TODAS as páginas.
+  COMO USAR: Cole no CSS personalizado da página (Configurações da página > Avançado > CSS personalizado). Troque #111111 e o degradê do thumb pelas cores da página.
+  ONDE COLAR: CSS personalizado da página
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: coleção original da casa (códigos que sempre uso) + 36 páginas
+  USADO EM: 33 página(s) da casa: adv-barros-e-carvalho, adv-gustavo-kehl, adv-luisa, adv-souza-santos, imob-mb2-incorporacoes, imob-the-palace, imob-vega-costa-e-silva, imob-vistoria-alphaville, info-carol-guglielmi-imagem-pessoal, negocio-bar-santa-boemia, negocio-entre-para-trip, negocio-harmony-estudio-tatuagem, negocio-hoffen-sports, negocio-inter-frios-refrigeracao, odonto-invisalign-jv-clinica, odonto-rubiane-vitali, psi-julia-valdetaro, psi-maria-rita-sales, psi-renan, psi-rosangela-munhoz-psicanalista, psi-vivian-widuch, saude-cecilia-borges-cirurgia-plastica, saude-luciano-grisotto-mastopexia, saude-luciano-grisotto-mommy-makeover, saude-pedro-camargo-psiquiatra, servico-goncont-contador, servico-rp-vision-marketing, vendas-mentoria-bancario-jessica, vendas-morelli-churrasco-networking, vendas-odonto-luiz-gustavo-melo, vendas-scripts-consignado-jessica, vendas-templates-arquiteto-jardel, vendas-workshop-barbearia-toledo
+*/
+
+::selection {
+    background-color: rgba(255, 255, 255, 0.125);
+}
+
+html, body {
+    overflow-x: hidden;
+}
+
+/* CUIDADO: esta regra pesa mais que uma classe sozinha (.hf-sub, .lead...). Se o último <p> de um bloco
+   precisa de margem até o botão, use um seletor mais forte (ex.: .hf-texto .hf-sub) ou margin-top no botão. */
+p:last-of-type {
+    margin-bottom: 0;
+}
+
+body::-webkit-scrollbar {
+    width: 10px; /* largura da barra de rolagem */
+}
+
+body::-webkit-scrollbar-track {
+    background-color: #111111; /* cor da área de rastreamento */
+}
+
+body::-webkit-scrollbar-thumb {
+    background: linear-gradient(90deg, #fff, #fff); /* cor do SCROLL*/
+    border-radius: 15px; /* arredondamento do SCROLL */
+    border: 2px solid #111111; /* cria espaçamento em torno do SCROLL*/
+}

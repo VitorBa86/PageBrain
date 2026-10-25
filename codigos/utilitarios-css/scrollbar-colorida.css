@@ -1,0 +1,24 @@
+/*
+  SNIPPET: Barra de rolagem colorida (variação)
+  CATEGORIA: utilitarios-css
+  O QUE FAZ: Variação da barra de rolagem com trilho e thumb coloridos.
+  COMO USAR: Cole no CSS da página inteira. Troque #2C4F4F e #6AF1E0.
+  ONDE COLAR: CSS personalizado da página
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: coleção original da casa (nudardesignscroll)
+  USADO EM: nenhuma página publicada encontrada (só na biblioteca)
+*/
+
+body::-webkit-scrollbar {
+width: 12px;
+}
+
+body::-webkit-scrollbar-track {
+background: #2C4F4F;
+}
+
+body::-webkit-scrollbar-thumb {
+background-color: #6AF1E0;
+border-radius: 4px;
+border: 2px solid #2C4F4F;
+}

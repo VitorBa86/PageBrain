@@ -1,0 +1,67 @@
+<!--
+  PageBrain · Slot de imagem
+  O que faz: cada <img class="pb-slot" src="imagens/IMG-NN.webp"> mostra a imagem se o arquivo existir.
+  Se não existir, troca por uma caixa no tamanho certo com ID, tamanho, proporção e botão de copiar o prompt.
+  Fundos: container com data-bg-slot="IMG-NN" e background-image:url(imagens/IMG-NN.webp) no CSS.
+  Como usar: cole o <style> no CSS da página e o <script> antes de </body>. Funciona abrindo o arquivo direto no navegador.
+  No Elementor: depois de subir as imagens reais, este bloco pode ser removido (as imagens viram widgets de imagem normais).
+-->
+
+<!-- Exemplo de uso -->
+<img class="pb-slot" src="imagens/IMG-03.webp" width="454" height="333"
+     alt="Notebook com os scripts de venda abertos"
+     data-slot="IMG-03"
+     data-prompt="Realistic laptop mockup showing a sales script document, placed on orange background, soft shadow. No text, no logos, no watermark.">
+
+<section class="hero" data-bg-slot="IMG-01" data-prompt="Wide background for a website hero..."></section>
+
+<style>
+.pb-slot-vazio{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;max-width:100%;
+  background:repeating-linear-gradient(45deg,rgba(127,127,127,.10) 0 10px,rgba(127,127,127,.04) 10px 20px);
+  border:1px dashed rgba(127,127,127,.6);border-radius:inherit;color:inherit;font:400 13px/1.4em Inter,system-ui,sans-serif;
+  text-align:center;padding:16px;box-sizing:border-box;overflow:hidden}
+.pb-slot-vazio strong{font-size:15px;font-weight:600}
+.pb-slot-vazio button{font:500 12px/1em Inter,system-ui,sans-serif;padding:8px 14px;border-radius:6px;border:1px solid currentColor;
+  background:transparent;color:inherit;cursor:pointer}
+[data-bg-slot].pb-bg-vazio{outline:1px dashed rgba(127,127,127,.6);outline-offset:-12px;position:relative}
+[data-bg-slot].pb-bg-vazio::after{content:attr(data-bg-slot) " · fundo " attr(data-tam);position:absolute;right:20px;bottom:20px;
+  font:500 12px/1em Inter,system-ui,sans-serif;padding:6px 10px;border-radius:6px;background:rgba(0,0,0,.55);color:#fff;pointer-events:none}
+</style>
+
+<script>
+(function () {
+  function caixa(img) {
+    var w = img.getAttribute('width') || img.offsetWidth || 400;
+    var h = img.getAttribute('height') || img.offsetHeight || 300;
+    var d = document.createElement('div');
+    d.className = 'pb-slot-vazio ' + img.className.replace('pb-slot', '');
+    d.style.width = w + 'px';
+    d.style.aspectRatio = w + ' / ' + h;
+    d.innerHTML = '<strong>' + (img.dataset.slot || 'IMG') + '</strong><span>' + w + ' x ' + h + ' px · proporção ' +
+      (w / h).toFixed(2) + '</span><span>salvar como imagens/' + (img.dataset.slot || 'IMG') + '.webp</span>';
+    if (img.dataset.prompt) {
+      var b = document.createElement('button');
+      b.type = 'button';
+      b.textContent = 'Copiar prompt';
+      b.onclick = function () {
+        navigator.clipboard.writeText(img.dataset.prompt).then(function () { b.textContent = 'Copiado'; });
+      };
+      d.appendChild(b);
+    }
+    img.replaceWith(d);
+  }
+  document.querySelectorAll('img.pb-slot').forEach(function (img) {
+    if (img.complete && img.naturalWidth === 0) caixa(img);
+    else img.addEventListener('error', function () { caixa(img); });
+  });
+  document.querySelectorAll('[data-bg-slot]').forEach(function (el) {
+    var m = getComputedStyle(el).backgroundImage.match(/url\(["']?([^"')]+)/);
+    var teste = new Image();
+    teste.onerror = function () {
+      el.classList.add('pb-bg-vazio');
+      el.setAttribute('data-tam', el.offsetWidth + ' x ' + el.offsetHeight);
+    };
+    teste.src = m ? m[1] : 'imagens/' + el.dataset.bgSlot + '.webp';
+  });
+})();
+</script>

@@ -1,0 +1,48 @@
+{
+ "nome": "PÁGINA MENTORIA BANCARIO VERSAO 2 FUTURISTA [JESSICA]",
+ "slug": "vendas-mentoria-bancario-jessica-v2",
+ "pasta_original": "construcao2 (capturada em 19/10/2026)",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://lp.oreidalanding.com.br/construcao2/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Página de vendas",
+ "tipo_pagina": "vendas",
+ "paleta": {
+  "fundos": ["#000000", "#160A06", "#201002", "#FFFFFF"],
+  "textos": ["#FFFFFF", "#141414", "#000000"],
+  "destaques": ["#F5811E", "#FDD16E", "#FDCB68"],
+  "gradientes": [
+   "radial-gradient(51.25% 80.52% at 50.14% 0%, rgb(253, 209, 110) 0%, rgb(245, 129, 30) 100%)",
+   "linear-gradient(rgb(0, 0, 0) 0%, rgb(32, 16, 2) 100%)"
+  ]
+ },
+ "fontes": [
+  {"familia": "Inter", "uso_pct": 95},
+  {"familia": "Manrope", "uso_pct": 5}
+ ],
+ "escala_tipografica_desktop_px": [52, 39, 37, 33, 30, 29, 26, 22, 20, 18],
+ "botao_principal": {
+  "gradiente": "radial-gradient(51.25% 80.52% at 50.14% 0%, rgb(253, 209, 110) 0%, rgb(245, 129, 30) 100%)",
+  "raio": "104px",
+  "padding": "26px 42px",
+  "fonte": "Inter",
+  "tamanho": "20px",
+  "peso": "500",
+  "caixa": "uppercase",
+  "altura": "72px",
+  "exemplos": ["QUERO COMEÇAR AGORA!", "QUERO BATER MINHAS METAS"]
+ },
+ "largura_conteudo": "1140px",
+ "secoes": ["hero", "faixa", "dor", "faixa", "para-quem-e", "conteudo-modulos", "faixa", "bonus", "prova-social", "oferta", "sobre", "faq", "rodape"],
+ "relevancia": 5,
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "raio_x": "raio-x/raio-x.md",
+  "copy_real": null,
+  "json_elementor": null
+ }
+}

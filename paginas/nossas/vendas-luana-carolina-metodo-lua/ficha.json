@@ -1,0 +1,161 @@
+{
+ "nome": "PÁGINA VENDAS [LUANA CAROLINA · MÉTODO L.U.A.]",
+ "slug": "vendas-luana-carolina-metodo-lua",
+ "pasta_original": "página de teste do PageBrain, aprovada",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "referencia_de_padrao": true,
+ "referencia_de": "página de vendas escura (infoproduto, formação para profissionais)",
+ "aprovada_em": "2026-10-25",
+ "dados_ficticios": true,
+ "url": null,
+ "plataforma": "HTML estático",
+ "nicho": "Saúde e estética (infoproduto: formação em preenchimento labial)",
+ "tipo_pagina": "vendas",
+ "relevancia": 5,
+ "molde_usado": "vendas-odonto-luiz-gustavo-melo",
+ "regras_que_exemplifica": [
+  "sem menu",
+  "logo acima da headline (logo de texto feita em SVG inline com <text>)",
+  "títulos em até 3 linhas, teto 55px",
+  "ícones da skill better-icons (lucide)",
+  "hero escura com foto de fundo e fade, recorte aberto no mobile, botão visível sem rolar",
+  "imagens de prova (depoimentos, antes e depois, vídeo) como slots vazios, nunca inventadas"
+ ],
+ "paleta": {
+  "fundos": [
+   "#0D0B12",
+   "#130F1C",
+   "#1A1426"
+  ],
+  "textos": [
+   "#F5F1FA",
+   "#C9C1D6",
+   "#A99FB8"
+  ],
+  "destaques": [
+   "#CDB8F2",
+   "#7B4FD6"
+  ],
+  "gradientes": [
+   "linear-gradient(90deg, #D9944B 0%, #F0CBA2 100%)",
+   "linear-gradient(189deg, #1E1630 0%, #120E1C 100%)",
+   "linear-gradient(90deg, #3B2470 0%, #5B3BA8 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Questrial",
+   "uso": "títulos, logo, preço"
+  },
+  {
+   "familia": "Raleway",
+   "uso": "corpo, botões, rótulos, títulos de card"
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  73,
+  54,
+  42,
+  28,
+  24,
+  21,
+  20,
+  19,
+  18,
+  17,
+  16,
+  14,
+  13,
+  12
+ ],
+ "escala_tipografica_mobile_px": [
+  52,
+  33,
+  28,
+  20,
+  19,
+  18,
+  16,
+  15,
+  13.5,
+  12
+ ],
+ "h1": {
+  "desktop_px": 54,
+  "mobile_px": 33,
+  "peso": 400,
+  "fonte": "Questrial",
+  "line_height": "1.11em (1.1 no mobile)",
+  "letter_spacing": "-0.025em"
+ },
+ "h2": {
+  "desktop_px": 42,
+  "mobile_px": 28,
+  "peso": 400,
+  "fonte": "Questrial",
+  "destaque": "trecho final em lavanda #CDB8F2, só por cor"
+ },
+ "botao_principal": {
+  "gradiente": "linear-gradient(90deg, #D9944B 0%, #F0CBA2 100%)",
+  "texto": "#FFFFFF",
+  "raio": "999px",
+  "altura": "72px (62px no mobile)",
+  "largura": "440px (100% no mobile)",
+  "padding": "0 12px 0 40px",
+  "fonte": "Raleway",
+  "tamanho": "16px (13,5px no mobile)",
+  "peso": "600",
+  "caixa": "uppercase",
+  "icone": "seta lucide arrow-up-right dentro de círculo branco de 48px, gira 45° no hover",
+  "secundario": "mesmo botão em gradiente violeta-lavanda para o plano mais barato",
+  "exemplos": [
+   "Quero dominar o método",
+   "Quero o plano completo"
+  ]
+ },
+ "icones": {
+  "fonte": "better-icons (lucide)",
+  "ids": [
+   "lucide:x",
+   "lucide:check",
+   "lucide:clapperboard",
+   "lucide:clipboard-list",
+   "lucide:award",
+   "lucide:shield-check",
+   "lucide:lock",
+   "lucide:chevron-down",
+   "lucide:arrow-up-right",
+   "mdi:whatsapp"
+  ],
+  "traco": 1.6,
+  "estilo": "círculo 48px lavanda translúcido, ícone lavanda; no hover do card o círculo fica lavanda e o ícone escuro"
+ },
+ "hero": {
+  "desktop": "foto 16:9 cover em 70% center + gradiente 90° escuro (96% → 82% em 30% → 0 em 65%), min-height min(100vh, 860px), 2 cards de vidro sobre a foto",
+  "mobile": "recorte aberto da foto (crop=1680:1440:850:0, proporção ~1,17) em 100% de largura no topo, padding-top 72vw, gradiente 180° (0 até 56vw, 88% em 74vw, sólido em 88vw); logo 54px, H1 33px, sub com 28px até o botão",
+  "snippet": "codigos/fundos-e-texturas/hero-foto-de-fundo-fade.html (variante escura)"
+ },
+ "secoes": [
+  "hero",
+  "faixa",
+  "problema",
+  "protocolo-video",
+  "depoimentos",
+  "modulos",
+  "o-que-voce-leva",
+  "bonus",
+  "resultados",
+  "autoridade",
+  "oferta",
+  "certificado",
+  "faixa",
+  "faq",
+  "rodape"
+ ],
+ "largura_conteudo_px": 1140,
+ "padding_secao_px": {
+  "desktop": 80,
+  "mobile": 50
+ }
+}

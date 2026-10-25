@@ -1,0 +1,93 @@
+<!--
+  SNIPPET: Faixa (marquee) infinita com lista de ícones
+  CATEGORIA: faixas-e-carrosseis
+  O QUE FAZ: Faixa horizontal que corre sem parar com frases separadas por ícone. Usada logo abaixo do hero ou entre seções.
+  COMO USAR: Opção A: cole faixa-animada-infinita.elementor.json (botão direito > Colar de outro site) e depois este arquivo num widget HTML no fim da página. Opção B: crie um widget Lista de Ícones, layout em linha, classe "carrossel", e cole o CSS no widget e o script na página.
+  ONDE COLAR: CSS: CSS personalizado do widget Lista de Ícones. Script: widget HTML no fim da página.
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: coleção original da casa (faixaanimada) + 6 páginas
+  USADO EM: 5 página(s) da casa: imob-vistoria-alphaville, negocio-harmony-estudio-tatuagem, psi-renan, vendas-scripts-consignado-jessica, vendas-templates-arquiteto-jardel
+-->
+
+<style>
+html, body{
+  overflow-x: hidden;
+}
+selector .elementor-icon-list-items{
+    display: flex;
+    flex-wrap: nowrap;
+    white-space: nowrap;
+    position: relative;
+}
+
+selector .elementor-widget-container{
+    overflow: visible;
+}
+
+selector .carrossel-ativo {
+    display: flex;
+    animation: carrossel 40s linear infinite;
+}
+
+@keyframes carrossel {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(-50%);
+    }
+}
+</style>
+
+<script nowprocket>
+document.addEventListener("DOMContentLoaded", function() {
+  const carrosseis = document.querySelectorAll('.carrossel .elementor-icon-list-items');
+
+  carrosseis.forEach((carrossel) => {
+    if (carrossel) {
+      const novoContainer = document.createElement('div');
+
+      novoContainer.className = carrossel.className;
+      [...carrossel.attributes].forEach(attr => {
+        novoContainer.setAttribute(attr.name, attr.value);
+      });
+
+      const conteudo = carrossel.innerHTML;
+      const containerCarrossel = document.createElement('div');
+      containerCarrossel.classList.add('carrossel-ativo');
+
+      const tempDiv = document.createElement('div');
+      tempDiv.innerHTML = conteudo;
+
+      tempDiv.querySelectorAll('li').forEach(li => {
+        const span = document.createElement('span');
+
+        span.className = li.className;
+        [...li.attributes].forEach(attr => {
+          span.setAttribute(attr.name, attr.value);
+        });
+
+        span.innerHTML = li.innerHTML;
+
+        li.replaceWith(span);
+      });
+
+      containerCarrossel.innerHTML = tempDiv.innerHTML;
+
+      novoContainer.appendChild(containerCarrossel);
+
+      carrossel.replaceWith(novoContainer);
+
+      const larguraCarrossel = novoContainer.offsetWidth;
+      const larguraConteudos = containerCarrossel.scrollWidth;
+      const copias = Math.ceil(larguraCarrossel / larguraConteudos);
+
+      for (let i = 0; i < copias; i++) {
+        containerCarrossel.innerHTML += tempDiv.innerHTML;
+      }
+
+      containerCarrossel.innerHTML += tempDiv.innerHTML;
+    }
+  });
+});
+</script>

@@ -1,0 +1,493 @@
+{
+ "content": [
+  {
+   "id": "494fec09",
+   "settings": {
+    "flex_direction": "column",
+    "min_height": {
+     "unit": "px",
+     "size": 90,
+     "sizes": []
+    },
+    "flex_justify_content": "center",
+    "flex_align_items": "center",
+    "background_background": "classic",
+    "background_color": "#FFF7E8",
+    "padding": {
+     "unit": "px",
+     "top": "30",
+     "right": "0",
+     "bottom": "80",
+     "left": "0",
+     "isLinked": false
+    },
+    "boxed_width_mobile": {
+     "unit": "%",
+     "size": 90,
+     "sizes": []
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "20",
+     "right": "0",
+     "bottom": "40",
+     "left": "0",
+     "isLinked": false
+    },
+    "eae_slider_delay": "5000",
+    "gradient_color_list": [
+     {
+      "eae_animated_gradient_color": "#00a6d8",
+      "_id": "24dc2bf"
+     },
+     {
+      "eae_animated_gradient_color": "#b800c9",
+      "_id": "1d9be08"
+     },
+     {
+      "eae_animated_gradient_color": "#e57600",
+      "_id": "b0cf6b1"
+     }
+    ]
+   },
+   "elements": [
+    {
+     "id": "606f9c2",
+     "settings": {
+      "content_width": "full",
+      "width": {
+       "unit": "%",
+       "size": 45,
+       "sizes": []
+      },
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "30",
+       "left": "0",
+       "isLinked": false
+      },
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+       {
+        "eae_animated_gradient_color": "#00a6d8",
+        "_id": "0453be9"
+       },
+       {
+        "eae_animated_gradient_color": "#b800c9",
+        "_id": "db5cf26"
+       },
+       {
+        "eae_animated_gradient_color": "#e57600",
+        "_id": "0bc9c5a"
+       }
+      ]
+     },
+     "elements": [
+      {
+       "id": "a1649cc",
+       "settings": {
+        "title": "Equipe Altamente Qualificada",
+        "align": "center",
+        "title_color": "#000000",
+        "typography_typography": "custom",
+        "typography_font_family": "Sora",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 32,
+         "sizes": []
+        },
+        "typography_font_weight": "600",
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.4,
+         "sizes": []
+        },
+        "_element_width": "inherit",
+        "_element_custom_width": {
+         "unit": "%",
+         "size": 45,
+         "sizes": []
+        },
+        "typography_font_size_mobile": {
+         "unit": "vw",
+         "size": 8,
+         "sizes": []
+        },
+        "_css_classes": "scroll-bottom"
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "heading",
+       "elType": "widget"
+      },
+      {
+       "id": "19b2cf4f",
+       "settings": {
+        "width_tablet": {
+         "unit": "px",
+         "size": "",
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "px",
+         "size": 150,
+         "sizes": []
+        },
+        "align": "center",
+        "text": "Divisória",
+        "gap": {
+         "unit": "px",
+         "size": 0,
+         "sizes": []
+        },
+        "_margin": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": false
+        },
+        "_css_classes": "scroll-bottom"
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "divider",
+       "elType": "widget"
+      },
+      {
+       "id": "750db10b",
+       "settings": {
+        "title": "Estamos te esperando para te atender da melhor forma!\n",
+        "align": "center",
+        "title_color": "#000000",
+        "typography_typography": "custom",
+        "typography_font_family": "Sora",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 16,
+         "sizes": []
+        },
+        "typography_font_weight": "300",
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.4,
+         "sizes": []
+        },
+        "_margin": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": false
+        },
+        "_padding": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": false
+        },
+        "_element_width": "inherit",
+        "_element_custom_width": {
+         "unit": "%",
+         "size": 45,
+         "sizes": []
+        },
+        "_css_classes": "scroll-bottom"
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "heading",
+       "elType": "widget"
+      }
+     ],
+     "isInner": true,
+     "elType": "container"
+    },
+    {
+     "id": "96350e2",
+     "settings": {
+      "flex_direction": "row",
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+       {
+        "eae_animated_gradient_color": "#00a6d8",
+        "_id": "48a8333"
+       },
+       {
+        "eae_animated_gradient_color": "#b800c9",
+        "_id": "a08f95c"
+       },
+       {
+        "eae_animated_gradient_color": "#e57600",
+        "_id": "7f90fd2"
+       }
+      ]
+     },
+     "elements": [
+      {
+       "id": "57c0286",
+       "settings": {
+        "image": {
+         "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/05/FOTO-PERFIL-1-1.png",
+         "id": 2831,
+         "size": "",
+         "alt": "",
+         "source": "library"
+        },
+        "title_text": "Lucas Souza",
+        "description_text": "Personal",
+        "image_space": {
+         "unit": "px",
+         "size": 14,
+         "sizes": []
+        },
+        "title_bottom_space": {
+         "unit": "px",
+         "size": 7,
+         "sizes": []
+        },
+        "image_size": {
+         "unit": "%",
+         "size": 70,
+         "sizes": []
+        },
+        "image_border_border": "solid",
+        "image_border_width": {
+         "unit": "px",
+         "top": "5",
+         "right": "5",
+         "bottom": "5",
+         "left": "5",
+         "isLinked": true
+        },
+        "image_border_color": "#D1A960",
+        "image_border_radius": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "image_border_radius_tablet": {
+         "unit": "%",
+         "size": "",
+         "sizes": []
+        },
+        "image_border_radius_mobile": {
+         "unit": "%",
+         "size": "",
+         "sizes": []
+        },
+        "title_color": "#000000",
+        "title_typography_typography": "custom",
+        "title_typography_font_family": "Sora",
+        "title_typography_font_size": {
+         "unit": "px",
+         "size": 22,
+         "sizes": []
+        },
+        "title_typography_font_weight": "600",
+        "description_color": "#7A7A7A",
+        "description_typography_typography": "custom",
+        "description_typography_font_family": "Sora",
+        "description_typography_font_size": {
+         "unit": "px",
+         "size": 16,
+         "sizes": []
+        },
+        "description_typography_font_weight": "300",
+        "_css_classes": "scroll-bottom"
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "image-box",
+       "elType": "widget"
+      },
+      {
+       "id": "781deb3",
+       "settings": {
+        "image": {
+         "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/05/FOTO-PERFIL-1-1.png",
+         "id": 2831,
+         "size": "",
+         "alt": "",
+         "source": "library"
+        },
+        "title_text": "Lucas Souza",
+        "description_text": "Personal",
+        "image_space": {
+         "unit": "px",
+         "size": 14,
+         "sizes": []
+        },
+        "title_bottom_space": {
+         "unit": "px",
+         "size": 7,
+         "sizes": []
+        },
+        "image_size": {
+         "unit": "%",
+         "size": 70,
+         "sizes": []
+        },
+        "image_border_border": "solid",
+        "image_border_width": {
+         "unit": "px",
+         "top": "5",
+         "right": "5",
+         "bottom": "5",
+         "left": "5",
+         "isLinked": true
+        },
+        "image_border_color": "#D1A960",
+        "image_border_radius": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "image_border_radius_tablet": {
+         "unit": "%",
+         "size": "",
+         "sizes": []
+        },
+        "image_border_radius_mobile": {
+         "unit": "%",
+         "size": "",
+         "sizes": []
+        },
+        "title_color": "#000000",
+        "title_typography_typography": "custom",
+        "title_typography_font_family": "Sora",
+        "title_typography_font_size": {
+         "unit": "px",
+         "size": 22,
+         "sizes": []
+        },
+        "title_typography_font_weight": "600",
+        "description_color": "#7A7A7A",
+        "description_typography_typography": "custom",
+        "description_typography_font_family": "Sora",
+        "description_typography_font_size": {
+         "unit": "px",
+         "size": 16,
+         "sizes": []
+        },
+        "description_typography_font_weight": "300",
+        "_css_classes": "scroll-bottom"
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "image-box",
+       "elType": "widget"
+      },
+      {
+       "id": "34fc07d4",
+       "settings": {
+        "image": {
+         "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/05/FOTO-PERFIL-1-1.png",
+         "id": 2831,
+         "size": "",
+         "alt": "",
+         "source": "library"
+        },
+        "title_text": "Lucas Souza",
+        "description_text": "Personal",
+        "image_space": {
+         "unit": "px",
+         "size": 14,
+         "sizes": []
+        },
+        "title_bottom_space": {
+         "unit": "px",
+         "size": 7,
+         "sizes": []
+        },
+        "image_size": {
+         "unit": "%",
+         "size": 70,
+         "sizes": []
+        },
+        "image_border_border": "solid",
+        "image_border_width": {
+         "unit": "px",
+         "top": "5",
+         "right": "5",
+         "bottom": "5",
+         "left": "5",
+         "isLinked": true
+        },
+        "image_border_color": "#D1A960",
+        "image_border_radius": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "image_border_radius_tablet": {
+         "unit": "%",
+         "size": "",
+         "sizes": []
+        },
+        "image_border_radius_mobile": {
+         "unit": "%",
+         "size": "",
+         "sizes": []
+        },
+        "title_color": "#000000",
+        "title_typography_typography": "custom",
+        "title_typography_font_family": "Sora",
+        "title_typography_font_size": {
+         "unit": "px",
+         "size": 22,
+         "sizes": []
+        },
+        "title_typography_font_weight": "600",
+        "description_color": "#7A7A7A",
+        "description_typography_typography": "custom",
+        "description_typography_font_family": "Sora",
+        "description_typography_font_size": {
+         "unit": "px",
+         "size": 16,
+         "sizes": []
+        },
+        "description_typography_font_weight": "300",
+        "_css_classes": "scroll-bottom"
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "image-box",
+       "elType": "widget"
+      }
+     ],
+     "isInner": true,
+     "elType": "container"
+    }
+   ],
+   "isInner": false,
+   "elType": "container"
+  }
+ ],
+ "page_settings": [],
+ "version": "0.4",
+ "title": "equipe 01",
+ "type": "container"
+}

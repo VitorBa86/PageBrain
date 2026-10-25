@@ -1,0 +1,1267 @@
+{
+  "sourceUrl": "https://lp.oreidalanding.com.br/pagina-inter-frios/",
+  "finalUrl": "https://lp.oreidalanding.com.br/pagina-inter-frios/",
+  "mode": "static",
+  "platform": "WordPress + Elementor",
+  "durationMs": 6315,
+  "fileCount": 179,
+  "totalBytes": 12852443,
+  "counts": {
+    "css": 33,
+    "js": 33,
+    "img": 41,
+    "font": 71,
+    "media": 0,
+    "other": 0,
+    "failed": 0
+  },
+  "warnings": [],
+  "assets": [
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/css/eae.min.css?ver=1.14.5",
+      "kind": "css",
+      "localPath": "assets/css/eae.min-2130405e.css",
+      "status": "ok",
+      "bytes": 276196
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/peel/peel.css?ver=1.14.5",
+      "kind": "css",
+      "localPath": "assets/css/peel-21159c85.css",
+      "status": "ok",
+      "bytes": 985
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=1.0",
+      "kind": "css",
+      "localPath": "assets/css/v4-shims.min-b84081b7.css",
+      "status": "ok",
+      "bytes": 26702
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=1.0",
+      "kind": "css",
+      "localPath": "assets/css/all.min-38e5e4c8.css",
+      "status": "ok",
+      "bytes": 59410
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/vegas/vegas.min.css?ver=2.4.0",
+      "kind": "css",
+      "localPath": "assets/css/vegas.min-268e7e29.css",
+      "status": "ok",
+      "bytes": 9462
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/themes/hello-elementor/style.min.css?ver=3.0.1",
+      "kind": "css",
+      "localPath": "assets/css/style.min-06f436a0.css",
+      "status": "ok",
+      "bytes": 5756
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/themes/hello-elementor/theme.min.css?ver=3.0.1",
+      "kind": "css",
+      "localPath": "assets/css/theme.min-143b6f22.css",
+      "status": "ok",
+      "bytes": 5131
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/themes/hello-elementor/header-footer.min.css?ver=3.0.1",
+      "kind": "css",
+      "localPath": "assets/css/header-footer.min-6a5d9338.css",
+      "status": "ok",
+      "bytes": 7325
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/css/custom-frontend.min.css?ver=1790246863",
+      "kind": "css",
+      "localPath": "assets/css/custom-frontend.min-70805667.css",
+      "status": "ok",
+      "bytes": 54866
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/css/post-5.css?ver=1790246863",
+      "kind": "css",
+      "localPath": "assets/css/post-5-c41fe630.css",
+      "status": "ok",
+      "bytes": 1287
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.0.4",
+      "kind": "css",
+      "localPath": "assets/css/widget-heading.min-5d415b55.css",
+      "status": "ok",
+      "bytes": 560
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=4.0.4",
+      "kind": "css",
+      "localPath": "assets/css/widget-divider.min-ef62fc92.css",
+      "status": "ok",
+      "bytes": 4258
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=4.0.4",
+      "kind": "css",
+      "localPath": "assets/css/e-animation-grow.min-c96bb6bc.css",
+      "status": "ok",
+      "bytes": 198
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/fadeIn.min.css?ver=4.0.4",
+      "kind": "css",
+      "localPath": "assets/css/fadeIn.min-f11bb0db.css",
+      "status": "ok",
+      "bytes": 77
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5",
+      "kind": "css",
+      "localPath": "assets/css/swiper.min-b750e74e.css",
+      "status": "ok",
+      "bytes": 16471
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=4.0.4",
+      "kind": "css",
+      "localPath": "assets/css/e-swiper.min-a92d0d15.css",
+      "status": "ok",
+      "bytes": 5486
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/css/widget-counter.min.css?ver=4.0.4",
+      "kind": "css",
+      "localPath": "assets/css/widget-counter.min-5edcb921.css",
+      "status": "ok",
+      "bytes": 753
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/css/custom-widget-icon-list.min.css?ver=1790246863",
+      "kind": "css",
+      "localPath": "assets/css/custom-widget-icon-list.min-bb151685.css",
+      "status": "ok",
+      "bytes": 10286
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css?ver=4.0.4",
+      "kind": "css",
+      "localPath": "assets/css/widget-image-carousel.min-ba581a9a.css",
+      "status": "ok",
+      "bytes": 342
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/pro-elements/assets/css/widget-form.min.css?ver=3.35.0",
+      "kind": "css",
+      "localPath": "assets/css/widget-form.min-1b88c6da.css",
+      "status": "ok",
+      "bytes": 6797
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/css/custom-widget-toggle.min.css?ver=1790246863",
+      "kind": "css",
+      "localPath": "assets/css/custom-widget-toggle.min-8620153b.css",
+      "status": "ok",
+      "bytes": 1547
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/pro-elements/assets/css/modules/sticky.min.css?ver=3.35.0",
+      "kind": "css",
+      "localPath": "assets/css/sticky.min-cb5de2d3.css",
+      "status": "ok",
+      "bytes": 162
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/pro-elements/assets/css/widget-lottie.min.css?ver=3.35.0",
+      "kind": "css",
+      "localPath": "assets/css/widget-lottie.min-be8ad94d.css",
+      "status": "ok",
+      "bytes": 546
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/css/post-35866.css?ver=1791569035",
+      "kind": "css",
+      "localPath": "assets/css/post-35866-780f6052.css",
+      "status": "ok",
+      "bytes": 221322
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/happy-elementor-addons/assets/fonts/style.min.css?ver=3.21.3",
+      "kind": "css",
+      "localPath": "assets/css/style.min-b9163340.css",
+      "status": "ok",
+      "bytes": 27362
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0",
+      "kind": "css",
+      "localPath": "assets/css/font-awesome.min-0bc61db0.css",
+      "status": "ok",
+      "bytes": 30972
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1746616544",
+      "kind": "css",
+      "localPath": "assets/css/roboto-e3746ea8.css",
+      "status": "ok",
+      "bytes": 98514
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1746616563",
+      "kind": "css",
+      "localPath": "assets/css/robotoslab-088d106b.css",
+      "status": "ok",
+      "bytes": 21546
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/css/inter.css?ver=1746619860",
+      "kind": "css",
+      "localPath": "assets/css/inter-af8d038a.css",
+      "status": "ok",
+      "bytes": 43029
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Space+Grotesk:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "kind": "css",
+      "localPath": "assets/css/css-1556ba03.css",
+      "status": "ok",
+      "bytes": 6135
+    },
+    {
+      "url": "https://use.typekit.net/pta2sir.css",
+      "kind": "css",
+      "localPath": "assets/css/pta2sir-52db0935.css",
+      "status": "ok",
+      "bytes": 809
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600&family=Inter:wght@400;500;600&display=swap",
+      "kind": "css",
+      "localPath": "assets/css/css2-533e8c57.css",
+      "status": "ok",
+      "bytes": 9576
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600&family=Inter:wght@400;500&display=swap",
+      "kind": "css",
+      "localPath": "assets/css/css2-e88b07b6.css",
+      "status": "ok",
+      "bytes": 7202
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/interfrio-logo.png",
+      "kind": "img",
+      "localPath": "assets/img/interfrio-logo-dc31b526.png",
+      "status": "ok",
+      "bytes": 130496
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/frame_1_1x-1-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/frame_1_1x-1-768x768-231a67b8.webp",
+      "status": "ok",
+      "bytes": 24088
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/frame_2_1x-1-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/frame_2_1x-1-768x768-adc4bac6.webp",
+      "status": "ok",
+      "bytes": 72266
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/frame_3_1x-1-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/frame_3_1x-1-768x768-906f004b.webp",
+      "status": "ok",
+      "bytes": 143450
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/frame_4_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/frame_4_1x-768x768-094e7067.webp",
+      "status": "ok",
+      "bytes": 95660
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/frame_5_1x-1-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/frame_5_1x-1-768x768-4961a22f.webp",
+      "status": "ok",
+      "bytes": 75776
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/frame_6_1x-1-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/frame_6_1x-1-768x768-bfeda317.webp",
+      "status": "ok",
+      "bytes": 86662
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/frame_7_1x-1-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/frame_7_1x-1-768x768-45d1da39.webp",
+      "status": "ok",
+      "bytes": 97262
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/frame_8_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/frame_8_1x-768x768-d83136e2.webp",
+      "status": "ok",
+      "bytes": 69746
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/frame_9_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/frame_9_1x-768x768-8849118f.webp",
+      "status": "ok",
+      "bytes": 139522
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/frame_10_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/frame_10_1x-768x768-100b7264.webp",
+      "status": "ok",
+      "bytes": 91558
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/frame_11_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/frame_11_1x-768x768-5bad2c59.webp",
+      "status": "ok",
+      "bytes": 62996
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/frame_12_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/frame_12_1x-768x768-60cfc71c.webp",
+      "status": "ok",
+      "bytes": 122662
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/frame_13_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/frame_13_1x-768x768-747bd59d.webp",
+      "status": "ok",
+      "bytes": 52608
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/ceagesp.png",
+      "kind": "img",
+      "localPath": "assets/img/ceagesp-436ce70d.png",
+      "status": "ok",
+      "bytes": 3360
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/imc.jpg",
+      "kind": "img",
+      "localPath": "assets/img/imc-c1a5374e.jpg",
+      "status": "ok",
+      "bytes": 2148
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/ra-catering.jpg",
+      "kind": "img",
+      "localPath": "assets/img/ra-catering-6976cefb.jpg",
+      "status": "ok",
+      "bytes": 2842
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/saesp.png",
+      "kind": "img",
+      "localPath": "assets/img/saesp-1b0d3a12.png",
+      "status": "ok",
+      "bytes": 2183
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/swift.png",
+      "kind": "img",
+      "localPath": "assets/img/swift-1497f95a.png",
+      "status": "ok",
+      "bytes": 1859
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/swo.jpg",
+      "kind": "img",
+      "localPath": "assets/img/swo-d136457a.jpg",
+      "status": "ok",
+      "bytes": 3779
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/viena.png",
+      "kind": "img",
+      "localPath": "assets/img/viena-cfc98171.png",
+      "status": "ok",
+      "bytes": 1375
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/wall-street-broker.png",
+      "kind": "img",
+      "localPath": "assets/img/wall-street-broker-419ff8c0.png",
+      "status": "ok",
+      "bytes": 10709
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/iconHelper.js?ver=1.0",
+      "kind": "js",
+      "localPath": "assets/js/iconHelper-5609b3be.js",
+      "status": "ok",
+      "bytes": 4036
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "kind": "js",
+      "localPath": "assets/js/jquery.min-4c6c2433.js",
+      "status": "ok",
+      "bytes": 87553
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "kind": "js",
+      "localPath": "assets/js/jquery-migrate.min-794e83b2.js",
+      "status": "ok",
+      "bytes": 13577
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/happy-elementor-addons/assets/vendor/dom-purify/purify.min.js?ver=3.1.6",
+      "kind": "js",
+      "localPath": "assets/js/purify.min-cf19ef96.js",
+      "status": "ok",
+      "bytes": 22305
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=AW-11307787246",
+      "kind": "js",
+      "localPath": "assets/js/js-27f5ea70.js",
+      "status": "ok",
+      "bytes": 443893
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/eae.min.js?ver=1.14.5",
+      "kind": "js",
+      "localPath": "assets/js/eae.min-9b5d3fee.js",
+      "status": "ok",
+      "bytes": 66019
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/addon-elements-for-elementor-page-builder/build/index.min.js?ver=1.14.5",
+      "kind": "js",
+      "localPath": "assets/js/index.min-1eb5b27b.js",
+      "status": "ok",
+      "bytes": 87478
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=1.0",
+      "kind": "js",
+      "localPath": "assets/js/v4-shims.min-af029e97.js",
+      "status": "ok",
+      "bytes": 15073
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/animated-main.min.js?ver=1.0",
+      "kind": "js",
+      "localPath": "assets/js/animated-main.min-e60bfcf4.js",
+      "status": "ok",
+      "bytes": 2252
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/particles.min.js?ver=2.0.0",
+      "kind": "js",
+      "localPath": "assets/js/particles.min-e33c9225.js",
+      "status": "ok",
+      "bytes": 22668
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/magnific.min.js?ver=1.1.0",
+      "kind": "js",
+      "localPath": "assets/js/magnific.min-97525b3e.js",
+      "status": "ok",
+      "bytes": 19887
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/vegas/vegas.min.js?ver=2.4.0",
+      "kind": "js",
+      "localPath": "assets/js/vegas.min-ab7e73d0.js",
+      "status": "ok",
+      "bytes": 9914
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=3.0.1",
+      "kind": "js",
+      "localPath": "assets/js/hello-frontend.min-d760bf46.js",
+      "status": "ok",
+      "bytes": 2937
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.0.4",
+      "kind": "js",
+      "localPath": "assets/js/webpack.runtime.min-9d87605d.js",
+      "status": "ok",
+      "bytes": 5722
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.0.4",
+      "kind": "js",
+      "localPath": "assets/js/frontend-modules.min-2f35a253.js",
+      "status": "ok",
+      "bytes": 50602
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+      "kind": "js",
+      "localPath": "assets/js/core.min-b0e7149e.js",
+      "status": "ok",
+      "bytes": 18674
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.0.4",
+      "kind": "js",
+      "localPath": "assets/js/frontend.min-e623fc5a.js",
+      "status": "ok",
+      "bytes": 31928
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5",
+      "kind": "js",
+      "localPath": "assets/js/swiper.min-1f99079f.js",
+      "status": "ok",
+      "bytes": 143709
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1",
+      "kind": "js",
+      "localPath": "assets/js/jquery-numerator.min-0b6b3b0f.js",
+      "status": "ok",
+      "bytes": 1801
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/pro-elements/assets/lib/sticky/jquery.sticky.min.js?ver=3.35.0",
+      "kind": "js",
+      "localPath": "assets/js/jquery.sticky.min-635253cd.js",
+      "status": "ok",
+      "bytes": 3721
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/pro-elements/assets/lib/lottie/lottie.min.js?ver=5.6.6",
+      "kind": "js",
+      "localPath": "assets/js/lottie.min-6570df66.js",
+      "status": "ok",
+      "bytes": 252588
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/mousewheel-smooth-scroll/js/lenis.min.js?ver=1.1.19",
+      "kind": "js",
+      "localPath": "assets/js/lenis.min-257ba2c4.js",
+      "status": "ok",
+      "bytes": 14242
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/wpmss/lenis-init.min.js?ver=1752946818",
+      "kind": "js",
+      "localPath": "assets/js/lenis-init.min-0962a3c4.js",
+      "status": "ok",
+      "bytes": 132
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/happy-elementor-addons/assets/js/extension-reading-progress-bar.min.js?ver=3.21.3",
+      "kind": "js",
+      "localPath": "assets/js/extension-reading-progress-bar.min-516de3f0.js",
+      "status": "ok",
+      "bytes": 1359
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/happy-elementor-addons/assets/js/happy-addons.min.js?ver=3.21.3",
+      "kind": "js",
+      "localPath": "assets/js/happy-addons.min-23e11214.js",
+      "status": "ok",
+      "bytes": 32316
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/facebook-conversion-pixel/pixel-cat.min.js?ver=3.3.0",
+      "kind": "js",
+      "localPath": "assets/js/pixel-cat.min-d3b1c84a.js",
+      "status": "ok",
+      "bytes": 27878
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/facebook-conversion-pixel/video.js?ver=7.1.3",
+      "kind": "js",
+      "localPath": "assets/js/video-0633df2a.js",
+      "status": "ok",
+      "bytes": 10428
+    },
+    {
+      "url": "https://cdn.trustindex.io/loader.js?ver=1",
+      "kind": "js",
+      "localPath": "assets/js/loader-8855d035.js",
+      "status": "ok",
+      "bytes": 99014
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/pro-elements/assets/js/webpack-pro.runtime.min.js?ver=3.35.0",
+      "kind": "js",
+      "localPath": "assets/js/webpack-pro.runtime.min-a7f75742.js",
+      "status": "ok",
+      "bytes": 6247
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+      "kind": "js",
+      "localPath": "assets/js/hooks.min-a364f0ce.js",
+      "status": "ok",
+      "bytes": 5107
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+      "kind": "js",
+      "localPath": "assets/js/i18n.min-c88a5bf0.js",
+      "status": "ok",
+      "bytes": 5791
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/pro-elements/assets/js/frontend.min.js?ver=3.35.0",
+      "kind": "js",
+      "localPath": "assets/js/frontend.min-0f10a133.js",
+      "status": "ok",
+      "bytes": 24046
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/pro-elements/assets/js/elements-handlers.min.js?ver=3.35.0",
+      "kind": "js",
+      "localPath": "assets/js/elements-handlers.min-4fc77a69.js",
+      "status": "ok",
+      "bytes": 44257
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot",
+      "kind": "font",
+      "localPath": "assets/font/fa-brands-400-d9a8f982.eot",
+      "status": "ok",
+      "bytes": 151556
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?",
+      "kind": "font",
+      "localPath": "assets/font/fa-brands-400-f349e10c.eot",
+      "status": "ok",
+      "bytes": 151556
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2",
+      "kind": "font",
+      "localPath": "assets/font/fa-brands-400-2f723c18.woff2",
+      "status": "ok",
+      "bytes": 81612
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff",
+      "kind": "font",
+      "localPath": "assets/font/fa-brands-400-7b105065.woff",
+      "status": "ok",
+      "bytes": 97804
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf",
+      "kind": "font",
+      "localPath": "assets/font/fa-brands-400-0ab0e898.ttf",
+      "status": "ok",
+      "bytes": 151368
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg",
+      "kind": "img",
+      "localPath": "assets/img/fa-brands-400-3b19087b.svg",
+      "status": "ok",
+      "bytes": 749223
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot",
+      "kind": "font",
+      "localPath": "assets/font/fa-regular-400-5d418ef2.eot",
+      "status": "ok",
+      "bytes": 34034
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?",
+      "kind": "font",
+      "localPath": "assets/font/fa-regular-400-26f04122.eot",
+      "status": "ok",
+      "bytes": 34034
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2",
+      "kind": "font",
+      "localPath": "assets/font/fa-regular-400-9448ebea.woff2",
+      "status": "ok",
+      "bytes": 13276
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff",
+      "kind": "font",
+      "localPath": "assets/font/fa-regular-400-27fe0498.woff",
+      "status": "ok",
+      "bytes": 16276
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf",
+      "kind": "font",
+      "localPath": "assets/font/fa-regular-400-9cece2e8.ttf",
+      "status": "ok",
+      "bytes": 33736
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg",
+      "kind": "img",
+      "localPath": "assets/img/fa-regular-400-418e196e.svg",
+      "status": "ok",
+      "bytes": 144714
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot",
+      "kind": "font",
+      "localPath": "assets/font/fa-solid-900-7d957f60.eot",
+      "status": "ok",
+      "bytes": 203030
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?",
+      "kind": "font",
+      "localPath": "assets/font/fa-solid-900-4524f530.eot",
+      "status": "ok",
+      "bytes": 203030
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2",
+      "kind": "font",
+      "localPath": "assets/font/fa-solid-900-7acd3741.woff2",
+      "status": "ok",
+      "bytes": 78196
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff",
+      "kind": "font",
+      "localPath": "assets/font/fa-solid-900-c8fac4d5.woff",
+      "status": "ok",
+      "bytes": 101652
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf",
+      "kind": "font",
+      "localPath": "assets/font/fa-solid-900-0b205a12.ttf",
+      "status": "ok",
+      "bytes": 202744
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg",
+      "kind": "img",
+      "localPath": "assets/img/fa-solid-900-e28669c8.svg",
+      "status": "ok",
+      "bytes": 918991
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/css/arrow-left.svg",
+      "kind": "img",
+      "localPath": "assets/img/arrow-left-e6793aee.svg",
+      "status": "ok",
+      "bytes": 150
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/css/arrow-right.svg",
+      "kind": "img",
+      "localPath": "assets/img/arrow-right-19f10eb1.svg",
+      "status": "ok",
+      "bytes": 152
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/digit-sep-svg.svg",
+      "kind": "img",
+      "localPath": "assets/img/digit-sep-svg-81a731d7.svg",
+      "status": "ok",
+      "bytes": 1127
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/digits-svg-alpha.svg",
+      "kind": "img",
+      "localPath": "assets/img/digits-svg-alpha-33468c08.svg",
+      "status": "ok",
+      "bytes": 4835
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/painel-eletrico-close.jpeg",
+      "kind": "img",
+      "localPath": "assets/img/painel-eletrico-close-5553f7ec.jpeg",
+      "status": "ok",
+      "bytes": 352285
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/camaras-frias.jpeg",
+      "kind": "img",
+      "localPath": "assets/img/camaras-frias-abf7cc86.jpeg",
+      "status": "ok",
+      "bytes": 199812
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-07-at-09.37.20-1.jpeg",
+      "kind": "img",
+      "localPath": "assets/img/WhatsApp-Image-2026-08-07-at-09.37.20-1-b033fdf6.jpeg",
+      "status": "ok",
+      "bytes": 193612
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-07-at-09.37.37.jpeg",
+      "kind": "img",
+      "localPath": "assets/img/WhatsApp-Image-2026-08-07-at-09.37.37-558a026c.jpeg",
+      "status": "ok",
+      "bytes": 170791
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-07-at-09.37.38-1-1.jpeg",
+      "kind": "img",
+      "localPath": "assets/img/WhatsApp-Image-2026-08-07-at-09.37.38-1-1-4aa0b5ff.jpeg",
+      "status": "ok",
+      "bytes": 474228
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-07-at-09.38.00.jpeg",
+      "kind": "img",
+      "localPath": "assets/img/WhatsApp-Image-2026-08-07-at-09.38.00-7dc975ac.jpeg",
+      "status": "ok",
+      "bytes": 98108
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/fachada.jpg",
+      "kind": "img",
+      "localPath": "assets/img/fachada-11c7c1e5.jpg",
+      "status": "ok",
+      "bytes": 88048
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/spacegrotesk/v22/V8mDoQDjQSkFtoMM3T6r8E7mPb54C_k3HqUtEw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/V8mDoQDjQSkFtoMM3T6r8E7mPb54C_k3HqUtEw-9dfb40d0.woff2",
+      "status": "ok",
+      "bytes": 6772
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/spacegrotesk/v22/V8mDoQDjQSkFtoMM3T6r8E7mPb94C_k3HqUtEw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/V8mDoQDjQSkFtoMM3T6r8E7mPb94C_k3HqUtEw-012a46f9.woff2",
+      "status": "ok",
+      "bytes": 18924
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/spacegrotesk/v22/V8mDoQDjQSkFtoMM3T6r8E7mPbF4C_k3HqU.woff2",
+      "kind": "font",
+      "localPath": "assets/font/V8mDoQDjQSkFtoMM3T6r8E7mPbF4C_k3HqU-1d9f0cbb.woff2",
+      "status": "ok",
+      "bytes": 22320
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7W0Q5n-wU.woff2",
+      "kind": "font",
+      "localPath": "assets/font/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7W0Q5n-wU-c428ca13.woff2",
+      "status": "ok",
+      "bytes": 25844
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7W0Q5n-wU.woff2",
+      "kind": "font",
+      "localPath": "assets/font/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7W0Q5n-wU-ec7f5af9.woff2",
+      "status": "ok",
+      "bytes": 18744
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7W0Q5n-wU.woff2",
+      "kind": "font",
+      "localPath": "assets/font/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7W0Q5n-wU-085cd790.woff2",
+      "status": "ok",
+      "bytes": 11272
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7W0Q5n-wU.woff2",
+      "kind": "font",
+      "localPath": "assets/font/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7W0Q5n-wU-4609148e.woff2",
+      "status": "ok",
+      "bytes": 19044
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7W0Q5n-wU.woff2",
+      "kind": "font",
+      "localPath": "assets/font/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7W0Q5n-wU-1f53bf00.woff2",
+      "status": "ok",
+      "bytes": 10280
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7W0Q5n-wU.woff2",
+      "kind": "font",
+      "localPath": "assets/font/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7W0Q5n-wU-367ba69a.woff2",
+      "status": "ok",
+      "bytes": 85272
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw-bec94a4d.woff2",
+      "status": "ok",
+      "bytes": 48432
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff2",
+      "kind": "font",
+      "localPath": "assets/font/happy-icons-d66b224e.woff2",
+      "status": "ok",
+      "bytes": 134684
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff",
+      "kind": "font",
+      "localPath": "assets/font/happy-icons-98c3a5ed.woff",
+      "status": "ok",
+      "bytes": 322828
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.svg",
+      "kind": "img",
+      "localPath": "assets/img/happy-icons-43b481d6.svg",
+      "status": "ok",
+      "bytes": 872925
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0",
+      "kind": "font",
+      "localPath": "assets/font/fontawesome-webfont-a2956582.eot",
+      "status": "ok",
+      "bytes": 165742
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?",
+      "kind": "font",
+      "localPath": "assets/font/fontawesome-webfont-5ee7152b.eot",
+      "status": "ok",
+      "bytes": 165742
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0",
+      "kind": "font",
+      "localPath": "assets/font/fontawesome-webfont-3c3914e4.woff2",
+      "status": "ok",
+      "bytes": 77160
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0",
+      "kind": "font",
+      "localPath": "assets/font/fontawesome-webfont-56d55b36.woff",
+      "status": "ok",
+      "bytes": 98024
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0",
+      "kind": "font",
+      "localPath": "assets/font/fontawesome-webfont-a1ec00ab.ttf",
+      "status": "ok",
+      "bytes": 165548
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0",
+      "kind": "img",
+      "localPath": "assets/img/fontawesome-webfont-39b6fc65.svg",
+      "status": "ok",
+      "bytes": 444379
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a-d40aed93.woff2",
+      "status": "ok",
+      "bytes": 32284
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufj5qw54a.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-bngmuxzytxpivibgjjsb6ufj5qw54a-7b7eaf56.woff2",
+      "status": "ok",
+      "bytes": 21272
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufb5qw54a.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-bngmuxzytxpivibgjjsb6ufb5qw54a-0c4aa3ec.woff2",
+      "status": "ok",
+      "bytes": 2184
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufo5qw54a.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-bngmuxzytxpivibgjjsb6ufo5qw54a-01e77f4a.woff2",
+      "status": "ok",
+      "bytes": 14852
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufc5qw54a.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-bngmuxzytxpivibgjjsb6ufc5qw54a-b7690473.woff2",
+      "status": "ok",
+      "bytes": 9872
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufd5qw54a.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-bngmuxzytxpivibgjjsb6ufd5qw54a-2e5c934c.woff2",
+      "status": "ok",
+      "bytes": 20760
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufn5qu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-bngmuxzytxpivibgjjsb6ufn5qu-ee5e60c3.woff2",
+      "status": "ok",
+      "bytes": 34328
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l0uumjng.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l0uumjng-886e7794.woff2",
+      "status": "ok",
+      "bytes": 27432
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l9uumjng.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l9uumjng-659474a4.woff2",
+      "status": "ok",
+      "bytes": 19976
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l1uumjng.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l1uumjng-6fb25386.woff2",
+      "status": "ok",
+      "bytes": 12124
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l6uumjng.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l6uumjng-0a0e85d1.woff2",
+      "status": "ok",
+      "bytes": 20480
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l2uumjng.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l2uumjng-1d1bf653.woff2",
+      "status": "ok",
+      "bytes": 10596
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l3uumjng.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l3uumjng-02632fc6.woff2",
+      "status": "ok",
+      "bytes": 80836
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l5uum.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l5uum-41f0896c.woff2",
+      "status": "ok",
+      "bytes": 51924
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia2jl7suc.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia2jl7suc-460363ea.woff2",
+      "status": "ok",
+      "bytes": 25888
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia0zl7suc.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia0zl7suc-81e4a3fc.woff2",
+      "status": "ok",
+      "bytes": 18740
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia2zl7suc.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia2zl7suc-042491c2.woff2",
+      "status": "ok",
+      "bytes": 11200
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia1pl7suc.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia1pl7suc-905cfe20.woff2",
+      "status": "ok",
+      "bytes": 19072
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia2pl7suc.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia2pl7suc-111fd1ac.woff2",
+      "status": "ok",
+      "bytes": 10252
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia25l7suc.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia25l7suc-c6b01cfe.woff2",
+      "status": "ok",
+      "bytes": 74328
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia1zl7.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia1zl7-91c4f3e6.woff2",
+      "status": "ok",
+      "bytes": 48444
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkc3kawzu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkc3kaw-1b2b6b21.woff2",
+      "status": "ok",
+      "bytes": 39456
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkankawzu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkankaw-d70a1683.woff2",
+      "status": "ok",
+      "bytes": 24576
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcnkawzu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcnkaw-0722a29b.woff2",
+      "status": "ok",
+      "bytes": 4468
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbxkawzu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbxkaw-c65d6160.woff2",
+      "status": "ok",
+      "bytes": 18800
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkenkawzu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkenkaw-b7f790fa.woff2",
+      "status": "ok",
+      "bytes": 44336
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkahkawzu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkahkaw-23bfd544.woff2",
+      "status": "ok",
+      "bytes": 22288
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcxkawzu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcxkaw-e6da20cd.woff2",
+      "status": "ok",
+      "bytes": 13888
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkchkawzu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkchkaw-98db740d.woff2",
+      "status": "ok",
+      "bytes": 28536
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbnka.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbnka-b803db58.woff2",
+      "status": "ok",
+      "bytes": 44192
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3gubgee.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3gubgee-803719ea.woff2",
+      "status": "ok",
+      "bytes": 35568
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3iubgee.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3iubgee-3b30c47a.woff2",
+      "status": "ok",
+      "bytes": 22796
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3cubgee.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3cubgee-b1f3de30.woff2",
+      "status": "ok",
+      "bytes": 4340
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3-ubgee.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3-ubgee-3c985211.woff2",
+      "status": "ok",
+      "bytes": 17628
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamawcubgee.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamawcubgee-7cb3c85e.woff2",
+      "status": "ok",
+      "bytes": 40572
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamaxkubgee.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamaxkubgee-ebe6dc18.woff2",
+      "status": "ok",
+      "bytes": 20408
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3oubgee.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3oubgee-3f99e944.woff2",
+      "status": "ok",
+      "bytes": 13004
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3kubgee.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3kubgee-07f0ce13.woff2",
+      "status": "ok",
+      "bytes": 26428
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba-59fc3872.woff2",
+      "status": "ok",
+      "bytes": 40128
+    },
+    {
+      "url": "https://use.typekit.net/af/b8e631/00000000000000007735d122/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3",
+      "kind": "img",
+      "localPath": "assets/img/l-8f7ab84c.png",
+      "status": "ok",
+      "bytes": 14480
+    },
+    {
+      "url": "https://use.typekit.net/af/b8e631/00000000000000007735d122/31/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3",
+      "kind": "img",
+      "localPath": "assets/img/d-ba149891.png",
+      "status": "ok",
+      "bytes": 15292
+    },
+    {
+      "url": "https://use.typekit.net/af/b8e631/00000000000000007735d122/31/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3",
+      "kind": "img",
+      "localPath": "assets/img/a-af07ee53.png",
+      "status": "ok",
+      "bytes": 22852
+    }
+  ]
+}

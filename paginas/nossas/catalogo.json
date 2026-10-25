@@ -1,0 +1,1876 @@
+{
+ "pasta": "paginas/nossas",
+ "prioridade": "alta",
+ "total": 40,
+ "paginas": [
+  {
+   "slug": "psi-luana-carolina-casais",
+   "nome": "PÁGINA PSI [LUANA CAROLINA · CASAIS]",
+   "pasta_original": "página de teste do PageBrain, aprovada",
+   "nicho": "Psicologia",
+   "tipo_pagina": "captacao",
+   "url": null,
+   "prioridade": "alta",
+   "referencia_de_padrao": true,
+   "relevancia": 5,
+   "estilo": [
+    "creme",
+    "cafe",
+    "vinho",
+    "inter",
+    "hero-foto-de-fundo"
+   ],
+   "cores_fundo": [
+    "#FBF7F1",
+    "#F4ECE2",
+    "#3A2A22"
+   ],
+   "cores_destaque": [
+    "#7A2320",
+    "#9E6644"
+   ],
+   "fontes": [
+    "Inter"
+   ],
+   "secoes": [
+    "hero",
+    "dor",
+    "para-quem-e",
+    "como-funciona",
+    "diferenciais",
+    "frase-destaque",
+    "faixa",
+    "sobre",
+    "faq",
+    "cta-final",
+    "rodape"
+   ],
+   "destaque": "Referência de padrão aprovada em 24/10/2026: sem menu, logo acima da headline, títulos em até 3 linhas, ícones da skill better-icons e hero com foto de fundo e fade no desktop e no mobile. Dados fictícios.",
+   "pagina": "psi-luana-carolina-casais/extraido/index.html",
+   "como_usar": "psi-luana-carolina-casais/como-usar.md",
+   "raio_x": "psi-luana-carolina-casais/raio-x/raio-x.md"
+  },
+  {
+   "slug": "adv-barros-e-carvalho",
+   "nome": "PÁGINA BARROS E CARVALHO",
+   "pasta_original": "Barros e Carvalho Adv",
+   "nicho": "Advocacia",
+   "tipo_pagina": "captacao",
+   "url": "https://lp.oreidalanding.com.br/barrosecarvalho/",
+   "prioridade": "alta",
+   "relevancia": 4,
+   "estilo": [
+    "corporativo",
+    "verde-escuro",
+    "claro",
+    "serifa-nos-titulos"
+   ],
+   "cores_fundo": [
+    "#F2F2F2",
+    "#203F35",
+    "#E9E9E9"
+   ],
+   "cores_destaque": [
+    "#203F35",
+    "#398C71"
+   ],
+   "fontes": [
+    "Roboto",
+    "Roboto Serif",
+    "Sora"
+   ],
+   "secoes": [
+    "hero",
+    "situacoes",
+    "diferenciais",
+    "sobre",
+    "cta-final",
+    "faq",
+    "contato",
+    "rodape"
+   ],
+   "destaque": "LP de captação de advocacia tributária com identidade verde-escura sóbria. Hero com foto dos dois sócios recortada sobre fundo verde, cards brancos com ícone verde para as situações de direito e seção de diferenciais com 4 cards brancos sobre foto escurecida em verde.",
+   "style_guide": "adv-barros-e-carvalho/style-guide.html",
+   "como_usar": "adv-barros-e-carvalho/como-usar.md",
+   "ficha": "adv-barros-e-carvalho/ficha.json",
+   "json_elementor": "../../elementor/paginas/captacao/adv-barros-e-carvalho.json"
+  },
+  {
+   "slug": "adv-calgarotto",
+   "nome": "Calgarotto Advocacia",
+   "pasta_original": "Calgarotto",
+   "nicho": "Advocacia",
+   "tipo_pagina": "captacao",
+   "url": "https://calgarottoadv.com.br/",
+   "prioridade": "alta",
+   "relevancia": 5,
+   "estilo": [
+    "luxo",
+    "azul-marinho",
+    "dourado",
+    "escuro"
+   ],
+   "cores_fundo": [
+    "#081A2E",
+    "#EEF6FF",
+    "#173352"
+   ],
+   "cores_destaque": [
+    "#DBB57B",
+    "#173352"
+   ],
+   "fontes": [
+    "Inter",
+    "Nunito Sans"
+   ],
+   "secoes": [
+    "hero",
+    "faixa",
+    "servicos",
+    "sobre",
+    "prova-social",
+    "como-funciona",
+    "formulario",
+    "contato",
+    "rodape"
+   ],
+   "destaque": "Escritório de direito da saúde e previdenciário em azul-marinho com detalhes dourados, visual de alto padrão. Destaques: barra de 4 diferenciais sobreposta ao fim do hero, cards em gradiente azul com ícone dourado e 'como funciona' com números grandes em cards creme.",
+   "style_guide": "adv-calgarotto/style-guide.html",
+   "como_usar": "adv-calgarotto/como-usar.md",
+   "ficha": "adv-calgarotto/ficha.json",
+   "json_elementor": "../../elementor/paginas/captacao/adv-calgarotto.json"
+  },
+  {
+   "slug": "adv-gustavo-kehl",
+   "nome": "PÁGINA ADVOGADO GUSTAVO KEHL",
+   "pasta_original": "Adv Gustavo",
+   "nicho": "Advocacia",
+   "tipo_pagina": "captacao",
+   "url": "https://lp.oreidalanding.com.br/gustavokehl/",
+   "prioridade": "alta",
+   "relevancia": 4,
+   "estilo": [
+    "escuro",
+    "azul-violeta",
+    "dourado",
+    "serifa"
+   ],
+   "cores_fundo": [
+    "#2A2D4D",
+    "#E7ECEF",
+    "#FFFFFF"
+   ],
+   "cores_destaque": [
+    "#1C1E33",
+    "#2A2D4D",
+    "#AC874B"
+   ],
+   "fontes": [
+    "Poppins",
+    "Merriweather",
+    "Sora"
+   ],
+   "secoes": [
+    "menu",
+    "hero",
+    "situacoes",
+    "como-funciona",
+    "prova-social",
+    "sobre",
+    "faq",
+    "contato",
+    "rodape"
+   ],
+   "destaque": "Distrato imobiliário com hero escuro azul-violeta e foto de mãos rasgando o contrato. Usa marca-texto dourado atrás da headline, lista de situações em pílulas com check e 4 passos com números em círculo.",
+   "style_guide": "adv-gustavo-kehl/style-guide.html",
+   "como_usar": "adv-gustavo-kehl/como-usar.md",
+   "ficha": "adv-gustavo-kehl/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "adv-luisa",
+   "nome": "PÁGINA ADV LUISA",
+   "pasta_original": "Luiza Advogada",
+   "nicho": "Advocacia",
+   "tipo_pagina": "captacao",
+   "url": "https://lp.oreidalanding.com.br/luisa/",
+   "prioridade": "alta",
+   "relevancia": 3,
+   "estilo": [
+    "escuro",
+    "azul-marinho",
+    "dourado",
+    "feminino"
+   ],
+   "cores_fundo": [
+    "#F0F0F0",
+    "#0A0E1A",
+    "#13192C"
+   ],
+   "cores_destaque": [
+    "#2AA716",
+    "#13192C",
+    "#181F3A"
+   ],
+   "fontes": [
+    "Sora",
+    "AROLSE"
+   ],
+   "secoes": [
+    "hero",
+    "servicos",
+    "como-funciona",
+    "sobre",
+    "diferenciais",
+    "contato",
+    "rodape"
+   ],
+   "destaque": "Advogada de passageiros aéreos com navy profundo e dourado. Cards navy 3x2 com ícones dourados para cada problema de voo, passo a passo em zigue-zague e seção de diferenciais com mockup de notebook e celular.",
+   "style_guide": "adv-luisa/style-guide.html",
+   "como_usar": "adv-luisa/como-usar.md",
+   "ficha": "adv-luisa/ficha.json",
+   "json_elementor": "../../elementor/paginas/captacao/adv-luisa.json"
+  },
+  {
+   "slug": "adv-souza-santos",
+   "nome": "PÁGINA ADV SOUZA SANTOS [FELIPPE AUGUSTO]",
+   "pasta_original": "Souza Santos",
+   "nicho": "Advocacia",
+   "tipo_pagina": "captacao",
+   "url": "https://lp.oreidalanding.com.br/souza-santos/",
+   "prioridade": "alta",
+   "relevancia": 4,
+   "estilo": [
+    "escuro",
+    "preto",
+    "vermelho",
+    "premium",
+    "editorial"
+   ],
+   "cores_fundo": [
+    "#051014",
+    "#000000",
+    "#E6E6E6"
+   ],
+   "cores_destaque": [],
+   "fontes": [
+    "Open Sans",
+    "Forum",
+    "Lora"
+   ],
+   "secoes": [
+    "hero",
+    "dor",
+    "diferenciais",
+    "sobre",
+    "dor",
+    "faq",
+    "prova-social",
+    "localizacao",
+    "rodape"
+   ],
+   "destaque": "Advocacia trabalhista bancária em preto e vermelho, muito premium, com fotos editoriais do advogado e muito texto. Selo 'TOP3 Brasil' no hero, FAQ longo em cards escuros e faixa clara com avaliações do Google.",
+   "style_guide": "adv-souza-santos/style-guide.html",
+   "como_usar": "adv-souza-santos/como-usar.md",
+   "ficha": "adv-souza-santos/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "imob-construtora-vitta",
+   "nome": "Construtora Vitta · Vitta Incorporadora · Concretizando Sonhos Imobiliários no Circuito das Águas e Sul de Minas Desde 2012, a Vitta Incorporadora se destaca no mercado imobiliário, oferecendo imóveis de médio e alto padrão nas melhores localizações do Circuito das Águas e Sul de Minas. Com mais de 300 unidades entregues, nossos empreendimentos em Lindóia, Águas de Lindóia, Serra Negra, Monte Sião e Hortolândia são reconhecidos pela qualidade, segurança e pontualidade na entrega. Os apartamentos da Vitta Incorporadora são projetados para proporcionar conforto e sofisticação, com diferenciais como varanda gourmet, vagas cobertas e aquecimento a gás. Além disso, nossos empreendimentos oferecem condições de pagamento facilitadas, com parcelas a partir de R$ 1.592/mês. Seja para morar ou investir, a Vitta Incorporadora transforma o sonho da casa própria em realidade, sempre com compromisso e excelência. Navegue pelo nosso site para conhecer nossos lançamentos e fazer parte dessa história de sucesso.",
+   "pasta_original": "Construtora Vitta",
+   "nicho": "Imobiliário",
+   "tipo_pagina": "captacao",
+   "url": "https://construtoravitta.com.br/",
+   "prioridade": "alta",
+   "relevancia": 4,
+   "estilo": [
+    "claro",
+    "azul-marinho",
+    "amarelo-mostarda",
+    "imobiliario"
+   ],
+   "cores_fundo": [
+    "#0B0E3B",
+    "#FFFFFF",
+    "#F1F1F1"
+   ],
+   "cores_destaque": [
+    "#D9A528",
+    "#0B0E3B",
+    "#0E1253"
+   ],
+   "fontes": [
+    "Poppins"
+   ],
+   "secoes": [
+    "hero",
+    "oferta",
+    "beneficios",
+    "oferta",
+    "prova-dados",
+    "formulario",
+    "sobre",
+    "faq",
+    "rodape"
+   ],
+   "destaque": "Lançamento de apartamentos na planta com azul-marinho e amarelo-mostarda. Cards de tipologia com carrossel de fotos, seção de pagamento com render do prédio, print de notícia do G1 como prova e formulário sobre foto da cidade.",
+   "style_guide": "imob-construtora-vitta/style-guide.html",
+   "como_usar": "imob-construtora-vitta/como-usar.md",
+   "ficha": "imob-construtora-vitta/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "imob-mb2-incorporacoes",
+   "nome": "MB2 Incorporações · Empreedimentos de Alto padrão para morar e investir com segurança. Atuamos em Florianópolis, Itapoá e Curitiba",
+   "pasta_original": "Mb2 INcorpora",
+   "nicho": "Imobiliário",
+   "tipo_pagina": "institucional",
+   "url": "https://mb2incorporacoes.com.br/",
+   "prioridade": "alta",
+   "relevancia": 4,
+   "estilo": [
+    "claro",
+    "minimalista",
+    "institucional",
+    "preto-e-branco"
+   ],
+   "cores_fundo": [
+    "#000000",
+    "#FFFFFF",
+    "#249C6A"
+   ],
+   "cores_destaque": [
+    "#249C6A"
+   ],
+   "fontes": [
+    "Inter"
+   ],
+   "secoes": [
+    "hero",
+    "catalogo",
+    "catalogo",
+    "catalogo",
+    "servicos",
+    "sobre",
+    "contato"
+   ],
+   "destaque": "Site institucional de incorporadora de alto padrão, limpo e editorial: rótulo pequeno + H2 à esquerda e cards de empreendimento escuros com foto à direita, separados por categoria (lançamentos, em obras, entregues, terrenos).",
+   "style_guide": "imob-mb2-incorporacoes/style-guide.html",
+   "como_usar": "imob-mb2-incorporacoes/como-usar.md",
+   "ficha": "imob-mb2-incorporacoes/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "imob-the-palace",
+   "nome": "PÁGINA DOS THE PALACE",
+   "pasta_original": "The palace",
+   "nicho": "Imobiliário",
+   "tipo_pagina": "captacao",
+   "url": "https://lp.oreidalanding.com.br/the-palace/",
+   "prioridade": "alta",
+   "relevancia": 4,
+   "estilo": [
+    "luxo",
+    "bege",
+    "dourado",
+    "serifa",
+    "claro"
+   ],
+   "cores_fundo": [
+    "#F9F5F2",
+    "#E2D4C9",
+    "#4B3325"
+   ],
+   "cores_destaque": [
+    "#4B3325",
+    "#FFFFFF",
+    "#E2D4C9"
+   ],
+   "fontes": [
+    "Montserrat",
+    "Antic Didone",
+    "Sora"
+   ],
+   "secoes": [
+    "menu",
+    "hero",
+    "localizacao",
+    "produto",
+    "lazer",
+    "sobre",
+    "formulario",
+    "rodape"
+   ],
+   "destaque": "Lançamento de altíssimo padrão em bege e dourado com serifa clássica. Hero com as duas torres renderizadas, abas laterais com vídeo para cada empreendimento, cards de lazer e card do corretor.",
+   "style_guide": "imob-the-palace/style-guide.html",
+   "como_usar": "imob-the-palace/como-usar.md",
+   "ficha": "imob-the-palace/ficha.json",
+   "json_elementor": "../../elementor/paginas/captacao/imob-the-palace.json"
+  },
+  {
+   "slug": "imob-vega-costa-e-silva",
+   "nome": "PÁGINA VEGA COSTA E SILVA",
+   "pasta_original": "Vaga e Costa Imobi",
+   "nicho": "Imobiliário",
+   "tipo_pagina": "captacao",
+   "url": "https://lp.oreidalanding.com.br/pagina-vega-costa-e-silva/",
+   "prioridade": "alta",
+   "relevancia": 5,
+   "estilo": [
+    "verde-escuro",
+    "laranja",
+    "serifa-display",
+    "claro-e-escuro"
+   ],
+   "cores_fundo": [
+    "#FFFFFF",
+    "#F7F4EE",
+    "#0F2F2B"
+   ],
+   "cores_destaque": [
+    "#FEBB09",
+    "#E7E7E7",
+    "#FF981F"
+   ],
+   "fontes": [
+    "Inter",
+    "Georgia",
+    "Roboto"
+   ],
+   "secoes": [
+    "hero",
+    "numeros",
+    "produto",
+    "prova-dados",
+    "formulario",
+    "produto",
+    "lazer",
+    "localizacao",
+    "andamento",
+    "formulario"
+   ],
+   "destaque": "É a página modelo de lançamento imobiliário do guia (8 dobras). Verde-escuro + laranja, serifa display com palavra em laranja, barra de specs sobreposta ao hero, gráfico de valorização em HTML, formulário de simulação, abas com tour 360, lazer, distâncias, barra de andamento da obra e header/rodapé próprios em widget HTML.",
+   "style_guide": "imob-vega-costa-e-silva/style-guide.html",
+   "como_usar": "imob-vega-costa-e-silva/como-usar.md",
+   "ficha": "imob-vega-costa-e-silva/ficha.json",
+   "json_elementor": "../../elementor/paginas/captacao/imob-vega-costa-e-silva.json"
+  },
+  {
+   "slug": "imob-vistoria-alphaville",
+   "nome": "Vistoria Alphaville · Laudo de Vistoria Detalhado",
+   "pasta_original": "Vistoria Alphaville",
+   "nicho": "Imobiliário",
+   "tipo_pagina": "captacao",
+   "url": "https://vistoriaalphaville.com.br/",
+   "prioridade": "alta",
+   "relevancia": 5,
+   "estilo": [
+    "claro",
+    "azul-marinho",
+    "dourado",
+    "b2b",
+    "organizado"
+   ],
+   "cores_fundo": [
+    "#FFFFFF",
+    "#0F223C",
+    "#234F80"
+   ],
+   "cores_destaque": [
+    "#234F80",
+    "#A78555",
+    "#0F223C"
+   ],
+   "fontes": [
+    "Sora",
+    "Nunito Sans",
+    "Trustindex Poppins"
+   ],
+   "secoes": [
+    "hero",
+    "numeros",
+    "solucao",
+    "servicos",
+    "como-funciona",
+    "como-funciona",
+    "para-quem-e",
+    "diferenciais",
+    "dor",
+    "prova-social",
+    "faq",
+    "cta-final",
+    "contato",
+    "rodape"
+   ],
+   "destaque": "Serviço B2B de vistoria imobiliária, muito completo e organizado. Hero com card de serviços, faixa animada com checks, cards brancos com listas de check por serviço, etapas numeradas em cards navy, 'para quem é' em cards brancos e diferenciais em grid de checks.",
+   "style_guide": "imob-vistoria-alphaville/style-guide.html",
+   "como_usar": "imob-vistoria-alphaville/como-usar.md",
+   "ficha": "imob-vistoria-alphaville/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "info-carol-guglielmi-imagem-pessoal",
+   "nome": "PÁGINA CAPTURA Carol Guglielmi | Posicionamento & Marca Pessoal",
+   "pasta_original": "Captura Carol",
+   "nicho": "Infoproduto / aplicação",
+   "tipo_pagina": "aplicacao",
+   "url": "https://lp.oreidalanding.com.br/carol-guglielmi/",
+   "prioridade": "alta",
+   "relevancia": 3,
+   "estilo": [
+    "azul-royal",
+    "branco",
+    "serifa-italica",
+    "feminino",
+    "moda"
+   ],
+   "cores_fundo": [
+    "#010127",
+    "#001371",
+    "#FFFFFF"
+   ],
+   "cores_destaque": [
+    "#001371",
+    "#273DAA"
+   ],
+   "fontes": [
+    "Inter",
+    "Playfair Display",
+    "Exo 2"
+   ],
+   "secoes": [
+    "hero",
+    "escassez",
+    "sobre",
+    "metodo",
+    "entregaveis",
+    "prova-resultados",
+    "sobre",
+    "rodape"
+   ],
+   "destaque": "Aplicação para sessão gratuita de consultoria de imagem. Nome manuscrito sobre a foto no hero, barra de escassez com progresso, logos de marcas (Chanel, Renner, C&A), serifa itálica com marca-texto bege e seção azul royal com fotos grandes legendadas.",
+   "style_guide": "info-carol-guglielmi-imagem-pessoal/style-guide.html",
+   "como_usar": "info-carol-guglielmi-imagem-pessoal/como-usar.md",
+   "ficha": "info-carol-guglielmi-imagem-pessoal/ficha.json",
+   "json_elementor": "../../elementor/paginas/captacao/info-carol-guglielmi-imagem-pessoal.json"
+  },
+  {
+   "slug": "info-victor-leao-aromaterapia",
+   "nome": "Consultoria Gratuita · Victor Leão",
+   "pasta_original": "Victor Leao",
+   "nicho": "Infoproduto / aplicação",
+   "tipo_pagina": "aplicacao",
+   "url": "https://victorleaogotaconsciencia.com/consultoria-gratuita/",
+   "prioridade": "alta",
+   "relevancia": 3,
+   "estilo": [
+    "terroso",
+    "pessego",
+    "verde-escuro",
+    "marrom",
+    "serifa-dourada"
+   ],
+   "cores_fundo": [
+    "#294A39",
+    "#432A21",
+    "#FFCB87"
+   ],
+   "cores_destaque": [
+    "#294A39",
+    "#FFCB87",
+    "#432A21"
+   ],
+   "fontes": [
+    "Poppins",
+    "LEMON MILK1"
+   ],
+   "secoes": [
+    "hero",
+    "metodo",
+    "cta-final",
+    "para-quem-e",
+    "como-funciona",
+    "como-funciona",
+    "prova-social",
+    "sobre",
+    "rodape"
+   ],
+   "destaque": "Captação de aplicação para consultoria de carreira em aromaterapia, em tons terrosos (pêssego, verde-escuro, marrom) com serifa dourada. O método C.R.E.S.C.E.R. aparece em escada de cards com a inicial grande, e há cards de depoimento extensos com foto.",
+   "style_guide": "info-victor-leao-aromaterapia/style-guide.html",
+   "como_usar": "info-victor-leao-aromaterapia/como-usar.md",
+   "ficha": "info-victor-leao-aromaterapia/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "negocio-bar-santa-boemia",
+   "nome": "PÁGINA BAR SANTA BOEMIA",
+   "pasta_original": "Bar santa boemia",
+   "nicho": "Negócio local / B2B",
+   "tipo_pagina": "captacao",
+   "url": "https://lp.oreidalanding.com.br/pagina-bar-santa-boemia/",
+   "prioridade": "alta",
+   "relevancia": 5,
+   "estilo": [
+    "amarelo",
+    "creme",
+    "preto",
+    "descontraido",
+    "gastronomia"
+   ],
+   "cores_fundo": [
+    "#F5F0E1",
+    "#FFFDF7",
+    "#111010"
+   ],
+   "cores_destaque": [
+    "#111010",
+    "#E6BD21",
+    "#EAE2CC"
+   ],
+   "fontes": [
+    "Archivo",
+    "Montserrat",
+    "Oswald"
+   ],
+   "secoes": [
+    "menu",
+    "hero",
+    "diferenciais",
+    "servicos",
+    "sobre",
+    "beneficios",
+    "servicos",
+    "galeria",
+    "prova-social",
+    "localizacao",
+    "rodape"
+   ],
+   "destaque": "Bar e restaurante em amarelo, creme e preto com palavras-chave em marca-texto amarelo. Cardápio em grid com foto, a história da casa em formato editorial longo, bloco de happy hour em amarelo e galeria. Menu com drawer próprio em HTML.",
+   "style_guide": "negocio-bar-santa-boemia/style-guide.html",
+   "como_usar": "negocio-bar-santa-boemia/como-usar.md",
+   "ficha": "negocio-bar-santa-boemia/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "negocio-entre-para-trip",
+   "nome": "Entre Para Trip Portal · O Entre Para Trip é uma extensão dos nossos perfis pessoais. A audiência nos acompanha pela identificação com nosso estilo de vida e nossos valores.",
+   "pasta_original": "Entre pra trip",
+   "nicho": "Negócio local / B2B",
+   "tipo_pagina": "captacao",
+   "url": "https://entreparatrip.com.br/",
+   "prioridade": "alta",
+   "relevancia": 4,
+   "estilo": [
+    "escuro",
+    "verde-whatsapp",
+    "laranja",
+    "aventura",
+    "fotografico"
+   ],
+   "cores_fundo": [
+    "#07101C",
+    "#000000",
+    "#F1F4F8"
+   ],
+   "cores_destaque": [
+    "#25D366",
+    "#FF6E00",
+    "#2C3A4B"
+   ],
+   "fontes": [
+    "Poppins"
+   ],
+   "secoes": [
+    "hero",
+    "para-quem-e",
+    "beneficios",
+    "sobre",
+    "oferta",
+    "numeros",
+    "galeria",
+    "escassez",
+    "oferta",
+    "faq",
+    "cta-final"
+   ],
+   "destaque": "Expedições de viagem em grupo, escura e fotográfica. Ícones de linha para as experiências, fundadores lado a lado em foto cheia, incluso e não incluso em 3 colunas, números, galeria em grid, faixa amarela de escassez e cards de expedição com foto de fundo e botão laranja.",
+   "style_guide": "negocio-entre-para-trip/style-guide.html",
+   "como_usar": "negocio-entre-para-trip/como-usar.md",
+   "ficha": "negocio-entre-para-trip/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "negocio-harmony-estudio-tatuagem",
+   "nome": "Estudio Tatuagem [Harmony Midia] · Harmony Midia",
+   "pasta_original": "Harmony Midia",
+   "nicho": "Negócio local / B2B",
+   "tipo_pagina": "aplicacao",
+   "url": "https://harmonymidia.com/tatuadores/",
+   "prioridade": "alta",
+   "relevancia": 3,
+   "estilo": [
+    "roxo",
+    "preto",
+    "neon",
+    "agencia",
+    "digital"
+   ],
+   "cores_fundo": [
+    "#070708",
+    "#FBFBFB",
+    "#252525"
+   ],
+   "cores_destaque": [
+    "#A77CFF",
+    "#291E3D"
+   ],
+   "fontes": [
+    "Nunito Sans"
+   ],
+   "secoes": [
+    "hero",
+    "faixa",
+    "prova-social",
+    "dor",
+    "metodo",
+    "metodo",
+    "servicos",
+    "prova-resultados",
+    "sobre",
+    "faq"
+   ],
+   "destaque": "Agência de marketing para tatuadores em roxo e preto. Formulário já no hero, faixa animada, carrossel de vídeos verticais (reels) com thumbnails chamativas, prints de WhatsApp como prova, diagrama circular do método e cards de resultado.",
+   "style_guide": "negocio-harmony-estudio-tatuagem/style-guide.html",
+   "como_usar": "negocio-harmony-estudio-tatuagem/como-usar.md",
+   "ficha": "negocio-harmony-estudio-tatuagem/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "negocio-hoffen-sports",
+   "nome": "Hoffen Sports",
+   "pasta_original": "Hoffen Sports",
+   "nicho": "Negócio local / B2B",
+   "tipo_pagina": "institucional",
+   "url": "https://hoffensports.com.br/",
+   "prioridade": "alta",
+   "relevancia": 3,
+   "estilo": [
+    "escuro",
+    "cinza",
+    "azul-claro",
+    "industrial"
+   ],
+   "cores_fundo": [
+    "#FFFFFF",
+    "#E6E7E7",
+    "#1B1B1B"
+   ],
+   "cores_destaque": [
+    "#7DC3CE",
+    "#E6E7E7",
+    "#054167"
+   ],
+   "fontes": [
+    "Exo 2",
+    "Montserrat"
+   ],
+   "secoes": [
+    "hero",
+    "sobre",
+    "sobre",
+    "diferenciais",
+    "catalogo",
+    "cta-final",
+    "rodape"
+   ],
+   "destaque": "Institucional de fabricante de equipamentos esportivos, visual industrial em preto, cinza e azul-claro. Cards de categoria com foto, faixa escura com 6 ícones de diferencial, catálogo de produtos em carrossel e CTA azul-claro.",
+   "style_guide": "negocio-hoffen-sports/style-guide.html",
+   "como_usar": "negocio-hoffen-sports/como-usar.md",
+   "ficha": "negocio-hoffen-sports/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "negocio-inter-frios-refrigeracao",
+   "nome": "PÁGINA INTER FRIOS",
+   "pasta_original": "LP Interfrios",
+   "nicho": "Negócio local / B2B",
+   "tipo_pagina": "captacao",
+   "url": "https://lp.oreidalanding.com.br/pagina-inter-frios/",
+   "prioridade": "alta",
+   "relevancia": 5,
+   "estilo": [
+    "claro",
+    "azul-marinho",
+    "azul",
+    "b2b",
+    "tecnico"
+   ],
+   "cores_fundo": [
+    "#FFFFFF",
+    "#F4F6F8",
+    "#05233C"
+   ],
+   "cores_destaque": [
+    "#05233C",
+    "#0065A9",
+    "#4FA3DA"
+   ],
+   "fontes": [
+    "Inter",
+    "Space Grotesk",
+    "Roboto"
+   ],
+   "secoes": [
+    "menu",
+    "hero",
+    "servicos",
+    "numeros",
+    "dor",
+    "solucao",
+    "servicos",
+    "diferenciais",
+    "sobre",
+    "como-funciona",
+    "logos",
+    "formulario",
+    "faq",
+    "cta-final",
+    "rodape"
+   ],
+   "destaque": "B2B de refrigeração comercial, um dos melhores exemplos de página técnica da casa. Hero com dois CTAs, atalhos de serviço, números grandes, cards de dor com foto, diagrama do supervisório, cards de serviço com imagem e diferenciais numerados 01 a 06 em contorno.",
+   "style_guide": "negocio-inter-frios-refrigeracao/style-guide.html",
+   "como_usar": "negocio-inter-frios-refrigeracao/como-usar.md",
+   "ficha": "negocio-inter-frios-refrigeracao/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "odonto-invisalign-jv-clinica",
+   "nome": "PÁGINA INVISALIGN [JV CLINICA]",
+   "pasta_original": "Invisalign LP",
+   "nicho": "Odontologia",
+   "tipo_pagina": "captacao",
+   "url": "https://lp.oreidalanding.com.br/pagina-invisalign-jv-clinica/",
+   "prioridade": "alta",
+   "relevancia": 4,
+   "estilo": [
+    "bege",
+    "dourado",
+    "verde",
+    "serifa-fina",
+    "claro"
+   ],
+   "cores_fundo": [
+    "#EAE5DF",
+    "#FFFFFF",
+    "#F7F7F7"
+   ],
+   "cores_destaque": [
+    "#453513"
+   ],
+   "fontes": [
+    "Inter",
+    "Brushelva"
+   ],
+   "secoes": [
+    "hero",
+    "beneficios",
+    "como-funciona",
+    "sobre",
+    "contato",
+    "rodape"
+   ],
+   "destaque": "Captação para Invisalign em bege e dourado com serifa fina. Vídeo vertical logo após o hero, cards de vantagem com ícone de check, 3 passos em zigue-zague com linha vertical e seção da clínica com vídeo.",
+   "style_guide": "odonto-invisalign-jv-clinica/style-guide.html",
+   "como_usar": "odonto-invisalign-jv-clinica/como-usar.md",
+   "ficha": "odonto-invisalign-jv-clinica/ficha.json",
+   "json_elementor": "../../elementor/paginas/captacao/odonto-invisalign-jv-clinica.json"
+  },
+  {
+   "slug": "odonto-rubiane-vitali",
+   "nome": "CLÍNICA ODONTOLOGICA [Rubiane Vitali]",
+   "pasta_original": "Odonto LP",
+   "nicho": "Odontologia",
+   "tipo_pagina": "captacao",
+   "url": "https://lp.oreidalanding.com.br/odonto/",
+   "prioridade": "alta",
+   "relevancia": 3,
+   "estilo": [
+    "rosa",
+    "rose",
+    "verde",
+    "feminino",
+    "claro"
+   ],
+   "cores_fundo": [
+    "#FFFFFF",
+    "#FFEDEF",
+    "#FFD4DA"
+   ],
+   "cores_destaque": [
+    "#55BB63",
+    "#F87A81",
+    "#E29195"
+   ],
+   "fontes": [
+    "Poppins"
+   ],
+   "secoes": [
+    "hero",
+    "numeros",
+    "solucao",
+    "beneficios",
+    "prova-resultados",
+    "dor",
+    "prova-social",
+    "sobre",
+    "prova-social",
+    "localizacao",
+    "diferenciais",
+    "faq",
+    "contato",
+    "rodape"
+   ],
+   "destaque": "Implantes com carga imediata em rosa e rosé. Aviso 'Não aceitamos convênio' no topo, barra de 3 dados sob o hero, 9 cards de benefício com ícone rosa, carrossel de antes e depois, vídeo e faixa rosa com 3 diferenciais.",
+   "style_guide": "odonto-rubiane-vitali/style-guide.html",
+   "como_usar": "odonto-rubiane-vitali/como-usar.md",
+   "ficha": "odonto-rubiane-vitali/ficha.json",
+   "json_elementor": "../../elementor/paginas/captacao/odonto-rubiane-vitali.json"
+  },
+  {
+   "slug": "psi-andressa-darold",
+   "nome": "PÁGINA PSI [ANDRESSA DAROLD]",
+   "pasta_original": "Psi nova",
+   "nicho": "Psicologia",
+   "tipo_pagina": "captacao",
+   "url": "https://lp.oreidalanding.com.br/pagina-psi-andressa-darold/",
+   "prioridade": "alta",
+   "relevancia": 4,
+   "estilo": [
+    "bege",
+    "taupe",
+    "minimalista",
+    "serifa-elegante"
+   ],
+   "cores_fundo": [
+    "#CCC0A8",
+    "#EFE8D8",
+    "#B59E7F"
+   ],
+   "cores_destaque": [
+    "#CCC0A8",
+    "#B59E7F"
+   ],
+   "fontes": [
+    "Montserrat",
+    "Playfair Display"
+   ],
+   "secoes": [
+    "hero",
+    "para-quem-e",
+    "sobre",
+    "como-funciona",
+    "faq",
+    "rodape"
+   ],
+   "destaque": "Psicóloga TCC em bege e taupe, minimalista e curta (6 seções). Cards taupe em 5 colunas que abrem a lista de sintomas no hover, card 'sobre' branco com sombra e FAQ em pílulas taupe.",
+   "style_guide": "psi-andressa-darold/style-guide.html",
+   "como_usar": "psi-andressa-darold/como-usar.md",
+   "ficha": "psi-andressa-darold/ficha.json",
+   "json_elementor": "../../elementor/paginas/captacao/psi-andressa-darold.json"
+  },
+  {
+   "slug": "psi-julia-valdetaro",
+   "nome": "Psicóloga Júlia Valdetaro",
+   "pasta_original": "Psi Julia",
+   "nicho": "Psicologia",
+   "tipo_pagina": "captacao",
+   "url": "https://psicologajuliavaldetaro.com.br/",
+   "prioridade": "alta",
+   "relevancia": 3,
+   "estilo": [
+    "creme",
+    "marrom-cafe",
+    "feminino",
+    "claro"
+   ],
+   "cores_fundo": [
+    "#FFF5E8",
+    "#F3E2CE",
+    "#FFFFFF"
+   ],
+   "cores_destaque": [
+    "#553724"
+   ],
+   "fontes": [
+    "Poppins"
+   ],
+   "secoes": [
+    "hero",
+    "servicos",
+    "como-funciona",
+    "sobre",
+    "prova-social",
+    "localizacao",
+    "faq",
+    "rodape"
+   ],
+   "destaque": "Psicóloga em creme e marrom café com monograma da marca como elemento gráfico grande. Cards de serviço com ícone, 3 passos numerados, 'sobre' com foto e avaliações do Google.",
+   "style_guide": "psi-julia-valdetaro/style-guide.html",
+   "como_usar": "psi-julia-valdetaro/como-usar.md",
+   "ficha": "psi-julia-valdetaro/ficha.json",
+   "json_elementor": "../../elementor/paginas/captacao/psi-julia-valdetaro.json"
+  },
+  {
+   "slug": "psi-maria-rita-sales",
+   "nome": "PÁGINA MARIA RITA SALES [01 · JULHO]",
+   "pasta_original": "Psi Maria Rita",
+   "nicho": "Psicologia",
+   "tipo_pagina": "captacao",
+   "url": "https://lp.oreidalanding.com.br/maria-rita-sales/",
+   "prioridade": "alta",
+   "relevancia": 4,
+   "estilo": [
+    "azul-petroleo",
+    "bege",
+    "editorial",
+    "serifa"
+   ],
+   "cores_fundo": [
+    "#29476D",
+    "#FFFFFF",
+    "#EBEBEB"
+   ],
+   "cores_destaque": [
+    "#29476D",
+    "#FFFFFF",
+    "#E8DCC8"
+   ],
+   "fontes": [
+    "Karla",
+    "Fraunces"
+   ],
+   "secoes": [
+    "menu",
+    "hero",
+    "para-quem-e",
+    "sobre",
+    "servicos",
+    "metodo",
+    "prova-social",
+    "conteudo",
+    "conteudo",
+    "localizacao",
+    "faq",
+    "rodape"
+   ],
+   "destaque": "Psicóloga PhD para profissionais que cuidam de pessoas. Tem menu que vira pílula ao rolar, seção de método com cartas voando no scroll, rodapé em HTML, blog, lives e comunidade. No print estático o hero e o método aparecem vazios porque são animados.",
+   "style_guide": "psi-maria-rita-sales/style-guide.html",
+   "como_usar": "psi-maria-rita-sales/como-usar.md",
+   "ficha": "psi-maria-rita-sales/ficha.json",
+   "json_elementor": "../../elementor/paginas/captacao/psi-maria-rita-sales.json"
+  },
+  {
+   "slug": "psi-renan",
+   "nome": "PÁGINA RENAN",
+   "pasta_original": "Renan Psi",
+   "nicho": "Psicologia",
+   "tipo_pagina": "captacao",
+   "url": "https://lp.oreidalanding.com.br/pagina-renan/",
+   "prioridade": "alta",
+   "relevancia": 5,
+   "estilo": [
+    "off-white",
+    "azul-petroleo",
+    "serifa-italica",
+    "acolhedor"
+   ],
+   "cores_fundo": [
+    "#FAF8F5",
+    "#F2EEE8",
+    "#173B47"
+   ],
+   "cores_destaque": [
+    "#1F4E5F",
+    "#FAF8F5",
+    "#173B47"
+   ],
+   "fontes": [
+    "Inter",
+    "Fraunces",
+    "Nunito Sans"
+   ],
+   "secoes": [
+    "hero",
+    "faixa",
+    "servicos",
+    "como-funciona",
+    "antes-depois",
+    "prova-social",
+    "sobre",
+    "faixa",
+    "localizacao",
+    "faq",
+    "cta-final",
+    "rodape"
+   ],
+   "destaque": "Terapia de relacionamentos, uma das mais refinadas da casa. Off-white e petróleo, Fraunces com palavra em itálico, faixa marquee petróleo, cards com foto no topo, linha do tempo zigue-zague com scroll, comparativo 'antes e com a terapia' em vermelho e verde e 'sobre' escuro.",
+   "style_guide": "psi-renan/style-guide.html",
+   "como_usar": "psi-renan/como-usar.md",
+   "ficha": "psi-renan/ficha.json",
+   "json_elementor": "../../elementor/paginas/captacao/psi-renan.json"
+  },
+  {
+   "slug": "psi-rosangela-munhoz-psicanalista",
+   "nome": "PÁGINA [Psicanalista Rosangela Munhoz]",
+   "pasta_original": "Captura Adv",
+   "nicho": "Psicologia",
+   "tipo_pagina": "captacao",
+   "url": "https://lp.oreidalanding.com.br/munh/",
+   "prioridade": "alta",
+   "relevancia": 5,
+   "estilo": [
+    "roxo",
+    "lavanda",
+    "salvia",
+    "serifa-italica",
+    "feminino"
+   ],
+   "cores_fundo": [
+    "#FFFFFF",
+    "#2A2540",
+    "#F4F1FF"
+   ],
+   "cores_destaque": [
+    "#B09FCF",
+    "#2A2540"
+   ],
+   "fontes": [
+    "DM Sans",
+    "Gelasio"
+   ],
+   "secoes": [
+    "menu",
+    "hero",
+    "para-quem-e",
+    "video",
+    "beneficios",
+    "sobre",
+    "prova-social",
+    "faq",
+    "rodape"
+   ],
+   "destaque": "Psicanálise para mães, em roxo profundo, lavanda e sálvia. Cards de fase da maternidade com foto, vídeo, 4 etapas com número em círculo ligadas por linha animada, 'sobre' com duas fotos e depoimentos com aspas.",
+   "style_guide": "psi-rosangela-munhoz-psicanalista/style-guide.html",
+   "como_usar": "psi-rosangela-munhoz-psicanalista/como-usar.md",
+   "ficha": "psi-rosangela-munhoz-psicanalista/ficha.json",
+   "json_elementor": "../../elementor/paginas/captacao/psi-rosangela-munhoz-psicanalista.json"
+  },
+  {
+   "slug": "psi-vivian-widuch",
+   "nome": "PÁGINA PSI VIVIAN WIDUCH",
+   "pasta_original": "Psi Vivian",
+   "nicho": "Psicologia",
+   "tipo_pagina": "captacao",
+   "url": "https://lp.oreidalanding.com.br/vivian/",
+   "prioridade": "alta",
+   "relevancia": 4,
+   "estilo": [
+    "creme",
+    "terracota",
+    "azul-marinho",
+    "serifa-italica",
+    "ilustrado"
+   ],
+   "cores_fundo": [
+    "#FFF8F0",
+    "#DF8F5C",
+    "#BCBCBC"
+   ],
+   "cores_destaque": [
+    "#0F3D64",
+    "#DF8F5C"
+   ],
+   "fontes": [
+    "Inter",
+    "crimson text",
+    "Crimson Text"
+   ],
+   "secoes": [
+    "hero",
+    "video",
+    "sobre",
+    "prova-social",
+    "servicos",
+    "faq",
+    "contato",
+    "rodape"
+   ],
+   "destaque": "Psicóloga para mulheres imigrantes em creme, terracota e azul-marinho, com traço de avião ilustrado e serifa itálica. Card de apresentação com 4 cards navy de conquistas, seção terracota com cards brancos de formato de atendimento e botão laranja acompanhado de botão-ícone quadrado.",
+   "style_guide": "psi-vivian-widuch/style-guide.html",
+   "como_usar": "psi-vivian-widuch/como-usar.md",
+   "ficha": "psi-vivian-widuch/ficha.json",
+   "json_elementor": "../../elementor/paginas/captacao/psi-vivian-widuch.json"
+  },
+  {
+   "slug": "vendas-mentoria-bancario-jessica",
+   "nome": "PÁGINA MENTORIA BANCARIO [JESSICA]",
+   "pasta_original": "VEnda Mentoria",
+   "nicho": "Página de vendas",
+   "tipo_pagina": "vendas",
+   "url": "https://lp.oreidalanding.com.br/pagina-mentoria-bancario-jessica/",
+   "prioridade": "alta",
+   "relevancia": 4,
+   "estilo": [
+    "preto",
+    "dourado-bronze",
+    "premium",
+    "escuro"
+   ],
+   "cores_fundo": [
+    "#0E0E0E",
+    "#1F1F1F",
+    "#FFFFFF"
+   ],
+   "cores_destaque": [
+    "#444444",
+    "#B78241"
+   ],
+   "fontes": [
+    "Manrope"
+   ],
+   "secoes": [
+    "hero",
+    "dor",
+    "para-quem-e",
+    "solucao",
+    "conteudo",
+    "bonus",
+    "prova-social",
+    "oferta",
+    "sobre",
+    "faq",
+    "rodape"
+   ],
+   "destaque": "Venda de curso e mentoria para bancários em preto e bronze. Hero com foto em ambiente dourado e prova '+120 pessoas', cards de dor em bronze, 'para quem é' com checks sobre foto, abas de módulos, bônus em cards brancos com mockup e dois planos.",
+   "style_guide": "vendas-mentoria-bancario-jessica/style-guide.html",
+   "como_usar": "vendas-mentoria-bancario-jessica/como-usar.md",
+   "ficha": "vendas-mentoria-bancario-jessica/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "vendas-mentoria-bancario-jessica-v2",
+   "nome": "PÁGINA MENTORIA BANCARIO VERSAO 2 FUTURISTA [JESSICA]",
+   "pasta_original": "construcao2 (capturada em 19/10/2026)",
+   "nicho": "Página de vendas",
+   "tipo_pagina": "vendas",
+   "url": "https://lp.oreidalanding.com.br/construcao2/",
+   "prioridade": "alta",
+   "relevancia": 5,
+   "estilo": [
+    "preto",
+    "laranja",
+    "futurista",
+    "3d-vidro",
+    "escuro"
+   ],
+   "cores_fundo": [
+    "#000000",
+    "#160A06",
+    "#FFFFFF"
+   ],
+   "cores_destaque": [
+    "#F5811E",
+    "#FDD16E"
+   ],
+   "fontes": [
+    "Inter",
+    "Manrope"
+   ],
+   "secoes": [
+    "hero",
+    "faixa",
+    "dor",
+    "para-quem-e",
+    "conteudo",
+    "bonus",
+    "prova-social",
+    "oferta",
+    "sobre",
+    "faq",
+    "rodape"
+   ],
+   "destaque": "Versão 2 futurista da venda para bancários: hero com túnel de luz laranja, expert real e ícones 3D de vidro dentro da arte, faixas laranja finas, carrossel de capas de módulo e de prints, bônus em cards brancos e dois planos (escuro e branco).",
+   "style_guide": "vendas-mentoria-bancario-jessica-v2/style-guide.html",
+   "como_usar": "vendas-mentoria-bancario-jessica-v2/como-usar.md",
+   "ficha": "vendas-mentoria-bancario-jessica-v2/ficha.json",
+   "raio_x": "vendas-mentoria-bancario-jessica-v2/raio-x/raio-x.md",
+   "json_elementor": null
+  },
+  {
+   "slug": "vendas-morelli-churrasco-networking",
+   "nome": "PÁGINA MORELLI CHURRASCO NETWORKING",
+   "pasta_original": "Vendas Morelli",
+   "nicho": "Página de vendas",
+   "tipo_pagina": "vendas",
+   "url": "https://lp.oreidalanding.com.br/pagina-morelli-churrasco-networking/",
+   "prioridade": "alta",
+   "relevancia": 4,
+   "estilo": [
+    "preto",
+    "laranja-fogo",
+    "condensada",
+    "evento"
+   ],
+   "cores_fundo": [
+    "#090D16",
+    "#050505",
+    "#101521"
+   ],
+   "cores_destaque": [
+    "#C93618",
+    "#E14722",
+    "#F0C6BA"
+   ],
+   "fontes": [
+    "Inter",
+    "Roboto",
+    "Anton"
+   ],
+   "secoes": [
+    "hero",
+    "video",
+    "como-funciona",
+    "prova-social",
+    "oferta",
+    "localizacao",
+    "faq",
+    "rodape"
+   ],
+   "destaque": "Venda de ingressos de evento em preto e laranja fogo com tipografia condensada. Números do evento, 'como funciona' em 4 cards, vídeos de depoimento e ingressos em formato de ticket com 3 níveis.",
+   "style_guide": "vendas-morelli-churrasco-networking/style-guide.html",
+   "como_usar": "vendas-morelli-churrasco-networking/como-usar.md",
+   "ficha": "vendas-morelli-churrasco-networking/ficha.json",
+   "json_elementor": "../../elementor/paginas/vendas/vendas-morelli-churrasco-networking.json"
+  },
+  {
+   "slug": "vendas-odonto-luiz-gustavo-melo",
+   "nome": "PÁGINA LUIZ GUSTAVO DENTISTA",
+   "pasta_original": "Vendas Odonto Infoproduto",
+   "nicho": "Página de vendas",
+   "tipo_pagina": "vendas",
+   "url": "https://lp.oreidalanding.com.br/luizgustavomelo_/",
+   "prioridade": "alta",
+   "relevancia": 4,
+   "estilo": [
+    "azul-royal",
+    "escuro",
+    "gradiente",
+    "tecnologico"
+   ],
+   "cores_fundo": [
+    "#06132B",
+    "#071E3E",
+    "#0D3266"
+   ],
+   "cores_destaque": [
+    "#155EC5",
+    "#FFFFFF",
+    "#071E3E"
+   ],
+   "fontes": [
+    "Sora",
+    "Roboto"
+   ],
+   "secoes": [
+    "hero",
+    "beneficios",
+    "sobre",
+    "beneficios",
+    "para-quem-e",
+    "conteudo",
+    "bonus",
+    "oferta",
+    "garantia",
+    "faq",
+    "rodape"
+   ],
+   "destaque": "Venda de formação presencial para dentistas em azul royal escuro com gradientes. Palavra-chave em azul claro, cards de aprendizado com ícone, 'sobre' com duas fotos, abas de módulos, bônus, preço com âncora e selo circular de garantia de 7 dias.",
+   "style_guide": "vendas-odonto-luiz-gustavo-melo/style-guide.html",
+   "como_usar": "vendas-odonto-luiz-gustavo-melo/como-usar.md",
+   "ficha": "vendas-odonto-luiz-gustavo-melo/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "vendas-scripts-consignado-jessica",
+   "nome": "PÁGINA JESSICA SCRIPT",
+   "pasta_original": "Vendas Scripts",
+   "nicho": "Página de vendas",
+   "tipo_pagina": "vendas",
+   "url": "https://lp.oreidalanding.com.br/pagina-jessica-script/",
+   "prioridade": "alta",
+   "relevancia": 5,
+   "estilo": [
+    "preto",
+    "laranja",
+    "glow",
+    "produto-digital"
+   ],
+   "cores_fundo": [
+    "#000000",
+    "#0E0E0E",
+    "#252525"
+   ],
+   "cores_destaque": [
+    "#8F4A10",
+    "#F5811E",
+    "#FCCC69"
+   ],
+   "fontes": [
+    "Inter",
+    "Nunito Sans",
+    "Roboto"
+   ],
+   "secoes": [
+    "hero",
+    "faixa",
+    "prova-social",
+    "dor",
+    "solucao",
+    "como-funciona",
+    "conteudo",
+    "bonus",
+    "oferta",
+    "garantia",
+    "sobre",
+    "faixa",
+    "faq",
+    "rodape"
+   ],
+   "destaque": "A página de vendas mais completa da casa. Preto com glow laranja, mockups do PDF, faixa animada, prints de alunos, balões de fala na dor, bloco de solução laranja, 3 passos, conteúdo em 2 colunas de checks, bônus em verde, oferta com mockups, selo de garantia e bio.",
+   "style_guide": "vendas-scripts-consignado-jessica/style-guide.html",
+   "como_usar": "vendas-scripts-consignado-jessica/como-usar.md",
+   "ficha": "vendas-scripts-consignado-jessica/ficha.json",
+   "json_elementor": "../../elementor/paginas/vendas/vendas-scripts-consignado-jessica.json"
+  },
+  {
+   "slug": "vendas-templates-arquiteto-jardel",
+   "nome": "Página PDB TEMPLATES [JARDEL]",
+   "pasta_original": "Venda Template Arquiteto",
+   "nicho": "Página de vendas",
+   "tipo_pagina": "vendas",
+   "url": "https://lp.oreidalanding.com.br/templates-jardel/",
+   "prioridade": "alta",
+   "relevancia": 4,
+   "estilo": [
+    "preto",
+    "azul-petroleo",
+    "claro-e-escuro",
+    "3d"
+   ],
+   "cores_fundo": [
+    "#000000",
+    "#ECECEC",
+    "#161616"
+   ],
+   "cores_destaque": [
+    "#0071A2",
+    "#158ABD"
+   ],
+   "fontes": [
+    "Manrope",
+    "Nunito Sans"
+   ],
+   "secoes": [
+    "hero",
+    "faixa",
+    "beneficios",
+    "produto",
+    "para-quem-e",
+    "entregaveis",
+    "faixa",
+    "prova-social",
+    "oferta",
+    "garantia",
+    "sobre",
+    "faq",
+    "rodape"
+   ],
+   "destaque": "Venda de template de Revit, alternando preto e cinza claro, com renders 3D de casas. Linhas verticais animadas no fundo, botão com borda de luz girando, cards de entregável claros com lista e render, oferta com 50% de desconto e selo circular de garantia.",
+   "style_guide": "vendas-templates-arquiteto-jardel/style-guide.html",
+   "como_usar": "vendas-templates-arquiteto-jardel/como-usar.md",
+   "ficha": "vendas-templates-arquiteto-jardel/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "vendas-workshop-barbearia-toledo",
+   "nome": "PÁGINA WORKSHOP SETEMBRO TOLEDO",
+   "pasta_original": "Workshop Vendas",
+   "nicho": "Página de vendas",
+   "tipo_pagina": "vendas",
+   "url": "https://lp.oreidalanding.com.br/pagina-workshop-setembro-toledo/",
+   "prioridade": "alta",
+   "relevancia": 4,
+   "estilo": [
+    "preto",
+    "laranja",
+    "vermelho",
+    "agressivo",
+    "dados"
+   ],
+   "cores_fundo": [
+    "#0F0F0F",
+    "#000000",
+    "#1A1A1A"
+   ],
+   "cores_destaque": [
+    "#FF6B35",
+    "#C24A1D",
+    "#FFAA00"
+   ],
+   "fontes": [
+    "Sora",
+    "Inter",
+    "Roboto"
+   ],
+   "secoes": [
+    "escassez",
+    "hero",
+    "dor",
+    "prova-resultados",
+    "prova-resultados",
+    "solucao",
+    "prova-social",
+    "oferta",
+    "garantia",
+    "escassez",
+    "cta-final",
+    "rodape"
+   ],
+   "destaque": "Workshop online para donos de barbearia: barra de contagem regressiva no topo, notificações de WhatsApp ao redor da foto na dor, gráfico de faturamento em HTML, comparação 'agora x depois' em vermelho e verde, 4 pilares numerados, prints de resultado e ticket de ingresso.",
+   "style_guide": "vendas-workshop-barbearia-toledo/style-guide.html",
+   "como_usar": "vendas-workshop-barbearia-toledo/como-usar.md",
+   "ficha": "vendas-workshop-barbearia-toledo/ficha.json",
+   "json_elementor": "../../elementor/paginas/vendas/vendas-workshop-barbearia-toledo.json"
+  },
+  {
+   "slug": "saude-cecilia-borges-cirurgia-plastica",
+   "nome": "PÁGINA [Dra Cecilia Borges]",
+   "pasta_original": "Dra Cecilia",
+   "nicho": "Saúde / medicina",
+   "tipo_pagina": "captacao",
+   "url": "https://lp.oreidalanding.com.br/cecilia-borges/",
+   "prioridade": "alta",
+   "relevancia": 4,
+   "estilo": [
+    "roxo-uva",
+    "rose",
+    "feminino",
+    "premium"
+   ],
+   "cores_fundo": [
+    "#D8C7C1",
+    "#4B0F55",
+    "#F0DBD4"
+   ],
+   "cores_destaque": [
+    "#4B0F55"
+   ],
+   "fontes": [
+    "Poppins",
+    "Sora"
+   ],
+   "secoes": [
+    "hero",
+    "prova-resultados",
+    "servicos",
+    "para-quem-e",
+    "sobre",
+    "localizacao",
+    "rodape"
+   ],
+   "destaque": "Cirurgiã plástica em roxo uva e rosé. Carrossel de resultados com tarja, cards roxos de procedimento dentro de um container claro arredondado, faixa roxa com 6 checks em pílulas brancas e card da clínica com lista e mapa.",
+   "style_guide": "saude-cecilia-borges-cirurgia-plastica/style-guide.html",
+   "como_usar": "saude-cecilia-borges-cirurgia-plastica/como-usar.md",
+   "ficha": "saude-cecilia-borges-cirurgia-plastica/ficha.json",
+   "json_elementor": "../../elementor/paginas/captacao/saude-cecilia-borges-cirurgia-plastica.json"
+  },
+  {
+   "slug": "saude-luciano-grisotto-mastopexia",
+   "nome": "PÁGINA (Mastopexia) [Luciano Grisotto] · Dr Luciano Grisotto",
+   "pasta_original": "Luciano Dr 1",
+   "nicho": "Saúde / medicina",
+   "tipo_pagina": "captacao",
+   "url": "https://lucianogrisotto.com.br/mastopexia/",
+   "prioridade": "alta",
+   "relevancia": 4,
+   "estilo": [
+    "cinza-grafite",
+    "creme",
+    "minimalista",
+    "masculino-neutro"
+   ],
+   "cores_fundo": [
+    "#FCFAF3",
+    "#535456",
+    "#38393B"
+   ],
+   "cores_destaque": [
+    "#61CE70",
+    "#CC3366"
+   ],
+   "fontes": [
+    "Inter",
+    "Sora"
+   ],
+   "secoes": [
+    "hero",
+    "prova-resultados",
+    "beneficios",
+    "como-funciona",
+    "prova-social",
+    "sobre",
+    "localizacao",
+    "cta-final",
+    "rodape"
+   ],
+   "destaque": "LP de procedimento único (mastopexia) em cinza grafite e creme. Galeria de resultados, checklist em barras, cards de benefício cinza com ícone, bloco do procedimento e clínica com contatos e CTA.",
+   "style_guide": "saude-luciano-grisotto-mastopexia/style-guide.html",
+   "como_usar": "saude-luciano-grisotto-mastopexia/como-usar.md",
+   "ficha": "saude-luciano-grisotto-mastopexia/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "saude-luciano-grisotto-mommy-makeover",
+   "nome": "PÁGINA (Mommy Makeover) [Luciano Grisotto] · Dr Luciano Grisotto",
+   "pasta_original": "Luciano Grisotto 2",
+   "nicho": "Saúde / medicina",
+   "tipo_pagina": "captacao",
+   "url": "https://lucianogrisotto.com.br/mommy-makeover/",
+   "prioridade": "alta",
+   "relevancia": 3,
+   "estilo": [
+    "cinza-grafite",
+    "creme",
+    "minimalista"
+   ],
+   "cores_fundo": [
+    "#FCFAF3",
+    "#535456",
+    "#76777A"
+   ],
+   "cores_destaque": [
+    "#61CE70",
+    "#CC3366"
+   ],
+   "fontes": [
+    "Inter",
+    "Sora"
+   ],
+   "secoes": [
+    "hero",
+    "prova-resultados",
+    "beneficios",
+    "como-funciona",
+    "sobre",
+    "prova-social",
+    "localizacao",
+    "cta-final",
+    "rodape"
+   ],
+   "destaque": "Mesmo template da página de mastopexia, aplicado ao Mommy Makeover. Prova de que a casa reaproveita a estrutura por procedimento e troca só copy, fotos e mensagem do WhatsApp.",
+   "style_guide": "saude-luciano-grisotto-mommy-makeover/style-guide.html",
+   "como_usar": "saude-luciano-grisotto-mommy-makeover/como-usar.md",
+   "ficha": "saude-luciano-grisotto-mommy-makeover/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "saude-pedro-camargo-psiquiatra",
+   "nome": "Dr Pedro Camargo · Psiquiatra",
+   "pasta_original": "Dr Pedro",
+   "nicho": "Saúde / medicina",
+   "tipo_pagina": "captacao",
+   "url": "https://drpedrocamargo.com.br/",
+   "prioridade": "alta",
+   "relevancia": 4,
+   "estilo": [
+    "azul-marinho",
+    "branco",
+    "serifa",
+    "sobrio"
+   ],
+   "cores_fundo": [
+    "#FBFBFB",
+    "#001D4C",
+    "#F1F1F1"
+   ],
+   "cores_destaque": [
+    "#001D4C",
+    "#002B72",
+    "#131D33"
+   ],
+   "fontes": [
+    "Inter",
+    "Georgia",
+    "Sora"
+   ],
+   "secoes": [
+    "menu",
+    "hero",
+    "sobre",
+    "para-quem-e",
+    "prova-social",
+    "como-funciona",
+    "localizacao",
+    "faq",
+    "rodape"
+   ],
+   "destaque": "Psiquiatra em azul-marinho e branco, sóbrio. Menu em pílula branca, 'sobre' em fundo navy com card de Instagram sobre a foto, carrossel de condições atendidas, 4 etapas numeradas em cards navy e bloco presencial/online com dois botões.",
+   "style_guide": "saude-pedro-camargo-psiquiatra/style-guide.html",
+   "como_usar": "saude-pedro-camargo-psiquiatra/como-usar.md",
+   "ficha": "saude-pedro-camargo-psiquiatra/ficha.json",
+   "json_elementor": "../../elementor/paginas/captacao/saude-pedro-camargo-psiquiatra.json"
+  },
+  {
+   "slug": "servico-goncont-contador",
+   "nome": "PÁGINA CONTADOR GONCONT",
+   "pasta_original": "Godim COntador",
+   "nicho": "Serviço B2B",
+   "tipo_pagina": "captacao",
+   "url": "https://lp.oreidalanding.com.br/goncont/",
+   "prioridade": "alta",
+   "relevancia": 3,
+   "estilo": [
+    "vermelho-bordo",
+    "branco",
+    "corporativo"
+   ],
+   "cores_fundo": [
+    "#F5F5F5",
+    "#FFFFFF",
+    "#940C0C"
+   ],
+   "cores_destaque": [
+    "#940C0C"
+   ],
+   "fontes": [
+    "Inter"
+   ],
+   "secoes": [
+    "hero",
+    "servicos",
+    "para-quem-e",
+    "sobre",
+    "como-funciona",
+    "prova-social",
+    "faq",
+    "contato",
+    "rodape"
+   ],
+   "destaque": "Contabilidade para profissionais da saúde em vermelho bordô. Cards vermelhos dentro de um container branco que sobe sobre o hero, 'para quem é' com checks, timeline de 3 passos em zigue-zague e depoimentos em grid.",
+   "style_guide": "servico-goncont-contador/style-guide.html",
+   "como_usar": "servico-goncont-contador/como-usar.md",
+   "ficha": "servico-goncont-contador/ficha.json",
+   "json_elementor": "../../elementor/paginas/captacao/servico-goncont-contador.json"
+  },
+  {
+   "slug": "servico-rp-vision-marketing",
+   "nome": "PÁGINA RP VISION",
+   "pasta_original": "Rp Vision",
+   "nicho": "Serviço B2B",
+   "tipo_pagina": "aplicacao",
+   "url": "https://lp.oreidalanding.com.br/rpvision/",
+   "prioridade": "alta",
+   "relevancia": 3,
+   "estilo": [
+    "roxo-escuro",
+    "lilas",
+    "agencia",
+    "digital"
+   ],
+   "cores_fundo": [
+    "#322747",
+    "#0A0A0B",
+    "#FFFFFF"
+   ],
+   "cores_destaque": [
+    "#322747",
+    "#271E39",
+    "#320046"
+   ],
+   "fontes": [
+    "Inter"
+   ],
+   "secoes": [
+    "hero",
+    "prova-social",
+    "dor",
+    "metodo",
+    "prova-resultados",
+    "beneficios",
+    "sobre",
+    "cta-final",
+    "faq",
+    "rodape"
+   ],
+   "destaque": "Agência de tráfego em roxo escuro e lilás, mesmo esqueleto da Harmony com visual mais limpo. Marca-texto lilás nas palavras, vídeos de depoimento, cards de dor, diagrama circular do método V.I.S.A.O e lista de benefícios em barras.",
+   "style_guide": "servico-rp-vision-marketing/style-guide.html",
+   "como_usar": "servico-rp-vision-marketing/como-usar.md",
+   "ficha": "servico-rp-vision-marketing/ficha.json",
+   "json_elementor": null
+  },
+  {
+   "slug": "vendas-luana-carolina-metodo-lua",
+   "nome": "PÁGINA VENDAS [LUANA CAROLINA · MÉTODO L.U.A.]",
+   "pasta_original": "página de teste do PageBrain, aprovada",
+   "nicho": "Página de vendas",
+   "tipo_pagina": "vendas",
+   "url": null,
+   "prioridade": "alta",
+   "referencia_de_padrao": true,
+   "relevancia": 5,
+   "estilo": [
+    "escuro",
+    "violeta",
+    "lavanda",
+    "dourado",
+    "hero-foto-de-fundo"
+   ],
+   "cores_fundo": [
+    "#0D0B12",
+    "#130F1C",
+    "#1A1426"
+   ],
+   "cores_destaque": [
+    "#CDB8F2",
+    "#7B4FD6",
+    "#D9944B"
+   ],
+   "fontes": [
+    "Questrial",
+    "Raleway"
+   ],
+   "secoes": [
+    "hero",
+    "faixa",
+    "problema",
+    "protocolo-video",
+    "depoimentos",
+    "modulos",
+    "o-que-voce-leva",
+    "bonus",
+    "resultados",
+    "autoridade",
+    "oferta",
+    "certificado",
+    "faixa",
+    "faq",
+    "rodape"
+   ],
+   "destaque": "Referência de padrão aprovada em 25/10/2026 para página de vendas escura de formação ou curso. Molde: vendas-odonto-luiz-gustavo-melo. Produto e dados fictícios, expert real.",
+   "pagina": "vendas-luana-carolina-metodo-lua/extraido/index.html",
+   "como_usar": "vendas-luana-carolina-metodo-lua/como-usar.md",
+   "raio_x": "vendas-luana-carolina-metodo-lua/raio-x/raio-x.md"
+  }
+ ]
+}

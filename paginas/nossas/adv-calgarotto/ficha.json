@@ -1,0 +1,209 @@
+{
+ "nome": "Calgarotto Advocacia",
+ "slug": "adv-calgarotto",
+ "pasta_original": "Calgarotto",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://calgarottoadv.com.br/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Advocacia",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#081A2E",
+   "#EEF6FF",
+   "#173352",
+   "#DBB57B"
+  ],
+  "textos": [
+   "#FFFFFF",
+   "#081A2E"
+  ],
+  "destaques": [
+   "#DBB57B",
+   "#173352"
+  ],
+  "gradientes": [
+   "linear-gradient(rgb(52, 94, 143) 0%, rgb(26, 60, 99) 100%)",
+   "linear-gradient(120deg, rgb(255, 240, 218) 0%, rgb(255, 255, 255) 100%)",
+   "linear-gradient(22deg, rgba(255, 255, 255, 0.16) 0%, rgba(255, 255, 255, 0) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Inter",
+   "uso_pct": 84
+  },
+  {
+   "familia": "Nunito Sans",
+   "uso_pct": 14
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  54,
+  41,
+  39,
+  33,
+  22,
+  20,
+  19,
+  18,
+  16
+ ],
+ "escala_tipografica_mobile_px": [
+  32,
+  30,
+  26,
+  25,
+  23,
+  22,
+  19,
+  18
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#00000000",
+  "gradiente": "linear-gradient(90deg, rgb(179, 147, 100) 0%, rgb(230, 193, 138) 50%, rgb(179, 147, 100) 100%)",
+  "texto": "#081A2E",
+  "raio": "8px",
+  "padding": "18px 42px",
+  "fonte": "Inter",
+  "tamanho": "18px",
+  "peso": "600",
+  "caixa": "none",
+  "exemplos": [
+   "Fale agora pelo WhatsApp",
+   "Quero falar com o advogado agora"
+  ]
+ },
+ "raios": [
+  "8px",
+  "12px"
+ ],
+ "sombras": [
+  "rgba(0, 0, 0, 0.25) 13px 11px 25px 0px",
+  "rgba(0, 0, 0, 0.12) 8px 10px 46px 0px"
+ ],
+ "gaps": [
+  "20px",
+  "15px",
+  "47px",
+  "14px",
+  "10px",
+  "5px"
+ ],
+ "largura_conteudo_px": 1140,
+ "altura_pagina_px": 4714,
+ "secoes_qtde": 8,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "Advocacia com experiência em Direito da Saúde, benefícios do INSS e isenção de i",
+   "fundo": "#081A2E",
+   "altura_px": 800
+  },
+  {
+   "ordem": 2,
+   "tipo": "faixa",
+   "titulo": "",
+   "fundo": "#112D4D",
+   "altura_px": 80
+  },
+  {
+   "ordem": 3,
+   "tipo": "servicos",
+   "titulo": "Atendimento em todo o brasil",
+   "fundo": "#EEF6FF",
+   "altura_px": 1186
+  },
+  {
+   "ordem": 4,
+   "tipo": "sobre",
+   "titulo": "Sobre o escritório",
+   "fundo": "#081A2E",
+   "altura_px": 709
+  },
+  {
+   "ordem": 5,
+   "tipo": "prova-social",
+   "titulo": "Veja o que nossos clientes dizem",
+   "fundo": "#EEF6FF",
+   "altura_px": 263
+  },
+  {
+   "ordem": 6,
+   "tipo": "como-funciona",
+   "titulo": "Como funciona nossa atuação?",
+   "fundo": "#081A2E",
+   "altura_px": 1556
+  },
+  {
+   "ordem": 7,
+   "tipo": "formulario",
+   "titulo": "",
+   "fundo": "#173352",
+   "altura_px": 60
+  },
+  {
+   "ordem": 8,
+   "tipo": "contato",
+   "titulo": "Todos os direitos reservados ©",
+   "fundo": "#173352",
+   "altura_px": 60
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "faixa",
+  "servicos",
+  "sobre",
+  "prova-social",
+  "como-funciona",
+  "formulario",
+  "contato",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "luxo",
+  "azul-marinho",
+  "dourado",
+  "escuro"
+ ],
+ "tecnicas": [
+  "Gradiente azul nos cards",
+  "Moldura deslocada atrás da foto",
+  "Faixa animada (carrossel de icon-list)",
+  "Script de scroll em base64 (otimizado pelo WP Rocket)"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "carrossel",
+   "fadeIn"
+  ],
+  "entrada_elementor": [
+   "fadeIn"
+  ],
+  "classes_scroll": [
+   "scroll-bottom"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "jquery",
+  "lottie"
+ ],
+ "snippets_usados": [
+  "whatsapp-e-flutuantes/link-whatsapp-com-mensagem.html"
+ ],
+ "relevancia": 5,
+ "resumo": "Escritório de direito da saúde e previdenciário em azul-marinho com detalhes dourados, visual de alto padrão. Destaques: barra de 4 diferenciais sobreposta ao fim do hero, cards em gradiente azul com ícone dourado e 'como funciona' com números grandes em cards creme.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/adv-calgarotto.md",
+  "json_elementor": "../../../elementor/paginas/captacao/adv-calgarotto.json"
+ }
+}

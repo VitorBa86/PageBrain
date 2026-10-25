@@ -1,0 +1,221 @@
+{
+ "nome": "PÁGINA CONTADOR GONCONT",
+ "slug": "servico-goncont-contador",
+ "pasta_original": "Godim COntador",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://lp.oreidalanding.com.br/goncont/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Serviço B2B",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#F5F5F5",
+   "#FFFFFF",
+   "#940C0C",
+   "#360505"
+  ],
+  "textos": [
+   "#FFFFFF",
+   "#4E4E4E",
+   "#0C0C0C",
+   "#940C0C",
+   "#54595F"
+  ],
+  "destaques": [
+   "#940C0C"
+  ],
+  "gradientes": [
+   "linear-gradient(206deg, rgb(148, 12, 12) 45%, rgb(100, 11, 11) 100%)",
+   "radial-gradient(59.41% 84.42% at 50% 7.14%, rgb(195, 62, 64) 0%, rgb(144, 13, 15) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Inter",
+   "uso_pct": 99
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  61,
+  42,
+  33,
+  23,
+  22,
+  20,
+  18
+ ],
+ "escala_tipografica_mobile_px": [
+  28,
+  25,
+  24,
+  22,
+  20,
+  18,
+  18,
+  18
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#940C0C",
+  "gradiente": "radial-gradient(59.41% 84.42% at 50% 7.14%, rgb(195, 62, 64) 0%, rgb(144, 13, 15) 100%)",
+  "texto": "#FFFFFF",
+  "raio": "12px",
+  "padding": "18px 38px",
+  "fonte": "Inter",
+  "tamanho": "20px",
+  "peso": "500",
+  "caixa": "none",
+  "exemplos": [
+   "Falar com contador",
+   "Agendar consultoria",
+   "Solicitar análise tributária gratuita"
+  ]
+ },
+ "raios": [
+  "12px",
+  "10%",
+  "10px",
+  "6px",
+  "32px",
+  "25px"
+ ],
+ "sombras": [
+  "rgba(0, 0, 0, 0.08) 5px 5px 10px 0px",
+  "rgba(0, 0, 0, 0.27) 6px 3px 47px 0px",
+  "rgba(0, 0, 0, 0.05) 0px 0px 18px 0px"
+ ],
+ "gaps": [
+  "20px",
+  "5px",
+  "15px",
+  "33px",
+  "10px",
+  "50px"
+ ],
+ "largura_conteudo_px": 1140,
+ "altura_pagina_px": 6660,
+ "secoes_qtde": 9,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "Reduza sua carga tributária de forma legal e estratégica com uma contabilidade e",
+   "fundo": "#360505",
+   "altura_px": 800
+  },
+  {
+   "ordem": 2,
+   "tipo": "servicos",
+   "titulo": "Soluções contábeis estratégicas para profissionais da saúde",
+   "fundo": "#F5F5F5",
+   "altura_px": 1045
+  },
+  {
+   "ordem": 3,
+   "tipo": "para-quem-e",
+   "titulo": "PARA QUEM É?",
+   "fundo": "#F5F5F5",
+   "altura_px": 862
+  },
+  {
+   "ordem": 4,
+   "tipo": "sobre",
+   "titulo": "Quem sou eu?",
+   "fundo": "#940C0C",
+   "altura_px": 800
+  },
+  {
+   "ordem": 5,
+   "tipo": "como-funciona",
+   "titulo": "Nosso processo para reduzir seus impostos com segurança",
+   "fundo": "#F5F5F5",
+   "altura_px": 840
+  },
+  {
+   "ordem": 6,
+   "tipo": "prova-social",
+   "titulo": "",
+   "fundo": "#FFFFFF",
+   "altura_px": 164
+  },
+  {
+   "ordem": 7,
+   "tipo": "faq",
+   "titulo": "O que nossos clientes dizem:",
+   "fundo": "#F5F5F5",
+   "altura_px": 1199
+  },
+  {
+   "ordem": 8,
+   "tipo": "contato",
+   "titulo": "Perguntas Frequentes",
+   "fundo": "#FFFFFF",
+   "altura_px": 743
+  },
+  {
+   "ordem": 9,
+   "tipo": "rodape",
+   "titulo": "Gondim Organização Contábil ©2026 - Todos os direitos reservados",
+   "fundo": "#350606",
+   "altura_px": 207
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "servicos",
+  "para-quem-e",
+  "sobre",
+  "como-funciona",
+  "prova-social",
+  "faq",
+  "contato",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "vermelho-bordo",
+  "branco",
+  "corporativo"
+ ],
+ "tecnicas": [
+  "CSS base e scroll-reveal colados em widget HTML (sem CSS custom da página)"
+ ],
+ "animacoes": {
+  "keyframes": [],
+  "entrada_elementor": [],
+  "classes_scroll": [
+   "scroll-bottom",
+   "scroll-left",
+   "scroll-right",
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "google-ads",
+  "happy-addons",
+  "jquery",
+  "lenis",
+  "lottie",
+  "meta-pixel",
+  "swiper"
+ ],
+ "snippets_usados": [
+  "animacoes/animacao-scroll-reveal.html",
+  "tracking-e-pixels/meta-pixel.html",
+  "tracking-e-pixels/google-ads-gtag.html",
+  "utilitarios-css/css-base-toda-pagina.css",
+  "utilitarios-css/faq-toggle-arredondado.css",
+  "utilitarios-css/elemento-posicao-absoluta.css"
+ ],
+ "relevancia": 3,
+ "resumo": "Contabilidade para profissionais da saúde em vermelho bordô. Cards vermelhos dentro de um container branco que sobe sobre o hero, 'para quem é' com checks, timeline de 3 passos em zigue-zague e depoimentos em grid.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/servico-goncont-contador.md",
+  "json_elementor": "../../../elementor/paginas/captacao/servico-goncont-contador.json"
+ }
+}

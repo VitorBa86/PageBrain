@@ -1,0 +1,216 @@
+{
+ "nome": "Dr Pedro Camargo · Psiquiatra",
+ "slug": "saude-pedro-camargo-psiquiatra",
+ "pasta_original": "Dr Pedro",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://drpedrocamargo.com.br/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Saúde / medicina",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#FBFBFB",
+   "#001D4C",
+   "#F1F1F1",
+   "#002B72"
+  ],
+  "textos": [
+   "#FFFFFF",
+   "#00112C",
+   "#001D4C",
+   "#131D33"
+  ],
+  "destaques": [
+   "#001D4C",
+   "#002B72",
+   "#131D33"
+  ],
+  "gradientes": []
+ },
+ "fontes": [
+  {
+   "familia": "Inter",
+   "uso_pct": 82
+  },
+  {
+   "familia": "Georgia",
+   "uso_pct": 16
+  },
+  {
+   "familia": "Sora",
+   "uso_pct": 3
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  42,
+  38,
+  37,
+  35,
+  32,
+  24,
+  22,
+  20,
+  18
+ ],
+ "escala_tipografica_mobile_px": [
+  35,
+  31,
+  30,
+  23,
+  22,
+  19,
+  19,
+  19
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#001D4C",
+  "gradiente": null,
+  "texto": "#FFFFFF",
+  "raio": "12px",
+  "padding": "24px 24px",
+  "fonte": "Inter",
+  "tamanho": "18px",
+  "peso": "500",
+  "caixa": "none",
+  "exemplos": [
+   "Agende sua consulta agora",
+   "Agende sua consulta online"
+  ]
+ },
+ "raios": [
+  "12px",
+  "15px"
+ ],
+ "sombras": [
+  "rgba(0, 0, 0, 0.5) 0px 0px 5px 0px",
+  "rgba(0, 0, 0, 0.16) 5px 5px 32px 0px"
+ ],
+ "gaps": [
+  "20px",
+  "14px",
+  "5px",
+  "15px",
+  "10px",
+  "17px"
+ ],
+ "largura_conteudo_px": 1140,
+ "altura_pagina_px": 5195,
+ "secoes_qtde": 8,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "menu",
+   "titulo": "Dr Pedro Camargo | Psiquiatra",
+   "fundo": "#FBFBFB",
+   "altura_px": 750
+  },
+  {
+   "ordem": 2,
+   "tipo": "hero",
+   "titulo": "Sobre mim",
+   "fundo": "#001D4C",
+   "altura_px": 600
+  },
+  {
+   "ordem": 3,
+   "tipo": "sobre",
+   "titulo": "Para quem é o atendimento?",
+   "fundo": "#FBFBFB",
+   "altura_px": 750
+  },
+  {
+   "ordem": 4,
+   "tipo": "para-quem-e",
+   "titulo": "Depoimentos",
+   "fundo": "#FFFFFF",
+   "altura_px": 620
+  },
+  {
+   "ordem": 5,
+   "tipo": "prova-social",
+   "titulo": "Como funciona o atendimento?",
+   "fundo": "#001D4C",
+   "altura_px": 1025
+  },
+  {
+   "ordem": 6,
+   "tipo": "como-funciona",
+   "titulo": "Agende sua consulta",
+   "fundo": "#FBFBFB",
+   "altura_px": 802
+  },
+  {
+   "ordem": 7,
+   "tipo": "localizacao",
+   "titulo": "FAQ",
+   "fundo": "#FBFBFB",
+   "altura_px": 588
+  },
+  {
+   "ordem": 8,
+   "tipo": "faq",
+   "titulo": "Todos os direitos reservados © 2025",
+   "fundo": "#001D4C",
+   "altura_px": 60
+  }
+ ],
+ "tipos_de_secao": [
+  "menu",
+  "hero",
+  "sobre",
+  "para-quem-e",
+  "prova-social",
+  "como-funciona",
+  "localizacao",
+  "faq",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "azul-marinho",
+  "branco",
+  "serifa",
+  "sobrio"
+ ],
+ "tecnicas": [
+  "GTM e pixel em widget HTML (WP Meteor)"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "hide-scroll"
+  ],
+  "entrada_elementor": [],
+  "classes_scroll": [
+   "scroll-bottom",
+   "scroll-left",
+   "scroll-right",
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "google-ads",
+  "jquery",
+  "lottie",
+  "swiper"
+ ],
+ "snippets_usados": [
+  "animacoes/animacao-scroll-reveal.html",
+  "faixas-e-carrosseis/carrossel-imagem-largura.css",
+  "whatsapp-e-flutuantes/link-whatsapp-com-mensagem.html",
+  "utilitarios-css/css-base-toda-pagina.css",
+  "utilitarios-css/faq-toggle-arredondado.css",
+  "utilitarios-css/elemento-posicao-absoluta.css"
+ ],
+ "relevancia": 4,
+ "resumo": "Psiquiatra em azul-marinho e branco, sóbrio. Menu em pílula branca, 'sobre' em fundo navy com card de Instagram sobre a foto, carrossel de condições atendidas, 4 etapas numeradas em cards navy e bloco presencial/online com dois botões.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/saude-pedro-camargo-psiquiatra.md",
+  "json_elementor": "../../../elementor/paginas/captacao/saude-pedro-camargo-psiquiatra.json"
+ }
+}

@@ -1,0 +1,214 @@
+{
+ "nome": "Marques e Doria · MarqueseDoria",
+ "slug": "adv-marques-e-doria-criminal",
+ "pasta_original": "Marques Adv",
+ "origem": "paginas/gerais",
+ "prioridade": "referencia",
+ "url": "https://marquesedorialavras.com.br/criminal/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Advocacia",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#0A0A0A",
+   "#B39133",
+   "#C9A227",
+   "#FFFFFF",
+   "#C8A45D",
+   "#E2B743"
+  ],
+  "textos": [
+   "#ADA69A",
+   "#FFFFFF",
+   "#F5F0E4",
+   "#0A0A0A",
+   "#C9A227",
+   "#E8C766"
+  ],
+  "destaques": [
+   "#C9A227",
+   "#FFFFFF",
+   "#C8A45D",
+   "#B39133"
+  ],
+  "gradientes": [
+   "linear-gradient(rgb(11, 11, 11) 0%, rgb(7, 7, 7) 100%)",
+   "linear-gradient(160deg, rgb(23, 23, 23) 0%, rgb(12, 12, 12) 78%)",
+   "linear-gradient(138deg, rgb(0, 0, 0) 0%, rgba(40, 43, 49, 0.56) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Inter",
+   "uso_pct": 69
+  },
+  {
+   "familia": "Playfair Display",
+   "uso_pct": 22
+  },
+  {
+   "familia": "Cinzel",
+   "uso_pct": 4
+  },
+  {
+   "familia": "Playfair",
+   "uso_pct": 2
+  },
+  {
+   "familia": "Roboto",
+   "uso_pct": 2
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  65,
+  62,
+  56,
+  50,
+  48,
+  32,
+  27,
+  26,
+  23
+ ],
+ "escala_tipografica_mobile_px": [
+  34,
+  32,
+  31,
+  30,
+  25,
+  24,
+  20,
+  17
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#C9A227",
+  "gradiente": null,
+  "texto": "#0A0A0A",
+  "raio": "999px",
+  "padding": "18px 34px",
+  "fonte": "Inter",
+  "tamanho": "20px",
+  "peso": "600",
+  "caixa": "none",
+  "exemplos": [
+   "Falar com um advogado agora",
+   "Aplicar no meu caso!",
+   "Resolver minha dúvida!"
+  ]
+ },
+ "raios": [
+  "28px",
+  "21px",
+  "18px",
+  "999px",
+  "50px",
+  "50px 50px 0px 0px"
+ ],
+ "sombras": [
+  "rgba(201, 162, 39, 0.2) 0px 12px 34px 0px"
+ ],
+ "gaps": [
+  "20px",
+  "16px",
+  "5px",
+  "10px",
+  "18px",
+  "26px"
+ ],
+ "largura_conteudo_px": 1200,
+ "altura_pagina_px": 5754,
+ "secoes_qtde": 6,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "DEFESA CRIMINAL · ATUAÇÃO EM TODO O BRASIL",
+   "fundo": "#0000000C",
+   "altura_px": 797
+  },
+  {
+   "ordem": 2,
+   "tipo": "servicos",
+   "titulo": "ÁREAS DE ATUAÇÃO",
+   "fundo": "gradiente",
+   "altura_px": 2132
+  },
+  {
+   "ordem": 3,
+   "tipo": "",
+   "titulo": "COMO TRABALHAMOS",
+   "fundo": "gradiente",
+   "altura_px": 978
+  },
+  {
+   "ordem": 4,
+   "tipo": "faq",
+   "titulo": "DÚVIDAS FREQUENTES",
+   "fundo": "gradiente",
+   "altura_px": 611
+  },
+  {
+   "ordem": 5,
+   "tipo": "",
+   "titulo": "ATENDIMENTO",
+   "fundo": "transparente",
+   "altura_px": 757
+  },
+  {
+   "ordem": 6,
+   "tipo": "rodape",
+   "titulo": "Nosso instagram!",
+   "fundo": "#0D0E0F",
+   "altura_px": 490
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "servicos",
+  "",
+  "faq",
+  "",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "preto",
+  "dourado",
+  "serifa",
+  "premium"
+ ],
+ "tecnicas": [
+  "Botões pílula dourados"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "fadeIn",
+   "fadeInDown",
+   "fadeInLeft"
+  ],
+  "entrada_elementor": [
+   "fadeIn",
+   "fadeInDown",
+   "fadeInLeft"
+  ],
+  "classes_scroll": []
+ },
+ "bibliotecas": [
+  "ga4",
+  "jquery",
+  "lottie",
+  "swiper"
+ ],
+ "snippets_usados": [],
+ "relevancia": 5,
+ "resumo": "Advocacia criminal em preto e dourado com Playfair. Headline curta com palavra em dourado, 3x3 cards escuros com ícone dourado, 4 passos numerados, FAQ em acordeão dourado e CTA final tipográfico grande com 'cada hora conta'.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": null,
+  "copy_real": null,
+  "json_elementor": null,
+  "ref": "ref/"
+ }
+}

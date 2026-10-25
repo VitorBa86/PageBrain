@@ -1,0 +1,277 @@
+{
+ "nome": "Dr. Ademar de Alcântara - Advogado Criminalista BH",
+ "slug": "adv-ademar-alcantara-criminalista",
+ "pasta_original": "Ademar Dr LP",
+ "origem": "paginas/gerais",
+ "prioridade": "referencia",
+ "url": "https://www.criminalistabh.com.br/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Advocacia",
+ "tipo_pagina": "institucional",
+ "paleta": {
+  "fundos": [
+   "#FFFFFF",
+   "#10132D",
+   "#0A0A0A",
+   "#B7B7B7",
+   "#F1F1F1",
+   "#42548C",
+   "#0D255A"
+  ],
+  "textos": [
+   "#FFFFFF",
+   "#000000",
+   "#272727",
+   "#5F6567",
+   "#161616",
+   "#2F2F2F"
+  ],
+  "destaques": [
+   "#FFFFFF",
+   "#42548C"
+  ],
+  "gradientes": [
+   "linear-gradient(0deg, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Open Sans",
+   "uso_pct": 43
+  },
+  {
+   "familia": "Trustindex Open Sans",
+   "uso_pct": 13
+  },
+  {
+   "familia": "Geologica",
+   "uso_pct": 10
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  70,
+  42,
+  28,
+  26,
+  24,
+  22,
+  19,
+  18
+ ],
+ "escala_tipografica_mobile_px": [
+  34,
+  28,
+  26,
+  24,
+  22,
+  22,
+  22,
+  19
+ ],
+ "h1_mobile": "28px",
+ "botao_principal": {
+  "fundo": "#02010100",
+  "gradiente": null,
+  "texto": "#FFFFFF",
+  "raio": "10px",
+  "padding": "15px 30px",
+  "fonte": "Geologica",
+  "tamanho": "14px",
+  "peso": "600",
+  "caixa": "none",
+  "exemplos": [
+   "CONTATO"
+  ]
+ },
+ "raios": [
+  "4px",
+  "10px",
+  "30px",
+  "80px",
+  "10%",
+  "6px"
+ ],
+ "sombras": [
+  "rgba(82, 71, 175, 0.09) 0px 20px 55px 0px",
+  "rgba(0, 0, 0, 0.1) 0px 0px 50px 0px"
+ ],
+ "gaps": [
+  "20px",
+  "10px",
+  "20px 40px",
+  "30px",
+  "40px 100px",
+  "80px"
+ ],
+ "largura_conteudo_px": 1280,
+ "altura_pagina_px": 6879,
+ "secoes_qtde": 11,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "WhatsApp (31) 985643310",
+   "fundo": "#0D255A89",
+   "altura_px": 41
+  },
+  {
+   "ordem": 2,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 94
+  },
+  {
+   "ordem": 3,
+   "tipo": "sobre",
+   "titulo": "Advogado criminalista especialista em direito criminal em BH",
+   "fundo": "#0A0A0A",
+   "altura_px": 1041
+  },
+  {
+   "ordem": 4,
+   "tipo": "servicos",
+   "titulo": "Áreas de atuação",
+   "fundo": "#10132D",
+   "altura_px": 2041
+  },
+  {
+   "ordem": 5,
+   "tipo": "diferenciais",
+   "titulo": "Diferenciais escritório de advocacia criminal BH",
+   "fundo": "#10132D",
+   "altura_px": 335
+  },
+  {
+   "ordem": 6,
+   "tipo": "sobre",
+   "titulo": "Dr. Ademar - Advogado Criminalista BH",
+   "fundo": "#F9F9F9",
+   "altura_px": 784
+  },
+  {
+   "ordem": 7,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "#F9F9F9",
+   "altura_px": 10
+  },
+  {
+   "ordem": 8,
+   "tipo": "sobre",
+   "titulo": "Advogado criminalista especialista em BH",
+   "fundo": "imagem",
+   "altura_px": 2064
+  },
+  {
+   "ordem": 9,
+   "tipo": "sobre",
+   "titulo": "Advogado criminalista 24 Horas em BH, em atualização constante",
+   "fundo": "#42548C",
+   "altura_px": 165
+  },
+  {
+   "ordem": 10,
+   "tipo": "sobre",
+   "titulo": "Sobre",
+   "fundo": "#151421",
+   "altura_px": 388
+  },
+  {
+   "ordem": 11,
+   "tipo": "rodape",
+   "titulo": "",
+   "fundo": "#151421",
+   "altura_px": 52
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "",
+  "sobre",
+  "servicos",
+  "diferenciais",
+  "sobre",
+  "",
+  "sobre",
+  "sobre",
+  "sobre",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "escuro",
+  "azul-violeta",
+  "institucional",
+  "seo-local"
+ ],
+ "tecnicas": [
+  "Carrossel de áreas",
+  "Blog integrado",
+  "Google reviews"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "brilho",
+   "btnHoverTxtLiquidX",
+   "btnHoverTxtLiquidXAlt",
+   "btnHoverTxtLiquidY",
+   "btnHoverTxtLiquidYAlt",
+   "btnIconRipple",
+   "btnTxtMarqueeX",
+   "btnTxtMarqueeY",
+   "cd-bounce-in",
+   "dotAnimations",
+   "fadeIn",
+   "formRotate360",
+   "fr-thumbnail-spin",
+   "fresco-12",
+   "iconRipple",
+   "lqd-spinner-classical",
+   "lqd-spinner-dash",
+   "lqd-spinner-rotate",
+   "lqd-wrap-sliding-in",
+   "lqdBackToTopArrow",
+   "lqdFIFloatOne",
+   "lqdItiImgIn",
+   "lqdItiImgOut",
+   "lqdItiInnerIn",
+   "lqdItiInnerOut",
+   "lqdKeywordSlideIn",
+   "lqdKeywordSlideOut",
+   "lqdMegamenuSlideIn",
+   "lqdMegamenuSlideOut",
+   "lqdMegamenuSlideReveal",
+   "lqdPBRotate",
+   "lqdSnickersBarIn",
+   "lqdSnickersBarOut",
+   "lqdStackArrowNext",
+   "lqdStackArrowPrev",
+   "lqdStackNumberActive",
+   "lqdStackNumberActiveUp",
+   "lqdStackNumberPassed",
+   "lqdStackNumberPassedUp"
+  ],
+  "entrada_elementor": [],
+  "classes_scroll": []
+ },
+ "bibliotecas": [
+  "ga4",
+  "gsap",
+  "gtm",
+  "jquery",
+  "lottie",
+  "swiper"
+ ],
+ "snippets_usados": [],
+ "relevancia": 3,
+ "resumo": "Site de advogado criminalista em BH com foco em SEO local: hero escuro com 4 ícones de serviço, cards de área com foto em carrossel, grade de 'regiões atendidas' com um card por bairro ou cidade, diferenciais, sobre e blog em grid.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": null,
+  "copy_real": null,
+  "json_elementor": null,
+  "ref": "ref/"
+ }
+}

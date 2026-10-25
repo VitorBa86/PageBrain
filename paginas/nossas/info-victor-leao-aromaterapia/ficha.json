@@ -1,0 +1,221 @@
+{
+ "nome": "Consultoria Gratuita · Victor Leão",
+ "slug": "info-victor-leao-aromaterapia",
+ "pasta_original": "Victor Leao",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://victorleaogotaconsciencia.com/consultoria-gratuita/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Infoproduto / aplicação",
+ "tipo_pagina": "aplicacao",
+ "paleta": {
+  "fundos": [
+   "#294A39",
+   "#432A21",
+   "#FFCB87",
+   "#271B17",
+   "#173023"
+  ],
+  "textos": [
+   "#FFF5DC",
+   "#FFCB87",
+   "#442C24",
+   "#FFFFFF"
+  ],
+  "destaques": [
+   "#294A39",
+   "#FFCB87",
+   "#432A21",
+   "#271B17",
+   "#173023"
+  ],
+  "gradientes": [
+   "linear-gradient(45deg, rgb(41, 74, 57), rgb(66, 112, 88), rgb(41, 74, 57), rgb(66, 112, 88))"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Poppins",
+   "uso_pct": 96
+  },
+  {
+   "familia": "LEMON MILK1",
+   "uso_pct": 3
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  30,
+  28,
+  25,
+  23,
+  20
+ ],
+ "escala_tipografica_mobile_px": [
+  28,
+  25,
+  25,
+  25,
+  23,
+  19,
+  18,
+  17
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#294A39",
+  "gradiente": "linear-gradient(45deg, rgb(41, 74, 57), rgb(66, 112, 88), rgb(41, 74, 57), rgb(66, 112, 88))",
+  "texto": "#FFCB87",
+  "raio": "10px",
+  "padding": "22px 22px",
+  "fonte": "LEMON MILK1",
+  "tamanho": "18px",
+  "peso": "600",
+  "caixa": "none",
+  "exemplos": [
+   "Quero Aplicar Agora"
+  ]
+ },
+ "raios": [
+  "22px",
+  "34px",
+  "36px",
+  "10px",
+  "22px 0px 0px 22px"
+ ],
+ "sombras": [],
+ "gaps": [
+  "20px",
+  "40px",
+  "5px",
+  "30px",
+  "15px"
+ ],
+ "largura_conteudo_px": 1140,
+ "altura_pagina_px": 10177,
+ "secoes_qtde": 10,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "ATENÇÃO: Exclusivo para quem deseja construir uma carreira de sucesso com Aromat",
+   "fundo": "#FFCB87",
+   "altura_px": 60
+  },
+  {
+   "ordem": 2,
+   "tipo": "metodo",
+   "titulo": "Receba uma Consultoria Gratuita de Diagnóstico para descobrir como Transformar S",
+   "fundo": "#432A21",
+   "altura_px": 750
+  },
+  {
+   "ordem": 3,
+   "tipo": "cta-final",
+   "titulo": "Conheça os 7 pilares que todo aromaterapeuta de sucesso utiliza para atrair clie",
+   "fundo": "#FFCB87",
+   "altura_px": 393
+  },
+  {
+   "ordem": 4,
+   "tipo": "para-quem-e",
+   "titulo": "Clique no botão abaixo agora mesmo e se candidate a uma vaga para fazer o seu Di",
+   "fundo": "#173023",
+   "altura_px": 750
+  },
+  {
+   "ordem": 5,
+   "tipo": "como-funciona",
+   "titulo": "Para quem é?",
+   "fundo": "#294A39",
+   "altura_px": 1559
+  },
+  {
+   "ordem": 6,
+   "tipo": "como-funciona",
+   "titulo": "Como Funciona a Consultoria de Diagnóstico?",
+   "fundo": "#294A39",
+   "altura_px": 1957
+  },
+  {
+   "ordem": 7,
+   "tipo": "prova-social",
+   "titulo": "Etapas do Diagnóstico:",
+   "fundo": "#432A21",
+   "altura_px": 983
+  },
+  {
+   "ordem": 8,
+   "tipo": "sobre",
+   "titulo": "Veja alguns resultados das minhas alunas:",
+   "fundo": "#FFCB87",
+   "altura_px": 2714
+  },
+  {
+   "ordem": 9,
+   "tipo": "rodape",
+   "titulo": "Quem é Victor Leão?",
+   "fundo": "#432A21",
+   "altura_px": 950
+  },
+  {
+   "ordem": 10,
+   "tipo": null,
+   "titulo": "Todos os direitos reservados © 2024",
+   "fundo": "#2C1C16",
+   "altura_px": 60
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "metodo",
+  "cta-final",
+  "para-quem-e",
+  "como-funciona",
+  "como-funciona",
+  "prova-social",
+  "sobre",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "terroso",
+  "pessego",
+  "verde-escuro",
+  "marrom",
+  "serifa-dourada"
+ ],
+ "tecnicas": [
+  "Pré-headline 'ATENÇÃO:' no topo"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "brilho"
+  ],
+  "entrada_elementor": [],
+  "classes_scroll": [
+   "scroll-bottom",
+   "scroll-left",
+   "scroll-right",
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "jquery",
+  "lottie",
+  "meta-pixel",
+  "swiper"
+ ],
+ "snippets_usados": [
+  "animacoes/animacao-scroll-reveal.html",
+  "tracking-e-pixels/meta-pixel.html"
+ ],
+ "relevancia": 3,
+ "resumo": "Captação de aplicação para consultoria de carreira em aromaterapia, em tons terrosos (pêssego, verde-escuro, marrom) com serifa dourada. O método C.R.E.S.C.E.R. aparece em escada de cards com a inicial grande, e há cards de depoimento extensos com foto.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/info-victor-leao-aromaterapia.md",
+  "json_elementor": null
+ }
+}

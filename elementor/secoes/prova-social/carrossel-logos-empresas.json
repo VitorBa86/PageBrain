@@ -1,0 +1,223 @@
+{
+ "content": [
+  {
+   "id": "2a533895",
+   "settings": {
+    "flex_direction": "column",
+    "boxed_width": {
+     "unit": "%",
+     "size": 100,
+     "sizes": []
+    },
+    "boxed_width_tablet": {
+     "unit": "%",
+     "size": "",
+     "sizes": []
+    },
+    "boxed_width_mobile": {
+     "unit": "%",
+     "size": "",
+     "sizes": []
+    },
+    "min_height": {
+     "unit": "px",
+     "size": 0,
+     "sizes": []
+    },
+    "flex_justify_content": "center",
+    "flex_align_items": "center",
+    "background_background": "classic",
+    "background_color": "#FFFFFF",
+    "padding": {
+     "unit": "px",
+     "top": "80",
+     "right": "0",
+     "bottom": "80",
+     "left": "0",
+     "isLinked": false
+    },
+    "eae_slider_delay": "5000",
+    "gradient_color_list": [
+     {
+      "eae_animated_gradient_color": "#00a6d8",
+      "_id": "a042c73"
+     },
+     {
+      "eae_animated_gradient_color": "#b800c9",
+      "_id": "d4dbd25"
+     },
+     {
+      "eae_animated_gradient_color": "#e57600",
+      "_id": "bd89c99"
+     }
+    ]
+   },
+   "elements": [
+    {
+     "id": "4917ce19",
+     "settings": {
+      "title": "EMPRESAS QUE JA CONTRATAMOS",
+      "align": "center",
+      "title_color": "#005287",
+      "typography_typography": "custom",
+      "typography_font_family": "Poppins",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 29,
+       "sizes": []
+      },
+      "typography_font_weight": "700",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.3,
+       "sizes": []
+      },
+      "_element_width": "initial",
+      "_element_custom_width": {
+       "unit": "%",
+       "size": 43,
+       "sizes": []
+      },
+      "_element_width_mobile": "initial",
+      "_element_custom_width_mobile": {
+       "unit": "%",
+       "size": 90,
+       "sizes": []
+      }
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "heading",
+     "elType": "widget"
+    },
+    {
+     "id": "535db160",
+     "settings": {
+      "title": "Coloque abaixo logomarca ou qualquer coisa que quiser:",
+      "align": "center",
+      "title_color": "#000000",
+      "typography_typography": "custom",
+      "typography_font_family": "Poppins",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 16,
+       "sizes": []
+      },
+      "typography_font_weight": "300",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.4,
+       "sizes": []
+      },
+      "_margin": {
+       "unit": "px",
+       "top": "00",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "_element_width": "initial",
+      "_element_custom_width": {
+       "unit": "%",
+       "size": 49,
+       "sizes": []
+      },
+      "_element_width_mobile": "initial",
+      "_element_custom_width_mobile": {
+       "unit": "%",
+       "size": 90,
+       "sizes": []
+      }
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "heading",
+     "elType": "widget"
+    },
+    {
+     "id": "152c9bf8",
+     "settings": {
+      "carousel": [
+       {
+        "id": 3160,
+        "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/05/Adidas_2022_logo-1.png"
+       },
+       {
+        "id": 3178,
+        "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/05/Caixa_Economica_Federal_logo.svg-1.png"
+       },
+       {
+        "id": 9886,
+        "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/10/Caixa_Economica_Federal_logo.svg-1-300x68-1.png"
+       },
+       {
+        "id": 9887,
+        "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/10/Caixa_Economica_Federal_logo.svg-1-300x68-2.png"
+       }
+      ],
+      "thumbnail_size": "medium_large",
+      "slides_to_show": "8",
+      "slides_to_show_mobile": "3",
+      "navigation": "none",
+      "pause_on_hover": "",
+      "pause_on_interaction": "",
+      "autoplay_speed": 0,
+      "speed": 3000,
+      "arrows_position": "outside",
+      "arrows_color": "#FFFFFF",
+      "dots_inactive_color": "#585858",
+      "dots_color": "#FFFFFF",
+      "gallery_vertical_align": "center",
+      "image_spacing": "custom",
+      "image_border_radius": {
+       "unit": "px",
+       "top": "8",
+       "right": "8",
+       "bottom": "8",
+       "left": "8",
+       "isLinked": true
+      },
+      "_margin": {
+       "unit": "px",
+       "top": "30",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "_element_width": "initial",
+      "_element_custom_width": {
+       "unit": "%",
+       "size": 100
+      },
+      "_flex_size": "none",
+      "custom_css": "selector .swiper-wrapper {\r\n      -webkit-transition-timing-function: linear !important;\r\n      -moz-transition-timing-function: linear !important;\r\n      -o-transition-timing-function: linear !important;\r\n      transition-timing-function: linear !important; \r\n}\r\n\r\n@media(max-width:432px){\r\n    selector .swiper-slide-image{\r\n        width:350px !important;\r\n    }\r\n}\r\n",
+      "image_spacing_custom": {
+       "unit": "px",
+       "size": 100,
+       "sizes": []
+      },
+      "image_spacing_custom_mobile": {
+       "unit": "px",
+       "size": 39,
+       "sizes": []
+      },
+      "slides_to_scroll": "1",
+      "slides_to_show_tablet": "3"
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "image-carousel",
+     "elType": "widget"
+    }
+   ],
+   "isInner": false,
+   "elType": "container"
+  }
+ ],
+ "page_settings": [],
+ "version": "0.4",
+ "title": "carrossel icon 01",
+ "type": "container"
+}

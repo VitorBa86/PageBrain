@@ -1,0 +1,225 @@
+{
+ "nome": "PÁGINA ADVOGADO GUSTAVO KEHL",
+ "slug": "adv-gustavo-kehl",
+ "pasta_original": "Adv Gustavo",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://lp.oreidalanding.com.br/gustavokehl/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Advocacia",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#2A2D4D",
+   "#E7ECEF",
+   "#FFFFFF",
+   "#1C1E33",
+   "#AC874B"
+  ],
+  "textos": [
+   "#1C1E33",
+   "#FFFFFF"
+  ],
+  "destaques": [
+   "#1C1E33",
+   "#2A2D4D",
+   "#AC874B"
+  ],
+  "gradientes": [
+   "linear-gradient(185deg, rgb(0, 185, 57) 0%, rgb(6, 131, 44) 89%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Poppins",
+   "uso_pct": 82
+  },
+  {
+   "familia": "Merriweather",
+   "uso_pct": 15
+  },
+  {
+   "familia": "Sora",
+   "uso_pct": 3
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  46,
+  32,
+  31,
+  29,
+  28,
+  22,
+  20,
+  18
+ ],
+ "escala_tipografica_mobile_px": [
+  31,
+  28,
+  27,
+  22,
+  21,
+  21,
+  18,
+  18
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#00000000",
+  "gradiente": "linear-gradient(185deg, rgb(0, 185, 57) 0%, rgb(6, 131, 44) 89%)",
+  "texto": "#FFFFFF",
+  "raio": "90px",
+  "padding": "18px 30px",
+  "fonte": "Poppins",
+  "tamanho": "16px",
+  "peso": "500",
+  "caixa": "none",
+  "exemplos": [
+   "Fale com um Advogado"
+  ]
+ },
+ "raios": [
+  "40px",
+  "15px",
+  "90px",
+  "12px",
+  "10%",
+  "26px"
+ ],
+ "sombras": [],
+ "gaps": [
+  "20px",
+  "15px",
+  "10px"
+ ],
+ "largura_conteudo_px": 1140,
+ "altura_pagina_px": 4127,
+ "secoes_qtde": 9,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "menu",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 62
+  },
+  {
+   "ordem": 2,
+   "tipo": "hero",
+   "titulo": "Desista do Contrato de Compra de Seu Imóvel e Recupere Seu Dinheiro, Sem Multas",
+   "fundo": "#2A2D4D",
+   "altura_px": 758
+  },
+  {
+   "ordem": 3,
+   "tipo": "situacoes",
+   "titulo": "Saiba como podemos te ajudar:",
+   "fundo": "#E7ECEF",
+   "altura_px": 577
+  },
+  {
+   "ordem": 4,
+   "tipo": "como-funciona",
+   "titulo": "Como Funciona?",
+   "fundo": "#E7ECEF",
+   "altura_px": 664
+  },
+  {
+   "ordem": 5,
+   "tipo": "prova-social",
+   "titulo": "O que alguns dos nossos clientes estão dizendo:",
+   "fundo": "#E7ECEF",
+   "altura_px": 271
+  },
+  {
+   "ordem": 6,
+   "tipo": "sobre",
+   "titulo": "Quem sou eu?",
+   "fundo": "#2A2D4D",
+   "altura_px": 861
+  },
+  {
+   "ordem": 7,
+   "tipo": "faq",
+   "titulo": "Perguntas Frequentes",
+   "fundo": "#FFFFFF",
+   "altura_px": 668
+  },
+  {
+   "ordem": 8,
+   "tipo": "contato",
+   "titulo": "Informações",
+   "fundo": "#EEEEEE",
+   "altura_px": 275
+  },
+  {
+   "ordem": 9,
+   "tipo": "rodape",
+   "titulo": "Todos os direitos reservados © 2025",
+   "fundo": "#1C1E33",
+   "altura_px": 60
+  }
+ ],
+ "tipos_de_secao": [
+  "menu",
+  "hero",
+  "situacoes",
+  "como-funciona",
+  "prova-social",
+  "sobre",
+  "faq",
+  "contato",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "escuro",
+  "azul-violeta",
+  "dourado",
+  "serifa"
+ ],
+ "tecnicas": [
+  "Imagem conceitual no hero (contrato rasgado)",
+  "Menu mobile customizado (snippet menu-mobile-tela-cheia)"
+ ],
+ "animacoes": {
+  "keyframes": [],
+  "entrada_elementor": [],
+  "classes_scroll": [
+   "scroll-bottom",
+   "scroll-left",
+   "scroll-right",
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "google-ads",
+  "happy-addons",
+  "jquery",
+  "lenis",
+  "lottie",
+  "meta-pixel",
+  "swiper"
+ ],
+ "snippets_usados": [
+  "animacoes/animacao-scroll-reveal.html",
+  "cards-e-bordas/vidro-fosco.css",
+  "menus-e-headers/menu-mobile-tela-cheia.html",
+  "tracking-e-pixels/meta-pixel.html",
+  "tracking-e-pixels/google-ads-gtag.html",
+  "utilitarios-css/css-base-toda-pagina.css",
+  "utilitarios-css/botao-icone-tamanho.css",
+  "utilitarios-css/faq-toggle-arredondado.css",
+  "utilitarios-css/elemento-posicao-absoluta.css"
+ ],
+ "relevancia": 4,
+ "resumo": "Distrato imobiliário com hero escuro azul-violeta e foto de mãos rasgando o contrato. Usa marca-texto dourado atrás da headline, lista de situações em pílulas com check e 4 passos com números em círculo.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/adv-gustavo-kehl.md",
+  "json_elementor": null
+ }
+}

@@ -1,0 +1,223 @@
+{
+ "nome": "PÁGINA CAPTURA Carol Guglielmi | Posicionamento & Marca Pessoal",
+ "slug": "info-carol-guglielmi-imagem-pessoal",
+ "pasta_original": "Captura Carol",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://lp.oreidalanding.com.br/carol-guglielmi/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Infoproduto / aplicação",
+ "tipo_pagina": "aplicacao",
+ "paleta": {
+  "fundos": [
+   "#010127",
+   "#001371",
+   "#FFFFFF",
+   "#273DAA",
+   "#B0BAF0"
+  ],
+  "textos": [
+   "#FFFFFF",
+   "#001371"
+  ],
+  "destaques": [
+   "#001371",
+   "#273DAA"
+  ],
+  "gradientes": []
+ },
+ "fontes": [
+  {
+   "familia": "Inter",
+   "uso_pct": 72
+  },
+  {
+   "familia": "Playfair Display",
+   "uso_pct": 16
+  },
+  {
+   "familia": "Exo 2",
+   "uso_pct": 10
+  },
+  {
+   "familia": "Sora",
+   "uso_pct": 3
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  92,
+  44,
+  41,
+  38,
+  30,
+  28,
+  26,
+  25,
+  22
+ ],
+ "escala_tipografica_mobile_px": [
+  34,
+  31,
+  30,
+  29,
+  26,
+  25,
+  24,
+  21
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#001371",
+  "gradiente": null,
+  "texto": "#FFFFFF",
+  "raio": "0px",
+  "padding": "22px 42px",
+  "fonte": "Exo 2",
+  "tamanho": "16px",
+  "peso": "500",
+  "caixa": "uppercase",
+  "exemplos": [
+   "QUERO PLANO DE ESTILO PESSOAL"
+  ]
+ },
+ "raios": [
+  "5px",
+  "1000px",
+  "100px"
+ ],
+ "sombras": [
+  "rgba(36, 36, 36, 0.1) 0px 3px 40px 0px",
+  "rgba(51, 51, 51, 0.5) 0px 0px 12px 0px"
+ ],
+ "gaps": [
+  "20px",
+  "30px",
+  "5px",
+  "10px"
+ ],
+ "largura_conteudo_px": 1140,
+ "altura_pagina_px": 7719,
+ "secoes_qtde": 8,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "PARA PROFISSIONAIS EXTRAORDINÁRIOS QUE QUEREM UMA IMAGEM PESSOAL QUE CRIA OPORTU",
+   "fundo": "#001371",
+   "altura_px": 53
+  },
+  {
+   "ordem": 2,
+   "tipo": "escassez",
+   "titulo": "Em 1 hora, eu vou entregar o Plano de Imagem Pessoal para você transmitir confia",
+   "fundo": "#010127",
+   "altura_px": 800
+  },
+  {
+   "ordem": 3,
+   "tipo": "sobre",
+   "titulo": "Eu estive nos bastidores do mercado de moda e de luxo por mais de 10 anos.",
+   "fundo": "#FFFFFF",
+   "altura_px": 210
+  },
+  {
+   "ordem": 4,
+   "tipo": "metodo",
+   "titulo": "E transformei os segredos dos produtos e atendimento de luxo e da moda para ter",
+   "fundo": "imagem",
+   "altura_px": 728
+  },
+  {
+   "ordem": 5,
+   "tipo": "entregaveis",
+   "titulo": "Agora, quero te mostrar como usar o seu Plano de Imagem Pessoal para criar uma i",
+   "fundo": "#001371",
+   "altura_px": 4158
+  },
+  {
+   "ordem": 6,
+   "tipo": "prova-resultados",
+   "titulo": "Uma imagem vale mais que mil palavras.",
+   "fundo": "imagem",
+   "altura_px": 876
+  },
+  {
+   "ordem": 7,
+   "tipo": "sobre",
+   "titulo": "CONHEÇA SUA CONSULTORA DE IMAGEM, MODA E ESTILO",
+   "fundo": "#010127",
+   "altura_px": 800
+  },
+  {
+   "ordem": 8,
+   "tipo": "rodape",
+   "titulo": "Todos os direitos reservados © 2024",
+   "fundo": "#001371",
+   "altura_px": 94
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "escassez",
+  "sobre",
+  "metodo",
+  "entregaveis",
+  "prova-resultados",
+  "sobre",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "azul-royal",
+  "branco",
+  "serifa-italica",
+  "feminino",
+  "moda"
+ ],
+ "tecnicas": [
+  "Widget de barra de progresso como escassez",
+  "Overlay de texto sobre foto"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "fadeIn"
+  ],
+  "entrada_elementor": [
+   "fadeIn"
+  ],
+  "classes_scroll": [
+   "scroll-bottom",
+   "scroll-left",
+   "scroll-right",
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "google-ads",
+  "happy-addons",
+  "jquery",
+  "lenis",
+  "lottie",
+  "meta-pixel",
+  "swiper"
+ ],
+ "snippets_usados": [
+  "animacoes/animacao-scroll-reveal.html",
+  "animacoes/animacao-scroll-reveal-blur.css",
+  "cards-e-bordas/vidro-fosco.css",
+  "tracking-e-pixels/meta-pixel.html",
+  "tracking-e-pixels/google-ads-gtag.html",
+  "utilitarios-css/css-base-toda-pagina.css",
+  "utilitarios-css/elemento-posicao-absoluta.css"
+ ],
+ "relevancia": 3,
+ "resumo": "Aplicação para sessão gratuita de consultoria de imagem. Nome manuscrito sobre a foto no hero, barra de escassez com progresso, logos de marcas (Chanel, Renner, C&A), serifa itálica com marca-texto bege e seção azul royal com fotos grandes legendadas.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/info-carol-guglielmi-imagem-pessoal.md",
+  "json_elementor": "../../../elementor/paginas/captacao/info-carol-guglielmi-imagem-pessoal.json"
+ }
+}

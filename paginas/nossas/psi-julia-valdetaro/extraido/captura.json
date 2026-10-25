@@ -1,0 +1,1029 @@
+{
+  "sourceUrl": "https://psicologajuliavaldetaro.com.br/",
+  "finalUrl": "https://psicologajuliavaldetaro.com.br/",
+  "mode": "static",
+  "platform": "WordPress + Elementor",
+  "durationMs": 2676,
+  "fileCount": 145,
+  "totalBytes": 5121316,
+  "counts": {
+    "css": 20,
+    "js": 17,
+    "img": 28,
+    "font": 79,
+    "media": 0,
+    "other": 0,
+    "failed": 0
+  },
+  "warnings": [],
+  "assets": [
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.5.1",
+      "kind": "css",
+      "localPath": "assets/css/reset-1253883a.css",
+      "status": "ok",
+      "bytes": 5829
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.5.1",
+      "kind": "css",
+      "localPath": "assets/css/theme-4b6e13a4.css",
+      "status": "ok",
+      "bytes": 5827
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.5.1",
+      "kind": "css",
+      "localPath": "assets/css/header-footer-1d7488ee.css",
+      "status": "ok",
+      "bytes": 7534
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.33.4",
+      "kind": "css",
+      "localPath": "assets/css/frontend.min-27a465d0.css",
+      "status": "ok",
+      "bytes": 53644
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/uploads/elementor/css/post-7.css?ver=1791312273",
+      "kind": "css",
+      "localPath": "assets/css/post-7-5a13b592.css",
+      "status": "ok",
+      "bytes": 1429
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/plugins/pro-elements/assets/css/frontend.min.css?ver=3.23.3",
+      "kind": "css",
+      "localPath": "assets/css/frontend.min-fd1d0902.css",
+      "status": "ok",
+      "bytes": 470843
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.33.4",
+      "kind": "css",
+      "localPath": "assets/css/widget-image.min-5099009c.css",
+      "status": "ok",
+      "bytes": 214
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.33.4",
+      "kind": "css",
+      "localPath": "assets/css/widget-heading.min-58c26042.css",
+      "status": "ok",
+      "bytes": 560
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=3.33.4",
+      "kind": "css",
+      "localPath": "assets/css/e-animation-grow.min-1a9cda6f.css",
+      "status": "ok",
+      "bytes": 198
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.33.4",
+      "kind": "css",
+      "localPath": "assets/css/widget-divider.min-b79a9e01.css",
+      "status": "ok",
+      "bytes": 4258
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=3.33.4",
+      "kind": "css",
+      "localPath": "assets/css/widget-icon-box.min-a879382f.css",
+      "status": "ok",
+      "bytes": 5806
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5",
+      "kind": "css",
+      "localPath": "assets/css/swiper.min-1f4891af.css",
+      "status": "ok",
+      "bytes": 16471
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.33.4",
+      "kind": "css",
+      "localPath": "assets/css/e-swiper.min-0fbe36dc.css",
+      "status": "ok",
+      "bytes": 5486
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css?ver=3.33.4",
+      "kind": "css",
+      "localPath": "assets/css/widget-image-carousel.min-39fbce3d.css",
+      "status": "ok",
+      "bytes": 342
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/plugins/elementor/assets/css/widget-toggle.min.css?ver=3.33.4",
+      "kind": "css",
+      "localPath": "assets/css/widget-toggle.min-9c4364b9.css",
+      "status": "ok",
+      "bytes": 1547
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/uploads/elementor/css/post-52.css?ver=1791312273",
+      "kind": "css",
+      "localPath": "assets/css/post-52-7f16d395.css",
+      "status": "ok",
+      "bytes": 63049
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "kind": "css",
+      "localPath": "assets/css/css-85c5c2b0.css",
+      "status": "ok",
+      "bytes": 98073
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Roboto+Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "kind": "css",
+      "localPath": "assets/css/css-ec7864c0.css",
+      "status": "ok",
+      "bytes": 21168
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "kind": "css",
+      "localPath": "assets/css/css-d7d5ec8f.css",
+      "status": "ok",
+      "bytes": 21054
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/uploads/elementor/css/post-136.css?ver=1791312273",
+      "kind": "css",
+      "localPath": "assets/css/post-136-d8ea4d25.css",
+      "status": "ok",
+      "bytes": 5980
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/uploads/2024/08/Logo-PNG-3-DEITADA-1024x192-1.png",
+      "kind": "img",
+      "localPath": "assets/img/Logo-PNG-3-DEITADA-1024x192-1-bfcfe67e.png",
+      "status": "ok",
+      "bytes": 20584
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/uploads/2024/08/Logo-PNG-3-DEITADA-1024x192-1-300x56.png",
+      "kind": "img",
+      "localPath": "assets/img/Logo-PNG-3-DEITADA-1024x192-1-300x56-17d8c074.png",
+      "status": "ok",
+      "bytes": 4948
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/uploads/2024/08/Logo-PNG-3-DEITADA-1024x192-1-768x144.png",
+      "kind": "img",
+      "localPath": "assets/img/Logo-PNG-3-DEITADA-1024x192-1-768x144-5dacee64.png",
+      "status": "ok",
+      "bytes": 16475
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/uploads/2024/08/FOTO-QSE-2-2.png",
+      "kind": "img",
+      "localPath": "assets/img/FOTO-QSE-2-2-c0155136.png",
+      "status": "ok",
+      "bytes": 108632
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/uploads/2024/08/FOTO-QSE-2-2-300x300.png",
+      "kind": "img",
+      "localPath": "assets/img/FOTO-QSE-2-2-300x300-8777419c.png",
+      "status": "ok",
+      "bytes": 127253
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/uploads/2024/08/FOTO-QSE-2-2-150x150.png",
+      "kind": "img",
+      "localPath": "assets/img/FOTO-QSE-2-2-150x150-acd29bfd.png",
+      "status": "ok",
+      "bytes": 37196
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/uploads/2024/08/01.jpg",
+      "kind": "img",
+      "localPath": "assets/img/01-55399bae.jpg",
+      "status": "ok",
+      "bytes": 59385
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/uploads/2024/08/015-1.jpg",
+      "kind": "img",
+      "localPath": "assets/img/015-1-ef638aca.jpg",
+      "status": "ok",
+      "bytes": 22995
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/uploads/2024/08/014-1.jpg",
+      "kind": "img",
+      "localPath": "assets/img/014-1-6906e66e.jpg",
+      "status": "ok",
+      "bytes": 27207
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/uploads/2024/08/016-1.jpg",
+      "kind": "img",
+      "localPath": "assets/img/016-1-6fc9443b.jpg",
+      "status": "ok",
+      "bytes": 23134
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/uploads/2024/08/013-1.jpg",
+      "kind": "img",
+      "localPath": "assets/img/013-1-e264346a.jpg",
+      "status": "ok",
+      "bytes": 20066
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/uploads/2024/08/012-1.jpg",
+      "kind": "img",
+      "localPath": "assets/img/012-1-cfdd1f0c.jpg",
+      "status": "ok",
+      "bytes": 21844
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/uploads/2024/08/011-1.jpg",
+      "kind": "img",
+      "localPath": "assets/img/011-1-e887013c.jpg",
+      "status": "ok",
+      "bytes": 26548
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/uploads/2024/08/010-1.jpg",
+      "kind": "img",
+      "localPath": "assets/img/010-1-67706e0b.jpg",
+      "status": "ok",
+      "bytes": 29025
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/uploads/2024/08/09-1.jpg",
+      "kind": "img",
+      "localPath": "assets/img/09-1-9910de1f.jpg",
+      "status": "ok",
+      "bytes": 27117
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/uploads/2024/08/08-1.jpg",
+      "kind": "img",
+      "localPath": "assets/img/08-1-edd3c1e2.jpg",
+      "status": "ok",
+      "bytes": 33421
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/uploads/2024/08/07.jpg",
+      "kind": "img",
+      "localPath": "assets/img/07-36432dc8.jpg",
+      "status": "ok",
+      "bytes": 28376
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/uploads/2024/08/06.jpg",
+      "kind": "img",
+      "localPath": "assets/img/06-9e861c83.jpg",
+      "status": "ok",
+      "bytes": 36674
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/uploads/2024/08/05.jpg",
+      "kind": "img",
+      "localPath": "assets/img/05-7767c23e.jpg",
+      "status": "ok",
+      "bytes": 31053
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/uploads/2024/08/04.jpg",
+      "kind": "img",
+      "localPath": "assets/img/04-71a765a8.jpg",
+      "status": "ok",
+      "bytes": 41829
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/uploads/2024/08/03.jpg",
+      "kind": "img",
+      "localPath": "assets/img/03-80524d1c.jpg",
+      "status": "ok",
+      "bytes": 35399
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/uploads/2024/08/02.jpg",
+      "kind": "img",
+      "localPath": "assets/img/02-6704f244.jpg",
+      "status": "ok",
+      "bytes": 53581
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=GT-MJB24GBG",
+      "kind": "js",
+      "localPath": "assets/js/js-b83a6236.js",
+      "status": "ok",
+      "bytes": 590211
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "kind": "js",
+      "localPath": "assets/js/jquery.min-3c6dc038.js",
+      "status": "ok",
+      "bytes": 87553
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "kind": "js",
+      "localPath": "assets/js/jquery-migrate.min-72ca3ce6.js",
+      "status": "ok",
+      "bytes": 13577
+    },
+    {
+      "url": "https://accounts.google.com/gsi/client",
+      "kind": "js",
+      "localPath": "assets/js/client-096019ef.js",
+      "status": "ok",
+      "bytes": 276447
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.5.1",
+      "kind": "js",
+      "localPath": "assets/js/hello-frontend-2196d69a.js",
+      "status": "ok",
+      "bytes": 1830
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.33.4",
+      "kind": "js",
+      "localPath": "assets/js/webpack.runtime.min-0780f44a.js",
+      "status": "ok",
+      "bytes": 5667
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.33.4",
+      "kind": "js",
+      "localPath": "assets/js/frontend-modules.min-c7335a87.js",
+      "status": "ok",
+      "bytes": 84517
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+      "kind": "js",
+      "localPath": "assets/js/core.min-552578e4.js",
+      "status": "ok",
+      "bytes": 18674
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.33.4",
+      "kind": "js",
+      "localPath": "assets/js/frontend.min-fd8dad20.js",
+      "status": "ok",
+      "bytes": 31880
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/plugins/pro-elements/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1",
+      "kind": "js",
+      "localPath": "assets/js/jquery.smartmenus.min-92f27a6e.js",
+      "status": "ok",
+      "bytes": 24109
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5",
+      "kind": "js",
+      "localPath": "assets/js/swiper.min-1e1314e8.js",
+      "status": "ok",
+      "bytes": 143709
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/plugins/pro-elements/assets/lib/lottie/lottie.min.js?ver=5.6.6",
+      "kind": "js",
+      "localPath": "assets/js/lottie.min-24a088c6.js",
+      "status": "ok",
+      "bytes": 252588
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/plugins/pro-elements/assets/js/webpack-pro.runtime.min.js?ver=3.23.3",
+      "kind": "js",
+      "localPath": "assets/js/webpack-pro.runtime.min-1157be18.js",
+      "status": "ok",
+      "bytes": 6059
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+      "kind": "js",
+      "localPath": "assets/js/hooks.min-2aa17705.js",
+      "status": "ok",
+      "bytes": 5107
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+      "kind": "js",
+      "localPath": "assets/js/i18n.min-c3c32e74.js",
+      "status": "ok",
+      "bytes": 5791
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/plugins/pro-elements/assets/js/frontend.min.js?ver=3.23.3",
+      "kind": "js",
+      "localPath": "assets/js/frontend.min-8ce5d6b1.js",
+      "status": "ok",
+      "bytes": 25049
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/plugins/pro-elements/assets/js/elements-handlers.min.js?ver=3.23.3",
+      "kind": "js",
+      "localPath": "assets/js/elements-handlers.min-a0046af0.js",
+      "status": "ok",
+      "bytes": 42584
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkC3kaSTbQWt4N.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkC3kaSTbQWt4N-b209c2f4.woff2",
+      "status": "ok",
+      "bytes": 35396
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkAnkaSTbQWt4N.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkAnkaSTbQWt4N-7fd5ebcd.woff2",
+      "status": "ok",
+      "bytes": 21576
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCnkaSTbQWt4N.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCnkaSTbQWt4N-1270f35c.woff2",
+      "status": "ok",
+      "bytes": 1720
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBXkaSTbQWt4N.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBXkaSTbQWt4N-13c6db9b.woff2",
+      "status": "ok",
+      "bytes": 15108
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkenkaSTbQWt4N.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkenkaSTbQWt4N-3adc18cb.woff2",
+      "status": "ok",
+      "bytes": 40192
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkaHkaSTbQWt4N.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkaHkaSTbQWt4N-e785ebff.woff2",
+      "status": "ok",
+      "bytes": 18484
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCXkaSTbQWt4N.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCXkaSTbQWt4N-4a2b179a.woff2",
+      "status": "ok",
+      "bytes": 11604
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCHkaSTbQWt4N.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCHkaSTbQWt4N-f7cf7531.woff2",
+      "status": "ok",
+      "bytes": 26784
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBnkaSTbQWg.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBnkaSTbQWg-4bf6ecc6.woff2",
+      "status": "ok",
+      "bytes": 41748
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBHMdazTgWw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBHMdazTgWw-37dedbe4.woff2",
+      "status": "ok",
+      "bytes": 31472
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBHMdazTgWw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBHMdazTgWw-48e8e7de.woff2",
+      "status": "ok",
+      "bytes": 19624
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBHMdazTgWw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBHMdazTgWw-d2348e8b.woff2",
+      "status": "ok",
+      "bytes": 1632
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBHMdazTgWw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBHMdazTgWw-e9e1f234.woff2",
+      "status": "ok",
+      "bytes": 13984
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBHMdazTgWw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBHMdazTgWw-01f2dc6a.woff2",
+      "status": "ok",
+      "bytes": 36292
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBHMdazTgWw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBHMdazTgWw-b5043adb.woff2",
+      "status": "ok",
+      "bytes": 16692
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBHMdazTgWw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBHMdazTgWw-45146ac9.woff2",
+      "status": "ok",
+      "bytes": 10572
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBHMdazTgWw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBHMdazTgWw-6ddde433.woff2",
+      "status": "ok",
+      "bytes": 24444
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ-973a21a5.woff2",
+      "status": "ok",
+      "bytes": 37520
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufA5qWr4xCCQ_k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/BngMUXZYTXPIvIBgJJSb6ufA5qWr4xCCQ_k-dc0d7935.woff2",
+      "status": "ok",
+      "bytes": 32316
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufJ5qWr4xCCQ_k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/BngMUXZYTXPIvIBgJJSb6ufJ5qWr4xCCQ_k-cfc59f61.woff2",
+      "status": "ok",
+      "bytes": 21336
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufB5qWr4xCCQ_k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/BngMUXZYTXPIvIBgJJSb6ufB5qWr4xCCQ_k-f4a8f364.woff2",
+      "status": "ok",
+      "bytes": 2172
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufO5qWr4xCCQ_k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/BngMUXZYTXPIvIBgJJSb6ufO5qWr4xCCQ_k-9160ede2.woff2",
+      "status": "ok",
+      "bytes": 14884
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufC5qWr4xCCQ_k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/BngMUXZYTXPIvIBgJJSb6ufC5qWr4xCCQ_k-cb6a2898.woff2",
+      "status": "ok",
+      "bytes": 9848
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufD5qWr4xCCQ_k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/BngMUXZYTXPIvIBgJJSb6ufD5qWr4xCCQ_k-a60aeb08.woff2",
+      "status": "ok",
+      "bytes": 21156
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufN5qWr4xCC.woff2",
+      "kind": "font",
+      "localPath": "assets/font/BngMUXZYTXPIvIBgJJSb6ufN5qWr4xCC-8b8750ee.woff2",
+      "status": "ok",
+      "bytes": 34160
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiAyp8kv8JHgFVrJJLmE0tDMPKhSkFEkm8.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiAyp8kv8JHgFVrJJLmE0tDMPKhSkFEkm8-aa96b02c.woff2",
+      "status": "ok",
+      "bytes": 42168
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiAyp8kv8JHgFVrJJLmE0tMMPKhSkFEkm8.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiAyp8kv8JHgFVrJJLmE0tMMPKhSkFEkm8-e9044eb8.woff2",
+      "status": "ok",
+      "bytes": 5708
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiAyp8kv8JHgFVrJJLmE0tCMPKhSkFE.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiAyp8kv8JHgFVrJJLmE0tCMPKhSkFE-fd519ab5.woff2",
+      "status": "ok",
+      "bytes": 8408
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmv1pVFteOYktMqlap.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiDyp8kv8JHgFVrJJLmv1pVFteOYktMqlap-63994972.woff2",
+      "status": "ok",
+      "bytes": 45272
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmv1pVGdeOYktMqlap.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiDyp8kv8JHgFVrJJLmv1pVGdeOYktMqlap-7f9b6c27.woff2",
+      "status": "ok",
+      "bytes": 5932
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmv1pVF9eOYktMqg.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiDyp8kv8JHgFVrJJLmv1pVF9eOYktMqg-93f24f5a.woff2",
+      "status": "ok",
+      "bytes": 8716
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm21lVFteOYktMqlap.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiDyp8kv8JHgFVrJJLm21lVFteOYktMqlap-16e0670d.woff2",
+      "status": "ok",
+      "bytes": 45756
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm21lVGdeOYktMqlap.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiDyp8kv8JHgFVrJJLm21lVGdeOYktMqlap-c45cb026.woff2",
+      "status": "ok",
+      "bytes": 6008
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm21lVF9eOYktMqg.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiDyp8kv8JHgFVrJJLm21lVF9eOYktMqg-6bdbe506.woff2",
+      "status": "ok",
+      "bytes": 8708
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrJJLucXtAOvWDSHFF.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiGyp8kv8JHgFVrJJLucXtAOvWDSHFF-ab543209.woff2",
+      "status": "ok",
+      "bytes": 45900
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrJJLufntAOvWDSHFF.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiGyp8kv8JHgFVrJJLufntAOvWDSHFF-92448213.woff2",
+      "status": "ok",
+      "bytes": 6012
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrJJLucHtAOvWDSA.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiGyp8kv8JHgFVrJJLucHtAOvWDSA-5f761d8a.woff2",
+      "status": "ok",
+      "bytes": 8676
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmg1hVFteOYktMqlap.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiDyp8kv8JHgFVrJJLmg1hVFteOYktMqlap-b1b60726.woff2",
+      "status": "ok",
+      "bytes": 45004
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmg1hVGdeOYktMqlap.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiDyp8kv8JHgFVrJJLmg1hVGdeOYktMqlap-42f47a10.woff2",
+      "status": "ok",
+      "bytes": 5872
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmg1hVF9eOYktMqg.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiDyp8kv8JHgFVrJJLmg1hVF9eOYktMqg-c15cf06d.woff2",
+      "status": "ok",
+      "bytes": 8516
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmr19VFteOYktMqlap.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiDyp8kv8JHgFVrJJLmr19VFteOYktMqlap-9f56d668.woff2",
+      "status": "ok",
+      "bytes": 45680
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmr19VGdeOYktMqlap.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiDyp8kv8JHgFVrJJLmr19VGdeOYktMqlap-34c34622.woff2",
+      "status": "ok",
+      "bytes": 6012
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmr19VF9eOYktMqg.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiDyp8kv8JHgFVrJJLmr19VF9eOYktMqg-879d19e3.woff2",
+      "status": "ok",
+      "bytes": 8740
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmy15VFteOYktMqlap.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiDyp8kv8JHgFVrJJLmy15VFteOYktMqlap-da770177.woff2",
+      "status": "ok",
+      "bytes": 45056
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmy15VGdeOYktMqlap.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiDyp8kv8JHgFVrJJLmy15VGdeOYktMqlap-33db4fcd.woff2",
+      "status": "ok",
+      "bytes": 5912
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmy15VF9eOYktMqg.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiDyp8kv8JHgFVrJJLmy15VF9eOYktMqg-536087ad.woff2",
+      "status": "ok",
+      "bytes": 8628
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm111VFteOYktMqlap.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiDyp8kv8JHgFVrJJLm111VFteOYktMqlap-1caf0193.woff2",
+      "status": "ok",
+      "bytes": 44712
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm111VGdeOYktMqlap.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiDyp8kv8JHgFVrJJLm111VGdeOYktMqlap-8c9a8075.woff2",
+      "status": "ok",
+      "bytes": 5956
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm111VF9eOYktMqg.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiDyp8kv8JHgFVrJJLm111VF9eOYktMqg-44d468d0.woff2",
+      "status": "ok",
+      "bytes": 8668
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm81xVFteOYktMqlap.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiDyp8kv8JHgFVrJJLm81xVFteOYktMqlap-180077f2.woff2",
+      "status": "ok",
+      "bytes": 41896
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm81xVGdeOYktMqlap.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiDyp8kv8JHgFVrJJLm81xVGdeOYktMqlap-bfc4444e.woff2",
+      "status": "ok",
+      "bytes": 5728
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm81xVF9eOYktMqg.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiDyp8kv8JHgFVrJJLm81xVF9eOYktMqg-8e5ad9bb.woff2",
+      "status": "ok",
+      "bytes": 8472
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrLPTucXtAOvWDSHFF.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiGyp8kv8JHgFVrLPTucXtAOvWDSHFF-b995e03a.woff2",
+      "status": "ok",
+      "bytes": 36020
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrLPTufntAOvWDSHFF.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiGyp8kv8JHgFVrLPTufntAOvWDSHFF-33116cf5.woff2",
+      "status": "ok",
+      "bytes": 5296
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrLPTucHtAOvWDSA.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiGyp8kv8JHgFVrLPTucHtAOvWDSA-4acdae75.woff2",
+      "status": "ok",
+      "bytes": 7496
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLFj_Z11lFd2JQEl8qw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiByp8kv8JHgFVrLFj_Z11lFd2JQEl8qw-424594c6.woff2",
+      "status": "ok",
+      "bytes": 39176
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLFj_Z1JlFd2JQEl8qw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiByp8kv8JHgFVrLFj_Z1JlFd2JQEl8qw-a3116486.woff2",
+      "status": "ok",
+      "bytes": 5532
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLFj_Z1xlFd2JQEk.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiByp8kv8JHgFVrLFj_Z1xlFd2JQEk-2ef24a75.woff2",
+      "status": "ok",
+      "bytes": 7896
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8Z11lFd2JQEl8qw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiByp8kv8JHgFVrLDz8Z11lFd2JQEl8qw-fd36e90d.woff2",
+      "status": "ok",
+      "bytes": 39416
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8Z1JlFd2JQEl8qw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiByp8kv8JHgFVrLDz8Z1JlFd2JQEl8qw-c9b654d1.woff2",
+      "status": "ok",
+      "bytes": 5540
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8Z1xlFd2JQEk.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiByp8kv8JHgFVrLDz8Z1xlFd2JQEk-d15512f0.woff2",
+      "status": "ok",
+      "bytes": 7844
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJbecnFHGPezSQ.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiEyp8kv8JHgFVrJJbecnFHGPezSQ-cd9ec846.woff2",
+      "status": "ok",
+      "bytes": 39504
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJnecnFHGPezSQ.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiEyp8kv8JHgFVrJJnecnFHGPezSQ-050711b1.woff2",
+      "status": "ok",
+      "bytes": 5640
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiEyp8kv8JHgFVrJJfecnFHGPc-350a5a7d.woff2",
+      "status": "ok",
+      "bytes": 7900
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z11lFd2JQEl8qw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiByp8kv8JHgFVrLGT9Z11lFd2JQEl8qw-6b540e72.woff2",
+      "status": "ok",
+      "bytes": 39160
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z1JlFd2JQEl8qw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiByp8kv8JHgFVrLGT9Z1JlFd2JQEl8qw-5a10bac7.woff2",
+      "status": "ok",
+      "bytes": 5496
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z1xlFd2JQEk.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiByp8kv8JHgFVrLGT9Z1xlFd2JQEk-789778bf.woff2",
+      "status": "ok",
+      "bytes": 7740
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z11lFd2JQEl8qw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiByp8kv8JHgFVrLEj6Z11lFd2JQEl8qw-2a3dd29a.woff2",
+      "status": "ok",
+      "bytes": 39384
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1JlFd2JQEl8qw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiByp8kv8JHgFVrLEj6Z1JlFd2JQEl8qw-83dacd77.woff2",
+      "status": "ok",
+      "bytes": 5552
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1xlFd2JQEk.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiByp8kv8JHgFVrLEj6Z1xlFd2JQEk-52afdaff.woff2",
+      "status": "ok",
+      "bytes": 7992
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z11lFd2JQEl8qw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiByp8kv8JHgFVrLCz7Z11lFd2JQEl8qw-696ca905.woff2",
+      "status": "ok",
+      "bytes": 39204
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1JlFd2JQEl8qw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiByp8kv8JHgFVrLCz7Z1JlFd2JQEl8qw-6bd975f1.woff2",
+      "status": "ok",
+      "bytes": 5448
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk-061e20df.woff2",
+      "status": "ok",
+      "bytes": 7848
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4Z11lFd2JQEl8qw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiByp8kv8JHgFVrLDD4Z11lFd2JQEl8qw-4af000e7.woff2",
+      "status": "ok",
+      "bytes": 39088
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4Z1JlFd2JQEl8qw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiByp8kv8JHgFVrLDD4Z1JlFd2JQEl8qw-51c76428.woff2",
+      "status": "ok",
+      "bytes": 5484
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4Z1xlFd2JQEk.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiByp8kv8JHgFVrLDD4Z1xlFd2JQEk-855190bb.woff2",
+      "status": "ok",
+      "bytes": 7816
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5Z11lFd2JQEl8qw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiByp8kv8JHgFVrLBT5Z11lFd2JQEl8qw-38a1b350.woff2",
+      "status": "ok",
+      "bytes": 38192
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5Z1JlFd2JQEl8qw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiByp8kv8JHgFVrLBT5Z1JlFd2JQEl8qw-dae0377c.woff2",
+      "status": "ok",
+      "bytes": 5364
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5Z1xlFd2JQEk.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pxiByp8kv8JHgFVrLBT5Z1xlFd2JQEk-f2374222.woff2",
+      "status": "ok",
+      "bytes": 7600
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/uploads/2024/08/PARTE-01.webp",
+      "kind": "img",
+      "localPath": "assets/img/PARTE-01-de69cc2d.webp",
+      "status": "ok",
+      "bytes": 99200
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/uploads/2024/08/PARTE-QSE-1-1.webp",
+      "kind": "img",
+      "localPath": "assets/img/PARTE-QSE-1-1-b45e7c4e.webp",
+      "status": "ok",
+      "bytes": 17002
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/uploads/2024/08/PARTE-QSE-2-1.webp",
+      "kind": "img",
+      "localPath": "assets/img/PARTE-QSE-2-1-e3ec7ee1.webp",
+      "status": "ok",
+      "bytes": 3492
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/uploads/2024/08/PARTE-QSE-3-1.webp",
+      "kind": "img",
+      "localPath": "assets/img/PARTE-QSE-3-1-b0313239.webp",
+      "status": "ok",
+      "bytes": 18868
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/uploads/2024/08/PARTE-01-MB.webp",
+      "kind": "img",
+      "localPath": "assets/img/PARTE-01-MB-18f6e10a.webp",
+      "status": "ok",
+      "bytes": 91756
+    },
+    {
+      "url": "https://psicologajuliavaldetaro.com.br/wp-content/uploads/2024/08/PARTE-QSE-MB-scaled.webp",
+      "kind": "img",
+      "localPath": "assets/img/PARTE-QSE-MB-scaled-4a3cc46e.webp",
+      "status": "ok",
+      "bytes": 5104
+    }
+  ]
+}

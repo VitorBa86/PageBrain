@@ -1,0 +1,81 @@
+<!--
+  SNIPPET: Botão escuro com blob azul
+  CATEGORIA: botoes
+  O QUE FAZ: Botão escuro com gradiente radial metálico e uma mancha (blob) azul neon no canto.
+  COMO USAR: Opção A (mais rápida): cole o arquivo botao-blob-gradiente-escuro.elementor.json no Elementor com botão direito > "Colar de outro site". Opção B: crie um widget HTML e cole este arquivo inteiro. Troque https://www.seusite.com pelo link (WhatsApp, checkout).
+  ONDE COLAR: Widget HTML do Elementor (ou JSON colado)
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: coleção original da casa (botao2)
+  USADO EM: nenhuma página publicada encontrada (só na biblioteca)
+-->
+
+<style>
+.button2 {
+  cursor: pointer;
+  font-size: 1.4rem;
+  border-radius: 16px;
+  border: none;
+  padding: 2px;
+  background: radial-gradient(circle 80px at 80% -10%, #ffffff, #181b1b);
+  position: relative;
+}
+.button::after {
+  content: "";
+  position: absolute;
+  width: 65%;
+  height: 60%;
+  border-radius: 120px;
+  top: 0;
+  right: 0;
+  box-shadow: 0 0 20px #ffffff38;
+  z-index: -1;
+}
+
+.blob1 {
+  position: absolute;
+  width: 70px;
+  height: 100%;
+  border-radius: 16px;
+  bottom: 0;
+  left: 0;
+  background: radial-gradient(
+    circle 60px at 0% 100%,
+    #3fe9ff,
+    #0000ff80,
+    transparent
+  );
+  box-shadow: -10px 10px 30px #0051ff2d;
+}
+
+.inner {
+  padding: 14px 25px;
+  border-radius: 14px;
+  color: #fff;
+  z-index: 3;
+  position: relative;
+  background: radial-gradient(circle 80px at 80% -50%, #777777, #0f1111);
+}
+.inner::before {
+  content: "";
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  border-radius: 14px;
+  background: radial-gradient(
+    circle 60px at 0% 100%,
+    #00e1ff1a,
+    #0000ff11,
+    transparent
+  );
+  position: absolute;
+}
+</style>
+
+<a href="https://www.seusite.com" target="_blank"> <!-- Adicione a URL aqui -->
+  <button class="button2">
+    <div class="blob1"></div>
+    <div class="blob2"></div>
+    <div class="inner">BOTÃO</div>
+  </button>
+</a>

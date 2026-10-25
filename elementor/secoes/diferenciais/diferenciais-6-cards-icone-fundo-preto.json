@@ -1,0 +1,968 @@
+{
+ "content": [
+  {
+   "id": "109e4566",
+   "settings": {
+    "flex_direction": "column",
+    "min_height": {
+     "unit": "px",
+     "size": 0,
+     "sizes": []
+    },
+    "flex_justify_content": "flex-start",
+    "flex_align_items": "flex-start",
+    "background_background": "classic",
+    "background_color": "#000000",
+    "margin": {
+     "unit": "px",
+     "top": "0",
+     "right": "0",
+     "bottom": "0",
+     "left": "0",
+     "isLinked": false
+    },
+    "padding": {
+     "unit": "px",
+     "top": "80",
+     "right": "0",
+     "bottom": "130",
+     "left": "0",
+     "isLinked": false
+    },
+    "boxed_width_tablet": {
+     "unit": "%",
+     "size": 90,
+     "sizes": []
+    },
+    "boxed_width_mobile": {
+     "unit": "%",
+     "size": 90,
+     "sizes": []
+    },
+    "flex_align_items_mobile": "center",
+    "padding_mobile": {
+     "unit": "px",
+     "top": "60",
+     "right": "0",
+     "bottom": "80",
+     "left": "0",
+     "isLinked": false
+    },
+    "background_image_mobile": {
+     "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/05/MB-COMPLETOLUZ-copiar.webp",
+     "id": 3823,
+     "size": "",
+     "alt": "",
+     "source": "library"
+    },
+    "background_size_mobile": "cover",
+    "eae_slider_delay": "5000",
+    "gradient_color_list": [
+     {
+      "eae_animated_gradient_color": "#00a6d8",
+      "_id": "c09c6ed"
+     },
+     {
+      "eae_animated_gradient_color": "#b800c9",
+      "_id": "2ad8cd8"
+     },
+     {
+      "eae_animated_gradient_color": "#e57600",
+      "_id": "c8ba0a4"
+     }
+    ]
+   },
+   "elements": [
+    {
+     "id": "3c3db9bb",
+     "settings": {
+      "title": "Porque escolher a Lorem Impsum?",
+      "align": "left",
+      "title_color": "#FFFFFF",
+      "typography_typography": "custom",
+      "typography_font_family": "Sora",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 35,
+       "sizes": []
+      },
+      "typography_font_weight": "600",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.4,
+       "sizes": []
+      },
+      "_element_width": "inherit",
+      "_element_custom_width": {
+       "unit": "%",
+       "size": 45,
+       "sizes": []
+      },
+      "align_mobile": "center",
+      "typography_font_size_mobile": {
+       "unit": "vw",
+       "size": 7.9,
+       "sizes": []
+      },
+      "_css_classes": "scroll-left"
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "heading",
+     "elType": "widget"
+    },
+    {
+     "id": "3476ca3",
+     "settings": {
+      "text": "Divisória",
+      "color": "#AF019900",
+      "weight": {
+       "unit": "px",
+       "size": 2,
+       "sizes": []
+      },
+      "gap": {
+       "unit": "px",
+       "size": 0,
+       "sizes": []
+      },
+      "custom_css": "selector .elementor-divider {\r\n    background: linear-gradient(to right, #AF0199, #36002f) !important;\r\n    height: 2px; /* Ajuste a altura conforme necessário */\r\n    border: none; /* Remove qualquer borda padrão */\r\n}\r\n\r\n@media (max-width:432px){\r\n    selector .elementor-divider {\r\n    background: linear-gradient(to right,#36002f, #AF0199, #36002f) !important;\r\n    height: 2px; /* Ajuste a altura conforme necessário */\r\n    border: none; /* Remove qualquer borda padrão */\r\n}\r\n}\r\n",
+      "_element_width_mobile": "initial",
+      "_element_custom_width_mobile": {
+       "unit": "%",
+       "size": 80,
+       "sizes": []
+      },
+      "_css_classes": "scroll-left"
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "divider",
+     "elType": "widget"
+    },
+    {
+     "id": "68cb81d6",
+     "settings": {
+      "flex_direction": "row",
+      "margin": {
+       "unit": "px",
+       "top": "10",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": true
+      },
+      "margin_mobile": {
+       "unit": "px",
+       "top": "20",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+       {
+        "eae_animated_gradient_color": "#00a6d8",
+        "_id": "48d54b0"
+       },
+       {
+        "eae_animated_gradient_color": "#b800c9",
+        "_id": "bafa2c0"
+       },
+       {
+        "eae_animated_gradient_color": "#e57600",
+        "_id": "6b096b3"
+       }
+      ]
+     },
+     "elements": [
+      {
+       "id": "32cd3feb",
+       "settings": {
+        "min_height": {
+         "unit": "px",
+         "size": 0,
+         "sizes": []
+        },
+        "background_background": "gradient",
+        "background_color": "#5B117F52",
+        "background_color_b": "#5B117F1A",
+        "background_gradient_angle": {
+         "unit": "deg",
+         "size": 132,
+         "sizes": []
+        },
+        "border_border": "solid",
+        "border_width": {
+         "unit": "px",
+         "top": "1",
+         "right": "1",
+         "bottom": "1",
+         "left": "1",
+         "isLinked": true
+        },
+        "border_color": "#FFFFFF2E",
+        "border_radius": {
+         "unit": "px",
+         "top": "10",
+         "right": "10",
+         "bottom": "10",
+         "left": "10",
+         "isLinked": true
+        },
+        "padding": {
+         "unit": "px",
+         "top": "30",
+         "right": "30",
+         "bottom": "30",
+         "left": "30",
+         "isLinked": true
+        },
+        "css_classes": "scroll-bottom",
+        "eae_slider_delay": "5000",
+        "gradient_color_list": [
+         {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "8773dfd"
+         },
+         {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "97b6045"
+         },
+         {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "9c335d1"
+         }
+        ]
+       },
+       "elements": [
+        {
+         "id": "7e1057a6",
+         "settings": {
+          "view": "stacked",
+          "title_text": "Lorem Impsum",
+          "description_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+          "text_align": "left",
+          "primary_color": "#920E81",
+          "icon_size": {
+           "unit": "px",
+           "size": 28,
+           "sizes": []
+          },
+          "icon_padding": {
+           "unit": "px",
+           "size": 15,
+           "sizes": []
+          },
+          "border_radius": {
+           "unit": "px",
+           "top": "12",
+           "right": "12",
+           "bottom": "12",
+           "left": "12",
+           "isLinked": true
+          },
+          "title_color": "#AF0199",
+          "title_typography_typography": "custom",
+          "title_typography_font_family": "Sora",
+          "title_typography_font_size": {
+           "unit": "px",
+           "size": 24,
+           "sizes": []
+          },
+          "title_typography_font_weight": "600",
+          "description_color": "#FFFFFF",
+          "description_typography_typography": "custom",
+          "description_typography_font_family": "Sora",
+          "description_typography_font_size": {
+           "unit": "px",
+           "size": 15,
+           "sizes": []
+          },
+          "description_typography_font_weight": "200",
+          "selected_icon": {
+           "value": {
+            "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/05/svg-gobbler-1-1.svg",
+            "id": 3846
+           },
+           "library": "svg"
+          }
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "icon-box",
+         "elType": "widget"
+        }
+       ],
+       "isInner": true,
+       "elType": "container"
+      },
+      {
+       "id": "3893a40",
+       "settings": {
+        "min_height": {
+         "unit": "px",
+         "size": 0,
+         "sizes": []
+        },
+        "background_background": "gradient",
+        "background_color": "#5B117F52",
+        "background_color_b": "#5B117F1A",
+        "background_gradient_angle": {
+         "unit": "deg",
+         "size": 132,
+         "sizes": []
+        },
+        "border_border": "solid",
+        "border_width": {
+         "unit": "px",
+         "top": "1",
+         "right": "1",
+         "bottom": "1",
+         "left": "1",
+         "isLinked": true
+        },
+        "border_color": "#FFFFFF2E",
+        "border_radius": {
+         "unit": "px",
+         "top": "10",
+         "right": "10",
+         "bottom": "10",
+         "left": "10",
+         "isLinked": true
+        },
+        "padding": {
+         "unit": "px",
+         "top": "30",
+         "right": "30",
+         "bottom": "30",
+         "left": "30",
+         "isLinked": true
+        },
+        "css_classes": "scroll-bottom",
+        "eae_slider_delay": "5000",
+        "gradient_color_list": [
+         {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "9386c13"
+         },
+         {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "a8c1a54"
+         },
+         {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "fc29938"
+         }
+        ]
+       },
+       "elements": [
+        {
+         "id": "55c3cf0e",
+         "settings": {
+          "view": "stacked",
+          "title_text": "Lorem Impsum",
+          "description_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+          "text_align": "left",
+          "primary_color": "#920E81",
+          "icon_size": {
+           "unit": "px",
+           "size": 28,
+           "sizes": []
+          },
+          "icon_padding": {
+           "unit": "px",
+           "size": 15,
+           "sizes": []
+          },
+          "border_radius": {
+           "unit": "px",
+           "top": "12",
+           "right": "12",
+           "bottom": "12",
+           "left": "12",
+           "isLinked": true
+          },
+          "title_color": "#AF0199",
+          "title_typography_typography": "custom",
+          "title_typography_font_family": "Sora",
+          "title_typography_font_size": {
+           "unit": "px",
+           "size": 24,
+           "sizes": []
+          },
+          "title_typography_font_weight": "600",
+          "description_color": "#FFFFFF",
+          "description_typography_typography": "custom",
+          "description_typography_font_family": "Sora",
+          "description_typography_font_size": {
+           "unit": "px",
+           "size": 15,
+           "sizes": []
+          },
+          "description_typography_font_weight": "200",
+          "selected_icon": {
+           "value": {
+            "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/05/svg-gobbler-2-1.svg",
+            "id": 3847
+           },
+           "library": "svg"
+          }
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "icon-box",
+         "elType": "widget"
+        }
+       ],
+       "isInner": true,
+       "elType": "container"
+      },
+      {
+       "id": "4992c3c",
+       "settings": {
+        "min_height": {
+         "unit": "px",
+         "size": 0,
+         "sizes": []
+        },
+        "background_background": "gradient",
+        "background_color": "#5B117F52",
+        "background_color_b": "#5B117F1A",
+        "background_gradient_angle": {
+         "unit": "deg",
+         "size": 132,
+         "sizes": []
+        },
+        "border_border": "solid",
+        "border_width": {
+         "unit": "px",
+         "top": "1",
+         "right": "1",
+         "bottom": "1",
+         "left": "1",
+         "isLinked": true
+        },
+        "border_color": "#FFFFFF2E",
+        "border_radius": {
+         "unit": "px",
+         "top": "10",
+         "right": "10",
+         "bottom": "10",
+         "left": "10",
+         "isLinked": true
+        },
+        "padding": {
+         "unit": "px",
+         "top": "30",
+         "right": "30",
+         "bottom": "30",
+         "left": "30",
+         "isLinked": true
+        },
+        "css_classes": "scroll-bottom",
+        "eae_slider_delay": "5000",
+        "gradient_color_list": [
+         {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "3fe418d"
+         },
+         {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "3d332bf"
+         },
+         {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "f412c1e"
+         }
+        ]
+       },
+       "elements": [
+        {
+         "id": "53e864d9",
+         "settings": {
+          "view": "stacked",
+          "title_text": "Lorem Impsum",
+          "description_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+          "text_align": "left",
+          "primary_color": "#920E81",
+          "icon_size": {
+           "unit": "px",
+           "size": 28,
+           "sizes": []
+          },
+          "icon_padding": {
+           "unit": "px",
+           "size": 15,
+           "sizes": []
+          },
+          "border_radius": {
+           "unit": "px",
+           "top": "12",
+           "right": "12",
+           "bottom": "12",
+           "left": "12",
+           "isLinked": true
+          },
+          "title_color": "#AF0199",
+          "title_typography_typography": "custom",
+          "title_typography_font_family": "Sora",
+          "title_typography_font_size": {
+           "unit": "px",
+           "size": 24,
+           "sizes": []
+          },
+          "title_typography_font_weight": "600",
+          "description_color": "#FFFFFF",
+          "description_typography_typography": "custom",
+          "description_typography_font_family": "Sora",
+          "description_typography_font_size": {
+           "unit": "px",
+           "size": 15,
+           "sizes": []
+          },
+          "description_typography_font_weight": "200",
+          "selected_icon": {
+           "value": {
+            "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/05/svg-gobbler-4-1.svg",
+            "id": 3849
+           },
+           "library": "svg"
+          }
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "icon-box",
+         "elType": "widget"
+        }
+       ],
+       "isInner": true,
+       "elType": "container"
+      }
+     ],
+     "isInner": true,
+     "elType": "container"
+    },
+    {
+     "id": "5eeee6",
+     "settings": {
+      "flex_direction": "row",
+      "margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": true
+      },
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+       {
+        "eae_animated_gradient_color": "#00a6d8",
+        "_id": "477f1fb"
+       },
+       {
+        "eae_animated_gradient_color": "#b800c9",
+        "_id": "8486372"
+       },
+       {
+        "eae_animated_gradient_color": "#e57600",
+        "_id": "2b9da96"
+       }
+      ]
+     },
+     "elements": [
+      {
+       "id": "49faa9b5",
+       "settings": {
+        "min_height": {
+         "unit": "px",
+         "size": 0,
+         "sizes": []
+        },
+        "background_background": "gradient",
+        "background_color": "#5B117F52",
+        "background_color_b": "#5B117F1A",
+        "background_gradient_angle": {
+         "unit": "deg",
+         "size": 132,
+         "sizes": []
+        },
+        "border_border": "solid",
+        "border_width": {
+         "unit": "px",
+         "top": "1",
+         "right": "1",
+         "bottom": "1",
+         "left": "1",
+         "isLinked": true
+        },
+        "border_color": "#FFFFFF2E",
+        "border_radius": {
+         "unit": "px",
+         "top": "10",
+         "right": "10",
+         "bottom": "10",
+         "left": "10",
+         "isLinked": true
+        },
+        "padding": {
+         "unit": "px",
+         "top": "30",
+         "right": "30",
+         "bottom": "30",
+         "left": "30",
+         "isLinked": true
+        },
+        "css_classes": "scroll-bottom",
+        "eae_slider_delay": "5000",
+        "gradient_color_list": [
+         {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "eba7b87"
+         },
+         {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "ac634c5"
+         },
+         {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "95c14fa"
+         }
+        ]
+       },
+       "elements": [
+        {
+         "id": "39a03d1e",
+         "settings": {
+          "view": "stacked",
+          "title_text": "Lorem Impsum",
+          "description_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+          "text_align": "left",
+          "primary_color": "#920E81",
+          "icon_size": {
+           "unit": "px",
+           "size": 28,
+           "sizes": []
+          },
+          "icon_padding": {
+           "unit": "px",
+           "size": 15,
+           "sizes": []
+          },
+          "border_radius": {
+           "unit": "px",
+           "top": "12",
+           "right": "12",
+           "bottom": "12",
+           "left": "12",
+           "isLinked": true
+          },
+          "title_color": "#AF0199",
+          "title_typography_typography": "custom",
+          "title_typography_font_family": "Sora",
+          "title_typography_font_size": {
+           "unit": "px",
+           "size": 24,
+           "sizes": []
+          },
+          "title_typography_font_weight": "600",
+          "description_color": "#FFFFFF",
+          "description_typography_typography": "custom",
+          "description_typography_font_family": "Sora",
+          "description_typography_font_size": {
+           "unit": "px",
+           "size": 15,
+           "sizes": []
+          },
+          "description_typography_font_weight": "200",
+          "selected_icon": {
+           "value": {
+            "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/05/svg-gobbler-3-1.svg",
+            "id": 3848
+           },
+           "library": "svg"
+          }
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "icon-box",
+         "elType": "widget"
+        }
+       ],
+       "isInner": true,
+       "elType": "container"
+      },
+      {
+       "id": "4ecc6413",
+       "settings": {
+        "min_height": {
+         "unit": "px",
+         "size": 0,
+         "sizes": []
+        },
+        "background_background": "gradient",
+        "background_color": "#5B117F52",
+        "background_color_b": "#5B117F1A",
+        "background_gradient_angle": {
+         "unit": "deg",
+         "size": 132,
+         "sizes": []
+        },
+        "border_border": "solid",
+        "border_width": {
+         "unit": "px",
+         "top": "1",
+         "right": "1",
+         "bottom": "1",
+         "left": "1",
+         "isLinked": true
+        },
+        "border_color": "#FFFFFF2E",
+        "border_radius": {
+         "unit": "px",
+         "top": "10",
+         "right": "10",
+         "bottom": "10",
+         "left": "10",
+         "isLinked": true
+        },
+        "padding": {
+         "unit": "px",
+         "top": "30",
+         "right": "30",
+         "bottom": "30",
+         "left": "30",
+         "isLinked": true
+        },
+        "css_classes": "scroll-bottom",
+        "eae_slider_delay": "5000",
+        "gradient_color_list": [
+         {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "e3b473b"
+         },
+         {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "f3f8790"
+         },
+         {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "397c365"
+         }
+        ]
+       },
+       "elements": [
+        {
+         "id": "644af367",
+         "settings": {
+          "view": "stacked",
+          "title_text": "Lorem Impsum",
+          "description_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+          "text_align": "left",
+          "primary_color": "#920E81",
+          "icon_size": {
+           "unit": "px",
+           "size": 28,
+           "sizes": []
+          },
+          "icon_padding": {
+           "unit": "px",
+           "size": 15,
+           "sizes": []
+          },
+          "border_radius": {
+           "unit": "px",
+           "top": "12",
+           "right": "12",
+           "bottom": "12",
+           "left": "12",
+           "isLinked": true
+          },
+          "title_color": "#AF0199",
+          "title_typography_typography": "custom",
+          "title_typography_font_family": "Sora",
+          "title_typography_font_size": {
+           "unit": "px",
+           "size": 24,
+           "sizes": []
+          },
+          "title_typography_font_weight": "600",
+          "description_color": "#FFFFFF",
+          "description_typography_typography": "custom",
+          "description_typography_font_family": "Sora",
+          "description_typography_font_size": {
+           "unit": "px",
+           "size": 15,
+           "sizes": []
+          },
+          "description_typography_font_weight": "200",
+          "selected_icon": {
+           "value": {
+            "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/05/svg-gobbler-9.svg",
+            "id": 3845
+           },
+           "library": "svg"
+          }
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "icon-box",
+         "elType": "widget"
+        }
+       ],
+       "isInner": true,
+       "elType": "container"
+      },
+      {
+       "id": "4dbc77b1",
+       "settings": {
+        "min_height": {
+         "unit": "px",
+         "size": 0,
+         "sizes": []
+        },
+        "background_background": "gradient",
+        "background_color": "#5B117F52",
+        "background_color_b": "#5B117F1A",
+        "background_gradient_angle": {
+         "unit": "deg",
+         "size": 132,
+         "sizes": []
+        },
+        "border_border": "solid",
+        "border_width": {
+         "unit": "px",
+         "top": "1",
+         "right": "1",
+         "bottom": "1",
+         "left": "1",
+         "isLinked": true
+        },
+        "border_color": "#FFFFFF2E",
+        "border_radius": {
+         "unit": "px",
+         "top": "10",
+         "right": "10",
+         "bottom": "10",
+         "left": "10",
+         "isLinked": true
+        },
+        "padding": {
+         "unit": "px",
+         "top": "30",
+         "right": "30",
+         "bottom": "30",
+         "left": "30",
+         "isLinked": true
+        },
+        "css_classes": "scroll-bottom",
+        "eae_slider_delay": "5000",
+        "gradient_color_list": [
+         {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "7455637"
+         },
+         {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "ab97cbc"
+         },
+         {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "344cd1d"
+         }
+        ]
+       },
+       "elements": [
+        {
+         "id": "50cd0aae",
+         "settings": {
+          "view": "stacked",
+          "title_text": "Lorem Impsum",
+          "description_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+          "text_align": "left",
+          "primary_color": "#920E81",
+          "icon_size": {
+           "unit": "px",
+           "size": 28,
+           "sizes": []
+          },
+          "icon_padding": {
+           "unit": "px",
+           "size": 15,
+           "sizes": []
+          },
+          "border_radius": {
+           "unit": "px",
+           "top": "12",
+           "right": "12",
+           "bottom": "12",
+           "left": "12",
+           "isLinked": true
+          },
+          "title_color": "#AF0199",
+          "title_typography_typography": "custom",
+          "title_typography_font_family": "Sora",
+          "title_typography_font_size": {
+           "unit": "px",
+           "size": 24,
+           "sizes": []
+          },
+          "title_typography_font_weight": "600",
+          "description_color": "#FFFFFF",
+          "description_typography_typography": "custom",
+          "description_typography_font_family": "Sora",
+          "description_typography_font_size": {
+           "unit": "px",
+           "size": 15,
+           "sizes": []
+          },
+          "description_typography_font_weight": "200",
+          "selected_icon": {
+           "value": {
+            "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/05/svg-gobbler-5-1.svg",
+            "id": 3850
+           },
+           "library": "svg"
+          }
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "icon-box",
+         "elType": "widget"
+        }
+       ],
+       "isInner": true,
+       "elType": "container"
+      }
+     ],
+     "isInner": true,
+     "elType": "container"
+    }
+   ],
+   "isInner": false,
+   "elType": "container"
+  }
+ ],
+ "page_settings": [],
+ "version": "0.4",
+ "title": "card 11",
+ "type": "container"
+}

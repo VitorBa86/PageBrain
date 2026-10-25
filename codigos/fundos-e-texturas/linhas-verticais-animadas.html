@@ -1,0 +1,83 @@
+<!--
+  SNIPPET: Linhas verticais com luz descendo
+  CATEGORIA: fundos-e-texturas
+  O QUE FAZ: Duas linhas finas fixas nas laterais da tela com um feixe de luz que desce em loop. Fundo de página escura premium.
+  COMO USAR: Cole em um widget HTML no topo da página (o HTML) e o CSS no CSS da página.
+  ONDE COLAR: Widget HTML + CSS personalizado da página
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: paginas/nossas/vendas-templates-arquiteto-jardel
+  USADO EM: 1 página(s) da casa: vendas-templates-arquiteto-jardel
+-->
+
+<style>
+.container-linhas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  pointer-events: none;
+  z-index: 1;
+  overflow: hidden;
+}
+
+
+.linhas {
+  position: absolute;
+  width: 1px;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.09);
+}
+
+.linhas:nth-child(1) {
+  left: calc(5% - 0.5px);
+}
+.linhas:nth-child(2) {
+  left: calc(95% - 0.5px);
+}
+
+
+.linhas::after {
+  content: '';
+  display: block;
+  position: absolute;
+  height: 15vh;
+  width: 100%;
+  top: -50%;
+  left: 0;
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 75%, rgba(255, 255, 255, 0.5) 100%);
+  animation: descer 7s infinite cubic-bezier(0.4, 0.26, 0, 0.97);
+}
+
+
+.linhas:nth-child(1)::after {
+  animation-delay: 2s;
+}
+.linhas:nth-child(2)::after {
+  animation-delay: 2.5s;
+}
+
+
+@keyframes descer {
+  0% {
+    top: -50%;
+  }
+  100% {
+    top: 110%;
+  }
+}
+
+@media(max-width:900px){
+    .linhas:nth-child(1) {
+  left: calc(3% - 0.5px);
+}
+.linhas:nth-child(2) {
+  left: calc(95% - 0.5px);
+}
+}
+</style>
+
+<div class="container-linhas">
+   <div class="linhas"></div>
+   <div class="linhas"></div>
+</div>

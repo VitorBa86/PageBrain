@@ -1,0 +1,20 @@
+/*
+  SNIPPET: Tamanho do ícone SVG no botão
+  CATEGORIA: utilitarios-css
+  O QUE FAZ: Aumenta o ícone (ex.: WhatsApp) dentro do botão do Elementor e centraliza com o texto.
+  COMO USAR: Cole no CSS personalizado do widget Botão. Ajuste 30px.
+  ONDE COLAR: CSS personalizado do widget Botão
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: 11 páginas
+  USADO EM: 12 página(s) da casa: adv-barros-e-carvalho, adv-gustavo-kehl, adv-luisa, imob-vega-costa-e-silva, imob-vistoria-alphaville, negocio-entre-para-trip, negocio-harmony-estudio-tatuagem, negocio-hoffen-sports, negocio-inter-frios-refrigeracao, psi-renan, servico-rp-vision-marketing, vendas-scripts-consignado-jessica
+*/
+
+selector .elementor-button svg{
+    width: 30px; /*altere o tamanho aqui*/
+    height: 30px; /*altere o tamanho aqui*/
+    vertical-align: middle;
+}
+
+selector .elementor-button-content-wrapper {
+    align-items: center
+}

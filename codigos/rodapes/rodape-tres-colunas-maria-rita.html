@@ -1,0 +1,231 @@
+<!--
+  SNIPPET: Rodapé 3 colunas (Maria Rita)
+  CATEGORIA: rodapes
+  O QUE FAZ: Rodapé completo autocontido (HTML + CSS) com navegação, contatos e redes, responsivo.
+  COMO USAR: Cole em um widget HTML numa seção de largura total e sem padding. Troque logo, links e textos. Leia o comentário no topo do código quando houver.
+  ONDE COLAR: Widget HTML no fim da página
+  DEPENDÊNCIAS: Google Fonts (link no código)
+  ORIGEM: paginas/nossas/psi-maria-rita-sales
+  USADO EM: 1 página(s) da casa: psi-maria-rita-sales
+-->
+
+<!--
+================================================================================
+  RODAPÉ: Maria Rita Sales
+  Para colar no widget "HTML" do Elementor.
+================================================================================
+
+COMO USAR
+  1. Elementor → arraste o widget "HTML" para onde o rodapé deve ficar
+     (idealmente numa seção de largura total, sem padding).
+  2. Cole TODO o conteúdo deste arquivo dentro do widget.
+  3. Troque o caminho do logo (procure por LOGO-AQUI abaixo).
+
+O QUE JÁ VEM PRONTO
+  • Fontes Fraunces + Karla carregadas do Google Fonts.
+  • Todo o CSS está escopado em "#mrs-footer", não afeta o resto do site.
+  • Links (WhatsApp, e-mail, redes) já preenchidos com as URLs reais.
+  • Responsivo: 3 colunas → 1 coluna em telas menores que 860px.
+
+OBSERVAÇÃO SOBRE O EFEITO "RODAPÉ REVELADO"
+  Na página original o rodapé é fixo e a página desliza por cima dele.
+  Esse efeito NÃO foi incluído aqui de propósito: ele exige alterar o
+  <body> e envolver todo o conteúdo do site num wrapper, o que não é
+  possível de dentro de um widget. Aqui o rodapé é um bloco normal,
+  que é o comportamento correto dentro do Elementor.
+================================================================================
+-->
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Karla:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+<style>
+/* ==========================================================================
+   Tokens + estilos do rodapé, tudo escopado em #mrs-footer
+   ========================================================================== */
+#mrs-footer{
+  --color-navy-900:#1D3447;
+  --color-navy-800:#29476D;
+  --color-blue-600:#2668A8;
+  --color-blue-400:#6F9FC8;
+  --color-blue-100:#B1D5F3;
+  --font-display:'Fraunces',Georgia,serif;
+  --font-sans:'Karla',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Arial,sans-serif;
+
+  background:var(--color-navy-800);
+  color:#fff;
+  font-family:var(--font-sans);
+  border-radius:12px 12px 2px 2px;
+  padding:56px 0 26px;
+  box-sizing:border-box;
+}
+#mrs-footer *,#mrs-footer *::before,#mrs-footer *::after{box-sizing:border-box}
+#mrs-footer a{text-decoration:none}
+#mrs-footer p{margin:0}
+
+#mrs-footer .wrap{max-width:1400px;margin:0 auto;padding:0 24px}
+#mrs-footer .footer-grid{display:grid;grid-template-columns:1.4fr 1fr 1fr;gap:56px;align-items:start}
+
+#mrs-footer .footer-logo{height:40px;width:auto;margin-bottom:20px;display:block;max-width:100%}
+#mrs-footer .flabel{font:700 .72rem/1.4em var(--font-sans);letter-spacing:.14em;
+  text-transform:uppercase;color:var(--color-blue-100);margin:0 0 14px}
+
+#mrs-footer .footer-contact{font:400 .98rem/1.7em var(--font-sans);color:rgba(255,255,255,.88)}
+#mrs-footer .footer-contact a{color:#fff;transition:color .3s}
+#mrs-footer .footer-contact a:hover{color:var(--color-blue-100)}
+#mrs-footer .footer-contact .addr{margin-top:12px;color:rgba(255,255,255,.78)}
+#mrs-footer .footer-contact .park{margin-top:12px;font-size:.9rem;color:rgba(255,255,255,.66)}
+
+#mrs-footer .footer-atend{list-style:none;display:flex;flex-direction:column;gap:11px;margin:0;padding:0}
+#mrs-footer .footer-atend li{display:flex;gap:10px;align-items:flex-start;
+  font:400 .98rem/1.5em var(--font-sans);color:rgba(255,255,255,.88)}
+#mrs-footer .footer-atend svg{flex:none;width:16px;height:12px;fill:var(--color-blue-400);margin-top:5px}
+
+#mrs-footer .footer-links{display:flex;flex-direction:column;gap:11px;margin-bottom:20px}
+#mrs-footer .footer-links a{font:400 .98rem/1.4em var(--font-sans);color:rgba(255,255,255,.88);
+  transition:color .3s,padding .3s}
+#mrs-footer .footer-links a:hover{color:#fff;padding-left:4px}
+
+#mrs-footer .footer-social{display:flex;gap:12px}
+#mrs-footer .footer-social a{width:40px;height:40px;border-radius:8px;display:grid;place-items:center;
+  background:rgba(255,255,255,.08);color:#fff;transition:background .3s,transform .3s}
+#mrs-footer .footer-social a:hover{background:var(--color-blue-600);transform:translateY(-3px)}
+#mrs-footer .footer-social svg{width:18px;height:18px}
+
+#mrs-footer .footer-bottom{margin-top:48px;padding-top:22px;
+  border-top:1px solid rgba(255,255,255,.14);
+  display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;
+  font:400 .86rem/1.5em var(--font-sans);color:rgba(255,255,255,.6)}
+#mrs-footer .footer-legal{display:flex;gap:22px;flex-wrap:wrap}
+#mrs-footer .footer-legal a{color:rgba(255,255,255,.6);transition:color .3s}
+#mrs-footer .footer-legal a:hover{color:#fff}
+
+@media(max-width:860px){
+  #mrs-footer{padding:44px 0 24px;border-radius:0}
+  #mrs-footer .footer-grid{grid-template-columns:1fr;gap:34px}
+  #mrs-footer .footer-bottom{justify-content:flex-start}
+}
+
+/* ==========================================================================
+   FADE DE ENTRADA: cada bloco surge subindo quando o rodapé entra na tela
+   ========================================================================== */
+#mrs-footer .fade{
+  opacity:0;
+  transform:translateY(22px);
+  transition:opacity .7s cubic-bezier(.22,.61,.36,1),
+             transform .7s cubic-bezier(.22,.61,.36,1);
+}
+#mrs-footer .fade.in{opacity:1;transform:none}
+
+/* entrada escalonada: uma coluna depois da outra */
+#mrs-footer .fade:nth-child(1){transition-delay:0s}
+#mrs-footer .fade:nth-child(2){transition-delay:.12s}
+#mrs-footer .fade:nth-child(3){transition-delay:.24s}
+#mrs-footer .footer-bottom.fade{transition-delay:.36s}
+
+/* quem prefere menos movimento vê tudo pronto, sem animação */
+@media (prefers-reduced-motion: reduce){
+  #mrs-footer .fade{opacity:1;transform:none;transition:none}
+}
+</style>
+
+<footer id="mrs-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+
+      <!-- COLUNA 1: Contato -->
+      <div class="fade">
+        <!-- LOGO-AQUI: troque pelo endereço da imagem na sua Biblioteca de Mídia -->
+        <img decoding="async" src="https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/2_2_1_1_1x.webp" alt="Maria Rita Sales" class="footer-logo">
+        <p class="flabel">Contato</p>
+        <div class="footer-contact">
+          <div>WhatsApp: <a href="https://wa.me/5527999227919" target="_blank" rel="noopener">+55 (27) 99922-7919</a></div>
+          <div>E-mail: <a href="mailto:psicologiamariarita@gmail.com">psicologiamariarita@gmail.com</a></div>
+          <div class="addr">Endereço do Espaço Design Gente:<br>Av. Nossa Senhora da Penha, 1495<br>Torre B • 9º andar • Sala 910/912<br>Santa Lúcia • Vitória/ES<br>CEP 29056-905 • Brasil</div>
+          <div class="park">Estacionamento: Vaga exclusiva para clientes · Garagem P2, vaga 271.</div>
+        </div>
+      </div>
+
+      <!-- COLUNA 2: Atendimento -->
+      <div class="fade">
+        <p class="flabel">Atendimento</p>
+        <ul class="footer-atend">
+          <li><svg viewBox="0 0 14 10.44" aria-hidden="true"><path d="M 4.755 10.235 L 0.205 5.685 C -0.068 5.412 -0.068 4.968 0.205 4.695 L 1.195 3.705 C 1.468 3.432 1.912 3.432 2.185 3.705 L 5.25 6.77 L 11.815 0.205 C 12.088 -0.068 12.532 -0.068 12.805 0.205 L 13.795 1.195 C 14.068 1.468 14.068 1.912 13.795 2.185 L 5.745 10.235 C 5.472 10.508 5.028 10.508 4.755 10.235 Z"></path></svg>Online para todo o Brasil;</li>
+          <li><svg viewBox="0 0 14 10.44" aria-hidden="true"><path d="M 4.755 10.235 L 0.205 5.685 C -0.068 5.412 -0.068 4.968 0.205 4.695 L 1.195 3.705 C 1.468 3.432 1.912 3.432 2.185 3.705 L 5.25 6.77 L 11.815 0.205 C 12.088 -0.068 12.532 -0.068 12.805 0.205 L 13.795 1.195 C 14.068 1.468 14.068 1.912 13.795 2.185 L 5.745 10.235 C 5.472 10.508 5.028 10.508 4.755 10.235 Z"></path></svg>Profissionais que atuam no cuidado de pessoas, no Brasil ou no exterior;</li>
+          <li><svg viewBox="0 0 14 10.44" aria-hidden="true"><path d="M 4.755 10.235 L 0.205 5.685 C -0.068 5.412 -0.068 4.968 0.205 4.695 L 1.195 3.705 C 1.468 3.432 1.912 3.432 2.185 3.705 L 5.25 6.77 L 11.815 0.205 C 12.088 -0.068 12.532 -0.068 12.805 0.205 L 13.795 1.195 C 14.068 1.468 14.068 1.912 13.795 2.185 L 5.745 10.235 C 5.472 10.508 5.028 10.508 4.755 10.235 Z"></path></svg>Presencial em Vitória (ES)</li>
+        </ul>
+      </div>
+
+      <!-- COLUNA 3: Links + Redes -->
+      <div class="fade">
+        <p class="flabel">Links</p>
+        <div class="footer-links">
+          <a href="#sobre">Sobre</a>
+          <a href="#libercon">Método LIBERCON</a>
+          <a href="#diagnostico">Diagnóstico Cuidando de Quem Cuida</a>
+          <a href="#perguntas">Perguntas Frequentes</a>
+          <a href="#">Política de Privacidade</a>
+          <a href="#">Termos de Uso</a>
+        </div>
+        <p class="flabel">Redes</p>
+        <div class="footer-social">
+          <a href="https://wa.me/5527999227919" target="_blank" rel="noopener" aria-label="WhatsApp"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91c0 1.75.46 3.45 1.32 4.95L2 22l5.25-1.38a9.9 9.9 0 0 0 4.79 1.22h.01c5.46 0 9.91-4.45 9.91-9.91S17.5 2 12.04 2Zm5.8 14.1c-.24.68-1.4 1.3-1.94 1.34-.5.05-.97.24-3.26-.68-2.75-1.08-4.5-3.9-4.63-4.08-.14-.18-1.12-1.49-1.12-2.84 0-1.35.71-2.02.96-2.29.24-.27.53-.34.71-.34.18 0 .35 0 .5.01.16.01.38-.06.6.46.24.55.8 1.9.87 2.04.07.14.12.3.02.48-.09.18-.14.29-.27.44-.14.16-.29.36-.41.48-.14.14-.28.29-.12.57.16.27.72 1.18 1.55 1.92 1.06.95 1.96 1.24 2.24 1.38.27.14.43.12.59-.07.16-.18.68-.79.86-1.06.18-.27.36-.23.6-.14.24.09 1.55.73 1.81.86.27.14.45.2.51.32.07.11.07.66-.17 1.34Z"></path></svg></a>
+          <a href="https://www.instagram.com/mariarita_sales/" target="_blank" rel="noopener" aria-label="Instagram"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="5"></rect><circle cx="12" cy="12" r="4"></circle><circle cx="17.5" cy="6.5" r="1.2" fill="currentColor" stroke="none"></circle></svg></a>
+          <a href="https://www.linkedin.com/in/mariaritasales/" target="_blank" rel="noopener" aria-label="LinkedIn"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M4.98 3.5a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5ZM3 9h4v12H3V9Zm6 0h3.8v1.7h.05c.53-1 1.83-2.05 3.77-2.05C20.5 8.65 22 10.5 22 14v7h-4v-6.2c0-1.48-.03-3.38-2.06-3.38-2.06 0-2.38 1.6-2.38 3.27V21H9V9Z"></path></svg></a>
+          <a href="https://www.youtube.com/@viverlibercon" target="_blank" rel="noopener" aria-label="YouTube"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M23 12s0-3.2-.4-4.7a2.5 2.5 0 0 0-1.7-1.8C19.3 5 12 5 12 5s-7.3 0-8.9.5A2.5 2.5 0 0 0 1.4 7.3C1 8.8 1 12 1 12s0 3.2.4 4.7a2.5 2.5 0 0 0 1.7 1.8C4.7 19 12 19 12 19s7.3 0 8.9-.5a2.5 2.5 0 0 0 1.7-1.8C23 15.2 23 12 23 12ZM9.8 15.3V8.7l5.7 3.3-5.7 3.3Z"></path></svg></a>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="footer-bottom fade">
+      <span>© <span id="mrs-year">2026</span> Maria Rita Sales • Todos os direitos reservados.</span>
+      <span class="footer-legal">
+        <a href="#">Política de Privacidade</a>
+        <a href="#">Termos de Uso</a>
+      </span>
+    </div>
+  </div>
+</footer>
+
+<script>
+(function(){
+  /* ano automático no aviso de copyright */
+  var y=document.getElementById('mrs-year');
+  if(y) y.textContent=new Date().getFullYear();
+
+  var blocos=document.querySelectorAll('#mrs-footer .fade');
+  if(!blocos.length) return;
+
+  function mostrarTudo(){
+    for(var i=0;i<blocos.length;i++) blocos[i].classList.add('in');
+  }
+
+  /* Sem IntersectionObserver (navegador antigo) ou dentro do editor do
+     Elementor: mostra tudo de uma vez, sem depender de scroll. */
+  if(!('IntersectionObserver' in window) || document.body.classList.contains('elementor-editor-active')){
+    mostrarTudo();
+    return;
+  }
+
+  var io=new IntersectionObserver(function(entradas){
+    entradas.forEach(function(e){
+      if(e.isIntersecting){
+        e.target.classList.add('in');
+        io.unobserve(e.target);   /* anima só uma vez */
+      }
+    });
+  },{threshold:0.15, rootMargin:'0px 0px -40px 0px'});
+
+  for(var j=0;j<blocos.length;j++) io.observe(blocos[j]);
+
+  /* Rede de segurança: se o rodapé já estiver visível ao carregar (páginas
+     curtas), o observer dispara sozinho; este timer cobre casos raros em que
+     o layout ainda não estabilizou e nada foi observado. */
+  setTimeout(function(){
+    var r=document.getElementById('mrs-footer').getBoundingClientRect();
+    if(r.top < window.innerHeight) mostrarTudo();
+  },1200);
+})();
+</script>

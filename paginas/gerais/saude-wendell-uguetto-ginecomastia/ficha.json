@@ -1,0 +1,236 @@
+{
+ "nome": "Dr. Wendell Uguetto - Ginecomastia e Cirurgia Plástica Masculina",
+ "slug": "saude-wendell-uguetto-ginecomastia",
+ "pasta_original": "LP Gine Doutor",
+ "origem": "paginas/gerais",
+ "prioridade": "referencia",
+ "url": "https://lpg.ginecomastiatratamento.com.br/",
+ "plataforma": "desconhecida",
+ "nicho": "Saúde / medicina",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#F3F3F3",
+   "#FFFFFF",
+   "#009F92",
+   "#073C3F",
+   "#007A70",
+   "#22C55E",
+   "#E5E7EB"
+  ],
+  "textos": [
+   "#231F20",
+   "#FFFFFF",
+   "#6C757D",
+   "#1F2937",
+   "#4B5563",
+   "#111827"
+  ],
+  "destaques": [
+   "#FFFFFF",
+   "#009F92",
+   "#22C55E",
+   "#1F2937",
+   "#096562",
+   "#073C3F"
+  ],
+  "gradientes": [
+   "linear-gradient(to right, rgb(0, 122, 112) 10%, rgb(35, 31, 32) 90%)",
+   "linear-gradient(to right, rgb(0, 159, 146), rgb(0, 122, 112))"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Inter",
+   "uso_pct": 90
+  },
+  {
+   "familia": "Montserrat",
+   "uso_pct": 10
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  48,
+  36,
+  24,
+  20,
+  18,
+  16
+ ],
+ "escala_tipografica_mobile_px": [
+  30,
+  24,
+  24,
+  20,
+  20,
+  18,
+  18,
+  18
+ ],
+ "h1_mobile": "30px",
+ "botao_principal": {
+  "fundo": "#00000000",
+  "gradiente": null,
+  "texto": "#171717",
+  "raio": "0px",
+  "padding": "0px 0px",
+  "fonte": "Inter",
+  "tamanho": "16px",
+  "peso": "400",
+  "caixa": "none",
+  "exemplos": [
+   "AGENDAR AVALIAÇÃO"
+  ]
+ },
+ "raios": [
+  "9999px",
+  "16px",
+  "4px 4px 64px",
+  "12px",
+  "12px 12px 0px 0px",
+  "8px"
+ ],
+ "sombras": [
+  "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.1) 0px 2px 4px -2px",
+  "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px",
+  "rgba(74, 155, 142, 0.15) 0px 10px 30px 0px",
+  "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px"
+ ],
+ "gaps": [
+  "8px",
+  "16px",
+  "32px",
+  "24px",
+  "12px",
+  "48px"
+ ],
+ "largura_conteudo_px": null,
+ "altura_pagina_px": 9669,
+ "secoes_qtde": 11,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "Diga Adeus à Ginecomastia",
+   "fundo": "#F3F3F3",
+   "altura_px": 900
+  },
+  {
+   "ordem": 2,
+   "tipo": "",
+   "titulo": "Elimine a Ginecomastia com técnica avançada",
+   "fundo": "#F3F3F3",
+   "altura_px": 956
+  },
+  {
+   "ordem": 3,
+   "tipo": "",
+   "titulo": "Cirurgia Avançada de Ginecomastia para o peitoral dos seus sonhos",
+   "fundo": "#F3F3F3",
+   "altura_px": 1464
+  },
+  {
+   "ordem": 4,
+   "tipo": "",
+   "titulo": "Um espaço projetado para oferecer conforto, segurança e tecnologia de ponta em c",
+   "fundo": "#F3F3F3",
+   "altura_px": 872
+  },
+  {
+   "ordem": 5,
+   "tipo": "",
+   "titulo": "Cirurgias Plásticas Masculinas",
+   "fundo": "#F3F3F3",
+   "altura_px": 1550
+  },
+  {
+   "ordem": 6,
+   "tipo": "sobre",
+   "titulo": "Cirurgia Plástica Masculina com quem é referência nacional",
+   "fundo": "#F3F3F3",
+   "altura_px": 851
+  },
+  {
+   "ordem": 7,
+   "tipo": "beneficios",
+   "titulo": "Pacientes transformados",
+   "fundo": "#FFFFFF",
+   "altura_px": 646
+  },
+  {
+   "ordem": 8,
+   "tipo": "sobre",
+   "titulo": "Dr. Wendell Uguetto na mídia",
+   "fundo": "#F3F3F3",
+   "altura_px": 408
+  },
+  {
+   "ordem": 9,
+   "tipo": "cta-final",
+   "titulo": "Agende sua consulta agora mesmo com 1 click",
+   "fundo": "gradiente",
+   "altura_px": 368
+  },
+  {
+   "ordem": 10,
+   "tipo": "",
+   "titulo": "IBIRAPUERA",
+   "fundo": "#F3F3F3",
+   "altura_px": 373
+  },
+  {
+   "ordem": 11,
+   "tipo": "faq",
+   "titulo": "Perguntas Frequentes",
+   "fundo": "#F3F3F3",
+   "altura_px": 767
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "",
+  "",
+  "",
+  "",
+  "sobre",
+  "beneficios",
+  "sobre",
+  "cta-final",
+  "",
+  "faq"
+ ],
+ "tags_estilo": [
+  "teal",
+  "branco",
+  "clinico",
+  "masculino"
+ ],
+ "tecnicas": [
+  "Botão flutuante 'Fale conosco' repetido"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "fadeInUp",
+   "slideInLeft",
+   "slideInRight"
+  ],
+  "entrada_elementor": [],
+  "classes_scroll": []
+ },
+ "bibliotecas": [
+  "ga4",
+  "gtm"
+ ],
+ "snippets_usados": [],
+ "relevancia": 3,
+ "resumo": "Ginecomastia em teal e branco: prova '+20.000 pacientes' acima da headline, diagrama circular de benefícios em faixa teal, cards de resultado, bio, carrossel da clínica, grid de cirurgias masculinas, diferenciais, depoimentos, mídia (Istoé, UOL, Globo) e endereços em cards.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": null,
+  "copy_real": null,
+  "json_elementor": null,
+  "ref": "ref/"
+ }
+}

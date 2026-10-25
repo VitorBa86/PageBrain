@@ -1,0 +1,23 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * interstate-compressed:
+ *   - http://typekit.com/eulas/00000000000000007735d122
+ *
+ * © 2009-2026 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2025-06-01 15:00:46 UTC"}*/
+
+/**/
+
+
+@font-face {
+font-family:"interstate-compressed";
+src:url("../img/l-8f7ab84c.png") format("woff2"),url("../img/d-ba149891.png") format("woff"),url("../img/a-af07ee53.png") format("opentype");
+font-display:auto;font-style:normal;font-weight:800;font-stretch:normal;
+}
+
+.tk-interstate-compressed { font-family: "interstate-compressed",sans-serif; }

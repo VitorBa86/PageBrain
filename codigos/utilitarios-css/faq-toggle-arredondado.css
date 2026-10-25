@@ -1,0 +1,14 @@
+/*
+  SNIPPET: Borda arredondada nos itens do FAQ (Alternar/Acordeão)
+  CATEGORIA: utilitarios-css
+  O QUE FAZ: Arredonda o título de cada item do widget Alternar/Acordeão.
+  COMO USAR: Cole no CSS personalizado do widget Alternar ou Acordeão.
+  ONDE COLAR: CSS personalizado do widget
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: 9 páginas
+  USADO EM: 10 página(s) da casa: adv-gustavo-kehl, adv-souza-santos, negocio-harmony-estudio-tatuagem, psi-rosangela-munhoz-psicanalista, psi-vivian-widuch, saude-pedro-camargo-psiquiatra, servico-goncont-contador, vendas-morelli-churrasco-networking, vendas-odonto-luiz-gustavo-melo, vendas-templates-arquiteto-jardel
+*/
+
+selector .elementor-tab-title{
+    border-radius:12px !important;
+}

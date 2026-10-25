@@ -1,0 +1,388 @@
+{
+ "content": [
+  {
+   "id": "3ad5da87",
+   "settings": {
+    "flex_direction": "column",
+    "min_height": {
+     "unit": "px",
+     "size": 670,
+     "sizes": []
+    },
+    "flex_justify_content": "center",
+    "background_background": "classic",
+    "background_color": "#2F806F",
+    "background_image": {
+     "url": "",
+     "id": "",
+     "size": "",
+     "alt": "",
+     "source": "library"
+    },
+    "background_position": "top center",
+    "background_slideshow_gallery": [
+     {
+      "id": 3021,
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/05/PARTE-01-COMPUTADOR-1.0-6.webp"
+     },
+     {
+      "id": 3022,
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/05/PARTE-01-COMPUTADOR-3.0-2.webp"
+     },
+     {
+      "id": 3023,
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/05/PARTE-01-COMPUTADOR-4.0-3.webp"
+     }
+    ],
+    "background_slideshow_slide_duration": 3000,
+    "background_slideshow_transition_duration": 1500,
+    "background_slideshow_background_position": "top center",
+    "border_border": "solid",
+    "border_width": {
+     "unit": "px",
+     "top": "0",
+     "right": "0",
+     "bottom": "0",
+     "left": "0",
+     "isLinked": false
+    },
+    "border_color": "#FFB354",
+    "boxed_width_tablet": {
+     "unit": "%",
+     "size": 90,
+     "sizes": []
+    },
+    "boxed_width_mobile": {
+     "unit": "%",
+     "size": 90,
+     "sizes": []
+    },
+    "background_overlay_background": "classic",
+    "background_overlay_opacity_mobile": {
+     "unit": "px",
+     "size": 1,
+     "sizes": []
+    },
+    "padding_tablet": {
+     "unit": "px",
+     "top": "0",
+     "right": "0",
+     "bottom": "0",
+     "left": "0",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "280",
+     "right": "0",
+     "bottom": "30",
+     "left": "0",
+     "isLinked": false
+    },
+    "z_index_mobile": 9,
+    "eae_slider_delay": "5000",
+    "gradient_color_list": [
+     {
+      "eae_animated_gradient_color": "#00a6d8",
+      "_id": "730d543"
+     },
+     {
+      "eae_animated_gradient_color": "#b800c9",
+      "_id": "d220346"
+     },
+     {
+      "eae_animated_gradient_color": "#e57600",
+      "_id": "1316576"
+     }
+    ]
+   },
+   "elements": [
+    {
+     "id": "579079ca",
+     "settings": {
+      "title": "Descubra o Seu Novo Lar em Alphaville!",
+      "title_color": "#FFB444",
+      "typography_typography": "custom",
+      "typography_font_family": "Montserrat",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 42,
+       "sizes": []
+      },
+      "typography_font_weight": "600",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.3,
+       "sizes": []
+      },
+      "_element_width": "initial",
+      "_element_custom_width": {
+       "unit": "%",
+       "size": 45,
+       "sizes": []
+      },
+      "typography_font_size_mobile": {
+       "unit": "vw",
+       "size": 8.9,
+       "sizes": []
+      },
+      "_element_width_tablet": "inherit"
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "heading",
+     "elType": "widget"
+    },
+    {
+     "id": "3a74f59a",
+     "settings": {
+      "title": "Encontre o equilíbrio perfeito entre sofisticação e segurança. Preencha o formulário abaixo e nossa equipe especializada entrará em contato para apresentar as melhores opções de imóveis exclusivos em Alphaville, São Paulo.",
+      "title_color": "#FFFFFF",
+      "typography_typography": "custom",
+      "typography_font_family": "Montserrat",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 16,
+       "sizes": []
+      },
+      "typography_font_weight": "300",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.3,
+       "sizes": []
+      },
+      "_element_width": "initial",
+      "_element_custom_width": {
+       "unit": "%",
+       "size": 45,
+       "sizes": []
+      },
+      "typography_font_size_mobile": {
+       "unit": "vw",
+       "size": 3,
+       "sizes": []
+      },
+      "_element_width_tablet": "inherit"
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "heading",
+     "elType": "widget"
+    },
+    {
+     "id": "6db48700",
+     "settings": {
+      "view": "inline",
+      "icon_list": [
+       {
+        "text": "Alphaville",
+        "selected_icon": {
+         "value": "fas fa-map-marker-alt",
+         "library": "fa-solid"
+        },
+        "_id": "78f2fe9"
+       },
+       {
+        "text": "Qualidade de Vida",
+        "selected_icon": {
+         "value": "fas fa-map-marker-alt",
+         "library": "fa-solid"
+        },
+        "_id": "58b84de"
+       },
+       {
+        "text": "Segurança 24 horas",
+        "selected_icon": {
+         "value": "fas fa-map-marker-alt",
+         "library": "fa-solid"
+        },
+        "_id": "942dfc6"
+       }
+      ],
+      "icon_color": "#FFB444",
+      "icon_typography_typography": "custom",
+      "icon_typography_font_family": "Montserrat",
+      "icon_typography_font_size": {
+       "unit": "px",
+       "size": 16,
+       "sizes": []
+      },
+      "icon_typography_font_weight": "500",
+      "text_color": "#FFFFFF",
+      "_margin": {
+       "unit": "px",
+       "top": "10",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "_element_width": "initial",
+      "_element_custom_width": {
+       "unit": "%",
+       "size": 45,
+       "sizes": []
+      },
+      "space_between_mobile": {
+       "unit": "px",
+       "size": 8,
+       "sizes": []
+      },
+      "icon_typography_font_size_mobile": {
+       "unit": "vw",
+       "size": 2.8,
+       "sizes": []
+      },
+      "_element_width_tablet": "inherit"
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "icon-list",
+     "elType": "widget"
+    },
+    {
+     "id": "4fd0cea8",
+     "settings": {
+      "form_name": "New Form",
+      "form_fields": [
+       {
+        "custom_id": "name",
+        "field_label": "Name",
+        "placeholder": "Seu nome",
+        "dynamic": {
+         "active": true
+        },
+        "_id": "ec41d6a",
+        "required": "true"
+       },
+       {
+        "custom_id": "email",
+        "field_type": "email",
+        "required": "true",
+        "field_label": "Email",
+        "placeholder": "Seu melhor e-mail",
+        "width": "50",
+        "_id": "0edf8b6",
+        "width_mobile": "50"
+       },
+       {
+        "custom_id": "field_48e1e19",
+        "field_type": "tel",
+        "required": "true",
+        "field_label": "Whatsapp",
+        "placeholder": "Seu whatsapp",
+        "width": "50",
+        "_id": "48e1e19",
+        "width_mobile": "50"
+       }
+      ],
+      "show_labels": "",
+      "step_next_label": "Next",
+      "step_previous_label": "Previous",
+      "button_text": "QUERO MAIS INFORMAÇÕES!",
+      "email_content": "[all-fields]",
+      "email_content_2": "[all-fields]",
+      "success_message": "Your submission was successful.",
+      "error_message": "Your submission failed because of an error.",
+      "server_message": "Your submission failed because of a server error.",
+      "invalid_message": "Your submission failed because the form is invalid.",
+      "required_field_message": "This field is required.",
+      "column_gap": {
+       "unit": "px",
+       "size": 9,
+       "sizes": []
+      },
+      "label_color": "#FFFFFF",
+      "label_typography_typography": "custom",
+      "label_typography_font_family": "Montserrat",
+      "label_typography_font_size": {
+       "unit": "px",
+       "size": 16,
+       "sizes": []
+      },
+      "label_typography_font_weight": "400",
+      "html_color": "#FFFFFF",
+      "html_typography_typography": "custom",
+      "html_typography_font_family": "Montserrat",
+      "html_typography_font_weight": "400",
+      "field_text_color": "#FFFFFF",
+      "field_typography_typography": "custom",
+      "field_typography_font_family": "Montserrat",
+      "field_typography_font_size": {
+       "unit": "px",
+       "size": 16,
+       "sizes": []
+      },
+      "field_typography_font_weight": "300",
+      "field_background_color": "#FFFFFF2E",
+      "field_border_color": "#FFFFFF3D",
+      "field_border_radius": {
+       "unit": "px",
+       "top": "8",
+       "right": "8",
+       "bottom": "8",
+       "left": "8",
+       "isLinked": true
+      },
+      "button_typography_typography": "custom",
+      "button_typography_font_family": "Montserrat",
+      "button_typography_font_size": {
+       "unit": "px",
+       "size": 16,
+       "sizes": []
+      },
+      "button_typography_font_weight": "600",
+      "button_background_color": "#D69F4D",
+      "previous_button_background_color": "#FFB444",
+      "button_border_radius": {
+       "unit": "px",
+       "top": "132",
+       "right": "132",
+       "bottom": "132",
+       "left": "132",
+       "isLinked": true
+      },
+      "button_text_padding": {
+       "unit": "px",
+       "top": "20",
+       "right": "20",
+       "bottom": "20",
+       "left": "20",
+       "isLinked": true
+      },
+      "steps_typography_typography": "custom",
+      "steps_typography_font_family": "Montserrat",
+      "steps_typography_font_weight": "500",
+      "_margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "_element_width": "initial",
+      "_element_custom_width": {
+       "unit": "%",
+       "size": 45,
+       "sizes": []
+      },
+      "custom_css": "selector .elementor-button{\n    margin:5px 0px 0px 0px;\n}",
+      "button_hover_animation": "grow",
+      "_element_width_tablet": "inherit"
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "form",
+     "elType": "widget"
+    }
+   ],
+   "isInner": false,
+   "elType": "container"
+  }
+ ],
+ "page_settings": [],
+ "version": "0.4",
+ "title": "Primeira dobra - Dobra 01",
+ "type": "container"
+}

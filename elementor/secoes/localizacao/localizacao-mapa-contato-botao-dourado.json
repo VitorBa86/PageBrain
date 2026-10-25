@@ -1,0 +1,363 @@
+{
+ "content": [
+  {
+   "id": "6263a27a",
+   "settings": {
+    "flex_direction": "row",
+    "min_height": {
+     "unit": "px",
+     "size": 613,
+     "sizes": []
+    },
+    "flex_justify_content": "space-between",
+    "flex_align_items": "center",
+    "background_background": "classic",
+    "background_color": "#FFFFFF",
+    "padding": {
+     "unit": "px",
+     "top": "80",
+     "right": "0",
+     "bottom": "80",
+     "left": "0",
+     "isLinked": false
+    },
+    "boxed_width_mobile": {
+     "unit": "%",
+     "size": 90,
+     "sizes": []
+    },
+    "flex_direction_mobile": "row",
+    "padding_mobile": {
+     "unit": "px",
+     "top": "50",
+     "right": "0",
+     "bottom": "50",
+     "left": "0",
+     "isLinked": false
+    },
+    "eae_slider_delay": "5000",
+    "gradient_color_list": [
+     {
+      "eae_animated_gradient_color": "#00a6d8",
+      "_id": "0f14dea"
+     },
+     {
+      "eae_animated_gradient_color": "#b800c9",
+      "_id": "46548a6"
+     },
+     {
+      "eae_animated_gradient_color": "#e57600",
+      "_id": "0f3bf88"
+     }
+    ]
+   },
+   "elements": [
+    {
+     "id": "9e2be53",
+     "settings": {
+      "address": "",
+      "height": {
+       "unit": "px",
+       "size": 475,
+       "sizes": []
+      },
+      "height_mobile": {
+       "unit": "px",
+       "size": 350,
+       "sizes": []
+      },
+      "_element_width": "initial",
+      "_element_width_mobile": "inherit",
+      "_element_custom_width": {
+       "unit": "%",
+       "size": 51,
+       "sizes": []
+      },
+      "_flex_order_mobile": "end",
+      "_border_border": "solid",
+      "_border_width": {
+       "unit": "px",
+       "top": "3",
+       "right": "3",
+       "bottom": "3",
+       "left": "3",
+       "isLinked": true
+      },
+      "_border_color": "#D1A960",
+      "_border_radius": {
+       "unit": "px",
+       "top": "8",
+       "right": "8",
+       "bottom": "8",
+       "left": "8",
+       "isLinked": true
+      }
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "google_maps",
+     "elType": "widget"
+    },
+    {
+     "id": "77d9fe4d",
+     "settings": {
+      "content_width": "full",
+      "width": {
+       "unit": "%",
+       "size": 45,
+       "sizes": []
+      },
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "margin_mobile": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "30",
+       "left": "0",
+       "isLinked": false
+      },
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+       {
+        "eae_animated_gradient_color": "#00a6d8",
+        "_id": "178b917"
+       },
+       {
+        "eae_animated_gradient_color": "#b800c9",
+        "_id": "23db5b0"
+       },
+       {
+        "eae_animated_gradient_color": "#e57600",
+        "_id": "7b81129"
+       }
+      ]
+     },
+     "elements": [
+      {
+       "id": "7d74e3ec",
+       "settings": {
+        "title": "Entrar em contato:",
+        "align": "left",
+        "title_color": "#000000",
+        "typography_typography": "custom",
+        "typography_font_family": "Sora",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 39,
+         "sizes": []
+        },
+        "typography_font_weight": "600",
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.4,
+         "sizes": []
+        },
+        "_element_width": "inherit",
+        "_element_custom_width": {
+         "unit": "%",
+         "size": 45,
+         "sizes": []
+        },
+        "typography_font_size_mobile": {
+         "unit": "vw",
+         "size": 9.3,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "heading",
+       "elType": "widget"
+      },
+      {
+       "id": "50168ecd",
+       "settings": {
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "align": "left",
+        "title_color": "#000000",
+        "typography_typography": "custom",
+        "typography_font_family": "Sora",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 16,
+         "sizes": []
+        },
+        "typography_font_weight": "300",
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.4,
+         "sizes": []
+        },
+        "_margin": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": false
+        },
+        "_padding": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": false
+        },
+        "_element_width": "inherit",
+        "_element_custom_width": {
+         "unit": "%",
+         "size": 45,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "heading",
+       "elType": "widget"
+      },
+      {
+       "id": "73a257d1",
+       "settings": {
+        "icon_list": [
+         {
+          "text": "Email:",
+          "_id": "0e14dbd",
+          "selected_icon": {
+           "value": "fas fa-mail-bulk",
+           "library": "fa-solid"
+          }
+         },
+         {
+          "text": "Telefone:",
+          "selected_icon": {
+           "value": "fas fa-phone-alt",
+           "library": "fa-solid"
+          },
+          "_id": "cae1940"
+         },
+         {
+          "text": "Whatsapp:",
+          "selected_icon": {
+           "value": "fab fa-whatsapp",
+           "library": "fa-brands"
+          },
+          "_id": "7b3d0b7"
+         }
+        ],
+        "space_between": {
+         "unit": "px",
+         "size": 24,
+         "sizes": []
+        },
+        "icon_align": "left",
+        "icon_color": "#D1A960",
+        "icon_typography_typography": "custom",
+        "icon_typography_font_family": "Sora",
+        "icon_typography_font_size": {
+         "unit": "px",
+         "size": 16,
+         "sizes": []
+        },
+        "icon_typography_font_weight": "300",
+        "text_color": "#707070",
+        "custom_css": "selector .elementor-icon-list-item{\n    padding: 10px;\n    border:1px solid #707070 ;\n    border-radius: 5px;\n}\n\nselector .elementor-icon-list-text{\n    text-align: right !important;\n}",
+        "icon_size": {
+         "unit": "px",
+         "size": 16,
+         "sizes": []
+        },
+        "text_indent": {
+         "unit": "px",
+         "size": 8,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "icon-list",
+       "elType": "widget"
+      },
+      {
+       "id": "8f23ca9",
+       "settings": {
+        "text": "Agendar Consulta!",
+        "align": "left",
+        "typography_typography": "custom",
+        "typography_font_family": "Sora",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 16,
+         "sizes": []
+        },
+        "typography_font_weight": "600",
+        "typography_text_transform": "uppercase",
+        "background_color": "#D1A960",
+        "border_radius": {
+         "unit": "px",
+         "top": "4",
+         "right": "4",
+         "bottom": "4",
+         "left": "4",
+         "isLinked": true
+        },
+        "text_padding": {
+         "unit": "px",
+         "top": "20",
+         "right": "70",
+         "bottom": "20",
+         "left": "70",
+         "isLinked": false
+        },
+        "_element_width": "inherit",
+        "_element_custom_width": {
+         "unit": "%",
+         "size": 45,
+         "sizes": []
+        },
+        "align_mobile": "justify",
+        "hover_animation": "grow",
+        "text_padding_mobile": {
+         "unit": "px",
+         "top": "20",
+         "right": "0",
+         "bottom": "20",
+         "left": "0",
+         "isLinked": false
+        },
+        "_margin": {
+         "unit": "px",
+         "top": "10",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": false
+        },
+        "_element_width_mobile": "inherit"
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "button",
+       "elType": "widget"
+      }
+     ],
+     "isInner": true,
+     "elType": "container"
+    }
+   ],
+   "isInner": false,
+   "elType": "container"
+  }
+ ],
+ "page_settings": [],
+ "version": "0.4",
+ "title": "loc 03",
+ "type": "container"
+}

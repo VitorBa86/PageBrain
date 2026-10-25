@@ -1,0 +1,212 @@
+{
+ "nome": "Psicóloga Júlia Valdetaro",
+ "slug": "psi-julia-valdetaro",
+ "pasta_original": "Psi Julia",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://psicologajuliavaldetaro.com.br/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Psicologia",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#FFF5E8",
+   "#F3E2CE",
+   "#FFFFFF",
+   "#734930"
+  ],
+  "textos": [
+   "#553724",
+   "#3F3638",
+   "#FFFFFF"
+  ],
+  "destaques": [
+   "#553724"
+  ],
+  "gradientes": [
+   "linear-gradient(164deg, rgb(115, 73, 48) 0%, rgb(139, 101, 71) 100%)",
+   "linear-gradient(204deg, rgb(166, 123, 88) 0%, rgb(115, 73, 48) 100%)",
+   "linear-gradient(160deg, rgb(115, 73, 48) 26%, rgb(139, 101, 71) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Poppins",
+   "uso_pct": 100
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  41,
+  35,
+  34,
+  29,
+  24,
+  22,
+  20,
+  18
+ ],
+ "escala_tipografica_mobile_px": [
+  39,
+  37,
+  30,
+  26,
+  25,
+  22,
+  20,
+  18
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#00000000",
+  "gradiente": "linear-gradient(160deg, rgb(115, 73, 48) 26%, rgb(139, 101, 71) 100%)",
+  "texto": "#FFFFFF",
+  "raio": "36px 2px",
+  "padding": "22px 40px",
+  "fonte": "Poppins",
+  "tamanho": "18px",
+  "peso": "400",
+  "caixa": "none",
+  "exemplos": [
+   "Agende Sua Sessão Agora"
+  ]
+ },
+ "raios": [
+  "8px",
+  "4px",
+  "6px",
+  "36px 2px",
+  "12px",
+  "20px"
+ ],
+ "sombras": [],
+ "gaps": [
+  "20px",
+  "15px",
+  "30px",
+  "37px",
+  "40px",
+  "10px"
+ ],
+ "largura_conteudo_px": 1140,
+ "altura_pagina_px": 4455,
+ "secoes_qtde": 9,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "",
+   "fundo": "gradiente",
+   "altura_px": 70
+  },
+  {
+   "ordem": 2,
+   "tipo": "servicos",
+   "titulo": "Recupere Seu Bem-Estar Emocional com Terapia Individual",
+   "fundo": "#F3E2CE",
+   "altura_px": 680
+  },
+  {
+   "ordem": 3,
+   "tipo": "como-funciona",
+   "titulo": "Sua Jornada de Autoconhecimento Começa Aqui...",
+   "fundo": "#FFF5E8",
+   "altura_px": 571
+  },
+  {
+   "ordem": 4,
+   "tipo": "sobre",
+   "titulo": "Como Funciona?",
+   "fundo": "#FFF5E8",
+   "altura_px": 763
+  },
+  {
+   "ordem": 5,
+   "tipo": "prova-social",
+   "titulo": "Quem é Júlia Valdetaro?",
+   "fundo": "#F3E2CE",
+   "altura_px": 680
+  },
+  {
+   "ordem": 6,
+   "tipo": "localizacao",
+   "titulo": "Depoimentos",
+   "fundo": "#F3E2CE",
+   "altura_px": 860
+  },
+  {
+   "ordem": 7,
+   "tipo": "faq",
+   "titulo": "Onde estamos?",
+   "fundo": "#FFF5E8",
+   "altura_px": 237
+  },
+  {
+   "ordem": 8,
+   "tipo": "rodape",
+   "titulo": "FAQ",
+   "fundo": "#FFF5E8",
+   "altura_px": 518
+  },
+  {
+   "ordem": 9,
+   "tipo": null,
+   "titulo": "Todos os direitos reservados © 2024 Júlia Valdetaro",
+   "fundo": "gradiente",
+   "altura_px": 76
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "servicos",
+  "como-funciona",
+  "sobre",
+  "prova-social",
+  "localizacao",
+  "faq",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "creme",
+  "marrom-cafe",
+  "feminino",
+  "claro"
+ ],
+ "tecnicas": [
+  "GTM",
+  "WhatsApp flutuante em Lottie"
+ ],
+ "animacoes": {
+  "keyframes": [],
+  "entrada_elementor": [],
+  "classes_scroll": [
+   "scroll-bottom",
+   "scroll-left",
+   "scroll-right",
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "gtm",
+  "jquery",
+  "lottie",
+  "swiper"
+ ],
+ "snippets_usados": [
+  "animacoes/animacao-scroll-reveal.html",
+  "whatsapp-e-flutuantes/whatsapp-flutuante-lottie.md",
+  "tracking-e-pixels/google-tag-manager.html",
+  "utilitarios-css/css-base-toda-pagina.css",
+  "utilitarios-css/elemento-posicao-absoluta.css"
+ ],
+ "relevancia": 3,
+ "resumo": "Psicóloga em creme e marrom café com monograma da marca como elemento gráfico grande. Cards de serviço com ícone, 3 passos numerados, 'sobre' com foto e avaliações do Google.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/psi-julia-valdetaro.md",
+  "json_elementor": "../../../elementor/paginas/captacao/psi-julia-valdetaro.json"
+ }
+}

@@ -1,0 +1,216 @@
+{
+ "nome": "PÁGINA PSI VIVIAN WIDUCH",
+ "slug": "psi-vivian-widuch",
+ "pasta_original": "Psi Vivian",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://lp.oreidalanding.com.br/vivian/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Psicologia",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#FFF8F0",
+   "#DF8F5C",
+   "#BCBCBC",
+   "#E6DFD7",
+   "#0F3D63"
+  ],
+  "textos": [
+   "#0F3D64",
+   "#FFFFFF"
+  ],
+  "destaques": [
+   "#0F3D64",
+   "#DF8F5C"
+  ],
+  "gradientes": [
+   "linear-gradient(156deg, rgb(255, 199, 164) 0%, rgb(223, 143, 92) 50%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Inter",
+   "uso_pct": 92
+  },
+  {
+   "familia": "crimson text",
+   "uso_pct": 3
+  },
+  {
+   "familia": "Crimson Text",
+   "uso_pct": 3
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  80,
+  63,
+  60,
+  57,
+  54,
+  48,
+  42,
+  36,
+  34,
+  30
+ ],
+ "escala_tipografica_mobile_px": [
+  47,
+  43,
+  41,
+  35,
+  26,
+  25,
+  25,
+  21
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#00000000",
+  "gradiente": "linear-gradient(156deg, rgb(255, 199, 164) 0%, rgb(223, 143, 92) 50%)",
+  "texto": "#FFFFFF",
+  "raio": "8px",
+  "padding": "18px 38px",
+  "fonte": "Inter",
+  "tamanho": "18px",
+  "peso": "500",
+  "caixa": "none",
+  "exemplos": [
+   "AGENDAR SESSÃO",
+   "ENVIAR MENSAGEM"
+  ]
+ },
+ "raios": [
+  "8px",
+  "12px",
+  "10px",
+  "16px",
+  "18px"
+ ],
+ "sombras": [],
+ "gaps": [
+  "20px",
+  "5px",
+  "30px",
+  "50px",
+  "10px"
+ ],
+ "largura_conteudo_px": 1140,
+ "altura_pagina_px": 5753,
+ "secoes_qtde": 7,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "Psicóloga Online de Mulheres Imigrantes e Expatriadas",
+   "fundo": "#E6DFD7",
+   "altura_px": 800
+  },
+  {
+   "ordem": 2,
+   "tipo": "video",
+   "titulo": "Mudar de país é sempre uma travessia emocional, mas não precisa ser um processo",
+   "fundo": "#FFF8F0",
+   "altura_px": 959
+  },
+  {
+   "ordem": 3,
+   "tipo": "sobre",
+   "titulo": "Muito prazer, sou a Psicóloga",
+   "fundo": "#BCBCBC",
+   "altura_px": 905
+  },
+  {
+   "ordem": 4,
+   "tipo": "prova-social",
+   "titulo": "A jornada de autoconhecimento e adaptação nunca é linear. Mas sempre vale o cami",
+   "fundo": "#FFF8F0",
+   "altura_px": 646
+  },
+  {
+   "ordem": 5,
+   "tipo": "servicos",
+   "titulo": "Meus formatos de atendimento:",
+   "fundo": "#DF8F5C",
+   "altura_px": 1085
+  },
+  {
+   "ordem": 6,
+   "tipo": "faq",
+   "titulo": "Perguntas Frequentes",
+   "fundo": "#FFF8F0",
+   "altura_px": 1235
+  },
+  {
+   "ordem": 7,
+   "tipo": "contato",
+   "titulo": "Todos os direitos reservados © 2025",
+   "fundo": "#0F3D63",
+   "altura_px": 123
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "video",
+  "sobre",
+  "prova-social",
+  "servicos",
+  "faq",
+  "contato",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "creme",
+  "terracota",
+  "azul-marinho",
+  "serifa-italica",
+  "ilustrado"
+ ],
+ "tecnicas": [
+  "GSAP: texto por palavras, menu que some, tela abrindo em 3D"
+ ],
+ "animacoes": {
+  "keyframes": [],
+  "entrada_elementor": [],
+  "classes_scroll": [
+   "scroll-bottom",
+   "scroll-left",
+   "scroll-right",
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "google-ads",
+  "gsap",
+  "happy-addons",
+  "jquery",
+  "lenis",
+  "lottie",
+  "meta-pixel",
+  "splitType",
+  "swiper"
+ ],
+ "snippets_usados": [
+  "animacoes/animacao-scroll-reveal.html",
+  "animacoes/gsap-texto-palavras-no-scroll.html",
+  "animacoes/gsap-tela-abrindo-3d.html",
+  "efeitos-de-scroll/gsap-menu-some-no-scroll.html",
+  "tracking-e-pixels/meta-pixel.html",
+  "tracking-e-pixels/google-ads-gtag.html",
+  "utilitarios-css/css-base-toda-pagina.css",
+  "utilitarios-css/faq-toggle-arredondado.css",
+  "utilitarios-css/elemento-posicao-absoluta.css",
+  "utilitarios-css/menu-dropdown-mobile-centralizado.css"
+ ],
+ "relevancia": 4,
+ "resumo": "Psicóloga para mulheres imigrantes em creme, terracota e azul-marinho, com traço de avião ilustrado e serifa itálica. Card de apresentação com 4 cards navy de conquistas, seção terracota com cards brancos de formato de atendimento e botão laranja acompanhado de botão-ícone quadrado.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/psi-vivian-widuch.md",
+  "json_elementor": "../../../elementor/paginas/captacao/psi-vivian-widuch.json"
+ }
+}

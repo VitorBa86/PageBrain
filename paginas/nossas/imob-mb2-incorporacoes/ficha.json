@@ -1,0 +1,193 @@
+{
+ "nome": "MB2 Incorporações · Empreedimentos de Alto padrão para morar e investir com segurança. Atuamos em Florianópolis, Itapoá e Curitiba",
+ "slug": "imob-mb2-incorporacoes",
+ "pasta_original": "Mb2 INcorpora",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://mb2incorporacoes.com.br/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Imobiliário",
+ "tipo_pagina": "institucional",
+ "paleta": {
+  "fundos": [
+   "#000000",
+   "#FFFFFF",
+   "#249C6A"
+  ],
+  "textos": [
+   "#FFFFFF",
+   "#000000"
+  ],
+  "destaques": [
+   "#249C6A"
+  ],
+  "gradientes": [
+   "linear-gradient(rgb(250, 250, 250) 0%, rgb(255, 255, 255) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Inter",
+   "uso_pct": 98
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  42,
+  36,
+  20,
+  19,
+  18,
+  17,
+  16
+ ],
+ "escala_tipografica_mobile_px": [
+  28,
+  27,
+  25,
+  20,
+  18,
+  17,
+  17,
+  16
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#249C6A",
+  "gradiente": null,
+  "texto": "#FFFFFF",
+  "raio": "0px",
+  "padding": "23px 45px",
+  "fonte": "Poppins",
+  "tamanho": "17px",
+  "peso": "400",
+  "caixa": "none",
+  "exemplos": [
+   "Fale com um especialista"
+  ]
+ },
+ "raios": [
+  "2222px",
+  "8px",
+  "222px",
+  "5px",
+  "99px"
+ ],
+ "sombras": [],
+ "gaps": [
+  "20px",
+  "10px",
+  "30px",
+  "40px",
+  "18px",
+  "25px"
+ ],
+ "largura_conteudo_px": 1240,
+ "altura_pagina_px": 4775,
+ "secoes_qtde": 7,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "INCORPORAÇÕES DE ALTO PADRÃO",
+   "fundo": "#000000",
+   "altura_px": 870
+  },
+  {
+   "ordem": 2,
+   "tipo": "catalogo",
+   "titulo": "NOVOS LANÇAMENTOS",
+   "fundo": "#FFFFFF",
+   "altura_px": 563
+  },
+  {
+   "ordem": 3,
+   "tipo": "catalogo",
+   "titulo": "EM OBRAS",
+   "fundo": "#FFFFFF",
+   "altura_px": 563
+  },
+  {
+   "ordem": 4,
+   "tipo": "catalogo",
+   "titulo": "PROJETOS ENTREGUES",
+   "fundo": "#FFFFFF",
+   "altura_px": 563
+  },
+  {
+   "ordem": 5,
+   "tipo": "servicos",
+   "titulo": "TERRENOS",
+   "fundo": "gradiente",
+   "altura_px": 476
+  },
+  {
+   "ordem": 6,
+   "tipo": "sobre",
+   "titulo": "SOBRE NÓS",
+   "fundo": "#FAFAFA",
+   "altura_px": 689
+  },
+  {
+   "ordem": 7,
+   "tipo": "contato",
+   "titulo": "CONTATO",
+   "fundo": "#FFFFFF",
+   "altura_px": 671
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "catalogo",
+  "catalogo",
+  "catalogo",
+  "servicos",
+  "sobre",
+  "contato"
+ ],
+ "tags_estilo": [
+  "claro",
+  "minimalista",
+  "institucional",
+  "preto-e-branco"
+ ],
+ "tecnicas": [
+  "JetEngine listing grid",
+  "Lottie fixo para WhatsApp"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "fadeIn",
+   "fadeInUp"
+  ],
+  "entrada_elementor": [
+   "fadeIn",
+   "fadeInUp"
+  ],
+  "classes_scroll": [
+   "scroll-bottom"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "jet-engine",
+  "jquery",
+  "lottie",
+  "swiper"
+ ],
+ "snippets_usados": [
+  "cards-e-bordas/hover-escala.css",
+  "whatsapp-e-flutuantes/link-whatsapp-com-mensagem.html",
+  "whatsapp-e-flutuantes/whatsapp-flutuante-lottie.md",
+  "utilitarios-css/css-base-toda-pagina.css"
+ ],
+ "relevancia": 4,
+ "resumo": "Site institucional de incorporadora de alto padrão, limpo e editorial: rótulo pequeno + H2 à esquerda e cards de empreendimento escuros com foto à direita, separados por categoria (lançamentos, em obras, entregues, terrenos).",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/imob-mb2-incorporacoes.md",
+  "json_elementor": null
+ }
+}

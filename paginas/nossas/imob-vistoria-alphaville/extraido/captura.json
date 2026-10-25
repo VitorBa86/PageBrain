@@ -1,0 +1,931 @@
+{
+  "sourceUrl": "https://vistoriaalphaville.com.br/",
+  "finalUrl": "https://vistoriaalphaville.com.br/",
+  "mode": "static",
+  "platform": "WordPress + Elementor",
+  "durationMs": 1615,
+  "fileCount": 131,
+  "totalBytes": 3726405,
+  "counts": {
+    "css": 28,
+    "js": 16,
+    "img": 27,
+    "font": 59,
+    "media": 0,
+    "other": 0,
+    "failed": 0
+  },
+  "warnings": [],
+  "assets": [
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-includes/css/dist/theme/design-tokens.min.css?ver=7.1.2",
+      "kind": "css",
+      "localPath": "assets/css/design-tokens.min-eec7abe1.css",
+      "status": "ok",
+      "bytes": 9038
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-includes/css/dist/components/style.min.css?ver=7.1.2",
+      "kind": "css",
+      "localPath": "assets/css/style.min-f65a4954.css",
+      "status": "ok",
+      "bytes": 108784
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/mu-plugins/vendor/wpex/godaddy-launch/includes/Dependencies/GoDaddy/Styles/build/latest.css?ver=2.0.2",
+      "kind": "css",
+      "localPath": "assets/css/latest-d363aa24.css",
+      "status": "ok",
+      "bytes": 12886
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.5.1",
+      "kind": "css",
+      "localPath": "assets/css/reset-17aed317.css",
+      "status": "ok",
+      "bytes": 5829
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.5.1",
+      "kind": "css",
+      "localPath": "assets/css/theme-33b3aa94.css",
+      "status": "ok",
+      "bytes": 5827
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.5.1",
+      "kind": "css",
+      "localPath": "assets/css/header-footer-6aed6d3b.css",
+      "status": "ok",
+      "bytes": 7534
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.3.4",
+      "kind": "css",
+      "localPath": "assets/css/frontend.min-5c972afb.css",
+      "status": "ok",
+      "bytes": 54666
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/uploads/elementor/css/post-6.css?ver=1791230345",
+      "kind": "css",
+      "localPath": "assets/css/post-6-3a8583a8.css",
+      "status": "ok",
+      "bytes": 1433
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.3.4",
+      "kind": "css",
+      "localPath": "assets/css/widget-image.min-bd12f624.css",
+      "status": "ok",
+      "bytes": 214
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.3.4",
+      "kind": "css",
+      "localPath": "assets/css/widget-heading.min-5ed624bc.css",
+      "status": "ok",
+      "bytes": 560
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css?ver=4.3.4",
+      "kind": "css",
+      "localPath": "assets/css/fadeInUp.min-578ef111.css",
+      "status": "ok",
+      "bytes": 130
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=4.3.4",
+      "kind": "css",
+      "localPath": "assets/css/widget-icon-list.min-057c1e39.css",
+      "status": "ok",
+      "bytes": 10255
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=4.3.4",
+      "kind": "css",
+      "localPath": "assets/css/e-animation-grow.min-f83eca4d.css",
+      "status": "ok",
+      "bytes": 198
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/fadeIn.min.css?ver=4.3.4",
+      "kind": "css",
+      "localPath": "assets/css/fadeIn.min-d5987a70.css",
+      "status": "ok",
+      "bytes": 77
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/plugins/elementor/assets/css/widget-accordion.min.css?ver=4.3.4",
+      "kind": "css",
+      "localPath": "assets/css/widget-accordion.min-e6acefe6.css",
+      "status": "ok",
+      "bytes": 1744
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/plugins/pro-elements/assets/css/modules/sticky.min.css?ver=4.0.4.2",
+      "kind": "css",
+      "localPath": "assets/css/sticky.min-c300369e.css",
+      "status": "ok",
+      "bytes": 163
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/plugins/pro-elements/assets/css/widget-lottie.min.css?ver=4.0.4.2",
+      "kind": "css",
+      "localPath": "assets/css/widget-lottie.min-ec31b73f.css",
+      "status": "ok",
+      "bytes": 546
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=4.3.4",
+      "kind": "css",
+      "localPath": "assets/css/widget-social-icons.min-84a38b2d.css",
+      "status": "ok",
+      "bytes": 5110
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.3.4",
+      "kind": "css",
+      "localPath": "assets/css/apple-webkit.min-0f6b66c5.css",
+      "status": "ok",
+      "bytes": 6713
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/uploads/elementor/css/post-126.css?ver=1791230347",
+      "kind": "css",
+      "localPath": "assets/css/post-126-779991e4.css",
+      "status": "ok",
+      "bytes": 217416
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/uploads/elementor/css/base-desktop.css?ver=6ac40f5fd74bc",
+      "kind": "css",
+      "localPath": "assets/css/base-desktop-949c02f8.css",
+      "status": "ok",
+      "bytes": 4649
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/uploads/elementor/css/base-mobile.css?ver=6ac40f5fd74bc",
+      "kind": "css",
+      "localPath": "assets/css/base-mobile-63755d00.css",
+      "status": "ok",
+      "bytes": 87
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "kind": "css",
+      "localPath": "assets/css/css-85c5c2b0.css",
+      "status": "ok",
+      "bytes": 98073
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Roboto+Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "kind": "css",
+      "localPath": "assets/css/css-ec7864c0.css",
+      "status": "ok",
+      "bytes": 21168
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Sora:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "kind": "css",
+      "localPath": "assets/css/css-0c37fa6f.css",
+      "status": "ok",
+      "bytes": 6344
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Nunito+Sans:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "kind": "css",
+      "localPath": "assets/css/css-59191e55.css",
+      "status": "ok",
+      "bytes": 31744
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "kind": "css",
+      "localPath": "assets/css/css-40d2b044.css",
+      "status": "ok",
+      "bytes": 32427
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/uploads/2026/06/cropped-fav-icon-32x32.jpg",
+      "kind": "img",
+      "localPath": "assets/img/cropped-fav-icon-32x32-fa5e3055.jpg",
+      "status": "ok",
+      "bytes": 534
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/uploads/2026/06/cropped-fav-icon-192x192.jpg",
+      "kind": "img",
+      "localPath": "assets/img/cropped-fav-icon-192x192-896e0ddf.jpg",
+      "status": "ok",
+      "bytes": 5849
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/uploads/2026/06/cropped-fav-icon-180x180.jpg",
+      "kind": "img",
+      "localPath": "assets/img/cropped-fav-icon-180x180-c58bd5b3.jpg",
+      "status": "ok",
+      "bytes": 5566
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/uploads/trustindex-google-widget.css?1787083224",
+      "kind": "css",
+      "localPath": "assets/css/trustindex-google-widget-82619072.css",
+      "status": "ok",
+      "bytes": 72870
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/uploads/2026/07/LOGO-BRANCA.svg",
+      "kind": "img",
+      "localPath": "assets/img/LOGO-BRANCA-35127592.svg",
+      "status": "ok",
+      "bytes": 17509
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/uploads/2026/07/3d_1.webp",
+      "kind": "img",
+      "localPath": "assets/img/3d_1-25755c56.webp",
+      "status": "ok",
+      "bytes": 58742
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/uploads/2026/07/3d_1-211x300.webp",
+      "kind": "img",
+      "localPath": "assets/img/3d_1-211x300-d422a303.webp",
+      "status": "ok",
+      "bytes": 16620
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "kind": "img",
+      "localPath": "assets/img/f-f2d22b3e.svg",
+      "status": "ok",
+      "bytes": 1726
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/platform/Google/logo.svg",
+      "kind": "img",
+      "localPath": "assets/img/logo-15a52b09.svg",
+      "status": "ok",
+      "bytes": 2073
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/platform/Google/icon.svg",
+      "kind": "img",
+      "localPath": "assets/img/icon-b220a570.svg",
+      "status": "ok",
+      "bytes": 51351
+    },
+    {
+      "url": "https://lh3.googleusercontent.com/a-/ALV-UjWhWx5IAF_ce5FqeQB7J9yyugTtuiP3EMvbgZRS7aR8XhE2uYKGCA=w40-h40-c-rp-mo-br100",
+      "kind": "img",
+      "localPath": "assets/img/ALV-UjWhWx5IAF_ce5FqeQB7J9yyugTtuiP3EMvbgZRS7aR8-5e9381b9.png",
+      "status": "ok",
+      "bytes": 4027
+    },
+    {
+      "url": "https://lh3.googleusercontent.com/a-/ALV-UjWhWx5IAF_ce5FqeQB7J9yyugTtuiP3EMvbgZRS7aR8XhE2uYKGCA=w80-h80-c-rp-mo-br100",
+      "kind": "img",
+      "localPath": "assets/img/ALV-UjWhWx5IAF_ce5FqeQB7J9yyugTtuiP3EMvbgZRS7aR8-b79f1be3.png",
+      "status": "ok",
+      "bytes": 13723
+    },
+    {
+      "url": "https://lh3.googleusercontent.com/a/ACg8ocLyzP-EqdODNbKXaInW8iTLtAgijYJ9XDV9S4TgrX8Niz4B7cYs=w40-h40-c-rp-mo-br100",
+      "kind": "img",
+      "localPath": "assets/img/ACg8ocLyzP-EqdODNbKXaInW8iTLtAgijYJ9XDV9S4TgrX8N-14140166.png",
+      "status": "ok",
+      "bytes": 1193
+    },
+    {
+      "url": "https://lh3.googleusercontent.com/a/ACg8ocLyzP-EqdODNbKXaInW8iTLtAgijYJ9XDV9S4TgrX8Niz4B7cYs=w80-h80-c-rp-mo-br100",
+      "kind": "img",
+      "localPath": "assets/img/ACg8ocLyzP-EqdODNbKXaInW8iTLtAgijYJ9XDV9S4TgrX8N-aacf0e27.png",
+      "status": "ok",
+      "bytes": 2408
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "kind": "js",
+      "localPath": "assets/js/jquery.min-a943b475.js",
+      "status": "ok",
+      "bytes": 87553
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "kind": "js",
+      "localPath": "assets/js/jquery-migrate.min-501cdb9d.js",
+      "status": "ok",
+      "bytes": 13577
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.5.1",
+      "kind": "js",
+      "localPath": "assets/js/hello-frontend-9861daaf.js",
+      "status": "ok",
+      "bytes": 1830
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.3.4",
+      "kind": "js",
+      "localPath": "assets/js/webpack.runtime.min-9cb0d800.js",
+      "status": "ok",
+      "bytes": 103
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.3.4",
+      "kind": "js",
+      "localPath": "assets/js/frontend-modules.min-000d7ab0.js",
+      "status": "ok",
+      "bytes": 53086
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+      "kind": "js",
+      "localPath": "assets/js/core.min-0f780b33.js",
+      "status": "ok",
+      "bytes": 18674
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.3.4",
+      "kind": "js",
+      "localPath": "assets/js/frontend.min-1cc314c7.js",
+      "status": "ok",
+      "bytes": 60022
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/plugins/pro-elements/assets/lib/sticky/jquery.sticky.min.js?ver=4.0.4.2",
+      "kind": "js",
+      "localPath": "assets/js/jquery.sticky.min-d4dbd11e.js",
+      "status": "ok",
+      "bytes": 3721
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/plugins/pro-elements/assets/lib/lottie/lottie.min.js?ver=5.6.6",
+      "kind": "js",
+      "localPath": "assets/js/lottie.min-c7ee4dc0.js",
+      "status": "ok",
+      "bytes": 252588
+    },
+    {
+      "url": "https://cdn.trustindex.io/loader.js",
+      "kind": "js",
+      "localPath": "assets/js/loader-58884c7c.js",
+      "status": "ok",
+      "bytes": 99014
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/plugins/pro-elements/assets/js/webpack-pro.runtime.min.js?ver=4.0.4.2",
+      "kind": "js",
+      "localPath": "assets/js/webpack-pro.runtime.min-4659e77b.js",
+      "status": "ok",
+      "bytes": 6242
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+      "kind": "js",
+      "localPath": "assets/js/hooks.min-a6732434.js",
+      "status": "ok",
+      "bytes": 5107
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+      "kind": "js",
+      "localPath": "assets/js/i18n.min-c7d0b8c8.js",
+      "status": "ok",
+      "bytes": 5791
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/plugins/pro-elements/assets/js/frontend.min.js?ver=4.0.4.2",
+      "kind": "js",
+      "localPath": "assets/js/frontend.min-5d17e6a4.js",
+      "status": "ok",
+      "bytes": 23939
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/plugins/pro-elements/assets/js/elements-handlers.min.js?ver=4.0.4.2",
+      "kind": "js",
+      "localPath": "assets/js/elements-handlers.min-d319cd86.js",
+      "status": "ok",
+      "bytes": 43922
+    },
+    {
+      "url": "https://img1.wsimg.com/traffic-assets/js/tccl-tti.min.js",
+      "kind": "js",
+      "localPath": "assets/js/tccl-tti.min-de322f80.js",
+      "status": "ok",
+      "bytes": 21592
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkC3kaSTbQWt4N.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkC3kaSTbQWt4N-b209c2f4.woff2",
+      "status": "ok",
+      "bytes": 35396
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkAnkaSTbQWt4N.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkAnkaSTbQWt4N-7fd5ebcd.woff2",
+      "status": "ok",
+      "bytes": 21576
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCnkaSTbQWt4N.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCnkaSTbQWt4N-1270f35c.woff2",
+      "status": "ok",
+      "bytes": 1720
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBXkaSTbQWt4N.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBXkaSTbQWt4N-13c6db9b.woff2",
+      "status": "ok",
+      "bytes": 15108
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkenkaSTbQWt4N.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkenkaSTbQWt4N-3adc18cb.woff2",
+      "status": "ok",
+      "bytes": 40192
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkaHkaSTbQWt4N.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkaHkaSTbQWt4N-e785ebff.woff2",
+      "status": "ok",
+      "bytes": 18484
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCXkaSTbQWt4N.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCXkaSTbQWt4N-4a2b179a.woff2",
+      "status": "ok",
+      "bytes": 11604
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCHkaSTbQWt4N.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCHkaSTbQWt4N-f7cf7531.woff2",
+      "status": "ok",
+      "bytes": 26784
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBnkaSTbQWg.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBnkaSTbQWg-4bf6ecc6.woff2",
+      "status": "ok",
+      "bytes": 41748
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBHMdazTgWw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBHMdazTgWw-37dedbe4.woff2",
+      "status": "ok",
+      "bytes": 31472
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBHMdazTgWw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBHMdazTgWw-48e8e7de.woff2",
+      "status": "ok",
+      "bytes": 19624
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBHMdazTgWw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBHMdazTgWw-d2348e8b.woff2",
+      "status": "ok",
+      "bytes": 1632
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBHMdazTgWw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBHMdazTgWw-e9e1f234.woff2",
+      "status": "ok",
+      "bytes": 13984
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBHMdazTgWw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBHMdazTgWw-01f2dc6a.woff2",
+      "status": "ok",
+      "bytes": 36292
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBHMdazTgWw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBHMdazTgWw-b5043adb.woff2",
+      "status": "ok",
+      "bytes": 16692
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBHMdazTgWw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBHMdazTgWw-45146ac9.woff2",
+      "status": "ok",
+      "bytes": 10572
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBHMdazTgWw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBHMdazTgWw-6ddde433.woff2",
+      "status": "ok",
+      "bytes": 24444
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ-973a21a5.woff2",
+      "status": "ok",
+      "bytes": 37520
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufA5qWr4xCCQ_k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/BngMUXZYTXPIvIBgJJSb6ufA5qWr4xCCQ_k-dc0d7935.woff2",
+      "status": "ok",
+      "bytes": 32316
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufJ5qWr4xCCQ_k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/BngMUXZYTXPIvIBgJJSb6ufJ5qWr4xCCQ_k-cfc59f61.woff2",
+      "status": "ok",
+      "bytes": 21336
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufB5qWr4xCCQ_k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/BngMUXZYTXPIvIBgJJSb6ufB5qWr4xCCQ_k-f4a8f364.woff2",
+      "status": "ok",
+      "bytes": 2172
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufO5qWr4xCCQ_k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/BngMUXZYTXPIvIBgJJSb6ufO5qWr4xCCQ_k-9160ede2.woff2",
+      "status": "ok",
+      "bytes": 14884
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufC5qWr4xCCQ_k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/BngMUXZYTXPIvIBgJJSb6ufC5qWr4xCCQ_k-cb6a2898.woff2",
+      "status": "ok",
+      "bytes": 9848
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufD5qWr4xCCQ_k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/BngMUXZYTXPIvIBgJJSb6ufD5qWr4xCCQ_k-a60aeb08.woff2",
+      "status": "ok",
+      "bytes": 21156
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufN5qWr4xCC.woff2",
+      "kind": "font",
+      "localPath": "assets/font/BngMUXZYTXPIvIBgJJSb6ufN5qWr4xCC-8b8750ee.woff2",
+      "status": "ok",
+      "bytes": 34160
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/sora/v17/xMQbuFFYT72XzQspDqW1KX7wmA.woff2",
+      "kind": "font",
+      "localPath": "assets/font/xMQbuFFYT72XzQspDqW1KX7wmA-6bc426af.woff2",
+      "status": "ok",
+      "bytes": 15556
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/sora/v17/xMQbuFFYT72XzQUpDqW1KX4.woff2",
+      "kind": "font",
+      "localPath": "assets/font/xMQbuFFYT72XzQUpDqW1KX4-9cff4d74.woff2",
+      "status": "ok",
+      "bytes": 33672
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxC7m0dR9pBOi.woff2",
+      "kind": "font",
+      "localPath": "assets/font/JTUQjIg1_i6t8kCHKm459WxRxC7m0dR9pBOi-583be20a.woff2",
+      "status": "ok",
+      "bytes": 24412
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRzS7m0dR9pBOi.woff2",
+      "kind": "font",
+      "localPath": "assets/font/JTUQjIg1_i6t8kCHKm459WxRzS7m0dR9pBOi-69c41988.woff2",
+      "status": "ok",
+      "bytes": 22224
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxi7m0dR9pBOi.woff2",
+      "kind": "font",
+      "localPath": "assets/font/JTUQjIg1_i6t8kCHKm459WxRxi7m0dR9pBOi-20d5697b.woff2",
+      "status": "ok",
+      "bytes": 11472
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxy7m0dR9pBOi.woff2",
+      "kind": "font",
+      "localPath": "assets/font/JTUQjIg1_i6t8kCHKm459WxRxy7m0dR9pBOi-40bf3367.woff2",
+      "status": "ok",
+      "bytes": 72452
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRyS7m0dR9pA.woff2",
+      "kind": "font",
+      "localPath": "assets/font/JTUQjIg1_i6t8kCHKm459WxRyS7m0dR9pA-fb5e2b38.woff2",
+      "status": "ok",
+      "bytes": 37120
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WRhyyTh89ZNpQ.woff2",
+      "kind": "font",
+      "localPath": "assets/font/JTUSjIg1_i6t8kCHKm459WRhyyTh89ZNpQ-bf4aa17d.woff2",
+      "status": "ok",
+      "bytes": 24072
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459W1hyyTh89ZNpQ.woff2",
+      "kind": "font",
+      "localPath": "assets/font/JTUSjIg1_i6t8kCHKm459W1hyyTh89ZNpQ-b4678036.woff2",
+      "status": "ok",
+      "bytes": 21492
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WZhyyTh89ZNpQ.woff2",
+      "kind": "font",
+      "localPath": "assets/font/JTUSjIg1_i6t8kCHKm459WZhyyTh89ZNpQ-8a37c075.woff2",
+      "status": "ok",
+      "bytes": 10620
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WdhyyTh89ZNpQ.woff2",
+      "kind": "font",
+      "localPath": "assets/font/JTUSjIg1_i6t8kCHKm459WdhyyTh89ZNpQ-a93986ac.woff2",
+      "status": "ok",
+      "bytes": 68224
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2",
+      "kind": "font",
+      "localPath": "assets/font/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y-83a31c81.woff2",
+      "status": "ok",
+      "bytes": 35508
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/nunitosans/v19/pe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwd-RaLZx3lE4-Hw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQ-9039767d.woff2",
+      "status": "ok",
+      "bytes": 22884
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/nunitosans/v19/pe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwd-1aLZx3lE4-Hw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQ-94a2139e.woff2",
+      "status": "ok",
+      "bytes": 17340
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/nunitosans/v19/pe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwd-ZaLZx3lE4-Hw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQ-9af05129.woff2",
+      "status": "ok",
+      "bytes": 11532
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/nunitosans/v19/pe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwd-daLZx3lE4-Hw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQ-af2ba70b.woff2",
+      "status": "ok",
+      "bytes": 30372
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/nunitosans/v19/pe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwd-laLZx3lE4.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQ-2270246f.woff2",
+      "status": "ok",
+      "bytes": 32924
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/nunitosans/v19/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t4R-tQKr51pE8.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpN-860b378b.woff2",
+      "status": "ok",
+      "bytes": 21708
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/nunitosans/v19/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7txR-tQKr51pE8.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpN-42dc4941.woff2",
+      "status": "ok",
+      "bytes": 16408
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/nunitosans/v19/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t6R-tQKr51pE8.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpN-4bed1ebe.woff2",
+      "status": "ok",
+      "bytes": 10340
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/nunitosans/v19/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t7R-tQKr51pE8.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpN-1697907d.woff2",
+      "status": "ok",
+      "bytes": 27880
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/nunitosans/v19/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t1R-tQKr51.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpN-a0f2b136.woff2",
+      "status": "ok",
+      "bytes": 30948
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/uploads/2026/07/pt01_av-1.webp",
+      "kind": "img",
+      "localPath": "assets/img/pt01_av-1-dbcf6d4c.webp",
+      "status": "ok",
+      "bytes": 82476
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/uploads/2026/07/pt02_av-1.webp",
+      "kind": "img",
+      "localPath": "assets/img/pt02_av-1-00895b31.webp",
+      "status": "ok",
+      "bytes": 38768
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/uploads/2026/07/bg7gd07d32ceazfdyqx2_2.webp",
+      "kind": "img",
+      "localPath": "assets/img/bg7gd07d32ceazfdyqx2_2-d3a38977.webp",
+      "status": "ok",
+      "bytes": 271712
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/uploads/2026/07/MB01-AV.webp",
+      "kind": "img",
+      "localPath": "assets/img/MB01-AV-454049ff.webp",
+      "status": "ok",
+      "bytes": 68354
+    },
+    {
+      "url": "https://vistoriaalphaville.com.br/wp-content/uploads/2026/07/pt02_av-MB.webp",
+      "kind": "img",
+      "localPath": "assets/img/pt02_av-MB-87c42426.webp",
+      "status": "ok",
+      "bytes": 32412
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/fonts/poppins/devanagari-italic.woff2",
+      "kind": "font",
+      "localPath": "assets/font/devanagari-italic-cdb99c43.woff2",
+      "status": "ok",
+      "bytes": 45968
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/fonts/poppins/latin-ext-italic.woff2",
+      "kind": "font",
+      "localPath": "assets/font/latin-ext-italic-68da7c3f.woff2",
+      "status": "ok",
+      "bytes": 5964
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/fonts/poppins/latin-italic.woff2",
+      "kind": "font",
+      "localPath": "assets/font/latin-italic-aebf2781.woff2",
+      "status": "ok",
+      "bytes": 8668
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/fonts/poppins/devanagari-italic-600.woff2",
+      "kind": "font",
+      "localPath": "assets/font/devanagari-italic-600-12fb1537.woff2",
+      "status": "ok",
+      "bytes": 45596
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/fonts/poppins/latin-ext-italic-600.woff2",
+      "kind": "font",
+      "localPath": "assets/font/latin-ext-italic-600-8004139c.woff2",
+      "status": "ok",
+      "bytes": 6012
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/fonts/poppins/latin-italic-600.woff2",
+      "kind": "font",
+      "localPath": "assets/font/latin-italic-600-c48da5b7.woff2",
+      "status": "ok",
+      "bytes": 8724
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/fonts/poppins/devanagari.woff2",
+      "kind": "font",
+      "localPath": "assets/font/devanagari-9138386f.woff2",
+      "status": "ok",
+      "bytes": 39660
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/fonts/poppins/latin-ext.woff2",
+      "kind": "font",
+      "localPath": "assets/font/latin-ext-cac6076b.woff2",
+      "status": "ok",
+      "bytes": 5644
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/fonts/poppins/latin.woff2",
+      "kind": "font",
+      "localPath": "assets/font/latin-5182a7f0.woff2",
+      "status": "ok",
+      "bytes": 7884
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/fonts/poppins/devanagari-600.woff2",
+      "kind": "font",
+      "localPath": "assets/font/devanagari-600-e8c28c3f.woff2",
+      "status": "ok",
+      "bytes": 39292
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/fonts/poppins/latin-ext-600.woff2",
+      "kind": "font",
+      "localPath": "assets/font/latin-ext-600-aa8a4cc5.woff2",
+      "status": "ok",
+      "bytes": 5524
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/fonts/poppins/latin-600.woff2",
+      "kind": "font",
+      "localPath": "assets/font/latin-600-b687865f.woff2",
+      "status": "ok",
+      "bytes": 8000
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/icon/ti-info-light.svg",
+      "kind": "img",
+      "localPath": "assets/img/ti-info-light-21d70eb0.svg",
+      "status": "ok",
+      "bytes": 535
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/icon/ti-info-regular.svg",
+      "kind": "img",
+      "localPath": "assets/img/ti-info-regular-1fd3622e.svg",
+      "status": "ok",
+      "bytes": 834
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/platform/Trustindex/icon.svg",
+      "kind": "img",
+      "localPath": "assets/img/icon-37137368.svg",
+      "status": "ok",
+      "bytes": 864
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/icon/ti-quote.svg",
+      "kind": "img",
+      "localPath": "assets/img/ti-quote-71cbaf98.svg",
+      "status": "ok",
+      "bytes": 1502
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/platform/Trustindex/star/s.svg",
+      "kind": "img",
+      "localPath": "assets/img/s-54115042.svg",
+      "status": "ok",
+      "bytes": 1467
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/icon/ti-verified.svg",
+      "kind": "img",
+      "localPath": "assets/img/ti-verified-75f97794.svg",
+      "status": "ok",
+      "bytes": 1894
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/icon/ti-verified-green.svg",
+      "kind": "img",
+      "localPath": "assets/img/ti-verified-green-91b486cb.svg",
+      "status": "ok",
+      "bytes": 1894
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/icon/ti-verified-black.svg",
+      "kind": "img",
+      "localPath": "assets/img/ti-verified-black-6c846e56.svg",
+      "status": "ok",
+      "bytes": 1894
+    },
+    {
+      "url": "https://cdn.trustindex.io/assets/img/loading_dots.gif",
+      "kind": "img",
+      "localPath": "assets/img/loading_dots-0e555392.gif",
+      "status": "ok",
+      "bytes": 28757
+    }
+  ]
+}

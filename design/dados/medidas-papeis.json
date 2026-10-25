@@ -1,0 +1,5033 @@
+{
+ "adv-barros-e-carvalho": {
+  "desktop": {
+   "hero_title": [
+    30,
+    400,
+    "Roboto Serif",
+    "Você pode estar pagando Imposto de Renda"
+   ],
+   "titulos": [
+    [
+     22,
+     7
+    ],
+    [
+     30,
+     4
+    ],
+    [
+     42,
+     2
+    ],
+    [
+     28,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     600,
+     8
+    ],
+    [
+     500,
+     4
+    ]
+   ],
+   "corpo": [
+    [
+     19,
+     883
+    ],
+    [
+     16,
+     542
+    ],
+    [
+     18,
+     311
+    ]
+   ],
+   "fontes": [
+    "Roboto",
+    "Roboto Serif",
+    "Sora"
+   ],
+   "botao": [
+    {
+     "t": "Falar com um Advogado(a)",
+     "fs": "18px",
+     "fw": "500",
+     "pad": "18px 25px",
+     "rad": "6px",
+     "tt": "none",
+     "h": 66,
+     "w": 316,
+     "ff": "Roboto"
+    }
+   ],
+   "altura": 4762
+  },
+  "mobile": {
+   "hero_title": [
+    25,
+    400,
+    "Roboto Serif",
+    "Como saber se eu tenho direito a"
+   ],
+   "titulos": [
+    [
+     22,
+     4
+    ],
+    [
+     25,
+     3
+    ],
+    [
+     43,
+     1
+    ],
+    [
+     23,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     600,
+     5
+    ],
+    [
+     500,
+     4
+    ]
+   ],
+   "corpo": [
+    [
+     18,
+     922
+    ],
+    [
+     16,
+     507
+    ],
+    [
+     17,
+     169
+    ]
+   ],
+   "fontes": [
+    "Roboto",
+    "Roboto Serif",
+    "Sora"
+   ],
+   "botao": [
+    {
+     "t": "Falar com um Advogado(a)",
+     "fs": "17.94px",
+     "fw": "500",
+     "pad": "18px 0px",
+     "rad": "6px",
+     "tt": "none",
+     "h": 66,
+     "w": 351,
+     "ff": "Roboto"
+    }
+   ],
+   "altura": 7006
+  }
+ },
+ "adv-calgarotto": {
+  "desktop": {
+   "hero_title": [
+    33,
+    600,
+    "Inter",
+    "Advocacia com experiência em Direito da "
+   ],
+   "titulos": [
+    [
+     22,
+     10
+    ],
+    [
+     33,
+     2
+    ],
+    [
+     41,
+     1
+    ],
+    [
+     54,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     600,
+     15
+    ]
+   ],
+   "corpo": [
+    [
+     16,
+     1907
+    ],
+    [
+     18,
+     925
+    ],
+    [
+     20,
+     438
+    ]
+   ],
+   "fontes": [
+    "Inter",
+    "Nunito Sans",
+    "Sora"
+   ],
+   "botao": [
+    {
+     "t": "Fale agora pelo WhatsApp",
+     "fs": "18px",
+     "fw": "600",
+     "pad": "18px 42px 19px",
+     "rad": "8px",
+     "tt": "none",
+     "h": 64,
+     "w": 341,
+     "ff": "Inter"
+    }
+   ],
+   "altura": 4714
+  },
+  "mobile": {
+   "hero_title": [
+    23,
+    600,
+    "Inter",
+    "Advocacia com experiência em Direito da "
+   ],
+   "titulos": [
+    [
+     22,
+     10
+    ],
+    [
+     30,
+     2
+    ],
+    [
+     25,
+     1
+    ],
+    [
+     26,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     600,
+     15
+    ]
+   ],
+   "corpo": [
+    [
+     16,
+     2284
+    ],
+    [
+     15,
+     540
+    ],
+    [
+     14,
+     220
+    ]
+   ],
+   "fontes": [
+    "Inter",
+    "Nunito Sans",
+    "Sora"
+   ],
+   "botao": [
+    {
+     "t": "Fale agora pelo WhatsApp",
+     "fs": "17.16px",
+     "fw": "600",
+     "pad": "18px 42px 19px",
+     "rad": "8px",
+     "tt": "none",
+     "h": 64,
+     "w": 351,
+     "ff": "Inter"
+    }
+   ],
+   "altura": 7169
+  }
+ },
+ "adv-gustavo-kehl": {
+  "desktop": {
+   "hero_title": [
+    31,
+    500,
+    "Merriweather",
+    ", Sem Multas Abusivas e com Apoio Jurídi"
+   ],
+   "titulos": [
+    [
+     22,
+     4
+    ],
+    [
+     29,
+     3
+    ],
+    [
+     46,
+     1
+    ],
+    [
+     28,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     500,
+     5
+    ],
+    [
+     600,
+     4
+    ]
+   ],
+   "corpo": [
+    [
+     16,
+     947
+    ],
+    [
+     18,
+     758
+    ],
+    [
+     13,
+     76
+    ]
+   ],
+   "fontes": [
+    "Poppins",
+    "Merriweather",
+    "Sora"
+   ],
+   "botao": [
+    {
+     "t": "Entrar em contato",
+     "fs": "16px",
+     "fw": "300",
+     "pad": "11px 22px",
+     "rad": "90px",
+     "tt": "none",
+     "h": 40,
+     "w": 226,
+     "ff": "Poppins"
+    }
+   ],
+   "altura": 4127
+  },
+  "mobile": {
+   "hero_title": [
+    25,
+    400,
+    "-apple-system",
+    "Instagram"
+   ],
+   "titulos": [
+    [
+     22,
+     4
+    ],
+    [
+     31,
+     2
+    ],
+    [
+     27,
+     1
+    ],
+    [
+     28,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     500,
+     5
+    ],
+    [
+     600,
+     4
+    ]
+   ],
+   "corpo": [
+    [
+     16,
+     1264
+    ],
+    [
+     15,
+     383
+    ],
+    [
+     21,
+     163
+    ]
+   ],
+   "fontes": [
+    "Poppins",
+    "Merriweather",
+    "Sora"
+   ],
+   "botao": [
+    {
+     "t": "Fale com um Advogado",
+     "fs": "16.38px",
+     "fw": "500",
+     "pad": "18px 30px",
+     "rad": "90px",
+     "tt": "none",
+     "h": 58,
+     "w": 351,
+     "ff": "Poppins"
+    }
+   ],
+   "altura": 6114
+  }
+ },
+ "adv-luisa": {
+  "desktop": {
+   "hero_title": [
+    30,
+    600,
+    "AROLSE",
+    "Conheça seus direitos"
+   ],
+   "titulos": [
+    [
+     22,
+     10
+    ],
+    [
+     30,
+     1
+    ],
+    [
+     40,
+     1
+    ],
+    [
+     32,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     600,
+     14
+    ]
+   ],
+   "corpo": [
+    [
+     16,
+     3068
+    ],
+    [
+     13,
+     76
+    ]
+   ],
+   "fontes": [
+    "Sora",
+    "AROLSE"
+   ],
+   "botao": [
+    {
+     "t": "Fale comigo no Whatsapp",
+     "fs": "16px",
+     "fw": "500",
+     "pad": "20px 28px",
+     "rad": "127px",
+     "tt": "none",
+     "h": 65,
+     "w": 311,
+     "ff": "Sora"
+    }
+   ],
+   "altura": 5305
+  },
+  "mobile": {
+   "hero_title": [
+    31,
+    600,
+    "AROLSE",
+    "Conheça seus direitos"
+   ],
+   "titulos": [
+    [
+     22,
+     10
+    ],
+    [
+     31,
+     2
+    ],
+    [
+     39,
+     1
+    ],
+    [
+     28,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     600,
+     14
+    ]
+   ],
+   "corpo": [
+    [
+     16,
+     1712
+    ],
+    [
+     15,
+     1178
+    ],
+    [
+     14,
+     132
+    ]
+   ],
+   "fontes": [
+    "Sora",
+    "AROLSE"
+   ],
+   "botao": [
+    {
+     "t": "Fale comigo no Whatsapp",
+     "fs": "17.16px",
+     "fw": "500",
+     "pad": "20px 28px",
+     "rad": "127px",
+     "tt": "none",
+     "h": 65,
+     "w": 351,
+     "ff": "Sora"
+    }
+   ],
+   "altura": 7439
+  }
+ },
+ "adv-souza-santos": {
+  "desktop": {
+   "hero_title": [
+    40,
+    400,
+    "Forum",
+    "Bancário, com certeza você tem valores a"
+   ],
+   "titulos": [
+    [
+     44,
+     2
+    ],
+    [
+     23,
+     1
+    ],
+    [
+     22,
+     1
+    ],
+    [
+     37,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     400,
+     7
+    ],
+    [
+     500,
+     2
+    ]
+   ],
+   "corpo": [
+    [
+     18,
+     4911
+    ],
+    [
+     20,
+     1107
+    ],
+    [
+     15,
+     163
+    ]
+   ],
+   "fontes": [
+    "Open Sans",
+    "Forum",
+    "Lora"
+   ],
+   "botao": [
+    {
+     "t": "QUERO AVALIAR MEU CASO",
+     "fs": "18px",
+     "fw": "400",
+     "pad": "18px 22px",
+     "rad": "8px",
+     "tt": "none",
+     "h": 56,
+     "w": 410,
+     "ff": "\"Open Sans\""
+    }
+   ],
+   "altura": 8364
+  },
+  "mobile": {
+   "hero_title": [
+    27,
+    400,
+    "Forum",
+    "Bancário, com certeza você tem valores a"
+   ],
+   "titulos": [
+    [
+     30,
+     2
+    ],
+    [
+     36,
+     1
+    ],
+    [
+     29,
+     1
+    ],
+    [
+     25,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     400,
+     5
+    ],
+    [
+     500,
+     1
+    ]
+   ],
+   "corpo": [
+    [
+     14,
+     3647
+    ],
+    [
+     16,
+     1922
+    ],
+    [
+     15,
+     464
+    ]
+   ],
+   "fontes": [
+    "Open Sans",
+    "Forum",
+    "Lora"
+   ],
+   "botao": [
+    {
+     "t": "QUERO AVALIAR MEU CASO",
+     "fs": "14.82px",
+     "fw": "400",
+     "pad": "18px 22px",
+     "rad": "8px",
+     "tt": "none",
+     "h": 53,
+     "w": 351,
+     "ff": "\"Open Sans\""
+    }
+   ],
+   "altura": 10650
+  }
+ },
+ "imob-construtora-vitta": {
+  "desktop": {
+   "hero_title": [
+    32,
+    600,
+    "Poppins",
+    "3 OPÇÕES DE APARTAMENTOS"
+   ],
+   "titulos": [
+    [
+     32,
+     4
+    ],
+    [
+     22,
+     3
+    ],
+    [
+     28,
+     2
+    ],
+    [
+     24,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     600,
+     8
+    ],
+    [
+     400,
+     1
+    ]
+   ],
+   "corpo": [
+    [
+     16,
+     2014
+    ],
+    [
+     18,
+     163
+    ],
+    [
+     14,
+     150
+    ]
+   ],
+   "fontes": [
+    "Poppins",
+    "-apple-system"
+   ],
+   "botao": [
+    {
+     "t": "Quero conhecer o Villágio das águas",
+     "fs": "17px",
+     "fw": "500",
+     "pad": "25px 40px",
+     "rad": "4px",
+     "tt": "none",
+     "h": 67,
+     "w": 397,
+     "ff": "Poppins"
+    }
+   ],
+   "altura": 6321
+  },
+  "mobile": {
+   "hero_title": [
+    25,
+    400,
+    "-apple-system",
+    "Instagram"
+   ],
+   "titulos": [
+    [
+     25,
+     3
+    ],
+    [
+     22,
+     3
+    ],
+    [
+     23,
+     2
+    ],
+    [
+     27,
+     2
+    ]
+   ],
+   "peso_titulos": [
+    [
+     600,
+     9
+    ],
+    [
+     400,
+     1
+    ]
+   ],
+   "corpo": [
+    [
+     16,
+     1969
+    ],
+    [
+     18,
+     233
+    ],
+    [
+     14,
+     228
+    ]
+   ],
+   "fontes": [
+    "Poppins",
+    "-apple-system"
+   ],
+   "botao": [
+    {
+     "t": "Quero conhecer o Villágio das águas",
+     "fs": "14.82px",
+     "fw": "500",
+     "pad": "25px 20px",
+     "rad": "4px",
+     "tt": "none",
+     "h": 69,
+     "w": 351,
+     "ff": "Poppins"
+    }
+   ],
+   "altura": 8935
+  }
+ },
+ "imob-mb2-incorporacoes": {
+  "desktop": {
+   "hero_title": [
+    42,
+    300,
+    "Inter",
+    "Empreendimentos exclusivos com excelênci"
+   ],
+   "titulos": [
+    [
+     36,
+     6
+    ]
+   ],
+   "peso_titulos": [
+    [
+     400,
+     6
+    ]
+   ],
+   "corpo": [
+    [
+     20,
+     749
+    ],
+    [
+     19,
+     524
+    ],
+    [
+     15,
+     271
+    ]
+   ],
+   "fontes": [
+    "Inter",
+    "Poppins",
+    "-apple-system"
+   ],
+   "botao": [
+    {
+     "t": "Fale com um especialista",
+     "fs": "17px",
+     "fw": "400",
+     "pad": "23px 45px",
+     "rad": "0px",
+     "tt": "none",
+     "h": 63,
+     "w": 343,
+     "ff": "Poppins"
+    }
+   ],
+   "altura": 4775
+  },
+  "mobile": {
+   "hero_title": [
+    28,
+    400,
+    "Inter",
+    "Oportunidade exclusivas para viver ou in"
+   ],
+   "titulos": [
+    [
+     27,
+     3
+    ],
+    [
+     28,
+     2
+    ]
+   ],
+   "peso_titulos": [
+    [
+     400,
+     5
+    ]
+   ],
+   "corpo": [
+    [
+     18,
+     870
+    ],
+    [
+     16,
+     546
+    ],
+    [
+     15,
+     339
+    ]
+   ],
+   "fontes": [
+    "Inter",
+    "Poppins",
+    "-apple-system"
+   ],
+   "botao": [
+    {
+     "t": "Fale com um especialista",
+     "fs": "15.99px",
+     "fw": "400",
+     "pad": "20px",
+     "rad": "0px",
+     "tt": "none",
+     "h": 56,
+     "w": 279,
+     "ff": "Poppins"
+    }
+   ],
+   "altura": 5684
+  }
+ },
+ "imob-the-palace": {
+  "desktop": {
+   "hero_title": [
+    48,
+    600,
+    "Antic Didone",
+    "Dois Endereços, Um Símbolo de Status."
+   ],
+   "titulos": [
+    [
+     22,
+     4
+    ],
+    [
+     43,
+     2
+    ],
+    [
+     32,
+     1
+    ],
+    [
+     36,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     600,
+     10
+    ]
+   ],
+   "corpo": [
+    [
+     18,
+     1445
+    ],
+    [
+     20,
+     226
+    ],
+    [
+     16,
+     138
+    ]
+   ],
+   "fontes": [
+    "Montserrat",
+    "Antic Didone",
+    "Sora"
+   ],
+   "botao": [
+    {
+     "t": "Entrar em contato",
+     "fs": "18px",
+     "fw": "600",
+     "pad": "14px 20px",
+     "rad": "50px",
+     "tt": "none",
+     "h": 46,
+     "w": 183,
+     "ff": "\"Antic Didone\""
+    }
+   ],
+   "altura": 5987
+  },
+  "mobile": {
+   "hero_title": [
+    33,
+    600,
+    "Antic Didone",
+    "Dois Endereços, Um Símbolo de Status."
+   ],
+   "titulos": [
+    [
+     33,
+     5
+    ],
+    [
+     35,
+     2
+    ],
+    [
+     27,
+     1
+    ],
+    [
+     28,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     600,
+     10
+    ]
+   ],
+   "corpo": [
+    [
+     16,
+     1145
+    ],
+    [
+     18,
+     643
+    ],
+    [
+     20,
+     84
+    ]
+   ],
+   "fontes": [
+    "Montserrat",
+    "Antic Didone",
+    "Sora"
+   ],
+   "botao": [
+    {
+     "t": "Entrar em contato",
+     "fs": "15.6px",
+     "fw": "600",
+     "pad": "14px 20px",
+     "rad": "50px",
+     "tt": "none",
+     "h": 44,
+     "w": 179,
+     "ff": "\"Antic Didone\""
+    }
+   ],
+   "altura": 6591
+  }
+ },
+ "imob-vega-costa-e-silva": {
+  "desktop": {
+   "hero_title": [
+    63,
+    400,
+    "Georgia",
+    "Seu novo lar no bairro que"
+   ],
+   "titulos": [
+    [
+     70,
+     5
+    ],
+    [
+     47,
+     1
+    ],
+    [
+     30,
+     1
+    ],
+    [
+     35,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     400,
+     10
+    ],
+    [
+     800,
+     1
+    ]
+   ],
+   "corpo": [
+    [
+     16,
+     2004
+    ],
+    [
+     14,
+     752
+    ],
+    [
+     17,
+     322
+    ]
+   ],
+   "fontes": [
+    "Inter",
+    "Georgia",
+    "Roboto"
+   ],
+   "botao": [
+    {
+     "t": "FALE COM UM CONSULTOR",
+     "fs": "16px",
+     "fw": "600",
+     "pad": "14px 18px 14px 32px",
+     "rad": "999px",
+     "tt": "none",
+     "h": 58,
+     "w": 303,
+     "ff": "Inter"
+    }
+   ],
+   "altura": 8657
+  },
+  "mobile": {
+   "hero_title": [
+    41,
+    400,
+    "Georgia",
+    "Seu novo lar no bairro que"
+   ],
+   "titulos": [
+    [
+     40,
+     4
+    ],
+    [
+     37,
+     2
+    ],
+    [
+     34,
+     2
+    ],
+    [
+     35,
+     2
+    ]
+   ],
+   "peso_titulos": [
+    [
+     400,
+     10
+    ]
+   ],
+   "corpo": [
+    [
+     16,
+     1518
+    ],
+    [
+     14,
+     1110
+    ],
+    [
+     12,
+     243
+    ]
+   ],
+   "fontes": [
+    "Inter",
+    "Georgia",
+    "Roboto"
+   ],
+   "botao": [
+    {
+     "t": "FALE COM UM CONSULTOR",
+     "fs": "15.6px",
+     "fw": "600",
+     "pad": "12.48px 21.84px",
+     "rad": "999px",
+     "tt": "none",
+     "h": 55,
+     "w": 351,
+     "ff": "Inter"
+    }
+   ],
+   "altura": 10851
+  }
+ },
+ "imob-vistoria-alphaville": {
+  "desktop": {
+   "hero_title": [
+    42,
+    600,
+    "Sora",
+    "Segurança técnica do início ao fim da lo"
+   ],
+   "titulos": [
+    [
+     36,
+     7
+    ],
+    [
+     22,
+     6
+    ],
+    [
+     32,
+     4
+    ],
+    [
+     24,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     600,
+     12
+    ],
+    [
+     400,
+     6
+    ]
+   ],
+   "corpo": [
+    [
+     16,
+     5178
+    ],
+    [
+     18,
+     2056
+    ],
+    [
+     15,
+     834
+    ]
+   ],
+   "fontes": [
+    "Sora",
+    "Nunito Sans",
+    "Trustindex Poppins"
+   ],
+   "botao": [
+    {
+     "t": "Solicitar orçamento pelo WhatsApp",
+     "fs": "18px",
+     "fw": "400",
+     "pad": "20px 28px",
+     "rad": "6px",
+     "tt": "none",
+     "h": 65,
+     "w": 427,
+     "ff": "Sora"
+    }
+   ],
+   "altura": 9311
+  },
+  "mobile": {
+   "hero_title": [
+    27,
+    600,
+    "Sora",
+    "Segurança técnica do início ao fim da lo"
+   ],
+   "titulos": [
+    [
+     25,
+     7
+    ],
+    [
+     24,
+     5
+    ]
+   ],
+   "peso_titulos": [
+    [
+     600,
+     12
+    ]
+   ],
+   "corpo": [
+    [
+     14,
+     3239
+    ],
+    [
+     16,
+     3175
+    ],
+    [
+     15,
+     1050
+    ]
+   ],
+   "fontes": [
+    "Sora",
+    "Nunito Sans",
+    "Trustindex Poppins"
+   ],
+   "botao": [
+    {
+     "t": "Solicitar orçamento pelo WhatsApp",
+     "fs": "14.43px",
+     "fw": "400",
+     "pad": "20px",
+     "rad": "6px",
+     "tt": "none",
+     "h": 65,
+     "w": 351,
+     "ff": "Sora"
+    }
+   ],
+   "altura": 16571
+  }
+ },
+ "info-carol-guglielmi-imagem-pessoal": {
+  "desktop": {
+   "hero_title": [
+    41,
+    400,
+    "Playfair Display",
+    "Em 1 hora, eu vou entregar o Plano de Im"
+   ],
+   "titulos": [
+    [
+     22,
+     9
+    ],
+    [
+     38,
+     6
+    ],
+    [
+     26,
+     4
+    ],
+    [
+     28,
+     3
+    ]
+   ],
+   "peso_titulos": [
+    [
+     400,
+     9
+    ],
+    [
+     300,
+     9
+    ]
+   ],
+   "corpo": [
+    [
+     18,
+     853
+    ],
+    [
+     16,
+     473
+    ],
+    [
+     13,
+     76
+    ]
+   ],
+   "fontes": [
+    "Inter",
+    "Playfair Display",
+    "Exo 2"
+   ],
+   "botao": [
+    {
+     "t": "QUERO PLANO DE ESTILO PESSOAL",
+     "fs": "16px",
+     "fw": "500",
+     "pad": "22px 42px",
+     "rad": "0px",
+     "tt": "uppercase",
+     "h": 63,
+     "w": 456,
+     "ff": "\"Exo 2\""
+    }
+   ],
+   "altura": 7719
+  },
+  "mobile": {
+   "hero_title": [
+    31,
+    400,
+    "Playfair Display",
+    "Em 1 hora, eu vou entregar o Plano de Im"
+   ],
+   "titulos": [
+    [
+     26,
+     6
+    ],
+    [
+     25,
+     4
+    ],
+    [
+     30,
+     2
+    ],
+    [
+     24,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     400,
+     6
+    ],
+    [
+     500,
+     6
+    ]
+   ],
+   "corpo": [
+    [
+     17,
+     1722
+    ],
+    [
+     19,
+     157
+    ],
+    [
+     16,
+     145
+    ]
+   ],
+   "fontes": [
+    "Inter",
+    "Playfair Display",
+    "Exo 2"
+   ],
+   "botao": [
+    {
+     "t": "QUERO PLANO DE ESTILO PESSOAL",
+     "fs": "15.6px",
+     "fw": "500",
+     "pad": "22px 42px",
+     "rad": "0px",
+     "tt": "uppercase",
+     "h": 63,
+     "w": 360,
+     "ff": "\"Exo 2\""
+    }
+   ],
+   "altura": 9106
+  }
+ },
+ "info-victor-leao-aromaterapia": {
+  "desktop": {
+   "hero_title": [
+    25,
+    300,
+    "Poppins",
+    "Receba uma de Diagnóstico para descobrir"
+   ],
+   "titulos": [
+    [
+     25,
+     15
+    ],
+    [
+     30,
+     5
+    ],
+    [
+     28,
+     4
+    ],
+    [
+     23,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     800,
+     11
+    ],
+    [
+     500,
+     7
+    ]
+   ],
+   "corpo": [
+    [
+     18,
+     3609
+    ],
+    [
+     20,
+     1644
+    ],
+    [
+     17,
+     99
+    ]
+   ],
+   "fontes": [
+    "Poppins",
+    "LEMON MILK1",
+    "Sora"
+   ],
+   "botao": [
+    {
+     "t": "Quero Aplicar Agora",
+     "fs": "18px",
+     "fw": "600",
+     "pad": "22px",
+     "rad": "10px",
+     "tt": "none",
+     "h": 62,
+     "w": 238,
+     "ff": "\"LEMON MILK1\""
+    }
+   ],
+   "altura": 10177
+  },
+  "mobile": {
+   "hero_title": [
+    18,
+    600,
+    "LEMON MILK1",
+    "Quero Aplicar Agora"
+   ],
+   "titulos": [
+    [
+     25,
+     11
+    ],
+    [
+     23,
+     5
+    ],
+    [
+     27,
+     1
+    ],
+    [
+     28,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     500,
+     7
+    ],
+    [
+     800,
+     7
+    ]
+   ],
+   "corpo": [
+    [
+     15,
+     2973
+    ],
+    [
+     18,
+     1246
+    ],
+    [
+     17,
+     1115
+    ]
+   ],
+   "fontes": [
+    "Poppins",
+    "LEMON MILK1",
+    "Sora"
+   ],
+   "botao": [
+    {
+     "t": "Quero Aplicar Agora",
+     "fs": "17.94px",
+     "fw": "600",
+     "pad": "22px 0px",
+     "rad": "10px",
+     "tt": "none",
+     "h": 62,
+     "w": 351,
+     "ff": "\"LEMON MILK1\""
+    }
+   ],
+   "altura": 13789
+  }
+ },
+ "negocio-bar-santa-boemia": {
+  "desktop": {
+   "hero_title": [
+    55,
+    700,
+    "Montserrat",
+    "O sabor da está aqui!"
+   ],
+   "titulos": [
+    [
+     40,
+     11
+    ],
+    [
+     24,
+     4
+    ],
+    [
+     34,
+     3
+    ],
+    [
+     44,
+     2
+    ]
+   ],
+   "peso_titulos": [
+    [
+     700,
+     19
+    ],
+    [
+     600,
+     4
+    ]
+   ],
+   "corpo": [
+    [
+     16,
+     2985
+    ],
+    [
+     14,
+     950
+    ],
+    [
+     18,
+     348
+    ]
+   ],
+   "fontes": [
+    "Archivo",
+    "Montserrat",
+    "Oswald"
+   ],
+   "botao": [
+    {
+     "t": "COMO CHEGAR",
+     "fs": "13.76px",
+     "fw": "600",
+     "pad": "9px 20px",
+     "rad": "6px",
+     "tt": "uppercase",
+     "h": 39,
+     "w": 141,
+     "ff": "Oswald"
+    }
+   ],
+   "altura": 8666
+  },
+  "mobile": {
+   "hero_title": [
+    31,
+    700,
+    "Montserrat",
+    "O sabor da está aqui!"
+   ],
+   "titulos": [
+    [
+     25,
+     9
+    ],
+    [
+     24,
+     8
+    ],
+    [
+     27,
+     2
+    ],
+    [
+     26,
+     2
+    ]
+   ],
+   "peso_titulos": [
+    [
+     700,
+     17
+    ],
+    [
+     600,
+     4
+    ]
+   ],
+   "corpo": [
+    [
+     16,
+     2985
+    ],
+    [
+     14,
+     928
+    ],
+    [
+     17,
+     336
+    ]
+   ],
+   "fontes": [
+    "Archivo",
+    "Montserrat",
+    "Oswald"
+   ],
+   "botao": [
+    {
+     "t": "COMO CHEGAR",
+     "fs": "12.48px",
+     "fw": "600",
+     "pad": "9px 15px",
+     "rad": "6px",
+     "tt": "uppercase",
+     "h": 37,
+     "w": 115,
+     "ff": "Oswald"
+    }
+   ],
+   "altura": 14136
+  }
+ },
+ "negocio-entre-para-trip": {
+  "desktop": {
+   "hero_title": [
+    50,
+    600,
+    "Poppins",
+    "Você parou de aceitar viagem comum. A ge"
+   ],
+   "titulos": [
+    [
+     30,
+     8
+    ],
+    [
+     36,
+     3
+    ],
+    [
+     22,
+     2
+    ],
+    [
+     35,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     600,
+     13
+    ],
+    [
+     400,
+     2
+    ]
+   ],
+   "corpo": [
+    [
+     15,
+     2973
+    ],
+    [
+     14,
+     1314
+    ],
+    [
+     16,
+     267
+    ]
+   ],
+   "fontes": [
+    "Poppins",
+    "interstate"
+   ],
+   "botao": [
+    {
+     "t": "FALAR NO WHATSAPP",
+     "fs": "15px",
+     "fw": "500",
+     "pad": "14px 30px",
+     "rad": "4px",
+     "tt": "uppercase",
+     "h": 55,
+     "w": 258,
+     "ff": "Poppins"
+    }
+   ],
+   "altura": 8625
+  },
+  "mobile": {
+   "hero_title": [
+    28,
+    600,
+    "Poppins",
+    "Você parou de aceitar viagem comum. A ge"
+   ],
+   "titulos": [
+    [
+     28,
+     10
+    ],
+    [
+     24,
+     3
+    ],
+    [
+     23,
+     3
+    ],
+    [
+     25,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     600,
+     13
+    ],
+    [
+     400,
+     4
+    ]
+   ],
+   "corpo": [
+    [
+     13,
+     3259
+    ],
+    [
+     14,
+     836
+    ],
+    [
+     15,
+     349
+    ]
+   ],
+   "fontes": [
+    "Poppins",
+    "interstate"
+   ],
+   "botao": [
+    {
+     "t": "QUERO MINHA VAGA NA PRÓXIMA EXPEDIÇÃO",
+     "fs": "14.04px",
+     "fw": "500",
+     "pad": "15px",
+     "rad": "4px",
+     "tt": "none",
+     "h": 60,
+     "w": 246,
+     "ff": "Poppins"
+    }
+   ],
+   "altura": 11442
+  }
+ },
+ "negocio-harmony-estudio-tatuagem": {
+  "desktop": {
+   "hero_title": [
+    36,
+    700,
+    "Nunito Sans",
+    "interessadas em tatuar com você todos os"
+   ],
+   "titulos": [
+    [
+     36,
+     20
+    ],
+    [
+     24,
+     5
+    ],
+    [
+     48,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     700,
+     26
+    ]
+   ],
+   "corpo": [
+    [
+     18,
+     2751
+    ],
+    [
+     16,
+     1665
+    ],
+    [
+     20,
+     495
+    ]
+   ],
+   "fontes": [
+    "Nunito Sans",
+    "Roboto"
+   ],
+   "botao": [
+    {
+     "t": "AGENDAR CONSULTORIA GRATUITA",
+     "fs": "18px",
+     "fw": "700",
+     "pad": "20px 0px",
+     "rad": "13px",
+     "tt": "none",
+     "h": 58,
+     "w": 513,
+     "ff": "\"Nunito Sans\""
+    }
+   ],
+   "altura": 9879
+  },
+  "mobile": {
+   "hero_title": [
+    25,
+    700,
+    "Nunito Sans",
+    "interessadas em tatuar com você todos os"
+   ],
+   "titulos": [
+    [
+     25,
+     13
+    ],
+    [
+     24,
+     5
+    ],
+    [
+     35,
+     3
+    ],
+    [
+     28,
+     2
+    ]
+   ],
+   "peso_titulos": [
+    [
+     700,
+     26
+    ]
+   ],
+   "corpo": [
+    [
+     16,
+     4677
+    ],
+    [
+     18,
+     105
+    ],
+    [
+     11,
+     103
+    ]
+   ],
+   "fontes": [
+    "Nunito Sans",
+    "Roboto"
+   ],
+   "botao": [
+    {
+     "t": "AGENDAR CONSULTORIA GRATUITA",
+     "fs": "15.99px",
+     "fw": "700",
+     "pad": "20px 0px",
+     "rad": "13px",
+     "tt": "none",
+     "h": 56,
+     "w": 351,
+     "ff": "\"Nunito Sans\""
+    }
+   ],
+   "altura": 9812
+  }
+ },
+ "negocio-hoffen-sports": {
+  "desktop": {
+   "hero_title": [
+    39,
+    600,
+    "Montserrat",
+    "Performance desenvolvida com engenharia\n"
+   ],
+   "titulos": [
+    [
+     39,
+     4
+    ],
+    [
+     29,
+     2
+    ],
+    [
+     34,
+     1
+    ],
+    [
+     33,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     700,
+     4
+    ],
+    [
+     600,
+     3
+    ]
+   ],
+   "corpo": [
+    [
+     15,
+     1455
+    ],
+    [
+     21,
+     712
+    ],
+    [
+     14,
+     677
+    ]
+   ],
+   "fontes": [
+    "Exo 2",
+    "Montserrat"
+   ],
+   "botao": [
+    {
+     "t": "CONHEÇA NOSSOS PRODUTOS",
+     "fs": "14px",
+     "fw": "400",
+     "pad": "5px 5px 5px 20px",
+     "rad": "44px",
+     "tt": "none",
+     "h": 50,
+     "w": 300,
+     "ff": "Montserrat"
+    }
+   ],
+   "altura": 4721
+  },
+  "mobile": {
+   "hero_title": [
+    29,
+    600,
+    "Montserrat",
+    "Performance desenvolvida com engenharia\n"
+   ],
+   "titulos": [
+    [
+     24,
+     27
+    ],
+    [
+     25,
+     2
+    ],
+    [
+     22,
+     2
+    ],
+    [
+     27,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     700,
+     29
+    ],
+    [
+     600,
+     3
+    ]
+   ],
+   "corpo": [
+    [
+     14,
+     984
+    ],
+    [
+     17,
+     595
+    ],
+    [
+     13,
+     496
+    ]
+   ],
+   "fontes": [
+    "Exo 2",
+    "Montserrat"
+   ],
+   "botao": [
+    {
+     "t": "CONHEÇA NOSSOS PRODUTOS",
+     "fs": "14px",
+     "fw": "400",
+     "pad": "5px 5px 5px 20px",
+     "rad": "44px",
+     "tt": "none",
+     "h": 50,
+     "w": 300,
+     "ff": "Montserrat"
+    }
+   ],
+   "altura": 6432
+  }
+ },
+ "negocio-inter-frios-refrigeracao": {
+  "desktop": {
+   "hero_title": [
+    46,
+    500,
+    "Space Grotesk",
+    "Refrigeração comercial para empresas"
+   ],
+   "titulos": [
+    [
+     52,
+     14
+    ],
+    [
+     26,
+     9
+    ],
+    [
+     36,
+     2
+    ],
+    [
+     42,
+     2
+    ]
+   ],
+   "peso_titulos": [
+    [
+     700,
+     18
+    ],
+    [
+     500,
+     6
+    ]
+   ],
+   "corpo": [
+    [
+     16,
+     2836
+    ],
+    [
+     18,
+     1183
+    ],
+    [
+     17,
+     1098
+    ]
+   ],
+   "fontes": [
+    "Inter",
+    "Space Grotesk",
+    "Roboto"
+   ],
+   "botao": [
+    {
+     "t": "Solicitar avaliação técnica",
+     "fs": "16px",
+     "fw": "600",
+     "pad": "10px 10px 10px 22px",
+     "rad": "999px",
+     "tt": "none",
+     "h": 57,
+     "w": 287,
+     "ff": "Inter"
+    }
+   ],
+   "altura": 12697
+  },
+  "mobile": {
+   "hero_title": [
+    25,
+    500,
+    "Space Grotesk",
+    "Refrigeração comercial para empresas"
+   ],
+   "titulos": [
+    [
+     26,
+     8
+    ],
+    [
+     24,
+     3
+    ],
+    [
+     29,
+     2
+    ],
+    [
+     27,
+     2
+    ]
+   ],
+   "peso_titulos": [
+    [
+     700,
+     16
+    ],
+    [
+     600,
+     1
+    ]
+   ],
+   "corpo": [
+    [
+     15,
+     2534
+    ],
+    [
+     14,
+     2419
+    ],
+    [
+     16,
+     1022
+    ]
+   ],
+   "fontes": [
+    "Inter",
+    "Space Grotesk",
+    "Roboto"
+   ],
+   "botao": [
+    {
+     "t": "Solicitar avaliação técnica",
+     "fs": "14.82px",
+     "fw": "600",
+     "pad": "10px 24px",
+     "rad": "999px",
+     "tt": "none",
+     "h": 57,
+     "w": 358,
+     "ff": "Inter"
+    }
+   ],
+   "altura": 18454
+  }
+ },
+ "odonto-invisalign-jv-clinica": {
+  "desktop": {
+   "hero_title": [
+    39,
+    400,
+    "Brushelva",
+    "Tenha o sorriso que você sempre quis\ncom"
+   ],
+   "titulos": [
+    [
+     23,
+     5
+    ],
+    [
+     50,
+     4
+    ],
+    [
+     22,
+     3
+    ],
+    [
+     29,
+     3
+    ]
+   ],
+   "peso_titulos": [
+    [
+     500,
+     11
+    ],
+    [
+     400,
+     5
+    ]
+   ],
+   "corpo": [
+    [
+     18,
+     468
+    ],
+    [
+     19,
+     463
+    ],
+    [
+     16,
+     428
+    ]
+   ],
+   "fontes": [
+    "Inter",
+    "Brushelva",
+    "Sora"
+   ],
+   "botao": [
+    {
+     "t": "Agende sua avaliação agora",
+     "fs": "22px",
+     "fw": "500",
+     "pad": "22px 38px",
+     "rad": "6px",
+     "tt": "none",
+     "h": 68,
+     "w": 396,
+     "ff": "Inter"
+    }
+   ],
+   "altura": 5784
+  },
+  "mobile": {
+   "hero_title": [
+    29,
+    400,
+    "Brushelva",
+    "Tenha o sorriso que você sempre quis\ncom"
+   ],
+   "titulos": [
+    [
+     23,
+     6
+    ],
+    [
+     24,
+     4
+    ],
+    [
+     39,
+     1
+    ],
+    [
+     22,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     500,
+     8
+    ],
+    [
+     400,
+     5
+    ]
+   ],
+   "corpo": [
+    [
+     16,
+     879
+    ],
+    [
+     18,
+     190
+    ],
+    [
+     21,
+     163
+    ]
+   ],
+   "fontes": [
+    "Inter",
+    "Brushelva",
+    "Sora"
+   ],
+   "botao": [
+    {
+     "t": "Agende sua avaliação agora",
+     "fs": "19.11px",
+     "fw": "500",
+     "pad": "18px",
+     "rad": "6px",
+     "tt": "none",
+     "h": 57,
+     "w": 351,
+     "ff": "Inter"
+    }
+   ],
+   "altura": 7132
+  }
+ },
+ "odonto-rubiane-vitali": {
+  "desktop": {
+   "hero_title": [
+    30,
+    600,
+    "Poppins",
+    "Tenha dentes fixos em 72h e"
+   ],
+   "titulos": [
+    [
+     22,
+     14
+    ],
+    [
+     30,
+     2
+    ],
+    [
+     26,
+     2
+    ],
+    [
+     24,
+     2
+    ]
+   ],
+   "peso_titulos": [
+    [
+     600,
+     20
+    ],
+    [
+     700,
+     3
+    ]
+   ],
+   "corpo": [
+    [
+     16,
+     4061
+    ],
+    [
+     18,
+     503
+    ],
+    [
+     17,
+     129
+    ]
+   ],
+   "fontes": [
+    "Poppins",
+    "-apple-system"
+   ],
+   "botao": [
+    {
+     "t": "Agendar minha Avaliação",
+     "fs": "16px",
+     "fw": "500",
+     "pad": "22px 70px",
+     "rad": "5px",
+     "tt": "none",
+     "h": 60,
+     "w": 376,
+     "ff": "Poppins"
+    }
+   ],
+   "altura": 9413
+  },
+  "mobile": {
+   "hero_title": [
+    27,
+    600,
+    "Poppins",
+    "Tenha dentes fixos em 72h e"
+   ],
+   "titulos": [
+    [
+     22,
+     14
+    ],
+    [
+     28,
+     2
+    ],
+    [
+     35,
+     2
+    ],
+    [
+     33,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     600,
+     20
+    ],
+    [
+     700,
+     3
+    ]
+   ],
+   "corpo": [
+    [
+     16,
+     4008
+    ],
+    [
+     18,
+     614
+    ],
+    [
+     17,
+     161
+    ]
+   ],
+   "fontes": [
+    "Poppins",
+    "-apple-system"
+   ],
+   "botao": [
+    {
+     "t": "Agendar minha Avaliação",
+     "fs": "16px",
+     "fw": "500",
+     "pad": "22px 20px",
+     "rad": "5px",
+     "tt": "none",
+     "h": 60,
+     "w": 351,
+     "ff": "Poppins"
+    }
+   ],
+   "altura": 15668
+  }
+ },
+ "psi-andressa-darold": {
+  "desktop": {
+   "hero_title": [
+    34,
+    500,
+    "Playfair Display",
+    "Psicoterapia baseada em evidências, cond"
+   ],
+   "titulos": [
+    [
+     28,
+     3
+    ],
+    [
+     30,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     500,
+     4
+    ]
+   ],
+   "corpo": [
+    [
+     18,
+     835
+    ],
+    [
+     15,
+     482
+    ],
+    [
+     16,
+     201
+    ]
+   ],
+   "fontes": [
+    "Montserrat",
+    "Playfair Display",
+    "-apple-system"
+   ],
+   "botao": [
+    {
+     "t": "ENTRE EM CONTATO",
+     "fs": "18px",
+     "fw": "500",
+     "pad": "20px 36px",
+     "rad": "0px",
+     "tt": "none",
+     "h": 58,
+     "w": 302,
+     "ff": "Montserrat"
+    }
+   ],
+   "altura": 3336
+  },
+  "mobile": {
+   "hero_title": [
+    25,
+    400,
+    "-apple-system",
+    "Instagram"
+   ],
+   "titulos": [
+    [
+     23,
+     5
+    ],
+    [
+     27,
+     2
+    ],
+    [
+     25,
+     1
+    ],
+    [
+     33,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     400,
+     5
+    ],
+    [
+     500,
+     4
+    ]
+   ],
+   "corpo": [
+    [
+     16,
+     1083
+    ],
+    [
+     15,
+     523
+    ],
+    [
+     14,
+     58
+    ]
+   ],
+   "fontes": [
+    "Montserrat",
+    "Playfair Display",
+    "-apple-system"
+   ],
+   "botao": [
+    {
+     "t": "ENTRE EM CONTATO",
+     "fs": "15.6px",
+     "fw": "500",
+     "pad": "20px 0px",
+     "rad": "0px",
+     "tt": "none",
+     "h": 56,
+     "w": 351,
+     "ff": "Montserrat"
+    }
+   ],
+   "altura": 4287
+  }
+ },
+ "psi-julia-valdetaro": {
+  "desktop": {
+   "hero_title": [
+    29,
+    600,
+    "Poppins",
+    "Recupere Seu Bem-Estar Emocional com Ter"
+   ],
+   "titulos": [
+    [
+     24,
+     5
+    ],
+    [
+     22,
+     4
+    ],
+    [
+     35,
+     2
+    ],
+    [
+     34,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     600,
+     12
+    ],
+    [
+     300,
+     1
+    ]
+   ],
+   "corpo": [
+    [
+     16,
+     1626
+    ],
+    [
+     15,
+     743
+    ],
+    [
+     18,
+     325
+    ]
+   ],
+   "fontes": [
+    "Poppins"
+   ],
+   "botao": [
+    {
+     "t": "Agende Sua Sessão Agora",
+     "fs": "18px",
+     "fw": "400",
+     "pad": "22px 40px",
+     "rad": "36px 2px",
+     "tt": "none",
+     "h": 62,
+     "w": 366,
+     "ff": "Poppins"
+    }
+   ],
+   "altura": 4455
+  },
+  "mobile": {
+   "hero_title": [
+    26,
+    600,
+    "Poppins",
+    "Recupere Seu Bem-Estar Emocional com Ter"
+   ],
+   "titulos": [
+    [
+     22,
+     4
+    ],
+    [
+     24,
+     4
+    ],
+    [
+     30,
+     1
+    ],
+    [
+     39,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     600,
+     12
+    ],
+    [
+     300,
+     1
+    ]
+   ],
+   "corpo": [
+    [
+     16,
+     1588
+    ],
+    [
+     15,
+     812
+    ],
+    [
+     17,
+     143
+    ]
+   ],
+   "fontes": [
+    "Poppins",
+    "-apple-system"
+   ],
+   "botao": [
+    {
+     "t": "Agende Sua Sessão Agora",
+     "fs": "15.21px",
+     "fw": "400",
+     "pad": "22px 20px",
+     "rad": "36px 2px",
+     "tt": "none",
+     "h": 59,
+     "w": 351,
+     "ff": "Poppins"
+    }
+   ],
+   "altura": 6990
+  }
+ },
+ "psi-maria-rita-sales": {
+  "desktop": {
+   "hero_title": [
+    41,
+    400,
+    "Fraunces",
+    "Todo profissional que cuida de pessoas p"
+   ],
+   "titulos": [
+    [
+     48,
+     19
+    ],
+    [
+     30,
+     8
+    ],
+    [
+     36,
+     7
+    ],
+    [
+     34,
+     2
+    ]
+   ],
+   "peso_titulos": [
+    [
+     400,
+     30
+    ],
+    [
+     500,
+     10
+    ]
+   ],
+   "corpo": [
+    [
+     17,
+     7366
+    ],
+    [
+     16,
+     810
+    ],
+    [
+     18,
+     794
+    ]
+   ],
+   "fontes": [
+    "Karla",
+    "Fraunces"
+   ],
+   "botao": [
+    {
+     "t": "Entrar em contato",
+     "fs": "18px",
+     "fw": "600",
+     "pad": "18px 42px",
+     "rad": "202px",
+     "tt": "none",
+     "h": 57,
+     "w": 255,
+     "ff": "Karla"
+    }
+   ],
+   "altura": 19450
+  },
+  "mobile": {
+   "hero_title": [
+    28,
+    400,
+    "Fraunces",
+    "Todo profissional que cuida de pessoas p"
+   ],
+   "titulos": [
+    [
+     26,
+     20
+    ],
+    [
+     27,
+     5
+    ],
+    [
+     30,
+     5
+    ],
+    [
+     23,
+     4
+    ]
+   ],
+   "peso_titulos": [
+    [
+     400,
+     30
+    ],
+    [
+     500,
+     10
+    ]
+   ],
+   "corpo": [
+    [
+     14,
+     4289
+    ],
+    [
+     15,
+     2927
+    ],
+    [
+     16,
+     1316
+    ]
+   ],
+   "fontes": [
+    "Karla",
+    "Fraunces"
+   ],
+   "botao": [
+    {
+     "t": "Entrar em contato",
+     "fs": "16px",
+     "fw": "600",
+     "pad": "15px 18px",
+     "rad": "999px",
+     "tt": "none",
+     "h": 46,
+     "w": 278,
+     "ff": "Karla"
+    }
+   ],
+   "altura": 24812
+  }
+ },
+ "psi-renan": {
+  "desktop": {
+   "hero_title": [
+    41,
+    500,
+    "Fraunces",
+    "Quando o relacionamento mais do que , é "
+   ],
+   "titulos": [
+    [
+     42,
+     7
+    ],
+    [
+     24,
+     5
+    ],
+    [
+     23,
+     2
+    ],
+    [
+     25,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     400,
+     16
+    ],
+    [
+     800,
+     1
+    ]
+   ],
+   "corpo": [
+    [
+     17,
+     3789
+    ],
+    [
+     15,
+     2610
+    ],
+    [
+     16,
+     1966
+    ]
+   ],
+   "fontes": [
+    "Inter",
+    "Arial",
+    "Fraunces"
+   ],
+   "botao": [
+    {
+     "t": "AGENDAR SESSÃO",
+     "fs": "16px",
+     "fw": "500",
+     "pad": "15px 30px",
+     "rad": "42px",
+     "tt": "uppercase",
+     "h": 54,
+     "w": 250,
+     "ff": "Inter"
+    }
+   ],
+   "altura": 9518
+  },
+  "mobile": {
+   "hero_title": [
+    27,
+    500,
+    "Fraunces",
+    "Quando o relacionamento mais do que , é "
+   ],
+   "titulos": [
+    [
+     29,
+     5
+    ],
+    [
+     27,
+     1
+    ],
+    [
+     28,
+     1
+    ],
+    [
+     31,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     400,
+     8
+    ],
+    [
+     800,
+     1
+    ]
+   ],
+   "corpo": [
+    [
+     15,
+     4492
+    ],
+    [
+     17,
+     1712
+    ],
+    [
+     16,
+     1646
+    ]
+   ],
+   "fontes": [
+    "Inter",
+    "Arial",
+    "Fraunces"
+   ],
+   "botao": [
+    {
+     "t": "AGENDAR SESSÃO",
+     "fs": "14.82px",
+     "fw": "500",
+     "pad": "16px 24px",
+     "rad": "42px",
+     "tt": "uppercase",
+     "h": 56,
+     "w": 359,
+     "ff": "Inter"
+    }
+   ],
+   "altura": 12939
+  }
+ },
+ "psi-rosangela-munhoz-psicanalista": {
+  "desktop": {
+   "hero_title": [
+    40,
+    500,
+    "Gelasio",
+    "Um espaço de escuta para mulheres\natrave"
+   ],
+   "titulos": [
+    [
+     24,
+     5
+    ],
+    [
+     40,
+     4
+    ],
+    [
+     49,
+     1
+    ],
+    [
+     56,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     500,
+     11
+    ],
+    [
+     400,
+     1
+    ]
+   ],
+   "corpo": [
+    [
+     18,
+     1459
+    ],
+    [
+     17,
+     611
+    ],
+    [
+     20,
+     603
+    ]
+   ],
+   "fontes": [
+    "DM Sans",
+    "Gelasio",
+    "Cormorant SC"
+   ],
+   "botao": [
+    {
+     "t": "AGENDE SESSÃO",
+     "fs": "16px",
+     "fw": "500",
+     "pad": "16px 30px",
+     "rad": "252px",
+     "tt": "none",
+     "h": 48,
+     "w": 194,
+     "ff": "Gelasio"
+    }
+   ],
+   "altura": 6102
+  },
+  "mobile": {
+   "hero_title": [
+    28,
+    500,
+    "Gelasio",
+    "E cada uma traz seu\npróprio peso."
+   ],
+   "titulos": [
+    [
+     28,
+     3
+    ],
+    [
+     39,
+     1
+    ],
+    [
+     34,
+     1
+    ],
+    [
+     48,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     500,
+     5
+    ],
+    [
+     400,
+     1
+    ]
+   ],
+   "corpo": [
+    [
+     14,
+     2136
+    ],
+    [
+     17,
+     911
+    ],
+    [
+     16,
+     322
+    ]
+   ],
+   "fontes": [
+    "DM Sans",
+    "Gelasio",
+    "Cormorant SC"
+   ],
+   "botao": [
+    {
+     "t": "AGENDE SESSÃO",
+     "fs": "17.55px",
+     "fw": "500",
+     "pad": "20px 50px",
+     "rad": "252px",
+     "tt": "none",
+     "h": 58,
+     "w": 351,
+     "ff": "Gelasio"
+    }
+   ],
+   "altura": 9387
+  }
+ },
+ "psi-vivian-widuch": {
+  "desktop": {
+   "hero_title": [
+    60,
+    600,
+    "Crimson Text",
+    "de Mulheres Imigrantes e Expatriadas"
+   ],
+   "titulos": [
+    [
+     48,
+     5
+    ],
+    [
+     80,
+     4
+    ],
+    [
+     34,
+     4
+    ],
+    [
+     63,
+     4
+    ]
+   ],
+   "peso_titulos": [
+    [
+     600,
+     17
+    ],
+    [
+     300,
+     9
+    ]
+   ],
+   "corpo": [
+    [
+     18,
+     1994
+    ],
+    [
+     20,
+     1632
+    ],
+    [
+     19,
+     395
+    ]
+   ],
+   "fontes": [
+    "Inter",
+    "crimson text",
+    "Crimson Text"
+   ],
+   "botao": [
+    {
+     "t": "AGENDAR SESSÃO",
+     "fs": "18px",
+     "fw": "500",
+     "pad": "18px 38px",
+     "rad": "8px",
+     "tt": "none",
+     "h": 56,
+     "w": 241,
+     "ff": "Inter"
+    }
+   ],
+   "altura": 5753
+  },
+  "mobile": {
+   "hero_title": [
+    41,
+    600,
+    "Crimson Text",
+    "de Mulheres Imigrantes e Expatriadas"
+   ],
+   "titulos": [
+    [
+     35,
+     8
+    ],
+    [
+     25,
+     7
+    ],
+    [
+     41,
+     3
+    ],
+    [
+     50,
+     2
+    ]
+   ],
+   "peso_titulos": [
+    [
+     600,
+     17
+    ],
+    [
+     300,
+     6
+    ]
+   ],
+   "corpo": [
+    [
+     18,
+     3412
+    ],
+    [
+     17,
+     530
+    ],
+    [
+     21,
+     166
+    ]
+   ],
+   "fontes": [
+    "Inter",
+    "crimson text",
+    "Crimson Text"
+   ],
+   "botao": [
+    {
+     "t": "AGENDAR SESSÃO",
+     "fs": "18px",
+     "fw": "500",
+     "pad": "18px 38px",
+     "rad": "8px",
+     "tt": "none",
+     "h": 56,
+     "w": 271,
+     "ff": "Inter"
+    }
+   ],
+   "altura": 7173
+  }
+ },
+ "saude-cecilia-borges-cirurgia-plastica": {
+  "desktop": {
+   "hero_title": [
+    48,
+    600,
+    "Poppins",
+    "Ressignificar vidas. Lapidar histórias."
+   ],
+   "titulos": [
+    [
+     22,
+     6
+    ],
+    [
+     41,
+     4
+    ],
+    [
+     23,
+     3
+    ],
+    [
+     43,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     600,
+     6
+    ],
+    [
+     500,
+     6
+    ]
+   ],
+   "corpo": [
+    [
+     18,
+     858
+    ],
+    [
+     16,
+     822
+    ],
+    [
+     13,
+     76
+    ]
+   ],
+   "fontes": [
+    "Poppins",
+    "Sora"
+   ],
+   "botao": [
+    {
+     "t": "Agende sua avaliação",
+     "fs": "18px",
+     "fw": "500",
+     "pad": "25px 66px 25px 35px",
+     "rad": "400px",
+     "tt": "none",
+     "h": 74,
+     "w": 300,
+     "ff": "Poppins"
+    }
+   ],
+   "altura": 5513
+  },
+  "mobile": {
+   "hero_title": [
+    35,
+    600,
+    "Poppins",
+    "Ressignificar vidas. Lapidar histórias."
+   ],
+   "titulos": [
+    [
+     22,
+     6
+    ],
+    [
+     35,
+     5
+    ],
+    [
+     27,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     600,
+     6
+    ],
+    [
+     500,
+     6
+    ]
+   ],
+   "corpo": [
+    [
+     18,
+     958
+    ],
+    [
+     16,
+     822
+    ],
+    [
+     13,
+     374
+    ]
+   ],
+   "fontes": [
+    "Poppins",
+    "Sora"
+   ],
+   "botao": [
+    {
+     "t": "Agende sua avaliação",
+     "fs": "18px",
+     "fw": "500",
+     "pad": "25px 66px 25px 35px",
+     "rad": "400px",
+     "tt": "none",
+     "h": 74,
+     "w": 351,
+     "ff": "Poppins"
+    }
+   ],
+   "altura": 7548
+  }
+ },
+ "saude-luciano-grisotto-mastopexia": {
+  "desktop": {
+   "hero_title": [
+    43,
+    400,
+    "Inter",
+    "Recupere a leveza, o formato e a beleza "
+   ],
+   "titulos": [
+    [
+     24,
+     10
+    ],
+    [
+     22,
+     6
+    ],
+    [
+     43,
+     4
+    ],
+    [
+     44,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     400,
+     15
+    ],
+    [
+     500,
+     6
+    ]
+   ],
+   "corpo": [
+    [
+     21,
+     1310
+    ],
+    [
+     20,
+     361
+    ],
+    [
+     16,
+     91
+    ]
+   ],
+   "fontes": [
+    "Inter",
+    "Sora"
+   ],
+   "botao": [
+    {
+     "t": "Agendar avaliação personalizada",
+     "fs": "22px",
+     "fw": "400",
+     "pad": "20px 50px",
+     "rad": "14px",
+     "tt": "none",
+     "h": 68,
+     "w": 416,
+     "ff": "Inter"
+    }
+   ],
+   "altura": 6751
+  },
+  "mobile": {
+   "hero_title": [
+    28,
+    400,
+    "Inter",
+    "Recupere a leveza, o formato e a beleza "
+   ],
+   "titulos": [
+    [
+     24,
+     6
+    ],
+    [
+     35,
+     2
+    ],
+    [
+     28,
+     2
+    ],
+    [
+     34,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     400,
+     8
+    ],
+    [
+     500,
+     6
+    ]
+   ],
+   "corpo": [
+    [
+     18,
+     733
+    ],
+    [
+     20,
+     715
+    ],
+    [
+     17,
+     664
+    ]
+   ],
+   "fontes": [
+    "Inter",
+    "Sora"
+   ],
+   "botao": [
+    {
+     "t": "Agendar avaliação personalizada",
+     "fs": "20.28px",
+     "fw": "400",
+     "pad": "20px 0px",
+     "rad": "14px",
+     "tt": "none",
+     "h": 66,
+     "w": 351,
+     "ff": "Inter"
+    }
+   ],
+   "altura": 8837
+  }
+ },
+ "saude-luciano-grisotto-mommy-makeover": {
+  "desktop": {
+   "hero_title": [
+    43,
+    400,
+    "Inter",
+    "Recupere seu contorno corporal com natur"
+   ],
+   "titulos": [
+    [
+     22,
+     6
+    ],
+    [
+     43,
+     4
+    ],
+    [
+     24,
+     3
+    ],
+    [
+     41,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     400,
+     14
+    ],
+    [
+     300,
+     3
+    ]
+   ],
+   "corpo": [
+    [
+     21,
+     1504
+    ],
+    [
+     20,
+     449
+    ],
+    [
+     16,
+     91
+    ]
+   ],
+   "fontes": [
+    "Inter",
+    "Sora"
+   ],
+   "botao": [
+    {
+     "t": "Agendar avaliação personalizada",
+     "fs": "22px",
+     "fw": "400",
+     "pad": "20px 50px",
+     "rad": "14px",
+     "tt": "none",
+     "h": 68,
+     "w": 416,
+     "ff": "Inter"
+    }
+   ],
+   "altura": 6062
+  },
+  "mobile": {
+   "hero_title": [
+    28,
+    400,
+    "Inter",
+    "Recupere seu contorno corporal com natur"
+   ],
+   "titulos": [
+    [
+     32,
+     2
+    ],
+    [
+     28,
+     2
+    ],
+    [
+     27,
+     1
+    ],
+    [
+     24,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     400,
+     7
+    ],
+    [
+     300,
+     1
+    ]
+   ],
+   "corpo": [
+    [
+     20,
+     766
+    ],
+    [
+     18,
+     738
+    ],
+    [
+     17,
+     664
+    ]
+   ],
+   "fontes": [
+    "Inter",
+    "Sora"
+   ],
+   "botao": [
+    {
+     "t": "Agendar avaliação personalizada",
+     "fs": "20.28px",
+     "fw": "400",
+     "pad": "20px 0px",
+     "rad": "14px",
+     "tt": "none",
+     "h": 66,
+     "w": 351,
+     "ff": "Inter"
+    }
+   ],
+   "altura": 7475
+  }
+ },
+ "saude-pedro-camargo-psiquiatra": {
+  "desktop": {
+   "hero_title": [
+    35,
+    500,
+    "Georgia",
+    "Psiquiatria baseada em evidências para u"
+   ],
+   "titulos": [
+    [
+     22,
+     10
+    ],
+    [
+     24,
+     4
+    ],
+    [
+     38,
+     3
+    ],
+    [
+     42,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     500,
+     16
+    ],
+    [
+     400,
+     4
+    ]
+   ],
+   "corpo": [
+    [
+     16,
+     1990
+    ],
+    [
+     18,
+     323
+    ],
+    [
+     13,
+     76
+    ]
+   ],
+   "fontes": [
+    "Inter",
+    "Georgia",
+    "Sora"
+   ],
+   "botao": [
+    {
+     "t": "Entrar em contato",
+     "fs": "16px",
+     "fw": "400",
+     "pad": "18px",
+     "rad": "12px",
+     "tt": "none",
+     "h": 52,
+     "w": 171,
+     "ff": "Inter"
+    }
+   ],
+   "altura": 5195
+  },
+  "mobile": {
+   "hero_title": [
+    23,
+    500,
+    "Georgia",
+    "Psiquiatria baseada em evidências para u"
+   ],
+   "titulos": [
+    [
+     22,
+     10
+    ],
+    [
+     31,
+     3
+    ],
+    [
+     35,
+     2
+    ],
+    [
+     30,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     500,
+     16
+    ]
+   ],
+   "corpo": [
+    [
+     16,
+     2059
+    ],
+    [
+     14,
+     178
+    ],
+    [
+     19,
+     144
+    ]
+   ],
+   "fontes": [
+    "Inter",
+    "Georgia",
+    "Sora"
+   ],
+   "botao": [
+    {
+     "t": "Agende sua consulta agora",
+     "fs": "16.38px",
+     "fw": "500",
+     "pad": "24px",
+     "rad": "12px",
+     "tt": "none",
+     "h": 64,
+     "w": 351,
+     "ff": "Inter"
+    }
+   ],
+   "altura": 6198
+  }
+ },
+ "servico-goncont-contador": {
+  "desktop": {
+   "hero_title": [
+    33,
+    600,
+    "Inter",
+    "Reduza sua carga tributária de forma leg"
+   ],
+   "titulos": [
+    [
+     22,
+     11
+    ],
+    [
+     33,
+     5
+    ],
+    [
+     23,
+     1
+    ],
+    [
+     61,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     600,
+     17
+    ],
+    [
+     300,
+     2
+    ]
+   ],
+   "corpo": [
+    [
+     20,
+     1827
+    ],
+    [
+     18,
+     1651
+    ],
+    [
+     16,
+     885
+    ]
+   ],
+   "fontes": [
+    "Inter",
+    "Montserrat"
+   ],
+   "botao": [
+    {
+     "t": "Solicitar análise tributária gratuita",
+     "fs": "20px",
+     "fw": "500",
+     "pad": "20px 38px",
+     "rad": "12px",
+     "tt": "none",
+     "h": 66,
+     "w": 382,
+     "ff": "Inter"
+    }
+   ],
+   "altura": 6660
+  },
+  "mobile": {
+   "hero_title": [
+    25,
+    600,
+    "Inter",
+    "Soluções contábeis estratégicas para pro"
+   ],
+   "titulos": [
+    [
+     22,
+     2
+    ],
+    [
+     25,
+     1
+    ],
+    [
+     24,
+     1
+    ],
+    [
+     39,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     600,
+     8
+    ]
+   ],
+   "corpo": [
+    [
+     20,
+     1566
+    ],
+    [
+     16,
+     1053
+    ],
+    [
+     18,
+     1025
+    ]
+   ],
+   "fontes": [
+    "Inter",
+    "Montserrat"
+   ],
+   "botao": [
+    {
+     "t": "Solicitar análise tributária gratuita",
+     "fs": "17.94px",
+     "fw": "500",
+     "pad": "18px 10px",
+     "rad": "12px",
+     "tt": "none",
+     "h": 59,
+     "w": 351,
+     "ff": "Inter"
+    }
+   ],
+   "altura": 12449
+  }
+ },
+ "servico-rp-vision-marketing": {
+  "desktop": {
+   "hero_title": [
+    40,
+    600,
+    "Inter",
+    "Tenha um fluxo constante de clientes pro"
+   ],
+   "titulos": [
+    [
+     40,
+     12
+    ],
+    [
+     22,
+     6
+    ],
+    [
+     25,
+     5
+    ],
+    [
+     36,
+     2
+    ]
+   ],
+   "peso_titulos": [
+    [
+     600,
+     29
+    ]
+   ],
+   "corpo": [
+    [
+     20,
+     1764
+    ],
+    [
+     15,
+     776
+    ],
+    [
+     16,
+     433
+    ]
+   ],
+   "fontes": [
+    "Inter"
+   ],
+   "botao": [
+    {
+     "t": "Fazer aplicação em menos 2 minutos",
+     "fs": "20px",
+     "fw": "500",
+     "pad": "20px 40px",
+     "rad": "9px",
+     "tt": "none",
+     "h": 64,
+     "w": 411,
+     "ff": "Inter"
+    }
+   ],
+   "altura": 8412
+  },
+  "mobile": {
+   "hero_title": [
+    27,
+    600,
+    "Inter",
+    "Confira os de alguns de nossos clientes"
+   ],
+   "titulos": [
+    [
+     22,
+     11
+    ],
+    [
+     25,
+     5
+    ],
+    [
+     29,
+     4
+    ],
+    [
+     32,
+     4
+    ]
+   ],
+   "peso_titulos": [
+    [
+     600,
+     34
+    ]
+   ],
+   "corpo": [
+    [
+     16,
+     1671
+    ],
+    [
+     15,
+     694
+    ],
+    [
+     20,
+     438
+    ]
+   ],
+   "fontes": [
+    "Inter"
+   ],
+   "botao": [
+    {
+     "t": "Fazer aplicação em menos 2 minutos",
+     "fs": "18.72px",
+     "fw": "500",
+     "pad": "20px 0px",
+     "rad": "9px",
+     "tt": "none",
+     "h": 62,
+     "w": 351,
+     "ff": "Inter"
+    }
+   ],
+   "altura": 9665
+  }
+ },
+ "vendas-mentoria-bancario-jessica": {
+  "desktop": {
+   "hero_title": [
+    27,
+    600,
+    "Manrope",
+    "dentro da agência sem parecer que está e"
+   ],
+   "titulos": [
+    [
+     34,
+     10
+    ],
+    [
+     22,
+     6
+    ],
+    [
+     29,
+     4
+    ],
+    [
+     30,
+     2
+    ]
+   ],
+   "peso_titulos": [
+    [
+     500,
+     17
+    ],
+    [
+     600,
+     10
+    ]
+   ],
+   "corpo": [
+    [
+     18,
+     2219
+    ],
+    [
+     16,
+     2106
+    ],
+    [
+     20,
+     1134
+    ]
+   ],
+   "fontes": [
+    "Manrope",
+    "Sora"
+   ],
+   "botao": [
+    {
+     "t": "QUERO BATER AS METAS",
+     "fs": "20px",
+     "fw": "500",
+     "pad": "18px 32px",
+     "rad": "12px",
+     "tt": "uppercase",
+     "h": 56,
+     "w": 328,
+     "ff": "Manrope"
+    }
+   ],
+   "altura": 10748
+  },
+  "mobile": {
+   "hero_title": [
+    18,
+    600,
+    "Manrope",
+    "dentro da agência sem parecer que está e"
+   ],
+   "titulos": [
+    [
+     23,
+     7
+    ],
+    [
+     24,
+     2
+    ],
+    [
+     25,
+     2
+    ],
+    [
+     29,
+     2
+    ]
+   ],
+   "peso_titulos": [
+    [
+     500,
+     7
+    ],
+    [
+     600,
+     7
+    ]
+   ],
+   "corpo": [
+    [
+     16,
+     3287
+    ],
+    [
+     15,
+     1283
+    ],
+    [
+     14,
+     942
+    ]
+   ],
+   "fontes": [
+    "Manrope",
+    "Sora"
+   ],
+   "botao": [
+    {
+     "t": "QUERO BATER AS METAS",
+     "fs": "16.77px",
+     "fw": "500",
+     "pad": "18px 32px",
+     "rad": "12px",
+     "tt": "uppercase",
+     "h": 53,
+     "w": 351,
+     "ff": "Manrope"
+    }
+   ],
+   "altura": 13578
+  }
+ },
+ "vendas-morelli-churrasco-networking": {
+  "desktop": {
+   "hero_title": [
+    54,
+    500,
+    "Anton",
+    "VOCÊ NA MESA COM AS"
+   ],
+   "titulos": [
+    [
+     62,
+     8
+    ],
+    [
+     59,
+     5
+    ],
+    [
+     28,
+     4
+    ],
+    [
+     35,
+     3
+    ]
+   ],
+   "peso_titulos": [
+    [
+     500,
+     26
+    ],
+    [
+     400,
+     3
+    ]
+   ],
+   "corpo": [
+    [
+     16,
+     1187
+    ],
+    [
+     17,
+     605
+    ],
+    [
+     18,
+     396
+    ]
+   ],
+   "fontes": [
+    "Inter",
+    "Roboto",
+    "Anton"
+   ],
+   "botao": [
+    {
+     "t": "GARANTIR MINHA VAGA — LOTE 1",
+     "fs": "18px",
+     "fw": "700",
+     "pad": "14px 30px",
+     "rad": "6px",
+     "tt": "uppercase",
+     "h": 51,
+     "w": 372,
+     "ff": "Inter"
+    }
+   ],
+   "altura": 7400
+  },
+  "mobile": {
+   "hero_title": [
+    32,
+    500,
+    "Anton",
+    "VOCÊ NA MESA COM AS"
+   ],
+   "titulos": [
+    [
+     30,
+     4
+    ],
+    [
+     35,
+     4
+    ],
+    [
+     32,
+     2
+    ],
+    [
+     34,
+     2
+    ]
+   ],
+   "peso_titulos": [
+    [
+     500,
+     13
+    ],
+    [
+     600,
+     1
+    ]
+   ],
+   "corpo": [
+    [
+     16,
+     1023
+    ],
+    [
+     14,
+     908
+    ],
+    [
+     15,
+     687
+    ]
+   ],
+   "fontes": [
+    "Inter",
+    "Roboto",
+    "Anton"
+   ],
+   "botao": [
+    {
+     "t": "GARANTIR MINHA VAGA — LOTE 1",
+     "fs": "16.38px",
+     "fw": "700",
+     "pad": "15px 0px",
+     "rad": "6px",
+     "tt": "uppercase",
+     "h": 53,
+     "w": 351,
+     "ff": "Inter"
+    }
+   ],
+   "altura": 9410
+  }
+ },
+ "vendas-odonto-luiz-gustavo-melo": {
+  "desktop": {
+   "hero_title": [
+    39,
+    400,
+    "Sora",
+    "mesmo nos casos mais desafiadores"
+   ],
+   "titulos": [
+    [
+     45,
+     9
+    ],
+    [
+     39,
+     4
+    ],
+    [
+     28,
+     3
+    ],
+    [
+     58,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     400,
+     20
+    ],
+    [
+     700,
+     2
+    ]
+   ],
+   "corpo": [
+    [
+     16,
+     1756
+    ],
+    [
+     18,
+     1750
+    ],
+    [
+     20,
+     947
+    ]
+   ],
+   "fontes": [
+    "Sora",
+    "Roboto"
+   ],
+   "botao": [
+    {
+     "t": "QUERO PARTICIPAR DA FORMAÇÃO",
+     "fs": "20px",
+     "fw": "700",
+     "pad": "22px 42px",
+     "rad": "15px",
+     "tt": "uppercase",
+     "h": 68,
+     "w": 394,
+     "ff": "Roboto"
+    }
+   ],
+   "altura": 7461
+  },
+  "mobile": {
+   "hero_title": [
+    26,
+    400,
+    "Sora",
+    "mesmo nos casos mais desafiadores"
+   ],
+   "titulos": [
+    [
+     34,
+     3
+    ],
+    [
+     30,
+     3
+    ],
+    [
+     28,
+     2
+    ],
+    [
+     25,
+     2
+    ]
+   ],
+   "peso_titulos": [
+    [
+     400,
+     16
+    ],
+    [
+     700,
+     1
+    ]
+   ],
+   "corpo": [
+    [
+     16,
+     1940
+    ],
+    [
+     14,
+     1161
+    ],
+    [
+     15,
+     581
+    ]
+   ],
+   "fontes": [
+    "Sora",
+    "Roboto"
+   ],
+   "botao": [
+    {
+     "t": "QUERO PARTICIPAR DA FORMAÇÃO",
+     "fs": "17.94px",
+     "fw": "700",
+     "pad": "20px 0px",
+     "rad": "15px",
+     "tt": "uppercase",
+     "h": 62,
+     "w": 351,
+     "ff": "Roboto"
+    }
+   ],
+   "altura": 9893
+  }
+ },
+ "vendas-scripts-consignado-jessica": {
+  "desktop": {
+   "hero_title": [
+    49,
+    700,
+    "Inter",
+    "Receba mais de prontos para vender"
+   ],
+   "titulos": [
+    [
+     39,
+     20
+    ],
+    [
+     22,
+     4
+    ],
+    [
+     31,
+     2
+    ],
+    [
+     43,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     500,
+     21
+    ],
+    [
+     700,
+     5
+    ]
+   ],
+   "corpo": [
+    [
+     17,
+     2306
+    ],
+    [
+     16,
+     1159
+    ],
+    [
+     20,
+     330
+    ]
+   ],
+   "fontes": [
+    "Inter",
+    "Nunito Sans",
+    "Roboto"
+   ],
+   "botao": [
+    {
+     "t": "QUERO TER ACESSO AGORA",
+     "fs": "20px",
+     "fw": "600",
+     "pad": "26px 42px",
+     "rad": "104px",
+     "tt": "uppercase",
+     "h": 72,
+     "w": 351,
+     "ff": "Inter"
+    }
+   ],
+   "altura": 9862
+  },
+  "mobile": {
+   "hero_title": [
+    28,
+    700,
+    "Inter",
+    "Receba mais de prontos para vender"
+   ],
+   "titulos": [
+    [
+     28,
+     12
+    ],
+    [
+     22,
+     4
+    ],
+    [
+     25,
+     3
+    ],
+    [
+     35,
+     2
+    ]
+   ],
+   "peso_titulos": [
+    [
+     500,
+     21
+    ],
+    [
+     800,
+     1
+    ]
+   ],
+   "corpo": [
+    [
+     14,
+     1767
+    ],
+    [
+     16,
+     1172
+    ],
+    [
+     15,
+     1038
+    ]
+   ],
+   "fontes": [
+    "Inter",
+    "Nunito Sans",
+    "Roboto"
+   ],
+   "botao": [
+    {
+     "t": "QUERO TER ACESSO AGORA",
+     "fs": "15.6px",
+     "fw": "600",
+     "pad": "26px 42px",
+     "rad": "104px",
+     "tt": "uppercase",
+     "h": 68,
+     "w": 350,
+     "ff": "Inter"
+    }
+   ],
+   "altura": 9799
+  }
+ },
+ "vendas-templates-arquiteto-jardel": {
+  "desktop": {
+   "hero_title": [
+    29,
+    600,
+    "Manrope",
+    "Enquanto você começa do zero, outros arq"
+   ],
+   "titulos": [
+    [
+     29,
+     11
+    ],
+    [
+     22,
+     4
+    ],
+    [
+     23,
+     3
+    ],
+    [
+     35,
+     2
+    ]
+   ],
+   "peso_titulos": [
+    [
+     600,
+     21
+    ],
+    [
+     400,
+     5
+    ]
+   ],
+   "corpo": [
+    [
+     16,
+     1739
+    ],
+    [
+     17,
+     860
+    ],
+    [
+     15,
+     624
+    ]
+   ],
+   "fontes": [
+    "Manrope",
+    "Nunito Sans",
+    "Inter"
+   ],
+   "botao": [
+    {
+     "t": "QUERO MEU TEMPLATE PROFISSIONAL",
+     "fs": "18px",
+     "fw": "500",
+     "pad": "20px 30px",
+     "rad": "122px",
+     "tt": "uppercase",
+     "h": 58,
+     "w": 382,
+     "ff": "Manrope"
+    }
+   ],
+   "altura": 9883
+  },
+  "mobile": {
+   "hero_title": [
+    20,
+    600,
+    "Manrope",
+    "Enquanto você começa do zero, outros arq"
+   ],
+   "titulos": [
+    [
+     27,
+     9
+    ],
+    [
+     22,
+     2
+    ],
+    [
+     33,
+     2
+    ],
+    [
+     26,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     600,
+     14
+    ],
+    [
+     700,
+     2
+    ]
+   ],
+   "corpo": [
+    [
+     14,
+     2194
+    ],
+    [
+     15,
+     1678
+    ],
+    [
+     20,
+     299
+    ]
+   ],
+   "fontes": [
+    "Manrope",
+    "Nunito Sans",
+    "Inter"
+   ],
+   "botao": [
+    {
+     "t": "QUERO MEU TEMPLATE PROFISSIONAL",
+     "fs": "15.6px",
+     "fw": "500",
+     "pad": "25px 0px",
+     "rad": "122px",
+     "tt": "uppercase",
+     "h": 66,
+     "w": 351,
+     "ff": "Manrope"
+    }
+   ],
+   "altura": 10807
+  }
+ },
+ "vendas-workshop-barbearia-toledo": {
+  "desktop": {
+   "hero_title": [
+    45,
+    500,
+    "Sora",
+    "Sua barbearia não aumenta o faturamento "
+   ],
+   "titulos": [
+    [
+     45,
+     9
+    ],
+    [
+     27,
+     3
+    ],
+    [
+     28,
+     2
+    ],
+    [
+     36,
+     2
+    ]
+   ],
+   "peso_titulos": [
+    [
+     500,
+     12
+    ],
+    [
+     700,
+     5
+    ]
+   ],
+   "corpo": [
+    [
+     16,
+     1751
+    ],
+    [
+     18,
+     1573
+    ],
+    [
+     20,
+     291
+    ]
+   ],
+   "fontes": [
+    "Sora",
+    "Inter",
+    "Roboto"
+   ],
+   "botao": [
+    {
+     "t": "QUERO GARANTIR MEU INGRESSO",
+     "fs": "16px",
+     "fw": "700",
+     "pad": "18px 32px",
+     "rad": "10px",
+     "tt": "none",
+     "h": 57,
+     "w": 363,
+     "ff": "Sora"
+    }
+   ],
+   "altura": 7644
+  },
+  "mobile": {
+   "hero_title": [
+    27,
+    500,
+    "Sora",
+    "Sua barbearia não aumenta o faturamento "
+   ],
+   "titulos": [
+    [
+     27,
+     8
+    ],
+    [
+     30,
+     3
+    ],
+    [
+     23,
+     2
+    ],
+    [
+     25,
+     1
+    ]
+   ],
+   "peso_titulos": [
+    [
+     500,
+     11
+    ],
+    [
+     700,
+     3
+    ]
+   ],
+   "corpo": [
+    [
+     16,
+     3226
+    ],
+    [
+     12,
+     496
+    ],
+    [
+     18,
+     198
+    ]
+   ],
+   "fontes": [
+    "Sora",
+    "Inter",
+    "Roboto"
+   ],
+   "botao": [
+    {
+     "t": "QUERO GARANTIR MEU INGRESSO",
+     "fs": "15.6px",
+     "fw": "700",
+     "pad": "16px 22px",
+     "rad": "10px",
+     "tt": "none",
+     "h": 53,
+     "w": 351,
+     "ff": "Sora"
+    }
+   ],
+   "altura": 9612
+  }
+ }
+}

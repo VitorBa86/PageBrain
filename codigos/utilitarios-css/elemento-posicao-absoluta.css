@@ -1,0 +1,14 @@
+/*
+  SNIPPET: Elemento solto (posição absoluta)
+  CATEGORIA: utilitarios-css
+  O QUE FAZ: Tira o widget do fluxo para sobrepor decorações, selos e imagens. É o CSS custom mais comum depois do CSS base (24 páginas).
+  COMO USAR: Cole no CSS personalizado do widget. O container pai deve ter position: relative. Posicione com top/left/right/bottom.
+  ONDE COLAR: CSS personalizado do widget
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: 24 páginas
+  USADO EM: 27 página(s) da casa: adv-gustavo-kehl, adv-souza-santos, imob-construtora-vitta, imob-the-palace, imob-vega-costa-e-silva, imob-vistoria-alphaville, info-carol-guglielmi-imagem-pessoal, negocio-bar-santa-boemia, negocio-entre-para-trip, negocio-hoffen-sports, negocio-inter-frios-refrigeracao, odonto-invisalign-jv-clinica, odonto-rubiane-vitali, psi-julia-valdetaro, psi-maria-rita-sales, psi-renan, psi-vivian-widuch, saude-luciano-grisotto-mastopexia, saude-luciano-grisotto-mommy-makeover, saude-pedro-camargo-psiquiatra, servico-goncont-contador, servico-rp-vision-marketing, vendas-mentoria-bancario-jessica, vendas-morelli-churrasco-networking, vendas-scripts-consignado-jessica, vendas-templates-arquiteto-jardel, vendas-workshop-barbearia-toledo
+*/
+
+selector{
+    position: absolute;
+}

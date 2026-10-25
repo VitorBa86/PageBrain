@@ -1,0 +1,17 @@
+/*
+  SNIPPET: Carrossel de imagens/logos em movimento contínuo
+  CATEGORIA: faixas-e-carrosseis
+  O QUE FAZ: Faz o Carrossel de Imagens do Elementor andar sem pausa e sem aceleração (efeito esteira). Configure autoplay com velocidade alta (ex.: 5000ms) e intervalo 0.
+  COMO USAR: Cole no CSS personalizado do widget Carrossel de Imagens.
+  ONDE COLAR: CSS personalizado do widget Carrossel de Imagens
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: 7 páginas (ex.: saude-luciano-grisotto-mastopexia)
+  USADO EM: 7 página(s) da casa: negocio-inter-frios-refrigeracao, saude-cecilia-borges-cirurgia-plastica, saude-luciano-grisotto-mastopexia, saude-luciano-grisotto-mommy-makeover, vendas-mentoria-bancario-jessica, vendas-morelli-churrasco-networking, vendas-scripts-consignado-jessica
+*/
+
+selector .swiper-wrapper {
+      -webkit-transition-timing-function: linear !important;
+      -moz-transition-timing-function: linear !important;
+      -o-transition-timing-function: linear !important;
+      transition-timing-function: linear !important; 
+}

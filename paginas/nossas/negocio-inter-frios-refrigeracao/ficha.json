@@ -1,0 +1,283 @@
+{
+ "nome": "PÁGINA INTER FRIOS",
+ "slug": "negocio-inter-frios-refrigeracao",
+ "pasta_original": "LP Interfrios",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://lp.oreidalanding.com.br/pagina-inter-frios/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Negócio local / B2B",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#FFFFFF",
+   "#F4F6F8",
+   "#05233C",
+   "#0065A9"
+  ],
+  "textos": [
+   "#05233C",
+   "#FFFFFF",
+   "#4FA3DA",
+   "#0065A9"
+  ],
+  "destaques": [
+   "#05233C",
+   "#0065A9",
+   "#4FA3DA"
+  ],
+  "gradientes": [
+   "linear-gradient(160deg, rgb(5, 35, 60) 0%, rgb(18, 59, 94) 100%)",
+   "linear-gradient(298deg, rgba(255, 255, 255, 0.06) 0%, rgba(79, 163, 218, 0.3) 100%)",
+   "linear-gradient(rgb(6, 35, 58) 0%, rgb(4, 27, 46) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Inter",
+   "uso_pct": 68
+  },
+  {
+   "familia": "Space Grotesk",
+   "uso_pct": 26
+  },
+  {
+   "familia": "Roboto",
+   "uso_pct": 5
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  52,
+  46,
+  42,
+  36,
+  34,
+  31,
+  26,
+  21,
+  20
+ ],
+ "escala_tipografica_mobile_px": [
+  26,
+  22,
+  21,
+  20,
+  19,
+  18,
+  18,
+  16
+ ],
+ "h1_mobile": "24.96px",
+ "botao_principal": {
+  "fundo": "#00000000",
+  "gradiente": "linear-gradient(148deg, rgb(0, 101, 169) 0%, rgb(0, 81, 136) 100%)",
+  "texto": "#FFFFFF",
+  "raio": "999px",
+  "padding": "10px 10px",
+  "fonte": "Inter",
+  "tamanho": "16px",
+  "peso": "600",
+  "caixa": "none",
+  "exemplos": [
+   "Solicitar avaliação técnica"
+  ]
+ },
+ "raios": [
+  "999px",
+  "8px",
+  "6px",
+  "10px",
+  "24px",
+  "18px"
+ ],
+ "sombras": [
+  "rgba(5, 35, 60, 0.07) 0px 8px 28px 0px",
+  "rgba(5, 35, 60, 0.1) 0px 18px 40px 0px",
+  "rgba(5, 35, 60, 0.4) 0px 12px 32px -18px",
+  "rgba(5, 35, 60, 0.14) -14px 0px 40px 0px"
+ ],
+ "gaps": [
+  "20px",
+  "12px",
+  "14px",
+  "30px",
+  "10px",
+  "11px"
+ ],
+ "largura_conteudo_px": 1140,
+ "altura_pagina_px": 12697,
+ "secoes_qtde": 13,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "menu",
+   "titulo": "Refrigeração comercial para empresas que não podem parar.",
+   "fundo": "transparente",
+   "altura_px": 873
+  },
+  {
+   "ordem": 2,
+   "tipo": "hero",
+   "titulo": "Refrigeração comercial + Supervisório",
+   "fundo": "gradiente",
+   "altura_px": 116
+  },
+  {
+   "ordem": 3,
+   "tipo": "servicos",
+   "titulo": "",
+   "fundo": "#FFFFFF",
+   "altura_px": 256
+  },
+  {
+   "ordem": 4,
+   "tipo": "numeros",
+   "titulo": "PROBLEMAS QUE VOCÊ PODE TER",
+   "fundo": "#F4F6F8",
+   "altura_px": 1593
+  },
+  {
+   "ordem": 5,
+   "tipo": "dor",
+   "titulo": "COMO FUNCIONA O SUPERVISÓRIO",
+   "fundo": "#05233C",
+   "altura_px": 1392
+  },
+  {
+   "ordem": 6,
+   "tipo": "solucao",
+   "titulo": "SERVIÇOS",
+   "fundo": "#FFFFFF",
+   "altura_px": 2108
+  },
+  {
+   "ordem": 7,
+   "tipo": "servicos",
+   "titulo": "DIFERENCIAIS",
+   "fundo": "#F4F6F8",
+   "altura_px": 1309
+  },
+  {
+   "ordem": 8,
+   "tipo": "diferenciais",
+   "titulo": "QUEM SOMOS",
+   "fundo": "#FFFFFF",
+   "altura_px": 888
+  },
+  {
+   "ordem": 9,
+   "tipo": "sobre",
+   "titulo": "ETAPAS PARA CONTRATAÇÃO",
+   "fundo": "#F4F6F8",
+   "altura_px": 658
+  },
+  {
+   "ordem": 10,
+   "tipo": "como-funciona",
+   "titulo": "EMPRESAS",
+   "fundo": "#FFFFFF",
+   "altura_px": 575
+  },
+  {
+   "ordem": 11,
+   "tipo": "logos",
+   "titulo": "AVALIAÇÃO TÉCNICA",
+   "fundo": "#F4F6F8",
+   "altura_px": 1848
+  },
+  {
+   "ordem": 12,
+   "tipo": "formulario",
+   "titulo": "A Interfrio.SP combina monitoramento e capacidade técnica para ajudar sua empres",
+   "fundo": "gradiente",
+   "altura_px": 371
+  },
+  {
+   "ordem": 13,
+   "tipo": "faq",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 711
+  }
+ ],
+ "tipos_de_secao": [
+  "menu",
+  "hero",
+  "servicos",
+  "numeros",
+  "dor",
+  "solucao",
+  "servicos",
+  "diferenciais",
+  "sobre",
+  "como-funciona",
+  "logos",
+  "formulario",
+  "faq",
+  "cta-final",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "claro",
+  "azul-marinho",
+  "azul",
+  "b2b",
+  "tecnico"
+ ],
+ "tecnicas": [
+  "Snippets menu-pilula-flutuante-interfrios e rodape-card-inset-interfrios",
+  "Palavra destacada em azul no H2",
+  "Carrossel linear de logos de clientes"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "brilho",
+   "fadeIn"
+  ],
+  "entrada_elementor": [
+   "fadeIn"
+  ],
+  "classes_scroll": [
+   "scroll-bottom",
+   "scroll-left",
+   "scroll-right",
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "google-ads",
+  "happy-addons",
+  "jquery",
+  "lenis",
+  "lottie",
+  "meta-pixel",
+  "swiper"
+ ],
+ "snippets_usados": [
+  "botoes/botao-brilho-passando.css",
+  "animacoes/animacao-scroll-reveal.html",
+  "animacoes/animacao-scroll-reveal-blur.css",
+  "cards-e-bordas/hover-escala.css",
+  "faixas-e-carrosseis/carrossel-linear-continuo.css",
+  "faixas-e-carrosseis/carrossel-imagem-largura.css",
+  "menus-e-headers/menu-pilula-flutuante-interfrios.html",
+  "rodapes/rodape-card-inset-interfrios.html",
+  "whatsapp-e-flutuantes/link-whatsapp-com-mensagem.html",
+  "tracking-e-pixels/meta-pixel.html",
+  "tracking-e-pixels/google-ads-gtag.html",
+  "utilitarios-css/css-base-toda-pagina.css",
+  "utilitarios-css/botao-icone-tamanho.css",
+  "utilitarios-css/elemento-posicao-absoluta.css"
+ ],
+ "relevancia": 5,
+ "resumo": "B2B de refrigeração comercial, um dos melhores exemplos de página técnica da casa. Hero com dois CTAs, atalhos de serviço, números grandes, cards de dor com foto, diagrama do supervisório, cards de serviço com imagem e diferenciais numerados 01 a 06 em contorno.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/negocio-inter-frios-refrigeracao.md",
+  "json_elementor": null
+ }
+}

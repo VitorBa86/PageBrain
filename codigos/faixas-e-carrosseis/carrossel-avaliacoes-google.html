@@ -1,0 +1,524 @@
+<!--
+  SNIPPET: Carrossel de avaliações do Google
+  CATEGORIA: faixas-e-carrosseis
+  O QUE FAZ: Bloco com nota geral à esquerda e cards de avaliações rolando à direita, no visual do Google.
+  COMO USAR: Cole em um widget HTML e edite nomes, textos e nota direto no HTML. Remova as tags meta/title do início se quiser (são sobras do arquivo de teste).
+  ONDE COLAR: Widget HTML
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: paginas/nossas/psi-renan
+  USADO EM: 1 página(s) da casa: psi-renan
+-->
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Carrossel de Avaliações Google</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    background:#fff;
+  }
+
+  .reviews-widget {
+    max-width: 1240px;
+    margin: 0 auto;
+    background: transparent;
+    border-radius: 12px;
+    padding: 40px 32px;
+    display: flex;
+    align-items: center;
+    gap: 40px;
+  }
+
+  /* ---- Left summary panel ---- */
+  .summary {
+    flex: 0 0 260px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .summary .badge {
+    font-size: 28px;
+    font-weight: 800;
+    color: #1a1a1a;
+    letter-spacing: 0.5px;
+    margin-bottom: 12px;
+  }
+
+  .stars {
+    display: flex;
+    justify-content: center;
+    gap: 4px;
+    margin-bottom: 10px;
+  }
+
+  .stars svg { width: 32px; height: 32px; }
+
+  .summary .count {
+    font-size: 16px;
+    color: #3c3c3c;
+    margin-bottom: 20px;
+  }
+
+  .summary .count strong { font-weight: 700; }
+
+  .google-logo { width: 130px; }
+
+  /* ---- Carousel ---- */
+  .carousel-wrap {
+    flex: 1;
+    position: relative;
+    min-width: 0;
+  }
+
+  .carousel-track {
+    display: flex;
+    gap: 24px;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    scrollbar-width: none;
+    padding: 4px;
+  }
+  .carousel-track::-webkit-scrollbar { display: none; }
+
+  .review-card {
+    flex: 0 0 320px;
+    background: #fff;
+    border-radius: 14px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.06);
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    height: 300px;
+  }
+
+  .review-header {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+
+  .avatar {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-weight: 700;
+    font-size: 18px;
+    flex-shrink: 0;
+    overflow: hidden;
+  }
+  .avatar img { width:100%; height:100%; object-fit:cover; }
+
+  .review-meta { flex: 1; min-width: 0; }
+
+  .review-name-row {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .review-name {
+    font-size: 16px;
+    font-weight: 700;
+    color: #1a1a1a;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .review-name-row svg.google-g { width: 18px; height: 18px; flex-shrink:0; }
+
+  .review-time {
+    font-size: 13px;
+    color: #8a8a8a;
+    margin-top: 2px;
+  }
+
+  .review-stars-row {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .review-stars-row svg.star-sm { width: 20px; height: 20px; }
+  .review-stars-row svg.verified { width: 18px; height: 18px; margin-left: 2px; }
+
+  .review-text-wrap {
+    flex: 1;
+    min-height: 0;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .review-text {
+    font-size: 15px;
+    line-height: 1.5em;
+    color: #2a2a2a;
+    white-space: pre-line;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 5;
+    -webkit-box-orient: vertical;
+  }
+
+  .review-card.expanded .review-text-wrap {
+    overflow-y: auto;
+  }
+
+  .review-card.expanded .review-text {
+    display: block;
+    -webkit-line-clamp: unset;
+    overflow: visible;
+  }
+
+  .review-card.expanded {
+    height: auto;
+    max-height: 480px;
+  }
+
+  .read-more-btn {
+    align-self: flex-start;
+    margin-top: 8px;
+    background: none;
+    border: none;
+    padding: 0;
+    color: #1a73e8;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    flex-shrink: 0;
+  }
+  .read-more-btn:hover { text-decoration: underline; }
+
+  /* ---- Nav arrows ---- */
+  .nav-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #fff;
+    border: 1px solid #e2e2e2;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    z-index: 2;
+    transition: background 0.15s;
+  }
+  .nav-btn:hover { background: #f0f0f0; }
+  .nav-btn.prev { left: -8px; }
+  .nav-btn.next { right: -8px; }
+  .nav-btn svg { width: 18px; height: 18px; }
+
+  /* ---- Dots (paginação mobile) ---- */
+  .dots {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    margin-top: 18px;
+  }
+
+  .dots .dot {
+    width: 26px;
+    height: 4px;
+    border-radius: 2px;
+    background: #d6d6d6;
+    cursor: pointer;
+    transition: background 0.2s;
+    border: none;
+    padding: 0;
+  }
+
+  .dots .dot.active { background: #4a4a4a; }
+
+  @media (max-width: 860px) {
+    .reviews-widget {
+      flex-direction: column;
+      align-items: center;
+      padding: 28px 20px;
+    }
+    .summary { flex: none; }
+    .carousel-wrap { width: 100%; }
+
+    .carousel-track {
+      scroll-snap-type: x mandatory;
+      gap: 0;
+    }
+
+    .review-card {
+      flex: 0 0 100%;
+      width: 100%;
+      max-width: 100%;
+      scroll-snap-align: center;
+    }
+
+    .nav-btn { display: none; }
+    .dots { display: flex; }
+  }
+</style>
+
+
+
+<div class="reviews-widget">
+
+  <!-- LEFT SUMMARY -->
+  <div class="summary">
+    <div class="badge">EXCELENTE</div>
+    <div class="stars" id="summaryStars"></div>
+    <div class="count">Com base em <strong id="reviewCount">128</strong> avaliações</div>
+    <svg class="google-logo" viewBox="0 0 272 92" xmlns="http://www.w3.org/2000/svg">
+      <path fill="#EA4335" d="M115.75 47.18c0 12.77-9.99 22.18-22.25 22.18s-22.25-9.41-22.25-22.18C71.25 34.32 81.24 25 93.5 25s22.25 9.32 22.25 22.18zm-9.74 0c0-7.98-5.79-13.44-12.51-13.44S80.99 39.2 80.99 47.18c0 7.9 5.79 13.44 12.51 13.44s12.51-5.55 12.51-13.44z"></path>
+      <path fill="#FBBC05" d="M163.75 47.18c0 12.77-9.99 22.18-22.25 22.18s-22.25-9.41-22.25-22.18c0-12.85 9.99-22.18 22.25-22.18s22.25 9.32 22.25 22.18zm-9.74 0c0-7.98-5.79-13.44-12.51-13.44s-12.51 5.46-12.51 13.44c0 7.9 5.79 13.44 12.51 13.44s12.51-5.55 12.51-13.44z"></path>
+      <path fill="#4285F4" d="M209.75 26.34v39.82c0 16.38-9.66 23.07-21.08 23.07-10.75 0-17.22-7.19-19.66-13.07l8.48-3.53c1.51 3.61 5.21 7.87 11.17 7.87 7.31 0 11.84-4.51 11.84-13v-3.19h-.34c-2.18 2.69-6.38 5.04-11.68 5.04-11.09 0-21.25-9.66-21.25-22.09 0-12.52 10.16-22.26 21.25-22.26 5.29 0 9.49 2.35 11.68 4.96h.34v-3.61h9.25zm-8.56 20.92c0-7.81-5.21-13.52-11.84-13.52-6.72 0-12.35 5.71-12.35 13.52 0 7.73 5.63 13.36 12.35 13.36 6.63 0 11.84-5.63 11.84-13.36z"></path>
+      <path fill="#34A853" d="M225 3v65h-9.5V3h9.5z"></path>
+      <path fill="#EA4335" d="M262.02 54.48l7.56 5.04c-2.44 3.61-8.32 9.83-18.48 9.83-12.6 0-22.01-9.74-22.01-22.18 0-13.19 9.49-22.18 20.92-22.18 11.51 0 17.14 9.16 18.98 14.11l1.01 2.52-29.65 12.28c2.27 4.45 5.8 6.72 10.75 6.72 4.96 0 8.4-2.44 10.92-6.14zm-23.27-7.98l19.82-8.23c-1.09-2.77-4.37-4.7-8.23-4.7-4.95 0-11.84 4.37-11.59 12.93z"></path>
+      <path fill="#4285F4" d="M35.29 41.41V32H67c.31 1.64.47 3.58.47 5.68 0 7.06-1.93 15.79-8.15 22.01-6.05 6.3-13.78 9.66-24.02 9.66C16.32 69.35.36 53.89.36 34.91.36 15.93 16.32.47 35.3.47c10.5 0 17.98 4.12 23.6 9.49l-6.64 6.64c-4.03-3.78-9.49-6.72-16.97-6.72-13.86 0-24.7 11.17-24.7 25.03 0 13.86 10.84 25.03 24.7 25.03 8.99 0 14.11-3.61 17.39-6.89 2.66-2.66 4.41-6.46 5.1-11.65l-22.49.01z"></path>
+    </svg>
+  </div>
+
+  <!-- CAROUSEL -->
+  <div class="carousel-wrap">
+    <button class="nav-btn prev" id="prevBtn" aria-label="Anterior">
+      <svg viewBox="0 0 24 24" fill="none"><path d="M15 18l-6-6 6-6" stroke="#5f5f5f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+    </button>
+
+    <div class="carousel-track" id="track">
+      <!-- Cards gerados via JS a partir do array REVIEWS -->
+    </div>
+
+    <button class="nav-btn next" id="nextBtn" aria-label="Próximo">
+      <svg viewBox="0 0 24 24" fill="none"><path d="M9 6l6 6-6 6" stroke="#5f5f5f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+    </button>
+
+    <div class="dots" id="dots"></div>
+  </div>
+
+</div>
+
+<script>
+  // =====================================================
+  // EDITE OS DEPOIMENTOS AQUI
+  // color: cor de fundo do avatar (usada quando não há "photo")
+  // photo: opcional, URL de uma imagem de avatar
+  // =====================================================
+  const REVIEWS = [
+    {
+      name: "Adriana Fernandes",
+      time: "3 anos atrás",
+      rating: 5,
+      text: "Diante de tantos profissionais com os quais me consultei, considero o Renan diferenciado pelo fato de conduzir o trabalho com muita leveza e precisão.\n\nMe ajudou de forma especial ao trazer novas perspectivas sobre velhos paradigmas, principalmente aqueles que eu achava que já tinha entendido, tudo isso com absoluta fluência e cuidado. Um facilitador generoso e assertivo que tem me ajudado muito no processo de autoconhecimento. Super recomendo!",
+      color: "#c0392b",
+      photo: ""
+    },
+    {
+      name: "Luah Atelier e Espaço Terapêutico",
+      time: "5 anos atrás",
+      rating: 5,
+      text: "Excelente profissional, fiz uma sessão que transformou minha vida, compreendi questões que em outras ferramentas não atingi. Gratidão imensa\nClaudia Machado",
+      color: "#8e44ad",
+      photo: ""
+    },
+    {
+      name: "Thais Mello (Tootsie)",
+      time: "5 anos atrás",
+      rating: 5,
+      text: "Há anos lido com Distúrbio de Imagem e Depressão. Ouvi falar de Hipnoterapia através de uma amiga de São Paulo, fui pesquisar sobre o assunto e achei o método muito interessante. Encontrei alguns profissionais que aplicavam o método aqui na minha região e li vários depoimentos. Porém, o que mais me chamou atenção para o Dr Renan é que, além da Hipnoterapia, ele também faz análise junto do processo e, a análise se tornou peça fundamental para que o tratamento fosse bem sucedido.\n\nEstou indo para a quarta semana pós-tratamento e me sinto cada vez melhor, cada vez mais mais consciente dos caminhos que eu preciso (e posso) seguir. Com toda a certeza, foi uma das melhores decisões que eu já tomei na minha vida!",
+      color: "#2980b9",
+      photo: ""
+    },
+    {
+      name: "Jacqueline Romero",
+      time: "2 anos atrás",
+      rating: 5,
+      text: "O Dr. Renan Boucault é um psicoterapeuta excepcional, que combina empatia e profissionalismo para oferecer um cuidado verdadeiramente transformador. Sua abordagem compassiva e habilidades terapêuticas fazem dele um profissional altamente recomendado para aqueles que buscam apoio emocional e psicológico. Eu não poderia estar mais satisfeita com minha experiência com o Dr. Renan.",
+      color: "#16a085",
+      photo: ""
+    },
+    {
+      name: "Mayara Macedo",
+      time: "5 anos atrás",
+      rating: 5,
+      text: "Tivemos um excelente atendimento Terapêutico com o Dr. Renan Boucault, agradeço a atenção e parabenizo sua competência e domínio no assunto, esclareceu nossas dúvidas de forma clara e objetiva. Com certeza indico a todos.\nRodrigo e Mayara Macedo.",
+      color: "#e91e8c",
+      photo: ""
+    },
+    {
+      name: "Patricia Suelotto",
+      time: "5 anos atrás",
+      rating: 5,
+      text: "Todas as consultas me ajudaram muito, trazendo não só alívio nos sintomas, mas também auto conhecimento",
+      color: "#d35400",
+      photo: ""
+    },
+    {
+      name: "Vanessa Mayumi",
+      time: "3 anos atrás",
+      rating: 5,
+      text: "Super indico o Dr Renan, é um super profissional competente, atencioso e dedicado . Recomendo sem dúvidas alguma.",
+      color: "#7f8c8d",
+      photo: ""
+    },
+    {
+      name: "Renan Arimori",
+      time: "um ano atrás",
+      rating: 5,
+      text: "Dr. Renan é um ótimo profissional, muito educado e solícito em todos os momentos. Indico para qualquer pessoa que esteja precisando de acompanhamento.",
+      color: "#8e44ad",
+      photo: ""
+    },
+    {
+      name: "Karina Almeida",
+      time: "Editado 2 anos atrás",
+      rating: 5,
+      text: "Excelente atendimento desde o agendamento. Recomendo a terapia com o Dr. Renan, profissional paciente e de escuta atenciosa.",
+      color: "#e91e63",
+      photo: ""
+    }
+  ];
+
+  const REVIEW_COUNT = 128; // número exibido em "Com base em X avaliações"
+
+  const starSVG = (size) => `
+    <svg class="${size === 'sm' ? 'star-sm' : ''}" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+      <path fill="#FBBC05" d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
+    </svg>`;
+
+  const googleGSVG = `
+    <svg class="google-g" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+      <path fill="#4285F4" d="M45.12 24.5c0-1.56-.14-3.06-.4-4.5H24v8.51h11.84c-.51 2.75-2.06 5.08-4.39 6.64v5.52h7.11c4.16-3.83 6.56-9.47 6.56-16.17z"/>
+      <path fill="#34A853" d="M24 46c5.94 0 10.92-1.97 14.56-5.33l-7.11-5.52c-1.97 1.32-4.49 2.1-7.45 2.1-5.73 0-10.58-3.87-12.31-9.07H4.34v5.7C7.96 41.07 15.4 46 24 46z"/>
+      <path fill="#FBBC05" d="M11.69 28.18C11.25 26.86 11 25.45 11 24s.25-2.86.69-4.18v-5.7H4.34C2.85 17.09 2 20.45 2 24s.85 6.91 2.34 9.88l7.35-5.7z"/>
+      <path fill="#EA4335" d="M24 10.75c3.23 0 6.13 1.11 8.41 3.29l6.31-6.31C34.91 4.18 29.93 2 24 2 15.4 2 7.96 6.93 4.34 14.12l7.35 5.7c1.73-5.2 6.58-9.07 12.31-9.07z"/>
+    </svg>`;
+
+  const verifiedSVG = `
+    <svg class="verified" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="12" cy="12" r="10" fill="#4285F4"/>
+      <path d="M8 12.5l2.5 2.5 5.5-5.5" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>`;
+
+  function initials(name) {
+    return name.trim().charAt(0).toUpperCase();
+  }
+
+  function renderSummaryStars() {
+    const el = document.getElementById('summaryStars');
+    el.innerHTML = Array(5).fill(starSVG()).join('');
+  }
+
+  function renderCards() {
+    const track = document.getElementById('track');
+    track.innerHTML = REVIEWS.map((r, i) => `
+      <div class="review-card" data-index="${i}">
+        <div class="review-header">
+          <div class="avatar" style="background:${r.color || '#999'}">
+            ${r.photo ? `<img decoding="async" src="${r.photo}" alt="${r.name}">` : initials(r.name)}
+          </div>
+          <div class="review-meta">
+            <div class="review-name-row">
+              <span class="review-name">${r.name}</span>
+              ${googleGSVG}
+            </div>
+            <div class="review-time">${r.time}</div>
+          </div>
+        </div>
+        <div class="review-stars-row">
+          ${Array(r.rating || 5).fill(starSVG('sm')).join('')}
+          ${verifiedSVG}
+        </div>
+        <div class="review-text-wrap">
+          <div class="review-text">${r.text}</div>
+        </div>
+      </div>
+    `).join('');
+
+    // Após renderizar, verifica quais textos foram cortados e insere o botão "Ler depoimento completo"
+    requestAnimationFrame(() => {
+      track.querySelectorAll('.review-card').forEach(card => {
+        const textEl = card.querySelector('.review-text');
+        const isTruncated = textEl.scrollHeight > textEl.clientHeight + 2;
+        if (isTruncated) {
+          const btn = document.createElement('button');
+          btn.className = 'read-more-btn';
+          btn.textContent = 'Ler depoimento completo';
+          btn.addEventListener('click', () => {
+            const expanded = card.classList.toggle('expanded');
+            btn.textContent = expanded ? 'Ler menos' : 'Ler depoimento completo';
+          });
+          card.appendChild(btn);
+        }
+      });
+    });
+  }
+
+  function renderDots() {
+    const dotsEl = document.getElementById('dots');
+    dotsEl.innerHTML = REVIEWS.map((_, i) =>
+      `<button class="dot${i === 0 ? ' active' : ''}" data-index="${i}" aria-label="Ir para depoimento ${i + 1}"></button>`
+    ).join('');
+  }
+
+  renderSummaryStars();
+  document.getElementById('reviewCount').textContent = REVIEW_COUNT;
+  renderCards();
+  renderDots();
+
+  const track = document.getElementById('track');
+  const prevBtn = document.getElementById('prevBtn');
+  const nextBtn = document.getElementById('nextBtn');
+  const dotsEl = document.getElementById('dots');
+
+  function scrollByCard(dir) {
+    const card = track.querySelector('.review-card');
+    if (!card) return;
+    const gap = 24;
+    const amount = (card.offsetWidth + gap) * dir;
+    track.scrollBy({ left: amount, behavior: 'smooth' });
+  }
+
+  prevBtn.addEventListener('click', () => scrollByCard(-1));
+  nextBtn.addEventListener('click', () => scrollByCard(1));
+
+  // Clique nas bolinhas leva ao card correspondente
+  dotsEl.addEventListener('click', (e) => {
+    const dot = e.target.closest('.dot');
+    if (!dot) return;
+    const index = Number(dot.dataset.index);
+    const cards = track.querySelectorAll('.review-card');
+    if (cards[index]) {
+      cards[index].scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+    }
+  });
+
+  // Atualiza a bolinha ativa conforme o scroll
+  let scrollTimeout;
+  track.addEventListener('scroll', () => {
+    clearTimeout(scrollTimeout);
+    scrollTimeout = setTimeout(() => {
+      const cards = Array.from(track.querySelectorAll('.review-card'));
+      const trackCenter = track.scrollLeft + track.clientWidth / 2;
+      let closestIndex = 0;
+      let closestDist = Infinity;
+      cards.forEach((card, i) => {
+        const cardCenter = card.offsetLeft + card.offsetWidth / 2;
+        const dist = Math.abs(cardCenter - trackCenter);
+        if (dist < closestDist) { closestDist = dist; closestIndex = i; }
+      });
+      dotsEl.querySelectorAll('.dot').forEach((d, i) => {
+        d.classList.toggle('active', i === closestIndex);
+      });
+    }, 80);
+  });
+</script>

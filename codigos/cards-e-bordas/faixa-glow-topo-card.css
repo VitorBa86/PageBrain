@@ -1,0 +1,46 @@
+/*
+  SNIPPET: Faixa luminosa no topo do card
+  CATEGORIA: cards-e-bordas
+  O QUE FAZ: Uma barra colorida de 5px com brilho (glow) centralizada no topo do card ou seção.
+  COMO USAR: Classe "box" no container. Cole o CSS na página. Troque #30918C pela cor da marca.
+  ONDE COLAR: CSS personalizado da página
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: coleção original da casa (faixaemcimaglow)
+  USADO EM: 1 página(s) da casa: vendas-scripts-consignado-jessica
+*/
+
+.box {
+  position: relative;
+}
+
+.box::after {
+  content: "";
+  height: 5px;
+  width: 800px;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #30918C;
+  z-index: 3;
+  box-shadow: 0px 9px 27.1px 0px #30918C;
+}
+
+@media(max-width:800px){
+    .box {
+  position: relative;
+}
+
+.box::after {
+  content: "";
+  height: 5px;
+  width: 90%;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #30918C;
+  z-index: 3;
+  box-shadow: 0px 9px 27.1px 0px #30918C;
+}
+}

@@ -1,0 +1,57 @@
+/*
+  SNIPPET: Faixa diagonal "MAIS VENDIDO" no card de preço
+  CATEGORIA: cards-e-bordas
+  O QUE FAZ: Fita diagonal no canto do card de oferta com o texto definido na variável --text.
+  COMO USAR: Classe "myPricing" no card. Dentro dele, um widget de título com classe "myRibbon" (pode ficar vazio). Cole o CSS na página. Troque --text e as cores.
+  ONDE COLAR: CSS personalizado da página
+  DEPENDÊNCIAS: Fonte Sora (opcional)
+  ORIGEM: coleção original da casa (faixanocard)
+  USADO EM: nenhuma página publicada encontrada (só na biblioteca)
+*/
+
+.myPricing{
+        --text: 'MAIS VENDIDO!';
+        --first-color: #FF5001;
+        --second-color: #FFFFFF;
+        
+        position: relative;
+    }
+    .myPricing .myRibbon{
+        position: absolute;
+        top: -10px;
+        left: -10px;
+        width: 150px;
+        height: 150px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow: hidden;
+    }
+    .myPricing .myRibbon::before{
+        content: var(--text);
+        position: absolute;
+        width: 150%;
+        height: 40px;
+        background: var(--first-color);
+        transform: rotate(-45deg) translateY(-20px);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 14px;
+        font-weight: 600;
+        color: #fff;
+        letter-spacing: 0.05em;
+        box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+        font-family: sora
+    }
+    .myPricing .myRibbon::after{
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 10px;
+        height: 10px;
+        background: var(--second-color);
+        z-index: -1;
+        box-shadow: 140px -140px var(--second-color);
+    }

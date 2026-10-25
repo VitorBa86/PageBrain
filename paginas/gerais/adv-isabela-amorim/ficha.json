@@ -1,0 +1,201 @@
+{
+ "nome": "Isabela Amorim Siqueira · Advocacia",
+ "slug": "adv-isabela-amorim",
+ "pasta_original": "Isabela Amorim Adv",
+ "origem": "paginas/gerais",
+ "prioridade": "referencia",
+ "url": "https://isabelaamorimadvogada.com.br/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Advocacia",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#FAF7F2",
+   "#FFFFFF",
+   "#3A0D18",
+   "#F2EBE1",
+   "#4C1220",
+   "#128C4A",
+   "#25D366"
+  ],
+  "textos": [
+   "#6B6065",
+   "#FFFFFF",
+   "#4C1220",
+   "#2B2226",
+   "#E3CD94",
+   "#7F5C0F"
+  ],
+  "destaques": [
+   "#128C4A",
+   "#4C1220",
+   "#3A0D18",
+   "#E3CD94",
+   "#7F5C0F"
+  ],
+  "gradientes": [
+   "radial-gradient(58% 66% at 82% 8%, rgba(201, 163, 74, 0.22), rgba(0, 0, 0, 0) 62%), linear-gradient(165deg, rgb(58, 13, 24), rgb(76, 18, 32) 55%, rgb(99, 32, 47))",
+   "linear-gradient(160deg, rgb(58, 13, 24), rgb(76, 18, 32) 60%, rgb(99, 32, 47))",
+   "radial-gradient(66% 76% at 50% 0%, rgba(166, 122, 23, 0.14), rgba(0, 0, 0, 0) 62%), none"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Inter",
+   "uso_pct": 85
+  },
+  {
+   "familia": "Marcellus",
+   "uso_pct": 15
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  54,
+  53,
+  51,
+  48,
+  27,
+  23,
+  20,
+  18,
+  17,
+  16
+ ],
+ "escala_tipografica_mobile_px": [
+  34,
+  27,
+  23,
+  20,
+  18,
+  17,
+  16,
+  15
+ ],
+ "h1_mobile": "33.6px",
+ "botao_principal": {
+  "fundo": "#00000000",
+  "gradiente": "linear-gradient(135deg, rgb(166, 122, 23), rgb(201, 163, 74))",
+  "texto": "#241A02",
+  "raio": "3px",
+  "padding": "12px 22px",
+  "fonte": "Inter",
+  "tamanho": "11.5px",
+  "peso": "600",
+  "caixa": "uppercase",
+  "exemplos": [
+   "FALE CONOSCO"
+  ]
+ },
+ "raios": [
+  "24px",
+  "14px",
+  "3px",
+  "12px",
+  "20px"
+ ],
+ "sombras": [
+  "rgba(43, 34, 38, 0.05) 0px 1px 2px 0px, rgba(43, 34, 38, 0.2) 0px 10px 24px -14px",
+  "rgba(0, 0, 0, 0.8) 0px 30px 64px -30px",
+  "rgba(43, 34, 38, 0.3) 0px 18px 40px -20px, rgba(76, 18, 32, 0.4) 0px 44px 80px -50px"
+ ],
+ "gaps": [
+  "12px",
+  "26px",
+  "10px",
+  "9px",
+  "14px",
+  "20px"
+ ],
+ "largura_conteudo_px": null,
+ "altura_pagina_px": 5544,
+ "secoes_qtde": 6,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "Defesa técnica e estratégica para o que mais importa: os seus direitos.",
+   "fundo": "gradiente",
+   "altura_px": 931
+  },
+  {
+   "ordem": 2,
+   "tipo": "servicos",
+   "titulo": "Onde a nossa atuação é especializada",
+   "fundo": "#FFFFFF",
+   "altura_px": 874
+  },
+  {
+   "ordem": 3,
+   "tipo": "servicos",
+   "titulo": "Como podemos atuar por você",
+   "fundo": "#FAF7F2",
+   "altura_px": 822
+  },
+  {
+   "ordem": 4,
+   "tipo": "servicos",
+   "titulo": "Outras áreas atendidas pelo escritório",
+   "fundo": "#FFFFFF",
+   "altura_px": 753
+  },
+  {
+   "ordem": 5,
+   "tipo": "sobre",
+   "titulo": "Dra. Isabela Amorim Siqueira",
+   "fundo": "gradiente",
+   "altura_px": 856
+  },
+  {
+   "ordem": 6,
+   "tipo": "sobre",
+   "titulo": "Vamos conversar sobre o seu caso",
+   "fundo": "#FAF7F2",
+   "altura_px": 701
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "servicos",
+  "servicos",
+  "servicos",
+  "sobre",
+  "sobre"
+ ],
+ "tags_estilo": [
+  "bordo",
+  "dourado",
+  "creme",
+  "serifa-italica",
+  "feminino"
+ ],
+ "tecnicas": [
+  "Faixa animada",
+  "Dois CTAs: WhatsApp + conhecer atuação"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "mq",
+   "wapulse"
+  ],
+  "entrada_elementor": [],
+  "classes_scroll": []
+ },
+ "bibliotecas": [
+  "ga4",
+  "gtm",
+  "jquery",
+  "swiper"
+ ],
+ "snippets_usados": [],
+ "relevancia": 5,
+ "resumo": "Advogada criminal e do consumidor em bordô, dourado e creme. Hero com foto em card arredondado, palavra em itálico, tags de áreas sob o CTA, faixa (marquee) de áreas, cards de serviço com etiqueta e lista de checks e bio com pílulas de credenciais.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": null,
+  "copy_real": null,
+  "json_elementor": null,
+  "ref": "ref/"
+ }
+}

@@ -1,0 +1,237 @@
+{
+ "nome": "Cirurgião Plástico na Barra da Tijuca · Dr. Ramon Valim | Valim Concept Clinic",
+ "slug": "saude-ramon-valim-cirurgia-plastica",
+ "pasta_original": "Dr monvalim",
+ "origem": "paginas/gerais",
+ "prioridade": "referencia",
+ "url": "https://drramonvalim.com.br/lp-gmn",
+ "plataforma": "desconhecida",
+ "nicho": "Saúde / medicina",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#F7F7F4",
+   "#16362B",
+   "#ECEDE8",
+   "#0A1D17",
+   "#FFFFFF",
+   "#F7E399",
+   "#25D366"
+  ],
+  "textos": [
+   "#BFCEC7",
+   "#55635D",
+   "#FFFFFF",
+   "#12211C",
+   "#D3DED8",
+   "#7C8C85"
+  ],
+  "destaques": [
+   "#16362B",
+   "#F7F7F4",
+   "#F7E399",
+   "#8A7413"
+  ],
+  "gradientes": [
+   "linear-gradient(rgba(10, 29, 23, 0), rgba(10, 29, 23, 0.9))",
+   "linear-gradient(90deg, rgb(247, 227, 153) 0%, rgb(254, 243, 205) 50%, rgb(247, 227, 153) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Inter",
+   "uso_pct": 88
+  },
+  {
+   "familia": "Cormorant Garamond",
+   "uso_pct": 11
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  48,
+  45,
+  38,
+  34,
+  31,
+  23,
+  21,
+  19,
+  18,
+  17
+ ],
+ "escala_tipografica_mobile_px": [
+  30,
+  29,
+  25,
+  24,
+  21,
+  19,
+  17,
+  17
+ ],
+ "h1_mobile": "30px",
+ "botao_principal": {
+  "fundo": "#00000000",
+  "gradiente": null,
+  "texto": "#FFFFFF",
+  "raio": "0px",
+  "padding": "24px 0px",
+  "fonte": "Cormorant Garamond",
+  "tamanho": "23px",
+  "peso": "400",
+  "caixa": "none",
+  "exemplos": [
+   "A cirurgia plástica dói muito? +",
+   "Como posso agendar minha consulta? +",
+   "Quanto tempo demora a recuperação? +"
+  ]
+ },
+ "raios": [
+  "12px",
+  "4px",
+  "9px",
+  "100px"
+ ],
+ "sombras": [
+  "rgba(10, 29, 23, 0.2) 0px 12px 30px 0px",
+  "rgba(10, 29, 23, 0.16) 0px 12px 30px 0px",
+  "rgba(10, 29, 23, 0.05) 0px 10px 30px 0px",
+  "rgba(10, 29, 23, 0.07) 0px 24px 60px 0px"
+ ],
+ "gaps": [
+  "20px",
+  "14px",
+  "11px",
+  "60px",
+  "34px",
+  "86px"
+ ],
+ "largura_conteudo_px": null,
+ "altura_pagina_px": 15893,
+ "secoes_qtde": 11,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "Realize o Sonho da Cirurgia Plástica com o Dr. Ramon Valim, Especialista em Mama",
+   "fundo": "#0A1D17",
+   "altura_px": 864
+  },
+  {
+   "ordem": 2,
+   "tipo": "",
+   "titulo": "O que esperar da sua 1ª consulta?",
+   "fundo": "#16362B",
+   "altura_px": 1000
+  },
+  {
+   "ordem": 3,
+   "tipo": "servicos",
+   "titulo": "Protocolos Exclusivos de Cirurgia Plástica",
+   "fundo": "#F7F7F4",
+   "altura_px": 3651
+  },
+  {
+   "ordem": 4,
+   "tipo": "para-quem-e",
+   "titulo": "Você se identifica com alguma dessas situações?",
+   "fundo": "#16362B",
+   "altura_px": 1233
+  },
+  {
+   "ordem": 5,
+   "tipo": "",
+   "titulo": "Cada detalhe importa, e cada resultado é único.",
+   "fundo": "#F7F7F4",
+   "altura_px": 1396
+  },
+  {
+   "ordem": 6,
+   "tipo": "sobre",
+   "titulo": "Quem é o Dr. Ramon Valim?",
+   "fundo": "#16362B",
+   "altura_px": 1056
+  },
+  {
+   "ordem": 7,
+   "tipo": "como-funciona",
+   "titulo": "Como Funciona o Processo?",
+   "fundo": "#F7F7F4",
+   "altura_px": 1792
+  },
+  {
+   "ordem": 8,
+   "tipo": "",
+   "titulo": "Conheça a Valim Concept Clinic",
+   "fundo": "#16362B",
+   "altura_px": 1250
+  },
+  {
+   "ordem": 9,
+   "tipo": "diferenciais",
+   "titulo": "Por que você deveria me seguir no Instagram?",
+   "fundo": "#F7F7F4",
+   "altura_px": 1283
+  },
+  {
+   "ordem": 10,
+   "tipo": "faq",
+   "titulo": "Perguntas Frequentes",
+   "fundo": "#16362B",
+   "altura_px": 1078
+  },
+  {
+   "ordem": 11,
+   "tipo": "como-funciona",
+   "titulo": "Descubra qual caminho faz sentido para você",
+   "fundo": "#F7F7F4",
+   "altura_px": 891
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "",
+  "servicos",
+  "para-quem-e",
+  "",
+  "sobre",
+  "como-funciona",
+  "",
+  "diferenciais",
+  "faq",
+  "como-funciona"
+ ],
+ "tags_estilo": [
+  "verde-escuro",
+  "dourado",
+  "serifa",
+  "premium"
+ ],
+ "tecnicas": [
+  "Selos de benefício no rodapé do hero"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "fade",
+   "marquee"
+  ],
+  "entrada_elementor": [],
+  "classes_scroll": []
+ },
+ "bibliotecas": [
+  "ga4",
+  "gtm"
+ ],
+ "snippets_usados": [],
+ "relevancia": 4,
+ "resumo": "Cirurgião plástico no Rio em verde-escuro e dourado claro: vídeo 'o que esperar da sua 1ª consulta', protocolos em zigue-zague com foto e etiqueta, cards de identificação ('mamas flácidas', 'barriga flácida'), galeria de resultados com marca e bio.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": null,
+  "copy_real": null,
+  "json_elementor": null,
+  "ref": "ref/"
+ }
+}

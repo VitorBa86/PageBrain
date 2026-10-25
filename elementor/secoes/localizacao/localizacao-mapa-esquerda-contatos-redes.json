@@ -1,0 +1,392 @@
+{
+ "content": [
+  {
+   "id": "6c8256fc",
+   "settings": {
+    "flex_direction": "row",
+    "min_height": {
+     "unit": "px",
+     "size": 415,
+     "sizes": []
+    },
+    "flex_justify_content": "flex-start",
+    "flex_align_items": "center",
+    "flex_gap": {
+     "column": "50",
+     "row": "50",
+     "isLinked": true,
+     "unit": "px",
+     "size": 50
+    },
+    "background_background": "classic",
+    "background_color": "#FFFFFF",
+    "padding": {
+     "unit": "px",
+     "top": "80",
+     "right": "0",
+     "bottom": "80",
+     "left": "0",
+     "isLinked": false
+    },
+    "boxed_width_tablet": {
+     "unit": "%",
+     "size": 90,
+     "sizes": []
+    },
+    "boxed_width_mobile": {
+     "unit": "%",
+     "size": 90,
+     "sizes": []
+    },
+    "eae_slider_delay": "5000",
+    "gradient_color_list": [
+     {
+      "eae_animated_gradient_color": "#00a6d8",
+      "_id": "b35ef7f"
+     },
+     {
+      "eae_animated_gradient_color": "#b800c9",
+      "_id": "2d01ef7"
+     },
+     {
+      "eae_animated_gradient_color": "#e57600",
+      "_id": "df27b88"
+     }
+    ]
+   },
+   "elements": [
+    {
+     "id": "78d675e6",
+     "settings": {
+      "address": "Brasil",
+      "height": {
+       "unit": "px",
+       "size": 474,
+       "sizes": []
+      },
+      "_element_width": "initial",
+      "_element_custom_width": {
+       "unit": "%",
+       "size": 62,
+       "sizes": []
+      },
+      "_border_radius": {
+       "unit": "px",
+       "top": "8",
+       "right": "8",
+       "bottom": "8",
+       "left": "8",
+       "isLinked": true
+      },
+      "height_mobile": {
+       "unit": "px",
+       "size": 274,
+       "sizes": []
+      },
+      "_element_width_mobile": "inherit"
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "google_maps",
+     "elType": "widget"
+    },
+    {
+     "id": "40d1a2a1",
+     "settings": {
+      "content_width": "full",
+      "width": {
+       "unit": "%",
+       "size": 50,
+       "sizes": []
+      },
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "flex_align_items_mobile": "center",
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+       {
+        "eae_animated_gradient_color": "#00a6d8",
+        "_id": "7a80c05"
+       },
+       {
+        "eae_animated_gradient_color": "#b800c9",
+        "_id": "6e6dbb8"
+       },
+       {
+        "eae_animated_gradient_color": "#e57600",
+        "_id": "241b526"
+       }
+      ]
+     },
+     "elements": [
+      {
+       "id": "579c803b",
+       "settings": {
+        "align": "left",
+        "width": {
+         "unit": "%",
+         "size": 42,
+         "sizes": []
+        },
+        "image": {
+         "url": "",
+         "id": "",
+         "size": "",
+         "alt": "",
+         "source": "library"
+        },
+        "align_mobile": "center",
+        "_margin_mobile": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "20",
+         "left": "0",
+         "isLinked": false
+        }
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "image",
+       "elType": "widget"
+      },
+      {
+       "id": "704ca72d",
+       "settings": {
+        "title": "Contatos:",
+        "title_color": "#3F3638",
+        "typography_typography": "custom",
+        "typography_font_family": "Poppins",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 22,
+         "sizes": []
+        },
+        "typography_font_weight": "600",
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.4,
+         "sizes": []
+        },
+        "_element_width": "inherit",
+        "_element_custom_width": {
+         "unit": "%",
+         "size": 45,
+         "sizes": []
+        },
+        "align_mobile": "center"
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "heading",
+       "elType": "widget"
+      },
+      {
+       "id": "3993ed82",
+       "settings": {
+        "icon_list": [
+         {
+          "text": "Clinica: xxx, Rua Lorem Impsun, CEP: 56999000",
+          "selected_icon": {
+           "value": "fas fa-check-circle",
+           "library": "fa-solid"
+          },
+          "_id": "0bfae83"
+         },
+         {
+          "text": "Whatsapp:  (xx)99897989",
+          "selected_icon": {
+           "value": "fas fa-check-circle",
+           "library": "fa-solid"
+          },
+          "_id": "99ffb1d"
+         }
+        ],
+        "space_between": {
+         "unit": "px",
+         "size": 8,
+         "sizes": []
+        },
+        "icon_color": "#F56B72",
+        "icon_size": {
+         "unit": "px",
+         "size": 19,
+         "sizes": []
+        },
+        "icon_typography_typography": "custom",
+        "icon_typography_font_family": "Poppins",
+        "icon_typography_font_size": {
+         "unit": "px",
+         "size": 16,
+         "sizes": []
+        },
+        "icon_typography_font_weight": "400",
+        "_margin": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "10",
+         "left": "0",
+         "isLinked": false
+        },
+        "text_color": "#3F3638",
+        "_element_width_mobile": "initial",
+        "_element_custom_width_mobile": {
+         "unit": "%",
+         "size": 90,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "icon-list",
+       "elType": "widget"
+      },
+      {
+       "id": "3ef6a4ef",
+       "settings": {
+        "title": "Siga nas redes sociais:",
+        "title_color": "#3F3638",
+        "typography_typography": "custom",
+        "typography_font_family": "Poppins",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 22,
+         "sizes": []
+        },
+        "typography_font_weight": "600",
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.4,
+         "sizes": []
+        },
+        "_element_width": "inherit",
+        "_element_custom_width": {
+         "unit": "%",
+         "size": 45,
+         "sizes": []
+        },
+        "align_mobile": "center"
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "heading",
+       "elType": "widget"
+      },
+      {
+       "id": "1ddeab0b",
+       "settings": {
+        "social_icon_list": [
+         {
+          "social_icon": {
+           "value": "fab fa-youtube",
+           "library": "fa-brands"
+          },
+          "_id": "62ed076"
+         },
+         {
+          "_id": "0628fa7",
+          "social_icon": {
+           "value": "fab fa-instagram",
+           "library": "fa-brands"
+          }
+         }
+        ],
+        "align": "left",
+        "icon_color": "custom",
+        "icon_primary_color": "#3F3638",
+        "_margin": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": false
+        }
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "social-icons",
+       "elType": "widget"
+      }
+     ],
+     "isInner": true,
+     "elType": "container"
+    },
+    {
+     "id": "34ad366d",
+     "settings": {
+      "source_json": {
+       "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/05/Animation-1714580339459.json",
+       "id": 2674,
+       "size": "",
+       "alt": "",
+       "source": "library"
+      },
+      "width": {
+       "unit": "%",
+       "size": 100,
+       "sizes": []
+      },
+      "_margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "20",
+       "bottom": "20",
+       "left": "0",
+       "isLinked": false
+      },
+      "_element_width": "initial",
+      "_element_custom_width": {
+       "unit": "px",
+       "size": 130,
+       "sizes": []
+      },
+      "_element_custom_width_tablet": {
+       "unit": "%",
+       "size": "",
+       "sizes": []
+      },
+      "_element_custom_width_mobile": {
+       "unit": "%",
+       "size": 28,
+       "sizes": []
+      },
+      "_position": "absolute",
+      "_offset_orientation_h": "end",
+      "_offset_orientation_v": "end",
+      "_css_classes": "whatsapp",
+      "sticky": "bottom",
+      "loop": "yes",
+      "_margin_mobile": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "sticky_offset_mobile": 0,
+      "link_to": "custom"
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "lottie",
+     "elType": "widget"
+    }
+   ],
+   "isInner": false,
+   "elType": "container"
+  }
+ ],
+ "page_settings": [],
+ "version": "0.4",
+ "title": "loc 02",
+ "type": "container"
+}

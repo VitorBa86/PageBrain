@@ -1,0 +1,742 @@
+{
+  "sourceUrl": "https://entreparatrip.com.br/",
+  "finalUrl": "https://entreparatrip.com.br/",
+  "mode": "static",
+  "platform": "WordPress + Elementor",
+  "durationMs": 3284,
+  "fileCount": 104,
+  "totalBytes": 4613843,
+  "counts": {
+    "css": 16,
+    "js": 14,
+    "img": 48,
+    "font": 25,
+    "media": 0,
+    "other": 0,
+    "failed": 0
+  },
+  "warnings": [],
+  "assets": [
+    {
+      "url": "https://entreparatrip.com.br/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.9",
+      "kind": "css",
+      "localPath": "assets/css/reset-eeba8182.css",
+      "status": "ok",
+      "bytes": 5496
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.9",
+      "kind": "css",
+      "localPath": "assets/css/theme-8bd4b95a.css",
+      "status": "ok",
+      "bytes": 5097
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.9",
+      "kind": "css",
+      "localPath": "assets/css/header-footer-d046730c.css",
+      "status": "ok",
+      "bytes": 7182
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/elementor/css/custom-frontend.min.css?ver=1789412895",
+      "kind": "css",
+      "localPath": "assets/css/custom-frontend.min-471a2f8c.css",
+      "status": "ok",
+      "bytes": 54866
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/elementor/css/post-5.css?ver=1789412896",
+      "kind": "css",
+      "localPath": "assets/css/post-5-c22ddff5.css",
+      "status": "ok",
+      "bytes": 1433
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.1.0",
+      "kind": "css",
+      "localPath": "assets/css/widget-image.min-29841315.css",
+      "status": "ok",
+      "bytes": 214
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.1.0",
+      "kind": "css",
+      "localPath": "assets/css/widget-heading.min-8a390e74.css",
+      "status": "ok",
+      "bytes": 560
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=4.1.0",
+      "kind": "css",
+      "localPath": "assets/css/e-animation-grow.min-f769818b.css",
+      "status": "ok",
+      "bytes": 198
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInDown.min.css?ver=4.1.0",
+      "kind": "css",
+      "localPath": "assets/css/fadeInDown.min-d79404a8.css",
+      "status": "ok",
+      "bytes": 137
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/fadeIn.min.css?ver=4.1.0",
+      "kind": "css",
+      "localPath": "assets/css/fadeIn.min-84ec446f.css",
+      "status": "ok",
+      "bytes": 77
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/elementor/css/custom-widget-image-box.min.css?ver=1789412895",
+      "kind": "css",
+      "localPath": "assets/css/custom-widget-image-box.min-90f5b3c5.css",
+      "status": "ok",
+      "bytes": 1657
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/elementor/css/custom-widget-icon-list.min.css?ver=1789412895",
+      "kind": "css",
+      "localPath": "assets/css/custom-widget-icon-list.min-938bb16d.css",
+      "status": "ok",
+      "bytes": 10286
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/plugins/elementor/assets/css/widget-counter.min.css?ver=4.1.0",
+      "kind": "css",
+      "localPath": "assets/css/widget-counter.min-717821de.css",
+      "status": "ok",
+      "bytes": 753
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/elementor/css/custom-widget-icon-box.min.css?ver=1789412895",
+      "kind": "css",
+      "localPath": "assets/css/custom-widget-icon-box.min-bea1cd45.css",
+      "status": "ok",
+      "bytes": 4757
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/elementor/css/post-48.css?ver=1789413483",
+      "kind": "css",
+      "localPath": "assets/css/post-48-5f9678b2.css",
+      "status": "ok",
+      "bytes": 138165
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/elementor/css/base-desktop.css?ver=6aa84624eebdb",
+      "kind": "css",
+      "localPath": "assets/css/base-desktop-d1488df5.css",
+      "status": "ok",
+      "bytes": 3111
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/cropped-fav-icon-4-32x32.png",
+      "kind": "img",
+      "localPath": "assets/img/cropped-fav-icon-4-32x32-1f83fc07.png",
+      "status": "ok",
+      "bytes": 1488
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/cropped-fav-icon-4-192x192.png",
+      "kind": "img",
+      "localPath": "assets/img/cropped-fav-icon-4-192x192-44c14b18.png",
+      "status": "ok",
+      "bytes": 14146
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/cropped-fav-icon-4-180x180.png",
+      "kind": "img",
+      "localPath": "assets/img/cropped-fav-icon-4-180x180-8e586019.png",
+      "status": "ok",
+      "bytes": 12738
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/Objeto-Inteligente-de-Vetor.png",
+      "kind": "img",
+      "localPath": "assets/img/Objeto-Inteligente-de-Vetor-8c0906c2.png",
+      "status": "ok",
+      "bytes": 15590
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/seta.png",
+      "kind": "img",
+      "localPath": "assets/img/seta-fa0114c2.png",
+      "status": "ok",
+      "bytes": 534
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/wave_433643.svg",
+      "kind": "img",
+      "localPath": "assets/img/wave_433643-a63aab04.svg",
+      "status": "ok",
+      "bytes": 2025
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/dive_1419427.svg",
+      "kind": "img",
+      "localPath": "assets/img/dive_1419427-ad5d3849.svg",
+      "status": "ok",
+      "bytes": 3510
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/island_475535.svg",
+      "kind": "img",
+      "localPath": "assets/img/island_475535-9dd33822.svg",
+      "status": "ok",
+      "bytes": 8755
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/map_13653818.svg",
+      "kind": "img",
+      "localPath": "assets/img/map_13653818-ba6fa283.svg",
+      "status": "ok",
+      "bytes": 1728
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/networking_1370286.png",
+      "kind": "img",
+      "localPath": "assets/img/networking_1370286-bda6abf3.png",
+      "status": "ok",
+      "bytes": 4213
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/networking_1370286-150x150.png",
+      "kind": "img",
+      "localPath": "assets/img/networking_1370286-150x150-ecbfc1a5.png",
+      "status": "ok",
+      "bytes": 4903
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/agrupar_40_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/agrupar_40_1_1x-38d88669.webp",
+      "status": "ok",
+      "bytes": 33260
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/agrupar_40_1_1x-225x300.webp",
+      "kind": "img",
+      "localPath": "assets/img/agrupar_40_1_1x-225x300-5bbdc6ec.webp",
+      "status": "ok",
+      "bytes": 11250
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/agrupar_41_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/agrupar_41_1_1x-f577f17c.webp",
+      "status": "ok",
+      "bytes": 38526
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/agrupar_41_1_1x-225x300.webp",
+      "kind": "img",
+      "localPath": "assets/img/agrupar_41_1_1x-225x300-d551c3ea.webp",
+      "status": "ok",
+      "bytes": 15454
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/agrupar_42_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/agrupar_42_1_1x-73af3449.webp",
+      "status": "ok",
+      "bytes": 20406
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/agrupar_42_1_1x-225x300.webp",
+      "kind": "img",
+      "localPath": "assets/img/agrupar_42_1_1x-225x300-291d3b00.webp",
+      "status": "ok",
+      "bytes": 8770
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/agrupar_43_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/agrupar_43_1_1x-d785bb9c.webp",
+      "status": "ok",
+      "bytes": 50700
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/agrupar_43_1_1x-225x300.webp",
+      "kind": "img",
+      "localPath": "assets/img/agrupar_43_1_1x-225x300-b77ef310.webp",
+      "status": "ok",
+      "bytes": 19962
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/agrupar_44_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/agrupar_44_1_1x-bb322e0f.webp",
+      "status": "ok",
+      "bytes": 27112
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/agrupar_44_1_1x-225x300.webp",
+      "kind": "img",
+      "localPath": "assets/img/agrupar_44_1_1x-225x300-71f12804.webp",
+      "status": "ok",
+      "bytes": 11576
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/agrupar_45_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/agrupar_45_1_1x-5d09146b.webp",
+      "status": "ok",
+      "bytes": 56178
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/agrupar_45_1_1x-225x300.webp",
+      "kind": "img",
+      "localPath": "assets/img/agrupar_45_1_1x-225x300-12ad955c.webp",
+      "status": "ok",
+      "bytes": 20998
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/agrupar_46_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/agrupar_46_1_1x-f5bbfda2.webp",
+      "status": "ok",
+      "bytes": 14394
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/agrupar_46_1_1x-225x300.webp",
+      "kind": "img",
+      "localPath": "assets/img/agrupar_46_1_1x-225x300-9f989219.webp",
+      "status": "ok",
+      "bytes": 6704
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/agrupar_47_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/agrupar_47_1_1x-d6361457.webp",
+      "status": "ok",
+      "bytes": 27558
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/agrupar_47_1_1x-225x300.webp",
+      "kind": "img",
+      "localPath": "assets/img/agrupar_47_1_1x-225x300-8f5cbeca.webp",
+      "status": "ok",
+      "bytes": 9520
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/agrupar_48_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/agrupar_48_1_1x-b2e2d5fe.webp",
+      "status": "ok",
+      "bytes": 29600
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/agrupar_48_1_1x-225x300.webp",
+      "kind": "img",
+      "localPath": "assets/img/agrupar_48_1_1x-225x300-d8205940.webp",
+      "status": "ok",
+      "bytes": 10896
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/agrupar_49_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/agrupar_49_1_1x-5b2aeba0.webp",
+      "status": "ok",
+      "bytes": 44824
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/agrupar_49_1_1x-225x300.webp",
+      "kind": "img",
+      "localPath": "assets/img/agrupar_49_1_1x-225x300-84066c88.webp",
+      "status": "ok",
+      "bytes": 16330
+    },
+    {
+      "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2026/05/Objeto-Inteligente-de-Vetor.png",
+      "kind": "img",
+      "localPath": "assets/img/Objeto-Inteligente-de-Vetor-e831294d.png",
+      "status": "ok",
+      "bytes": 15590
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "kind": "js",
+      "localPath": "assets/js/jquery.min-c4f1c7b6.js",
+      "status": "ok",
+      "bytes": 87553
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "kind": "js",
+      "localPath": "assets/js/jquery-migrate.min-ef3c580c.js",
+      "status": "ok",
+      "bytes": 13577
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.4.9",
+      "kind": "js",
+      "localPath": "assets/js/hello-frontend-5de8a0a2.js",
+      "status": "ok",
+      "bytes": 1830
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.1.0",
+      "kind": "js",
+      "localPath": "assets/js/webpack.runtime.min-67c9b91e.js",
+      "status": "ok",
+      "bytes": 5819
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.1.0",
+      "kind": "js",
+      "localPath": "assets/js/frontend-modules.min-1a927be7.js",
+      "status": "ok",
+      "bytes": 50602
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3",
+      "kind": "js",
+      "localPath": "assets/js/core.min-ebd95bca.js",
+      "status": "ok",
+      "bytes": 21464
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.1.0",
+      "kind": "js",
+      "localPath": "assets/js/frontend.min-e7eee39c.js",
+      "status": "ok",
+      "bytes": 32098
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1",
+      "kind": "js",
+      "localPath": "assets/js/jquery-numerator.min-b37d4bc2.js",
+      "status": "ok",
+      "bytes": 1801
+    },
+    {
+      "url": "https://cdn.trustindex.io/loader.js?ver=1",
+      "kind": "js",
+      "localPath": "assets/js/loader-8855d035.js",
+      "status": "ok",
+      "bytes": 99014
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/plugins/pro-elements/assets/js/webpack-pro.runtime.min.js?ver=4.0.4.2",
+      "kind": "js",
+      "localPath": "assets/js/webpack-pro.runtime.min-076ebf54.js",
+      "status": "ok",
+      "bytes": 6242
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-includes/js/dist/hooks.min.js?ver=7496969728ca0f95732d",
+      "kind": "js",
+      "localPath": "assets/js/hooks.min-c5037cb1.js",
+      "status": "ok",
+      "bytes": 5050
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-includes/js/dist/i18n.min.js?ver=781d11515ad3d91786ec",
+      "kind": "js",
+      "localPath": "assets/js/i18n.min-a7f00447.js",
+      "status": "ok",
+      "bytes": 5732
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/plugins/pro-elements/assets/js/frontend.min.js?ver=4.0.4.2",
+      "kind": "js",
+      "localPath": "assets/js/frontend.min-c1fa44b8.js",
+      "status": "ok",
+      "bytes": 23939
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/plugins/pro-elements/assets/js/elements-handlers.min.js?ver=4.0.4.2",
+      "kind": "js",
+      "localPath": "assets/js/elements-handlers.min-82eceb57.js",
+      "status": "ok",
+      "bytes": 43922
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/Poppins-Light.eot",
+      "kind": "font",
+      "localPath": "assets/font/Poppins-Light-5410ef77.eot",
+      "status": "ok",
+      "bytes": 26116
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/Poppins-Light.eot?",
+      "kind": "font",
+      "localPath": "assets/font/Poppins-Light-d0a897ef.eot",
+      "status": "ok",
+      "bytes": 26116
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/Poppins-Light.woff2",
+      "kind": "font",
+      "localPath": "assets/font/Poppins-Light-5e2098c0.woff2",
+      "status": "ok",
+      "bytes": 11108
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/Poppins-Light.woff",
+      "kind": "font",
+      "localPath": "assets/font/Poppins-Light-c61921de.woff",
+      "status": "ok",
+      "bytes": 15420
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/Poppins-Light.ttf",
+      "kind": "font",
+      "localPath": "assets/font/Poppins-Light-0a052b74.ttf",
+      "status": "ok",
+      "bytes": 25940
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/Poppins-Light.svg",
+      "kind": "img",
+      "localPath": "assets/img/Poppins-Light-77be14d2.svg",
+      "status": "ok",
+      "bytes": 265
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/Poppins-Regular.eot",
+      "kind": "font",
+      "localPath": "assets/font/Poppins-Regular-0937bada.eot",
+      "status": "ok",
+      "bytes": 26008
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/Poppins-Regular.eot?",
+      "kind": "font",
+      "localPath": "assets/font/Poppins-Regular-72631731.eot",
+      "status": "ok",
+      "bytes": 26008
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/Poppins-Regular.woff2",
+      "kind": "font",
+      "localPath": "assets/font/Poppins-Regular-06cbb12a.woff2",
+      "status": "ok",
+      "bytes": 11200
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/Poppins-Regular.woff",
+      "kind": "font",
+      "localPath": "assets/font/Poppins-Regular-496d323f.woff",
+      "status": "ok",
+      "bytes": 15472
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/Poppins-Regular.ttf",
+      "kind": "font",
+      "localPath": "assets/font/Poppins-Regular-f8c20b7d.ttf",
+      "status": "ok",
+      "bytes": 25840
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/Poppins-Regular.svg",
+      "kind": "img",
+      "localPath": "assets/img/Poppins-Regular-1851419e.svg",
+      "status": "ok",
+      "bytes": 265
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/Poppins-Medium.eot",
+      "kind": "font",
+      "localPath": "assets/font/Poppins-Medium-0123519e.eot",
+      "status": "ok",
+      "bytes": 26028
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/Poppins-Medium.eot?",
+      "kind": "font",
+      "localPath": "assets/font/Poppins-Medium-9fb36dbd.eot",
+      "status": "ok",
+      "bytes": 26028
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/Poppins-Medium.woff2",
+      "kind": "font",
+      "localPath": "assets/font/Poppins-Medium-8a9f3c11.woff2",
+      "status": "ok",
+      "bytes": 10964
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/Poppins-Medium.woff",
+      "kind": "font",
+      "localPath": "assets/font/Poppins-Medium-995e624e.woff",
+      "status": "ok",
+      "bytes": 15232
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/Poppins-Medium.ttf",
+      "kind": "font",
+      "localPath": "assets/font/Poppins-Medium-2da0fac7.ttf",
+      "status": "ok",
+      "bytes": 25848
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/Poppins-Medium.svg",
+      "kind": "img",
+      "localPath": "assets/img/Poppins-Medium-6b72f419.svg",
+      "status": "ok",
+      "bytes": 265
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/Poppins-SemiBold.eot",
+      "kind": "font",
+      "localPath": "assets/font/Poppins-SemiBold-a45cdca0.eot",
+      "status": "ok",
+      "bytes": 26008
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/Poppins-SemiBold.eot?",
+      "kind": "font",
+      "localPath": "assets/font/Poppins-SemiBold-c0dc1553.eot",
+      "status": "ok",
+      "bytes": 26008
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/Poppins-SemiBold.woff2",
+      "kind": "font",
+      "localPath": "assets/font/Poppins-SemiBold-44811059.woff2",
+      "status": "ok",
+      "bytes": 11296
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/Poppins-SemiBold.woff",
+      "kind": "font",
+      "localPath": "assets/font/Poppins-SemiBold-df99cac8.woff",
+      "status": "ok",
+      "bytes": 15536
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/Poppins-SemiBold.ttf",
+      "kind": "font",
+      "localPath": "assets/font/Poppins-SemiBold-7427441c.ttf",
+      "status": "ok",
+      "bytes": 25820
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/Poppins-SemiBold.svg",
+      "kind": "img",
+      "localPath": "assets/img/Poppins-SemiBold-f31e74ff.svg",
+      "status": "ok",
+      "bytes": 265
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/Poppins-Bold.eot",
+      "kind": "font",
+      "localPath": "assets/font/Poppins-Bold-e6725de4.eot",
+      "status": "ok",
+      "bytes": 25624
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/Poppins-Bold.eot?",
+      "kind": "font",
+      "localPath": "assets/font/Poppins-Bold-e0189697.eot",
+      "status": "ok",
+      "bytes": 25624
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/Poppins-Bold.woff2",
+      "kind": "font",
+      "localPath": "assets/font/Poppins-Bold-4fc1dfc5.woff2",
+      "status": "ok",
+      "bytes": 11056
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/Poppins-Bold.ttf",
+      "kind": "font",
+      "localPath": "assets/font/Poppins-Bold-eb134c4b.ttf",
+      "status": "ok",
+      "bytes": 25468
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/Poppins-Bold.svg",
+      "kind": "img",
+      "localPath": "assets/img/Poppins-Bold-e6fd65c5.svg",
+      "status": "ok",
+      "bytes": 265
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/fonts/HWT-Arabesque-W00-Regular.woff",
+      "kind": "font",
+      "localPath": "assets/font/HWT-Arabesque-W00-Regular-91251566.woff",
+      "status": "ok",
+      "bytes": 39000
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/sombra-scaled-1.webp",
+      "kind": "img",
+      "localPath": "assets/img/sombra-scaled-1-f6e31085.webp",
+      "status": "ok",
+      "bytes": 86922
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/camada_7_2_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/camada_7_2_1x-631dced6.webp",
+      "status": "ok",
+      "bytes": 63932
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/bruna.webp",
+      "kind": "img",
+      "localPath": "assets/img/bruna-2e8a827c.webp",
+      "status": "ok",
+      "bytes": 102766
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/FUNDO-TRIP.webp",
+      "kind": "img",
+      "localPath": "assets/img/FUNDO-TRIP-061b8f31.webp",
+      "status": "ok",
+      "bytes": 721008
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/07/parrachos_imagemdefundo_1.webp",
+      "kind": "img",
+      "localPath": "assets/img/parrachos_imagemdefundo_1-11e78a86.webp",
+      "status": "ok",
+      "bytes": 239328
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/scenic_view_snowcapped_mountains_against_sky_2_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/scenic_view_snowcapped_mountains_against_sky_2_1-9a820a60.webp",
+      "status": "ok",
+      "bytes": 363656
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/iconic_pyramids_cityscape_captivating_view_from_giza_plateau_cairo_1_2_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/iconic_pyramids_cityscape_captivating_view_from_-57128b9c.webp",
+      "status": "ok",
+      "bytes": 144922
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/manta_bay_kelingking_beach_nusa_penida_island_bali_indonesia_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/manta_bay_kelingking_beach_nusa_penida_island_ba-fcef1a62.webp",
+      "status": "ok",
+      "bytes": 345590
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/05/fundoept2_1-2.webp",
+      "kind": "img",
+      "localPath": "assets/img/fundoept2_1-2-7f313c8a.webp",
+      "status": "ok",
+      "bytes": 485362
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/06/bruno_entre_para_trip_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/bruno_entre_para_trip_1_1x-874839b0.webp",
+      "status": "ok",
+      "bytes": 50524
+    },
+    {
+      "url": "https://entreparatrip.com.br/wp-content/uploads/2026/06/camada_8_3_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/camada_8_3_1x-81c14c31.webp",
+      "status": "ok",
+      "bytes": 104084
+    }
+  ]
+}

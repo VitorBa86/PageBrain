@@ -1,0 +1,567 @@
+{
+  "sourceUrl": "https://drpedrocamargo.com.br/",
+  "finalUrl": "https://drpedrocamargo.com.br/",
+  "mode": "static",
+  "platform": "WordPress + Elementor",
+  "durationMs": 3119,
+  "fileCount": 79,
+  "totalBytes": 5918486,
+  "counts": {
+    "css": 0,
+    "js": 0,
+    "img": 21,
+    "font": 57,
+    "media": 0,
+    "other": 0,
+    "failed": 0
+  },
+  "warnings": [],
+  "assets": [
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/cropped-PC-LOGO-3-32x32.png",
+      "kind": "img",
+      "localPath": "assets/img/cropped-PC-LOGO-3-32x32-23ecdb09.png",
+      "status": "ok",
+      "bytes": 1187
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/cropped-PC-LOGO-3-192x192.png",
+      "kind": "img",
+      "localPath": "assets/img/cropped-PC-LOGO-3-192x192-2e30458d.png",
+      "status": "ok",
+      "bytes": 11225
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/cropped-PC-LOGO-3-180x180.png",
+      "kind": "img",
+      "localPath": "assets/img/cropped-PC-LOGO-3-180x180-19c532b9.png",
+      "status": "ok",
+      "bytes": 10431
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/PC-LOGO-3-1024x434.png",
+      "kind": "img",
+      "localPath": "assets/img/PC-LOGO-3-1024x434-127add69.png",
+      "status": "ok",
+      "bytes": 52636
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/PC-LOGO-3-300x127.png",
+      "kind": "img",
+      "localPath": "assets/img/PC-LOGO-3-300x127-19c3338d.png",
+      "status": "ok",
+      "bytes": 13202
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/PC-LOGO-3-768x325.png",
+      "kind": "img",
+      "localPath": "assets/img/PC-LOGO-3-768x325-a5252dfd.png",
+      "status": "ok",
+      "bytes": 38163
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/PC-LOGO-3.png",
+      "kind": "img",
+      "localPath": "assets/img/PC-LOGO-3-b857fe70.png",
+      "status": "ok",
+      "bytes": 40961
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/PEDRO-QSE.webp",
+      "kind": "img",
+      "localPath": "assets/img/PEDRO-QSE-662e64db.webp",
+      "status": "ok",
+      "bytes": 25436
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/PEDRO-QSE-291x300.webp",
+      "kind": "img",
+      "localPath": "assets/img/PEDRO-QSE-291x300-43aecb1e.webp",
+      "status": "ok",
+      "bytes": 6454
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Mask-group-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/Mask-group-768x768-b95b32f0.webp",
+      "status": "ok",
+      "bytes": 31608
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Mask-group-1-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/Mask-group-1-768x768-863ca64d.webp",
+      "status": "ok",
+      "bytes": 55108
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Mask-group-2-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/Mask-group-2-768x768-14bc7816.webp",
+      "status": "ok",
+      "bytes": 71008
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Mask-group-3-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/Mask-group-3-768x768-f981acb6.webp",
+      "status": "ok",
+      "bytes": 41260
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/PARTE-01-1.webp",
+      "kind": "img",
+      "localPath": "assets/img/PARTE-01-1-3b998731.webp",
+      "status": "ok",
+      "bytes": 51330
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/PARTE-01-MB-1-1.webp",
+      "kind": "img",
+      "localPath": "assets/img/PARTE-01-MB-1-1-e4ae6ba5.webp",
+      "status": "ok",
+      "bytes": 39254
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Inter-ExtraLight.eot",
+      "kind": "font",
+      "localPath": "assets/font/Inter-ExtraLight-16cd6eff.eot",
+      "status": "ok",
+      "bytes": 190028
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Inter-ExtraLight.eot?",
+      "kind": "font",
+      "localPath": "assets/font/Inter-ExtraLight-0ee0ed95.eot",
+      "status": "ok",
+      "bytes": 190028
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Inter-ExtraLight.woff2",
+      "kind": "font",
+      "localPath": "assets/font/Inter-ExtraLight-9d70ecc7.woff2",
+      "status": "ok",
+      "bytes": 50592
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Inter-ExtraLight.woff",
+      "kind": "font",
+      "localPath": "assets/font/Inter-ExtraLight-48d1c5c6.woff",
+      "status": "ok",
+      "bytes": 69832
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Inter-ExtraLight.ttf",
+      "kind": "font",
+      "localPath": "assets/font/Inter-ExtraLight-0a58ba23.ttf",
+      "status": "ok",
+      "bytes": 189796
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Inter-ExtraLight.svg",
+      "kind": "img",
+      "localPath": "assets/img/Inter-ExtraLight-b3ddc8d6.svg",
+      "status": "ok",
+      "bytes": 256
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Inter-Light.eot",
+      "kind": "font",
+      "localPath": "assets/font/Inter-Light-6426b135.eot",
+      "status": "ok",
+      "bytes": 189936
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Inter-Light.eot?",
+      "kind": "font",
+      "localPath": "assets/font/Inter-Light-a0de9583.eot",
+      "status": "ok",
+      "bytes": 189936
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Inter-Light.woff2",
+      "kind": "font",
+      "localPath": "assets/font/Inter-Light-c39975c1.woff2",
+      "status": "ok",
+      "bytes": 50876
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Inter-Light.woff",
+      "kind": "font",
+      "localPath": "assets/font/Inter-Light-809216dc.woff",
+      "status": "ok",
+      "bytes": 70044
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Inter-Light.ttf",
+      "kind": "font",
+      "localPath": "assets/font/Inter-Light-b72a815a.ttf",
+      "status": "ok",
+      "bytes": 189724
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Inter-Light.svg",
+      "kind": "img",
+      "localPath": "assets/img/Inter-Light-0ba308fb.svg",
+      "status": "ok",
+      "bytes": 256
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Inter-Regular.eot",
+      "kind": "font",
+      "localPath": "assets/font/Inter-Regular-9ff7f5aa.eot",
+      "status": "ok",
+      "bytes": 189736
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Inter-Regular.eot?",
+      "kind": "font",
+      "localPath": "assets/font/Inter-Regular-3d423b05.eot",
+      "status": "ok",
+      "bytes": 189736
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Inter-Regular.woff2",
+      "kind": "font",
+      "localPath": "assets/font/Inter-Regular-74602f9c.woff2",
+      "status": "ok",
+      "bytes": 49896
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Inter-Regular.woff",
+      "kind": "font",
+      "localPath": "assets/font/Inter-Regular-521cae72.woff",
+      "status": "ok",
+      "bytes": 68908
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Inter-Regular.ttf",
+      "kind": "font",
+      "localPath": "assets/font/Inter-Regular-930b2ef2.ttf",
+      "status": "ok",
+      "bytes": 189532
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Inter-Regular.svg",
+      "kind": "img",
+      "localPath": "assets/img/Inter-Regular-6350b13c.svg",
+      "status": "ok",
+      "bytes": 256
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Inter-Medium.eot",
+      "kind": "font",
+      "localPath": "assets/font/Inter-Medium-412f06b9.eot",
+      "status": "ok",
+      "bytes": 189896
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Inter-Medium.eot?",
+      "kind": "font",
+      "localPath": "assets/font/Inter-Medium-481f329d.eot",
+      "status": "ok",
+      "bytes": 189896
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Inter-Medium.woff2",
+      "kind": "font",
+      "localPath": "assets/font/Inter-Medium-496f7bd6.woff2",
+      "status": "ok",
+      "bytes": 51568
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Inter-Medium.woff",
+      "kind": "font",
+      "localPath": "assets/font/Inter-Medium-3f0bb49d.woff",
+      "status": "ok",
+      "bytes": 70632
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Inter-Medium.ttf",
+      "kind": "font",
+      "localPath": "assets/font/Inter-Medium-82653e26.ttf",
+      "status": "ok",
+      "bytes": 189680
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Inter-Medium.svg",
+      "kind": "img",
+      "localPath": "assets/img/Inter-Medium-afec9366.svg",
+      "status": "ok",
+      "bytes": 256
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Inter-SemiBold.eot",
+      "kind": "font",
+      "localPath": "assets/font/Inter-SemiBold-d375d26c.eot",
+      "status": "ok",
+      "bytes": 190292
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Inter-SemiBold.eot?",
+      "kind": "font",
+      "localPath": "assets/font/Inter-SemiBold-75ea8c86.eot",
+      "status": "ok",
+      "bytes": 190292
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Inter-SemiBold.woff2",
+      "kind": "font",
+      "localPath": "assets/font/Inter-SemiBold-82385ce0.woff2",
+      "status": "ok",
+      "bytes": 51504
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Inter-SemiBold.woff",
+      "kind": "font",
+      "localPath": "assets/font/Inter-SemiBold-0bbb1d7a.woff",
+      "status": "ok",
+      "bytes": 70920
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Inter-SemiBold.ttf",
+      "kind": "font",
+      "localPath": "assets/font/Inter-SemiBold-cd3a36df.ttf",
+      "status": "ok",
+      "bytes": 190068
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Inter-SemiBold.svg",
+      "kind": "img",
+      "localPath": "assets/img/Inter-SemiBold-363702f6.svg",
+      "status": "ok",
+      "bytes": 256
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Georgia.eot",
+      "kind": "font",
+      "localPath": "assets/font/Georgia-5475abd4.eot",
+      "status": "ok",
+      "bytes": 192902
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Georgia.eot?",
+      "kind": "font",
+      "localPath": "assets/font/Georgia-a54cb8e1.eot",
+      "status": "ok",
+      "bytes": 192902
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Georgia.woff2",
+      "kind": "font",
+      "localPath": "assets/font/Georgia-b369aa51.woff2",
+      "status": "ok",
+      "bytes": 93180
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Georgia.woff",
+      "kind": "font",
+      "localPath": "assets/font/Georgia-f054101c.woff",
+      "status": "ok",
+      "bytes": 116592
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/georgia.ttf",
+      "kind": "font",
+      "localPath": "assets/font/georgia-d4882b8a.ttf",
+      "status": "ok",
+      "bytes": 219712
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/2025/03/Georgia.svg",
+      "kind": "img",
+      "localPath": "assets/img/Georgia-79d2672b.svg",
+      "status": "ok",
+      "bytes": 236
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkc3kawzu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkc3kaw-7c53e46a.woff2",
+      "status": "ok",
+      "bytes": 39456
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkankawzu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkankaw-5b31b36f.woff2",
+      "status": "ok",
+      "bytes": 24576
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcnkawzu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcnkaw-9f6b055b.woff2",
+      "status": "ok",
+      "bytes": 4468
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbxkawzu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbxkaw-46dfc18c.woff2",
+      "status": "ok",
+      "bytes": 18800
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkenkawzu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkenkaw-8f9b8c2d.woff2",
+      "status": "ok",
+      "bytes": 44336
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkahkawzu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkahkaw-a2017380.woff2",
+      "status": "ok",
+      "bytes": 22288
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcxkawzu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcxkaw-e51dbbd3.woff2",
+      "status": "ok",
+      "bytes": 13888
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkchkawzu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkchkaw-61f49e65.woff2",
+      "status": "ok",
+      "bytes": 28536
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbnka.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbnka-e486433f.woff2",
+      "status": "ok",
+      "bytes": 44192
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3gubgee.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3gubgee-a5b868c6.woff2",
+      "status": "ok",
+      "bytes": 35568
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3iubgee.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3iubgee-e6f2caf5.woff2",
+      "status": "ok",
+      "bytes": 22796
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3cubgee.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3cubgee-d1194f38.woff2",
+      "status": "ok",
+      "bytes": 4340
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3-ubgee.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3-ubgee-8fb7d90c.woff2",
+      "status": "ok",
+      "bytes": 17628
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamawcubgee.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamawcubgee-14c3eadc.woff2",
+      "status": "ok",
+      "bytes": 40572
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamaxkubgee.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamaxkubgee-f90ed428.woff2",
+      "status": "ok",
+      "bytes": 20408
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3oubgee.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3oubgee-a3936050.woff2",
+      "status": "ok",
+      "bytes": 13004
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3kubgee.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3kubgee-2e160c3a.woff2",
+      "status": "ok",
+      "bytes": 26428
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba-f0679747.woff2",
+      "status": "ok",
+      "bytes": 40128
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a-fd99deaf.woff2",
+      "status": "ok",
+      "bytes": 32284
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufj5qw54a.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-bngmuxzytxpivibgjjsb6ufj5qw54a-3adc995f.woff2",
+      "status": "ok",
+      "bytes": 21272
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufb5qw54a.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-bngmuxzytxpivibgjjsb6ufb5qw54a-47d7756e.woff2",
+      "status": "ok",
+      "bytes": 2184
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufo5qw54a.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-bngmuxzytxpivibgjjsb6ufo5qw54a-5a037805.woff2",
+      "status": "ok",
+      "bytes": 14852
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufc5qw54a.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-bngmuxzytxpivibgjjsb6ufc5qw54a-bf621697.woff2",
+      "status": "ok",
+      "bytes": 9872
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufd5qw54a.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-bngmuxzytxpivibgjjsb6ufd5qw54a-045fd402.woff2",
+      "status": "ok",
+      "bytes": 20760
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufn5qu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-bngmuxzytxpivibgjjsb6ufn5qu-7a23525c.woff2",
+      "status": "ok",
+      "bytes": 34328
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/elementor/google-fonts/fonts/sora-xmqbuffyt72xzqspdre2.woff2",
+      "kind": "font",
+      "localPath": "assets/font/sora-xmqbuffyt72xzqspdre2-dcb9d4c6.woff2",
+      "status": "ok",
+      "bytes": 15476
+    },
+    {
+      "url": "https://drpedrocamargo.com.br/wp-content/uploads/elementor/google-fonts/fonts/sora-xmqbuffyt72xzqupdg.woff2",
+      "kind": "font",
+      "localPath": "assets/font/sora-xmqbuffyt72xzqupdg-896872eb.woff2",
+      "status": "ok",
+      "bytes": 33616
+    }
+  ]
+}

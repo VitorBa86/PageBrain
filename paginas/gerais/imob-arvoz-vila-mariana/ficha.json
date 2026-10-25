@@ -1,0 +1,143 @@
+{
+ "nome": "Arvóz Vila Mariana | Samar Engenharia e Grupo Riema",
+ "slug": "imob-arvoz-vila-mariana",
+ "pasta_original": "Arvozvil imob",
+ "origem": "paginas/gerais",
+ "prioridade": "referencia",
+ "url": "https://www.arvozvilamariana.com.br/",
+ "plataforma": "WordPress",
+ "nicho": "Imobiliário",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#E1DCD1",
+   "#FFFFFF",
+   "#F1F1F1",
+   "#BB6229",
+   "#895D44",
+   "#703637"
+  ],
+  "textos": [
+   "#404040",
+   "#000000",
+   "#7D8A8F",
+   "#BB6229",
+   "#FFFFFF"
+  ],
+  "destaques": [
+   "#BB6229"
+  ],
+  "gradientes": []
+ },
+ "fontes": [
+  {
+   "familia": "Barlow",
+   "uso_pct": 100
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  76,
+  54,
+  38,
+  27,
+  20,
+  19,
+  16,
+  14
+ ],
+ "escala_tipografica_mobile_px": [
+  30,
+  27,
+  20,
+  17,
+  16,
+  15,
+  14,
+  14
+ ],
+ "h1_mobile": "30px",
+ "botao_principal": {
+  "fundo": "#BB6229",
+  "gradiente": null,
+  "texto": "#FFFFFF",
+  "raio": "6px",
+  "padding": "8px 20px",
+  "fonte": "Barlow",
+  "tamanho": "20px",
+  "peso": "700",
+  "caixa": "none",
+  "exemplos": [
+   "Enviar"
+  ]
+ },
+ "raios": [
+  "5px",
+  "3px",
+  "6px"
+ ],
+ "sombras": [],
+ "gaps": [],
+ "largura_conteudo_px": null,
+ "altura_pagina_px": 7810,
+ "secoes_qtde": 3,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 126
+  },
+  {
+   "ordem": 2,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 489
+  },
+  {
+   "ordem": 3,
+   "tipo": "rodape",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 42
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "bege",
+  "terracota",
+  "minimalista"
+ ],
+ "tecnicas": [
+  "Pop-up de áudio no vídeo"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "cmplz-fadein",
+   "n2-ss-loader-spin"
+  ],
+  "entrada_elementor": [],
+  "classes_scroll": []
+ },
+ "bibliotecas": [
+  "ga4",
+  "gtm"
+ ],
+ "snippets_usados": [],
+ "relevancia": 2,
+ "resumo": "Lançamento minimalista em bege com acento terracota: hero com vista aérea, render vertical grande, números em destaque (119 m², 3 suítes), galeria com miniaturas, ficha técnica centralizada e formulário simples.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": null,
+  "copy_real": null,
+  "json_elementor": null,
+  "ref": "ref/"
+ }
+}

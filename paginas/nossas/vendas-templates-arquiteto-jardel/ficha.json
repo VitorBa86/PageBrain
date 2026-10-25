@@ -1,0 +1,281 @@
+{
+ "nome": "Página PDB TEMPLATES [JARDEL]",
+ "slug": "vendas-templates-arquiteto-jardel",
+ "pasta_original": "Venda Template Arquiteto",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://lp.oreidalanding.com.br/templates-jardel/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Página de vendas",
+ "tipo_pagina": "vendas",
+ "paleta": {
+  "fundos": [
+   "#000000",
+   "#ECECEC",
+   "#161616",
+   "#F5F5F5",
+   "#0071A2",
+   "#009700"
+  ],
+  "textos": [
+   "#FFFFFF",
+   "#414141",
+   "#353535",
+   "#000000",
+   "#158ABD",
+   "#888888"
+  ],
+  "destaques": [
+   "#0071A2",
+   "#158ABD"
+  ],
+  "gradientes": [
+   "linear-gradient(rgb(0, 0, 0) 0%, rgb(14, 14, 14) 100%)",
+   "radial-gradient(47.89% 44.65% at 50% 49.96%, rgb(37, 37, 37) 0%, rgb(0, 0, 0) 100%)",
+   "linear-gradient(rgb(10, 49, 66) 0%, rgb(0, 0, 0) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Manrope",
+   "uso_pct": 79
+  },
+  {
+   "familia": "Nunito Sans",
+   "uso_pct": 17
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  104,
+  85,
+  43,
+  41,
+  40,
+  35,
+  34,
+  29,
+  25
+ ],
+ "escala_tipografica_mobile_px": [
+  33,
+  29,
+  27,
+  22,
+  21,
+  20,
+  19,
+  18
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#0071A2",
+  "gradiente": null,
+  "texto": "#FFFFFF",
+  "raio": "122px",
+  "padding": "20px 30px",
+  "fonte": "Manrope",
+  "tamanho": "18px",
+  "peso": "500",
+  "caixa": "uppercase",
+  "exemplos": [
+   "QUERO MEU TEMPLATE PROFISSIONAL",
+   "COMPRAR AGORA!"
+  ]
+ },
+ "raios": [
+  "22px",
+  "122px",
+  "18px",
+  "35px",
+  "6px",
+  "43px"
+ ],
+ "sombras": [
+  "rgba(0, 160, 220, 0.5) 0px 0px 16px 4px, rgba(255, 255, 255, 0.18) 0px 0px 9.7px 4px inset",
+  "rgba(0, 0, 0, 0.5) 8px 11px 28px 0px",
+  "rgba(0, 0, 0, 0.73) 13px 12px 32px 0px",
+  "rgba(0, 0, 0, 0.23) 6px -4px 25px 0px"
+ ],
+ "gaps": [
+  "20px",
+  "5px",
+  "60px",
+  "15px",
+  "10px",
+  "8px"
+ ],
+ "largura_conteudo_px": 1140,
+ "altura_pagina_px": 9883,
+ "secoes_qtde": 12,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "TEMPLATES PDB",
+   "fundo": "#000000",
+   "altura_px": 750
+  },
+  {
+   "ordem": 2,
+   "tipo": "faixa",
+   "titulo": "",
+   "fundo": "gradiente",
+   "altura_px": 80
+  },
+  {
+   "ordem": 3,
+   "tipo": "beneficios",
+   "titulo": "BENEFÍCIOS",
+   "fundo": "gradiente",
+   "altura_px": 796
+  },
+  {
+   "ordem": 4,
+   "tipo": "produto",
+   "titulo": "Conheça o Template por dentro",
+   "fundo": "#F3F3F3",
+   "altura_px": 724
+  },
+  {
+   "ordem": 5,
+   "tipo": "para-quem-e",
+   "titulo": "Para quem é o Template Descomplicando o BIM?",
+   "fundo": "#EBEBEB",
+   "altura_px": 714
+  },
+  {
+   "ordem": 6,
+   "tipo": "entregaveis",
+   "titulo": "O QUE VOU RECEBER?",
+   "fundo": "gradiente",
+   "altura_px": 2430
+  },
+  {
+   "ordem": 7,
+   "tipo": "faixa",
+   "titulo": "",
+   "fundo": "gradiente",
+   "altura_px": 54
+  },
+  {
+   "ordem": 8,
+   "tipo": "prova-social",
+   "titulo": "Centenas de profissionais estão economizando horas e triplicando sua produtivida",
+   "fundo": "#F3F3F3",
+   "altura_px": 917
+  },
+  {
+   "ordem": 9,
+   "tipo": "oferta",
+   "titulo": "Qual investimento?",
+   "fundo": "#000000",
+   "altura_px": 1654
+  },
+  {
+   "ordem": 10,
+   "tipo": "garantia",
+   "titulo": "JARDEL MENDES",
+   "fundo": "#161616",
+   "altura_px": 998
+  },
+  {
+   "ordem": 11,
+   "tipo": "sobre",
+   "titulo": "Perguntas Frequentes",
+   "fundo": "#000000",
+   "altura_px": 679
+  },
+  {
+   "ordem": 12,
+   "tipo": "faq",
+   "titulo": "Todos os direitos reservados © 2026",
+   "fundo": "#000000",
+   "altura_px": 88
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "faixa",
+  "beneficios",
+  "produto",
+  "para-quem-e",
+  "entregaveis",
+  "faixa",
+  "prova-social",
+  "oferta",
+  "garantia",
+  "sobre",
+  "faq",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "preto",
+  "azul-petroleo",
+  "claro-e-escuro",
+  "3d"
+ ],
+ "tecnicas": [
+  "Borda degradê",
+  "Elementos flutuando"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "btn-spin",
+   "carrossel",
+   "cursor",
+   "descer",
+   "fadeInDown",
+   "fadeInUp",
+   "float1",
+   "float2",
+   "girar"
+  ],
+  "entrada_elementor": [
+   "fadeInDown",
+   "fadeInUp"
+  ],
+  "classes_scroll": [
+   "scroll-bottom",
+   "scroll-left",
+   "scroll-right",
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "google-ads",
+  "gsap",
+  "happy-addons",
+  "jquery",
+  "lenis",
+  "lottie",
+  "meta-pixel",
+  "splitType",
+  "swiper"
+ ],
+ "snippets_usados": [
+  "botoes/botao-borda-girando-conic.css",
+  "animacoes/animacao-scroll-reveal.html",
+  "animacoes/gsap-texto-palavras-no-scroll.html",
+  "animacoes/elementos-flutuando.css",
+  "cards-e-bordas/card-borda-degrade.css",
+  "cards-e-bordas/vidro-fosco.css",
+  "faixas-e-carrosseis/faixa-animada-infinita.html",
+  "fundos-e-texturas/linhas-verticais-animadas.html",
+  "tracking-e-pixels/meta-pixel.html",
+  "tracking-e-pixels/google-ads-gtag.html",
+  "utilitarios-css/css-base-toda-pagina.css",
+  "utilitarios-css/faq-toggle-arredondado.css",
+  "utilitarios-css/elemento-posicao-absoluta.css"
+ ],
+ "relevancia": 4,
+ "resumo": "Venda de template de Revit, alternando preto e cinza claro, com renders 3D de casas. Linhas verticais animadas no fundo, botão com borda de luz girando, cards de entregável claros com lista e render, oferta com 50% de desconto e selo circular de garantia.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/vendas-templates-arquiteto-jardel.md",
+  "json_elementor": null
+ }
+}

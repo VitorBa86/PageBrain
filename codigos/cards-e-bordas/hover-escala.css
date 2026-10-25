@@ -1,0 +1,14 @@
+/*
+  SNIPPET: Card que cresce no hover
+  CATEGORIA: cards-e-bordas
+  O QUE FAZ: O container aumenta 5% ao passar o mouse.
+  COMO USAR: Cole no CSS personalizado do container. Combine com transition no próprio container (Avançado > Movimento) ou adicione transition: .3s.
+  ONDE COLAR: CSS personalizado do container
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: PÁGINAS NOSSAS/saude-luciano-grisotto-mastopexia
+  USADO EM: 6 página(s) da casa: imob-mb2-incorporacoes, negocio-hoffen-sports, negocio-inter-frios-refrigeracao, saude-luciano-grisotto-mastopexia, servico-rp-vision-marketing, vendas-scripts-consignado-jessica
+*/
+
+selector:hover{
+    transform: scale(1.05);
+}

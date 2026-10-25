@@ -1,0 +1,224 @@
+{
+ "nome": "Advogado Trabalhista | Garcia Almeida & Cintra",
+ "slug": "adv-garcia-almeida-trabalhista",
+ "pasta_original": "GArcia adv",
+ "origem": "paginas/gerais",
+ "prioridade": "referencia",
+ "url": "https://garciaealmeidaadvogados.com.br/advogado-direito-trabalho",
+ "plataforma": "desconhecida",
+ "nicho": "Advocacia",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#09162E",
+   "#23272A",
+   "#25D366"
+  ],
+  "textos": [
+   "#FFFFFF"
+  ],
+  "destaques": [
+   "#25D366"
+  ],
+  "gradientes": [
+   "linear-gradient(oklab(0.18 -0.00781417 -0.0443163 / 0.4) 0%, rgba(0, 0, 0, 0) 50%, oklab(0.18 -0.00781417 -0.0443164 / 0.9) 100%)",
+   "radial-gradient(900px at 15% 20%, rgba(142, 109, 64, 0.18), rgba(0, 0, 0, 0) 55%), linear-gradient(rgba(9, 22, 46, 0.4) 0%, rgba(9, 22, 46, 0.85) 100%)",
+   "radial-gradient(1000px at 20% 0%, rgba(142, 109, 64, 0.22), rgba(0, 0, 0, 0) 50%), radial-gradient(800px at 100% 100%, rgba(142, 109, 64, 0.14), rgba(0, 0, 0, 0) 50%), none"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Manrope",
+   "uso_pct": 81
+  },
+  {
+   "familia": "Instrument Serif",
+   "uso_pct": 15
+  },
+  {
+   "familia": "Montserrat",
+   "uso_pct": 4
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  72,
+  48,
+  24,
+  20,
+  18,
+  16,
+  14,
+  12
+ ],
+ "escala_tipografica_mobile_px": [
+  48,
+  36,
+  30,
+  24,
+  20,
+  18,
+  16,
+  16
+ ],
+ "h1_mobile": "12px",
+ "botao_principal": {
+  "fundo": "#25D366",
+  "gradiente": null,
+  "texto": "#FFFFFF",
+  "raio": "3.35544e+07px",
+  "padding": "14px 28px",
+  "fonte": "Manrope",
+  "tamanho": "14px",
+  "peso": "500",
+  "caixa": "none",
+  "exemplos": [
+   "Falar no WhatsApp",
+   "Falar com um especialista"
+  ]
+ },
+ "raios": [
+  "3.35544e+07px",
+  "20px",
+  "16px",
+  "24px",
+  "36px",
+  "32px"
+ ],
+ "sombras": [
+  "oklab(0.18 -0.00781417 -0.0443164 / 0.3) 0px 20px 60px -20px",
+  "oklab(0.18 -0.00781417 -0.0443164 / 0.08) 0px 1px 3px 0px, oklab(0.18 -0.00781417 -0.0443164 / 0.14) 0px 10px 30px -12px",
+  "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, oklab(0.999994 0.0000455678 0.0000200868 / 0.1) 0px 0px 0px 1px, rgba(0, 0, 0, 0.25) 0px 25px 50px"
+ ],
+ "gaps": [
+  "12px",
+  "8px",
+  "24px",
+  "56px",
+  "16px",
+  "20px"
+ ],
+ "largura_conteudo_px": 1200,
+ "altura_pagina_px": 8319,
+ "secoes_qtde": 10,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "ADVOGADO TRABALHISTA",
+   "fundo": "transparente",
+   "altura_px": 900
+  },
+  {
+   "ordem": 2,
+   "tipo": "",
+   "titulo": "Nem toda demissão acontece da forma correta.",
+   "fundo": "transparente",
+   "altura_px": 647
+  },
+  {
+   "ordem": 3,
+   "tipo": "servicos",
+   "titulo": "Atuamos com profundidade na defesa dos trabalhadores.",
+   "fundo": "#09162E",
+   "altura_px": 1015
+  },
+  {
+   "ordem": 4,
+   "tipo": "",
+   "titulo": "Estratégia jurídica construída para defender o trabalhador.",
+   "fundo": "transparente",
+   "altura_px": 686
+  },
+  {
+   "ordem": 5,
+   "tipo": "prova-social",
+   "titulo": "Histórias diferentes, o mesmo objetivo: garantir direitos.",
+   "fundo": "transparente",
+   "altura_px": 1065
+  },
+  {
+   "ordem": 6,
+   "tipo": "",
+   "titulo": "A legislação trabalhista protege os seus direitos.",
+   "fundo": "transparente",
+   "altura_px": 854
+  },
+  {
+   "ordem": 7,
+   "tipo": "como-funciona",
+   "titulo": "Um processo claro, do primeiro contato até a conclusão do caso.",
+   "fundo": "#23272A",
+   "altura_px": 797
+  },
+  {
+   "ordem": 8,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "imagem",
+   "altura_px": 821
+  },
+  {
+   "ordem": 9,
+   "tipo": "faq",
+   "titulo": "Dúvidas comuns antes do primeiro atendimento.",
+   "fundo": "transparente",
+   "altura_px": 734
+  },
+  {
+   "ordem": 10,
+   "tipo": "rodape",
+   "titulo": "Não deixe seus direitos para depois.",
+   "fundo": "gradiente",
+   "altura_px": 656
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "",
+  "servicos",
+  "",
+  "prova-social",
+  "",
+  "como-funciona",
+  "",
+  "faq",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "navy",
+  "off-white",
+  "serifa-italica",
+  "verde-whatsapp"
+ ],
+ "tecnicas": [
+  "Botões verdes de WhatsApp com seta"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "accordion-down",
+   "accordion-up",
+   "caret-blink",
+   "enter",
+   "exit",
+   "ping",
+   "pulse"
+  ],
+  "entrada_elementor": [],
+  "classes_scroll": []
+ },
+ "bibliotecas": [
+  "ga4"
+ ],
+ "snippets_usados": [],
+ "relevancia": 5,
+ "resumo": "Advocacia trabalhista muito alinhada ao padrão da casa: hero escuro com pergunta em serifa itálica, alternância off-white e navy, rótulos pequenos, cards escuros de direitos, personas com foto ('trabalhadores demitidos'...), processo 01 a 05, FAQ dividido e CTA final em card com foto.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": null,
+  "copy_real": null,
+  "json_elementor": null,
+  "ref": "ref/"
+ }
+}

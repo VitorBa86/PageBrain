@@ -1,0 +1,2199 @@
+{
+ "content": [
+  {
+   "id": "d1316d2",
+   "settings": {
+    "flex_direction": "row",
+    "flex_justify_content": "center",
+    "flex_align_items": "center",
+    "flex_gap": {
+     "column": "40",
+     "row": "40",
+     "isLinked": true,
+     "unit": "px",
+     "size": 40
+    },
+    "padding": {
+     "unit": "px",
+     "top": "80",
+     "right": "20",
+     "bottom": "80",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "360",
+     "right": "16",
+     "bottom": "50",
+     "left": "16",
+     "isLinked": false
+    },
+    "min_height": {
+     "unit": "px",
+     "size": 800,
+     "sizes": []
+    },
+    "background_background": "classic",
+    "background_image": {
+     "url": "file:///Users/vitorbarros/METODO%20SITE%20IA%202/PageBrain/pagebrain/elementor/templates/imagens/IMG-01.webp",
+     "id": "",
+     "size": "",
+     "source": "url"
+    },
+    "background_size": "cover",
+    "background_position": "center center",
+    "background_repeat": "no-repeat",
+    "background_color": "#FAF8F5",
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1140,
+     "sizes": []
+    },
+    "flex_direction_mobile": "column",
+    "css_classes": "hero",
+    "_element_id": "inicio"
+   },
+   "elements": [
+    {
+     "id": "3715254",
+     "settings": {
+      "flex_direction": "column",
+      "flex_gap": {
+       "column": "20",
+       "row": "20",
+       "isLinked": true,
+       "unit": "px",
+       "size": 20
+      },
+      "content_width": "full",
+      "width": {
+       "unit": "%",
+       "size": 49.1,
+       "sizes": []
+      },
+      "width_mobile": {
+       "unit": "%",
+       "size": 100,
+       "sizes": []
+      },
+      "css_classes": "col scroll-bottom"
+     },
+     "elements": [
+      {
+       "id": "a6861e3",
+       "settings": {
+        "image": {
+         "url": "file:///Users/vitorbarros/METODO%20SITE%20IA%202/PageBrain/pagebrain/elementor/templates/imagens/logo.png",
+         "id": "",
+         "size": "",
+         "alt": "Logo [Nome da Psicóloga]",
+         "source": "url"
+        },
+        "image_size": "full",
+        "width": {
+         "unit": "%",
+         "size": 36,
+         "sizes": []
+        },
+        "_css_classes": "logo"
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "image",
+       "elType": "widget"
+      },
+      {
+       "id": "751428e",
+       "settings": {
+        "editor": "<p>Psicologia clínica em Curitiba · Online e presencial</p>",
+        "text_color": "#B38A3D",
+        "typography_typography": "custom",
+        "typography_font_family": "Inter",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 12,
+         "sizes": []
+        },
+        "typography_font_weight": "600",
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.4,
+         "sizes": []
+        },
+        "typography_letter_spacing": {
+         "unit": "px",
+         "size": 1.8,
+         "sizes": []
+        },
+        "typography_text_transform": "uppercase",
+        "typography_font_size_mobile": {
+         "unit": "vw",
+         "size": 3.8,
+         "sizes": []
+        },
+        "typography_line_height_mobile": {
+         "unit": "em",
+         "size": 1.4,
+         "sizes": []
+        },
+        "paragraph_spacing": {
+         "unit": "px",
+         "size": 0,
+         "sizes": []
+        },
+        "_css_classes": "rotulo"
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "text-editor",
+       "elType": "widget"
+      },
+      {
+       "id": "8fe5917",
+       "settings": {
+        "title": "A ansiedade não precisa decidir o seu dia. <em>Existe tratamento.</em>",
+        "header_size": "h1",
+        "title_color": "#173B47",
+        "typography_typography": "custom",
+        "typography_font_family": "Fraunces",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 46,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.1,
+         "sizes": []
+        },
+        "typography_font_size_mobile": {
+         "unit": "vw",
+         "size": 7.4,
+         "sizes": []
+        },
+        "typography_line_height_mobile": {
+         "unit": "em",
+         "size": 1.1,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "heading",
+       "elType": "widget"
+      },
+      {
+       "id": "8ce39d1",
+       "settings": {
+        "editor": "<p>Terapia para adultos que vivem com preocupação constante e querem voltar a ter calma na rotina. Sessões no Batel ou online.</p>",
+        "text_color": "#4A4A4A",
+        "typography_typography": "custom",
+        "typography_font_family": "Inter",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 17,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.7,
+         "sizes": []
+        },
+        "typography_font_size_mobile": {
+         "unit": "vw",
+         "size": 3.8,
+         "sizes": []
+        },
+        "typography_line_height_mobile": {
+         "unit": "em",
+         "size": 1.7,
+         "sizes": []
+        },
+        "paragraph_spacing": {
+         "unit": "px",
+         "size": 0,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "text-editor",
+       "elType": "widget"
+      },
+      {
+       "id": "2bc20b4",
+       "settings": {
+        "text": "Agendar uma conversa",
+        "link": {
+         "url": "https://wa.me/5541999999999?text=Ol%C3%A1!%20Vim%20pelo%20site%20e%20quero%20agendar%20uma%20primeira%20conversa.",
+         "is_external": "on",
+         "nofollow": ""
+        },
+        "typography_typography": "custom",
+        "typography_font_family": "Inter",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 18,
+         "sizes": []
+        },
+        "typography_font_weight": "500",
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.4,
+         "sizes": []
+        },
+        "typography_line_height_mobile": {
+         "unit": "em",
+         "size": 1.4,
+         "sizes": []
+        },
+        "button_text_color": "#FFFFFF",
+        "background_background": "gradient",
+        "background_color": "#2A6478",
+        "background_color_stop": {
+         "unit": "%",
+         "size": 0,
+         "sizes": []
+        },
+        "background_color_b": "#1F4E5F",
+        "background_color_b_stop": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "background_gradient_angle": {
+         "unit": "deg",
+         "size": 180,
+         "sizes": []
+        },
+        "border_radius": {
+         "unit": "px",
+         "top": "999",
+         "right": "999",
+         "bottom": "999",
+         "left": "999",
+         "isLinked": true
+        },
+        "text_padding": {
+         "unit": "px",
+         "top": "18",
+         "right": "40",
+         "bottom": "18",
+         "left": "40",
+         "isLinked": false
+        },
+        "text_padding_mobile": {
+         "unit": "px",
+         "top": "18",
+         "right": "40",
+         "bottom": "18",
+         "left": "40",
+         "isLinked": false
+        },
+        "_css_classes": "btn"
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "button",
+       "elType": "widget"
+      }
+     ],
+     "isInner": true,
+     "elType": "container"
+    }
+   ],
+   "isInner": false,
+   "elType": "container"
+  },
+  {
+   "id": "9b14df3",
+   "settings": {
+    "flex_direction": "column",
+    "flex_align_items": "center",
+    "flex_gap": {
+     "column": "20",
+     "row": "20",
+     "isLinked": true,
+     "unit": "px",
+     "size": 20
+    },
+    "padding": {
+     "unit": "px",
+     "top": "80",
+     "right": "20",
+     "bottom": "80",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "50",
+     "right": "16",
+     "bottom": "50",
+     "left": "16",
+     "isLinked": false
+    },
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1140,
+     "sizes": []
+    },
+    "_element_id": "dor"
+   },
+   "elements": [
+    {
+     "id": "70a254d",
+     "settings": {
+      "editor": "<p>Para quem é</p>",
+      "text_color": "#B38A3D",
+      "typography_typography": "custom",
+      "typography_font_family": "Inter",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 12,
+       "sizes": []
+      },
+      "typography_font_weight": "600",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.4,
+       "sizes": []
+      },
+      "typography_letter_spacing": {
+       "unit": "px",
+       "size": 1.8,
+       "sizes": []
+      },
+      "typography_text_transform": "uppercase",
+      "typography_line_height_mobile": {
+       "unit": "em",
+       "size": 1.4,
+       "sizes": []
+      },
+      "paragraph_spacing": {
+       "unit": "px",
+       "size": 0,
+       "sizes": []
+      },
+      "_css_classes": "rotulo"
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "text-editor",
+     "elType": "widget"
+    },
+    {
+     "id": "c88880f",
+     "settings": {
+      "title": "Se a sua cabeça não desliga, esta página é para você.",
+      "header_size": "h2",
+      "title_color": "#173B47",
+      "typography_typography": "custom",
+      "typography_font_family": "Fraunces",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 40,
+       "sizes": []
+      },
+      "typography_font_weight": "400",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.15,
+       "sizes": []
+      },
+      "typography_font_size_mobile": {
+       "unit": "vw",
+       "size": 6.7,
+       "sizes": []
+      },
+      "typography_line_height_mobile": {
+       "unit": "em",
+       "size": 1.15,
+       "sizes": []
+      }
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "heading",
+     "elType": "widget"
+    },
+    {
+     "id": "38a3a96",
+     "settings": {
+      "flex_direction": "row",
+      "flex_wrap": "wrap",
+      "flex_gap": {
+       "column": "20",
+       "row": "20",
+       "isLinked": true,
+       "unit": "px",
+       "size": 20
+      },
+      "content_width": "full",
+      "css_classes": "cards"
+     },
+     "elements": [
+      {
+       "id": "3e88200",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "column": "10",
+         "row": "10",
+         "isLinked": true,
+         "unit": "px",
+         "size": 10
+        },
+        "padding": {
+         "unit": "px",
+         "top": "28",
+         "right": "28",
+         "bottom": "28",
+         "left": "28",
+         "isLinked": true
+        },
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "border_radius": {
+         "unit": "px",
+         "top": "12",
+         "right": "12",
+         "bottom": "12",
+         "left": "12",
+         "isLinked": true
+        },
+        "box_shadow_box_shadow_type": "yes",
+        "box_shadow_box_shadow": {
+         "horizontal": 0,
+         "vertical": 12,
+         "blur": 40,
+         "spread": 0,
+         "color": "rgba(31, 78, 95, 0.06)"
+        },
+        "content_width": "full",
+        "width": {
+         "unit": "%",
+         "size": 32.2,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "css_classes": "card scroll-bottom"
+       },
+       "elements": [
+        {
+         "id": "467a068",
+         "settings": {
+          "flex_direction": "row",
+          "flex_justify_content": "center",
+          "flex_align_items": "center",
+          "flex_gap": {
+           "column": "0",
+           "row": "0",
+           "isLinked": true,
+           "unit": "px",
+           "size": 0
+          },
+          "background_background": "classic",
+          "background_color": "#F2EEE8",
+          "content_width": "full",
+          "width": {
+           "unit": "%",
+           "size": 13.1,
+           "sizes": []
+          },
+          "css_classes": "ic"
+         },
+         "elements": [
+          {
+           "id": "6d5b7ef",
+           "settings": {
+            "html": "<svg aria-hidden=\"true\" viewBox=\"0 0 24 24\"><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.6\" d=\"M20.985 12.486a9 9 0 1 1-9.473-9.472c.405-.022.617.46.402.803a6 6 0 0 0 8.268 8.268c.344-.215.825-.004.803.401\"></path></svg>"
+           },
+           "elements": [],
+           "isInner": false,
+           "widgetType": "html",
+           "elType": "widget"
+          }
+         ],
+         "isInner": true,
+         "elType": "container"
+        },
+        {
+         "id": "5969dac",
+         "settings": {
+          "title": "A mente acelerada à noite",
+          "header_size": "h3",
+          "title_color": "#2A2A2A",
+          "typography_typography": "custom",
+          "typography_font_family": "Inter",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 20,
+           "sizes": []
+          },
+          "typography_font_weight": "600",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.3,
+           "sizes": []
+          },
+          "typography_line_height_mobile": {
+           "unit": "em",
+           "size": 1.3,
+           "sizes": []
+          }
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "heading",
+         "elType": "widget"
+        },
+        {
+         "id": "64b87a8",
+         "settings": {
+          "editor": "<p>Você deita cansada e o pensamento começa a correr. O sono chega tarde e o dia seguinte já começa pesado.</p>",
+          "text_color": "#4A4A4A",
+          "typography_typography": "custom",
+          "typography_font_family": "Inter",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 15,
+           "sizes": []
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.7,
+           "sizes": []
+          },
+          "typography_line_height_mobile": {
+           "unit": "em",
+           "size": 1.7,
+           "sizes": []
+          },
+          "paragraph_spacing": {
+           "unit": "px",
+           "size": 0,
+           "sizes": []
+          }
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "text-editor",
+         "elType": "widget"
+        }
+       ],
+       "isInner": true,
+       "elType": "container"
+      },
+      {
+       "id": "715e624",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "column": "10",
+         "row": "10",
+         "isLinked": true,
+         "unit": "px",
+         "size": 10
+        },
+        "padding": {
+         "unit": "px",
+         "top": "28",
+         "right": "28",
+         "bottom": "28",
+         "left": "28",
+         "isLinked": true
+        },
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "border_radius": {
+         "unit": "px",
+         "top": "12",
+         "right": "12",
+         "bottom": "12",
+         "left": "12",
+         "isLinked": true
+        },
+        "box_shadow_box_shadow_type": "yes",
+        "box_shadow_box_shadow": {
+         "horizontal": 0,
+         "vertical": 12,
+         "blur": 40,
+         "spread": 0,
+         "color": "rgba(31, 78, 95, 0.06)"
+        },
+        "content_width": "full",
+        "width": {
+         "unit": "%",
+         "size": 32.2,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "css_classes": "card scroll-bottom"
+       },
+       "elements": [
+        {
+         "id": "c66ef34",
+         "settings": {
+          "flex_direction": "row",
+          "flex_justify_content": "center",
+          "flex_align_items": "center",
+          "flex_gap": {
+           "column": "0",
+           "row": "0",
+           "isLinked": true,
+           "unit": "px",
+           "size": 0
+          },
+          "background_background": "classic",
+          "background_color": "#F2EEE8",
+          "content_width": "full",
+          "width": {
+           "unit": "%",
+           "size": 13.1,
+           "sizes": []
+          },
+          "css_classes": "ic"
+         },
+         "elements": [
+          {
+           "id": "06ea799",
+           "settings": {
+            "html": "<svg aria-hidden=\"true\" viewBox=\"0 0 24 24\"><g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.6\"><path d=\"M16 14v2.2l1.6 1M16 2v3m5 2.338V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h2.338M3 9h5.859M8 2v3\"></path><circle fill=\"currentColor\" cx=\"16\" cy=\"16\" r=\"6\"></circle></g></svg>"
+           },
+           "elements": [],
+           "isInner": false,
+           "widgetType": "html",
+           "elType": "widget"
+          }
+         ],
+         "isInner": true,
+         "elType": "container"
+        },
+        {
+         "id": "6c173f1",
+         "settings": {
+          "title": "Medo do que ainda não aconteceu",
+          "header_size": "h3",
+          "title_color": "#2A2A2A",
+          "typography_typography": "custom",
+          "typography_font_family": "Inter",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 20,
+           "sizes": []
+          },
+          "typography_font_weight": "600",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.3,
+           "sizes": []
+          },
+          "typography_line_height_mobile": {
+           "unit": "em",
+           "size": 1.3,
+           "sizes": []
+          }
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "heading",
+         "elType": "widget"
+        },
+        {
+         "id": "18bb01e",
+         "settings": {
+          "editor": "<p>Uma conversa difícil marcada para sexta ocupa a semana inteira.</p>",
+          "text_color": "#4A4A4A",
+          "typography_typography": "custom",
+          "typography_font_family": "Inter",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 15,
+           "sizes": []
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.7,
+           "sizes": []
+          },
+          "typography_line_height_mobile": {
+           "unit": "em",
+           "size": 1.7,
+           "sizes": []
+          },
+          "paragraph_spacing": {
+           "unit": "px",
+           "size": 0,
+           "sizes": []
+          }
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "text-editor",
+         "elType": "widget"
+        }
+       ],
+       "isInner": true,
+       "elType": "container"
+      },
+      {
+       "id": "5884840",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "column": "10",
+         "row": "10",
+         "isLinked": true,
+         "unit": "px",
+         "size": 10
+        },
+        "padding": {
+         "unit": "px",
+         "top": "28",
+         "right": "28",
+         "bottom": "28",
+         "left": "28",
+         "isLinked": true
+        },
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "border_radius": {
+         "unit": "px",
+         "top": "12",
+         "right": "12",
+         "bottom": "12",
+         "left": "12",
+         "isLinked": true
+        },
+        "box_shadow_box_shadow_type": "yes",
+        "box_shadow_box_shadow": {
+         "horizontal": 0,
+         "vertical": 12,
+         "blur": 40,
+         "spread": 0,
+         "color": "rgba(31, 78, 95, 0.06)"
+        },
+        "content_width": "full",
+        "width": {
+         "unit": "%",
+         "size": 32.2,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "css_classes": "card scroll-bottom"
+       },
+       "elements": [
+        {
+         "id": "3915dc6",
+         "settings": {
+          "flex_direction": "row",
+          "flex_justify_content": "center",
+          "flex_align_items": "center",
+          "flex_gap": {
+           "column": "0",
+           "row": "0",
+           "isLinked": true,
+           "unit": "px",
+           "size": 0
+          },
+          "background_background": "classic",
+          "background_color": "#F2EEE8",
+          "content_width": "full",
+          "width": {
+           "unit": "%",
+           "size": 13.1,
+           "sizes": []
+          },
+          "css_classes": "ic"
+         },
+         "elements": [
+          {
+           "id": "8792a6f",
+           "settings": {
+            "html": "<svg aria-hidden=\"true\" viewBox=\"0 0 24 24\"><g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.6\"><path d=\"M2 9.5a5.5 5.5 0 0 1 9.591-3.676a.56.56 0 0 0 .818 0A5.49 5.49 0 0 1 22 9.5c0 2.29-1.5 4-3 5.5l-5.492 5.313a2 2 0 0 1-3 .019L5 15c-1.5-1.5-3-3.2-3-5.5\"></path><path d=\"M3.22 13H9.5l.5-1l2 4.5l2-7l1.5 3.5h5.27\"></path></g></svg>"
+           },
+           "elements": [],
+           "isInner": false,
+           "widgetType": "html",
+           "elType": "widget"
+          }
+         ],
+         "isInner": true,
+         "elType": "container"
+        },
+        {
+         "id": "5a7d1c9",
+         "settings": {
+          "title": "O corpo avisa antes",
+          "header_size": "h3",
+          "title_color": "#2A2A2A",
+          "typography_typography": "custom",
+          "typography_font_family": "Inter",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 20,
+           "sizes": []
+          },
+          "typography_font_weight": "600",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.3,
+           "sizes": []
+          },
+          "typography_line_height_mobile": {
+           "unit": "em",
+           "size": 1.3,
+           "sizes": []
+          }
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "heading",
+         "elType": "widget"
+        },
+        {
+         "id": "9cfa68f",
+         "settings": {
+          "editor": "<p>Aperto no peito, tensão nos ombros, falta de ar em lugares cheios.</p>",
+          "text_color": "#4A4A4A",
+          "typography_typography": "custom",
+          "typography_font_family": "Inter",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 15,
+           "sizes": []
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.7,
+           "sizes": []
+          },
+          "typography_line_height_mobile": {
+           "unit": "em",
+           "size": 1.7,
+           "sizes": []
+          },
+          "paragraph_spacing": {
+           "unit": "px",
+           "size": 0,
+           "sizes": []
+          }
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "text-editor",
+         "elType": "widget"
+        }
+       ],
+       "isInner": true,
+       "elType": "container"
+      }
+     ],
+     "isInner": true,
+     "elType": "container"
+    },
+    {
+     "id": "96a29c7",
+     "settings": {
+      "text": "Agendar uma conversa",
+      "link": {
+       "url": "https://wa.me/5541999999999",
+       "is_external": "on",
+       "nofollow": ""
+      },
+      "typography_typography": "custom",
+      "typography_font_family": "Inter",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 18,
+       "sizes": []
+      },
+      "typography_font_weight": "500",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.4,
+       "sizes": []
+      },
+      "typography_line_height_mobile": {
+       "unit": "em",
+       "size": 1.4,
+       "sizes": []
+      },
+      "button_text_color": "#FFFFFF",
+      "background_background": "gradient",
+      "background_color": "#2A6478",
+      "background_color_stop": {
+       "unit": "%",
+       "size": 0,
+       "sizes": []
+      },
+      "background_color_b": "#1F4E5F",
+      "background_color_b_stop": {
+       "unit": "%",
+       "size": 100,
+       "sizes": []
+      },
+      "background_gradient_angle": {
+       "unit": "deg",
+       "size": 180,
+       "sizes": []
+      },
+      "border_radius": {
+       "unit": "px",
+       "top": "999",
+       "right": "999",
+       "bottom": "999",
+       "left": "999",
+       "isLinked": true
+      },
+      "text_padding": {
+       "unit": "px",
+       "top": "18",
+       "right": "40",
+       "bottom": "18",
+       "left": "40",
+       "isLinked": false
+      },
+      "text_padding_mobile": {
+       "unit": "px",
+       "top": "18",
+       "right": "40",
+       "bottom": "18",
+       "left": "40",
+       "isLinked": false
+      },
+      "_css_classes": "btn"
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "button",
+     "elType": "widget"
+    }
+   ],
+   "isInner": false,
+   "elType": "container"
+  },
+  {
+   "id": "c20e163",
+   "settings": {
+    "flex_direction": "row",
+    "flex_align_items": "center",
+    "flex_gap": {
+     "column": "40",
+     "row": "40",
+     "isLinked": true,
+     "unit": "px",
+     "size": 40
+    },
+    "padding": {
+     "unit": "px",
+     "top": "80",
+     "right": "20",
+     "bottom": "80",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "50",
+     "right": "16",
+     "bottom": "50",
+     "left": "16",
+     "isLinked": false
+    },
+    "background_background": "classic",
+    "background_color": "#F2EEE8",
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1140,
+     "sizes": []
+    },
+    "flex_direction_mobile": "column",
+    "css_classes": "alt",
+    "_element_id": "sobre"
+   },
+   "elements": [
+    {
+     "id": "6c52640",
+     "settings": {
+      "flex_direction": "column",
+      "flex_gap": {
+       "column": "20",
+       "row": "20",
+       "isLinked": true,
+       "unit": "px",
+       "size": 20
+      },
+      "content_width": "full",
+      "width": {
+       "unit": "%",
+       "size": 48.2,
+       "sizes": []
+      },
+      "css_classes": "col"
+     },
+     "elements": [
+      {
+       "id": "a1cd8ba",
+       "settings": {
+        "image": {
+         "url": "https://placehold.co/520x560/F2EEE8/1F4E5F?text=Foto+no+consult%C3%B3rio",
+         "id": "",
+         "size": "",
+         "alt": "Consultório",
+         "source": "url"
+        },
+        "image_size": "full"
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "image",
+       "elType": "widget"
+      }
+     ],
+     "isInner": true,
+     "elType": "container"
+    },
+    {
+     "id": "681f9fc",
+     "settings": {
+      "flex_direction": "column",
+      "flex_gap": {
+       "column": "20",
+       "row": "20",
+       "isLinked": true,
+       "unit": "px",
+       "size": 20
+      },
+      "content_width": "full",
+      "width": {
+       "unit": "%",
+       "size": 48.2,
+       "sizes": []
+      },
+      "width_mobile": {
+       "unit": "%",
+       "size": 100,
+       "sizes": []
+      },
+      "css_classes": "col scroll-bottom"
+     },
+     "elements": [
+      {
+       "id": "3520c1e",
+       "settings": {
+        "editor": "<p>Quem vai cuidar de você</p>",
+        "text_color": "#B38A3D",
+        "typography_typography": "custom",
+        "typography_font_family": "Inter",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 12,
+         "sizes": []
+        },
+        "typography_font_weight": "600",
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.4,
+         "sizes": []
+        },
+        "typography_letter_spacing": {
+         "unit": "px",
+         "size": 1.8,
+         "sizes": []
+        },
+        "typography_text_transform": "uppercase",
+        "typography_line_height_mobile": {
+         "unit": "em",
+         "size": 1.4,
+         "sizes": []
+        },
+        "paragraph_spacing": {
+         "unit": "px",
+         "size": 0,
+         "sizes": []
+        },
+        "_css_classes": "rotulo"
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "text-editor",
+       "elType": "widget"
+      },
+      {
+       "id": "3100e3c",
+       "settings": {
+        "title": "[Nome da Psicóloga]",
+        "header_size": "h2",
+        "title_color": "#173B47",
+        "typography_typography": "custom",
+        "typography_font_family": "Fraunces",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 40,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.15,
+         "sizes": []
+        },
+        "typography_font_size_mobile": {
+         "unit": "vw",
+         "size": 6.7,
+         "sizes": []
+        },
+        "typography_line_height_mobile": {
+         "unit": "em",
+         "size": 1.15,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "heading",
+       "elType": "widget"
+      },
+      {
+       "id": "f7f75ae",
+       "settings": {
+        "editor": "<p>Psicóloga clínica, CRP [CONFIRMAR COM CLIENTE]. Atendo adultos com ansiedade há [X] anos, com base na Terapia Cognitivo-Comportamental.</p>",
+        "text_color": "#4A4A4A",
+        "typography_typography": "custom",
+        "typography_font_family": "Inter",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 17,
+         "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.7,
+         "sizes": []
+        },
+        "typography_line_height_mobile": {
+         "unit": "em",
+         "size": 1.7,
+         "sizes": []
+        },
+        "paragraph_spacing": {
+         "unit": "px",
+         "size": 0,
+         "sizes": []
+        }
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "text-editor",
+       "elType": "widget"
+      },
+      {
+       "id": "5280a22",
+       "settings": {
+        "icon_list": [
+         {
+          "text": "Sessões de 50 minutos, uma vez por semana",
+          "selected_icon": {
+           "value": "fas fa-check",
+           "library": "fa-solid"
+          },
+          "_id": "462d5f2"
+         },
+         {
+          "text": "Consultório no Batel e atendimento online",
+          "selected_icon": {
+           "value": "fas fa-check",
+           "library": "fa-solid"
+          },
+          "_id": "0f71c1a"
+         },
+         {
+          "text": "Recibo para reembolso do plano de saúde",
+          "selected_icon": {
+           "value": "fas fa-check",
+           "library": "fa-solid"
+          },
+          "_id": "3288489"
+         }
+        ],
+        "icon_typography_typography": "custom",
+        "icon_typography_font_family": "Inter",
+        "icon_typography_font_size": {
+         "unit": "px",
+         "size": 16,
+         "sizes": []
+        },
+        "icon_typography_font_weight": "400",
+        "text_color": "#2A2A2A",
+        "icon_color": "#2A2A2A"
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "icon-list",
+       "elType": "widget"
+      }
+     ],
+     "isInner": true,
+     "elType": "container"
+    }
+   ],
+   "isInner": false,
+   "elType": "container"
+  },
+  {
+   "id": "0b37590",
+   "settings": {
+    "flex_direction": "column",
+    "flex_align_items": "center",
+    "flex_gap": {
+     "column": "20",
+     "row": "20",
+     "isLinked": true,
+     "unit": "px",
+     "size": 20
+    },
+    "padding": {
+     "unit": "px",
+     "top": "80",
+     "right": "20",
+     "bottom": "80",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "50",
+     "right": "16",
+     "bottom": "50",
+     "left": "16",
+     "isLinked": false
+    },
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1140,
+     "sizes": []
+    },
+    "_element_id": "como-funciona"
+   },
+   "elements": [
+    {
+     "id": "d590050",
+     "settings": {
+      "editor": "<p>Como funciona</p>",
+      "text_color": "#B38A3D",
+      "typography_typography": "custom",
+      "typography_font_family": "Inter",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 12,
+       "sizes": []
+      },
+      "typography_font_weight": "600",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.4,
+       "sizes": []
+      },
+      "typography_letter_spacing": {
+       "unit": "px",
+       "size": 1.8,
+       "sizes": []
+      },
+      "typography_text_transform": "uppercase",
+      "typography_line_height_mobile": {
+       "unit": "em",
+       "size": 1.4,
+       "sizes": []
+      },
+      "paragraph_spacing": {
+       "unit": "px",
+       "size": 0,
+       "sizes": []
+      },
+      "_css_classes": "rotulo"
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "text-editor",
+     "elType": "widget"
+    },
+    {
+     "id": "6011fdf",
+     "settings": {
+      "title": "Três passos até a primeira sessão",
+      "header_size": "h2",
+      "title_color": "#173B47",
+      "typography_typography": "custom",
+      "typography_font_family": "Fraunces",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 40,
+       "sizes": []
+      },
+      "typography_font_weight": "400",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.15,
+       "sizes": []
+      },
+      "typography_font_size_mobile": {
+       "unit": "vw",
+       "size": 6.7,
+       "sizes": []
+      },
+      "typography_line_height_mobile": {
+       "unit": "em",
+       "size": 1.15,
+       "sizes": []
+      }
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "heading",
+     "elType": "widget"
+    },
+    {
+     "id": "1e5a3a9",
+     "settings": {
+      "flex_direction": "row",
+      "flex_gap": {
+       "column": "20",
+       "row": "20",
+       "isLinked": true,
+       "unit": "px",
+       "size": 20
+      },
+      "flex_direction_mobile": "column",
+      "content_width": "full",
+      "css_classes": "passos"
+     },
+     "elements": [
+      {
+       "id": "d8cdfee",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "column": "8",
+         "row": "8",
+         "isLinked": true,
+         "unit": "px",
+         "size": 8
+        },
+        "content_width": "full",
+        "width": {
+         "unit": "%",
+         "size": 32.2,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "css_classes": "passo"
+       },
+       "elements": [
+        {
+         "id": "c1bbd13",
+         "settings": {
+          "editor": "<p>01</p>",
+          "text_color": "#1F4E5F",
+          "typography_typography": "custom",
+          "typography_font_family": "Fraunces",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 56,
+           "sizes": []
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.0,
+           "sizes": []
+          },
+          "typography_line_height_mobile": {
+           "unit": "em",
+           "size": 1.0,
+           "sizes": []
+          },
+          "paragraph_spacing": {
+           "unit": "px",
+           "size": 0,
+           "sizes": []
+          },
+          "_css_classes": "num"
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "text-editor",
+         "elType": "widget"
+        },
+        {
+         "id": "374f800",
+         "settings": {
+          "title": "Você chama no WhatsApp",
+          "header_size": "h3",
+          "title_color": "#2A2A2A",
+          "typography_typography": "custom",
+          "typography_font_family": "Inter",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 20,
+           "sizes": []
+          },
+          "typography_font_weight": "600",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.3,
+           "sizes": []
+          },
+          "typography_line_height_mobile": {
+           "unit": "em",
+           "size": 1.3,
+           "sizes": []
+          }
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "heading",
+         "elType": "widget"
+        },
+        {
+         "id": "9e22bcc",
+         "settings": {
+          "editor": "<p>Conta em poucas linhas o que está vivendo.</p>",
+          "text_color": "#4A4A4A",
+          "typography_typography": "custom",
+          "typography_font_family": "Inter",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17,
+           "sizes": []
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.7,
+           "sizes": []
+          },
+          "typography_line_height_mobile": {
+           "unit": "em",
+           "size": 1.7,
+           "sizes": []
+          },
+          "paragraph_spacing": {
+           "unit": "px",
+           "size": 0,
+           "sizes": []
+          }
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "text-editor",
+         "elType": "widget"
+        }
+       ],
+       "isInner": true,
+       "elType": "container"
+      },
+      {
+       "id": "5dc4d01",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "column": "8",
+         "row": "8",
+         "isLinked": true,
+         "unit": "px",
+         "size": 8
+        },
+        "content_width": "full",
+        "width": {
+         "unit": "%",
+         "size": 32.2,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "css_classes": "passo"
+       },
+       "elements": [
+        {
+         "id": "5b7eec3",
+         "settings": {
+          "editor": "<p>02</p>",
+          "text_color": "#1F4E5F",
+          "typography_typography": "custom",
+          "typography_font_family": "Fraunces",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 56,
+           "sizes": []
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.0,
+           "sizes": []
+          },
+          "typography_line_height_mobile": {
+           "unit": "em",
+           "size": 1.0,
+           "sizes": []
+          },
+          "paragraph_spacing": {
+           "unit": "px",
+           "size": 0,
+           "sizes": []
+          },
+          "_css_classes": "num"
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "text-editor",
+         "elType": "widget"
+        },
+        {
+         "id": "6bc0972",
+         "settings": {
+          "title": "Combinamos o horário",
+          "header_size": "h3",
+          "title_color": "#2A2A2A",
+          "typography_typography": "custom",
+          "typography_font_family": "Inter",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 20,
+           "sizes": []
+          },
+          "typography_font_weight": "600",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.3,
+           "sizes": []
+          },
+          "typography_line_height_mobile": {
+           "unit": "em",
+           "size": 1.3,
+           "sizes": []
+          }
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "heading",
+         "elType": "widget"
+        },
+        {
+         "id": "b94e709",
+         "settings": {
+          "editor": "<p>Online ou presencial, no horário que couber na sua semana.</p>",
+          "text_color": "#4A4A4A",
+          "typography_typography": "custom",
+          "typography_font_family": "Inter",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17,
+           "sizes": []
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.7,
+           "sizes": []
+          },
+          "typography_line_height_mobile": {
+           "unit": "em",
+           "size": 1.7,
+           "sizes": []
+          },
+          "paragraph_spacing": {
+           "unit": "px",
+           "size": 0,
+           "sizes": []
+          }
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "text-editor",
+         "elType": "widget"
+        }
+       ],
+       "isInner": true,
+       "elType": "container"
+      },
+      {
+       "id": "41bf113",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "column": "8",
+         "row": "8",
+         "isLinked": true,
+         "unit": "px",
+         "size": 8
+        },
+        "content_width": "full",
+        "width": {
+         "unit": "%",
+         "size": 32.2,
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100,
+         "sizes": []
+        },
+        "css_classes": "passo"
+       },
+       "elements": [
+        {
+         "id": "e2e2ae4",
+         "settings": {
+          "editor": "<p>03</p>",
+          "text_color": "#1F4E5F",
+          "typography_typography": "custom",
+          "typography_font_family": "Fraunces",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 56,
+           "sizes": []
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.0,
+           "sizes": []
+          },
+          "typography_line_height_mobile": {
+           "unit": "em",
+           "size": 1.0,
+           "sizes": []
+          },
+          "paragraph_spacing": {
+           "unit": "px",
+           "size": 0,
+           "sizes": []
+          },
+          "_css_classes": "num"
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "text-editor",
+         "elType": "widget"
+        },
+        {
+         "id": "da0d3a2",
+         "settings": {
+          "title": "Primeira sessão",
+          "header_size": "h3",
+          "title_color": "#2A2A2A",
+          "typography_typography": "custom",
+          "typography_font_family": "Inter",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 20,
+           "sizes": []
+          },
+          "typography_font_weight": "600",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.3,
+           "sizes": []
+          },
+          "typography_line_height_mobile": {
+           "unit": "em",
+           "size": 1.3,
+           "sizes": []
+          }
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "heading",
+         "elType": "widget"
+        },
+        {
+         "id": "cfe2a96",
+         "settings": {
+          "editor": "<p>Um espaço para entender o seu momento, sem pressa.</p>",
+          "text_color": "#4A4A4A",
+          "typography_typography": "custom",
+          "typography_font_family": "Inter",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17,
+           "sizes": []
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.7,
+           "sizes": []
+          },
+          "typography_line_height_mobile": {
+           "unit": "em",
+           "size": 1.7,
+           "sizes": []
+          },
+          "paragraph_spacing": {
+           "unit": "px",
+           "size": 0,
+           "sizes": []
+          }
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "text-editor",
+         "elType": "widget"
+        }
+       ],
+       "isInner": true,
+       "elType": "container"
+      }
+     ],
+     "isInner": true,
+     "elType": "container"
+    }
+   ],
+   "isInner": false,
+   "elType": "container"
+  },
+  {
+   "id": "c10e3fc",
+   "settings": {
+    "flex_direction": "column",
+    "flex_align_items": "center",
+    "flex_gap": {
+     "column": "20",
+     "row": "20",
+     "isLinked": true,
+     "unit": "px",
+     "size": 20
+    },
+    "padding": {
+     "unit": "px",
+     "top": "80",
+     "right": "20",
+     "bottom": "80",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "50",
+     "right": "16",
+     "bottom": "50",
+     "left": "16",
+     "isLinked": false
+    },
+    "background_background": "classic",
+    "background_color": "#F2EEE8",
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1140,
+     "sizes": []
+    },
+    "css_classes": "alt",
+    "_element_id": "faq"
+   },
+   "elements": [
+    {
+     "id": "d37d133",
+     "settings": {
+      "editor": "<p>Perguntas frequentes</p>",
+      "text_color": "#B38A3D",
+      "typography_typography": "custom",
+      "typography_font_family": "Inter",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 12,
+       "sizes": []
+      },
+      "typography_font_weight": "600",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.4,
+       "sizes": []
+      },
+      "typography_letter_spacing": {
+       "unit": "px",
+       "size": 1.8,
+       "sizes": []
+      },
+      "typography_text_transform": "uppercase",
+      "typography_line_height_mobile": {
+       "unit": "em",
+       "size": 1.4,
+       "sizes": []
+      },
+      "paragraph_spacing": {
+       "unit": "px",
+       "size": 0,
+       "sizes": []
+      },
+      "_css_classes": "rotulo"
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "text-editor",
+     "elType": "widget"
+    },
+    {
+     "id": "65c5565",
+     "settings": {
+      "title": "Antes de começar",
+      "header_size": "h2",
+      "title_color": "#173B47",
+      "typography_typography": "custom",
+      "typography_font_family": "Fraunces",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 40,
+       "sizes": []
+      },
+      "typography_font_weight": "400",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.15,
+       "sizes": []
+      },
+      "typography_font_size_mobile": {
+       "unit": "vw",
+       "size": 6.7,
+       "sizes": []
+      },
+      "typography_line_height_mobile": {
+       "unit": "em",
+       "size": 1.15,
+       "sizes": []
+      }
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "heading",
+     "elType": "widget"
+    },
+    {
+     "id": "e3d2698",
+     "settings": {
+      "tabs": [
+       {
+        "tab_title": "Atende por convênio?",
+        "tab_content": "<p>Não atendo por convênio, mas emito recibo para reembolso do plano de saúde.</p>",
+        "_id": "1b2679a"
+       },
+       {
+        "tab_title": "A terapia online funciona igual?",
+        "tab_content": "<p>Sim. A sessão online segue o mesmo método e tem o mesmo sigilo da presencial.</p>",
+        "_id": "5ed5e03"
+       },
+       {
+        "tab_title": "Quanto custa a sessão?",
+        "tab_content": "<p>O valor é informado na primeira conversa pelo WhatsApp, que é sem compromisso.</p>",
+        "_id": "ce02612"
+       }
+      ]
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "toggle",
+     "elType": "widget"
+    }
+   ],
+   "isInner": false,
+   "elType": "container"
+  },
+  {
+   "id": "26b9e55",
+   "settings": {
+    "flex_direction": "column",
+    "flex_align_items": "center",
+    "flex_gap": {
+     "column": "20",
+     "row": "20",
+     "isLinked": true,
+     "unit": "px",
+     "size": 20
+    },
+    "padding": {
+     "unit": "px",
+     "top": "80",
+     "right": "20",
+     "bottom": "80",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "50",
+     "right": "16",
+     "bottom": "50",
+     "left": "16",
+     "isLinked": false
+    },
+    "background_background": "classic",
+    "background_color": "#173B47",
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1140,
+     "sizes": []
+    },
+    "css_classes": "final",
+    "_element_id": "agendar"
+   },
+   "elements": [
+    {
+     "id": "32188db",
+     "settings": {
+      "title": "O primeiro passo é uma conversa.",
+      "header_size": "h2",
+      "title_color": "#FFFFFF",
+      "typography_typography": "custom",
+      "typography_font_family": "Fraunces",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 40,
+       "sizes": []
+      },
+      "typography_font_weight": "400",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.15,
+       "sizes": []
+      },
+      "typography_font_size_mobile": {
+       "unit": "vw",
+       "size": 6.7,
+       "sizes": []
+      },
+      "typography_line_height_mobile": {
+       "unit": "em",
+       "size": 1.15,
+       "sizes": []
+      }
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "heading",
+     "elType": "widget"
+    },
+    {
+     "id": "692ca12",
+     "settings": {
+      "editor": "<p>Chame no WhatsApp e conte o que está acontecendo. Respondo em horário comercial.</p>",
+      "text_color": "#FFFFFFCC",
+      "typography_typography": "custom",
+      "typography_font_family": "Inter",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 17,
+       "sizes": []
+      },
+      "typography_font_weight": "400",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.7,
+       "sizes": []
+      },
+      "typography_line_height_mobile": {
+       "unit": "em",
+       "size": 1.7,
+       "sizes": []
+      },
+      "paragraph_spacing": {
+       "unit": "px",
+       "size": 0,
+       "sizes": []
+      }
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "text-editor",
+     "elType": "widget"
+    },
+    {
+     "id": "41d1b0d",
+     "settings": {
+      "text": "Agendar uma conversa",
+      "link": {
+       "url": "https://wa.me/5541999999999",
+       "is_external": "on",
+       "nofollow": ""
+      },
+      "typography_typography": "custom",
+      "typography_font_family": "Inter",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 18,
+       "sizes": []
+      },
+      "typography_font_weight": "500",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.4,
+       "sizes": []
+      },
+      "typography_line_height_mobile": {
+       "unit": "em",
+       "size": 1.4,
+       "sizes": []
+      },
+      "button_text_color": "#1F4E5F",
+      "background_color": "#FAF8F5",
+      "border_radius": {
+       "unit": "px",
+       "top": "999",
+       "right": "999",
+       "bottom": "999",
+       "left": "999",
+       "isLinked": true
+      },
+      "text_padding": {
+       "unit": "px",
+       "top": "18",
+       "right": "40",
+       "bottom": "18",
+       "left": "40",
+       "isLinked": false
+      },
+      "text_padding_mobile": {
+       "unit": "px",
+       "top": "18",
+       "right": "40",
+       "bottom": "18",
+       "left": "40",
+       "isLinked": false
+      },
+      "_css_classes": "btn btn-claro"
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "button",
+     "elType": "widget"
+    }
+   ],
+   "isInner": false,
+   "elType": "container"
+  },
+  {
+   "id": "89a3f8e",
+   "settings": {
+    "flex_direction": "row",
+    "flex_justify_content": "center",
+    "flex_gap": {
+     "column": "0",
+     "row": "0",
+     "isLinked": true,
+     "unit": "px",
+     "size": 0
+    },
+    "padding": {
+     "unit": "px",
+     "top": "30",
+     "right": "20",
+     "bottom": "30",
+     "left": "20",
+     "isLinked": false
+    },
+    "background_background": "classic",
+    "background_color": "#111111",
+    "content_width": "full"
+   },
+   "elements": [
+    {
+     "id": "af08526",
+     "settings": {
+      "editor": "<p>Todos os direitos reservados © 2026 · [Nome] · CRP [CONFIRMAR] · Curitiba/PR</p>",
+      "text_color": "#AAAAAA",
+      "typography_typography": "custom",
+      "typography_font_family": "Inter",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 13,
+       "sizes": []
+      },
+      "typography_font_weight": "400",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.7,
+       "sizes": []
+      },
+      "typography_line_height_mobile": {
+       "unit": "em",
+       "size": 1.7,
+       "sizes": []
+      },
+      "paragraph_spacing": {
+       "unit": "px",
+       "size": 0,
+       "sizes": []
+      }
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "text-editor",
+     "elType": "widget"
+    }
+   ],
+   "isInner": false,
+   "elType": "container"
+  },
+  {
+   "id": "7e57cfd",
+   "settings": {
+    "flex_direction": "column",
+    "content_width": "full",
+    "css_classes": "scripts-da-pagina"
+   },
+   "elements": [
+    {
+     "id": "0d891fa",
+     "settings": {
+      "html": "<script data-h2e=\"87\">\nconst elementos = document.querySelectorAll('.scroll-left, .scroll-right, .scroll-bottom, .scroll-top');\nconst posicaoScroll = window.innerHeight * 0.8;\nfunction fadeScroll(){ elementos.forEach((elemento) => { const t = elemento.getBoundingClientRect().top - posicaoScroll; if (t < 120) { elemento.classList.add('ativo'); } else { elemento.classList.remove('ativo'); } }); }\nwindow.addEventListener('scroll', fadeScroll); fadeScroll();\n</script>"
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "html",
+     "elType": "widget"
+    }
+   ],
+   "isInner": false,
+   "elType": "container"
+  }
+ ],
+ "page_settings": {
+  "custom_css": "\n/* ===== CSS base da casa (vai para page_settings.custom_css) ===== */\n::selection { background-color: rgba(255, 255, 255, 0.125); }\nhtml, body { overflow-x: hidden; }\np:last-of-type { margin-bottom: 0; }\nbody::-webkit-scrollbar { width: 10px; }\nbody::-webkit-scrollbar-track { background-color: #111111; }\nbody::-webkit-scrollbar-thumb { background: #fff; border-radius: 15px; border: 2px solid #111111; }\n\n/* ===== tokens ===== */\n:root { --marca: #1F4E5F; --marca-escura: #173B47; --neutro: #FAF8F5; --neutro-2: #F2EEE8; --acento: #B38A3D; --texto: #2A2A2A; --texto-2: #4A4A4A; }\nbody { margin: 0; font-family: Inter, sans-serif; color: var(--texto); background: var(--neutro); }\nsection { padding: 80px 20px; display: flex; flex-direction: column; align-items: center; }\n.wrap { width: 100%; max-width: 1140px; display: flex; flex-direction: column; gap: 20px; }\n.linha { display: flex; flex-direction: row; gap: 40px; align-items: center; }\n.col { flex: 1; display: flex; flex-direction: column; gap: 20px; }\n.rotulo { font: 600 12px/1.4 Inter, sans-serif; letter-spacing: 1.8px; text-transform: uppercase; color: var(--acento); margin: 0; }\nh1, h2 { font-family: Fraunces, serif; font-weight: 400; margin: 0; }\n/* títulos: até 3 linhas na coluna (4 se a frase for longa), teto 55px */\nh1 { font-size: 46px; line-height: 1.1; color: var(--marca-escura); }\nh2 { font-size: 40px; line-height: 1.15; color: var(--marca-escura); }\nh3 { font: 600 20px/1.3 Inter, sans-serif; margin: 0; color: var(--texto); }\np { font-size: 17px; line-height: 1.7; color: var(--texto-2); margin: 0; }\nem { color: var(--acento); font-style: italic; }\n.btn { display: inline-block; align-self: flex-start; padding: 18px 40px; border-radius: 999px; background: linear-gradient(180deg, #2A6478 0%, #1F4E5F 100%); color: #fff; font: 500 18px/1.4 Inter, sans-serif; text-decoration: none; }\n.btn-claro { background: #FAF8F5; color: #1F4E5F; }\n/* hero padrão: foto de fundo com fade (IMG-01 desktop, IMG-01-mobile recorte) */\n.hero { background: linear-gradient(90deg, rgba(250,248,245,.92) 0%, rgba(250,248,245,.75) 34%, rgba(250,248,245,0) 58%), url(imagens/IMG-01.webp) right center / cover no-repeat, var(--neutro); min-height: 800px; justify-content: center; }\n.hero .col { max-width: 560px; }\n.hero .logo { height: 52px; width: auto; align-self: flex-start; }\n.card .ic { width: 48px; height: 48px; border-radius: 50%; background: var(--neutro-2); color: var(--marca); display: flex; align-items: center; justify-content: center; }\n.card .ic svg { width: 22px; height: 22px; }\n.cards { display: flex; flex-direction: row; gap: 20px; flex-wrap: wrap; }\n.card { flex: 1 1 300px; background: #fff; border-radius: 12px; padding: 28px; display: flex; flex-direction: column; gap: 10px; box-shadow: 0px 12px 40px 0px rgba(31, 78, 95, 0.06); }\n.card p { font-size: 15px; }\n.alt { background: var(--neutro-2); }\n.passos { display: flex; flex-direction: row; gap: 20px; }\n.passo { flex: 1; display: flex; flex-direction: column; gap: 8px; }\n.num { font: 400 56px/1 Fraunces, serif; color: var(--marca); margin: 0; }\ndetails { background: #fff; border-radius: 12px; padding: 18px 22px; }\nsummary { font-weight: 600; cursor: pointer; }\n.final { background: var(--marca-escura); }\n.final h2 { color: #fff; }\n.final p { color: #ffffffcc; }\nfooter { padding: 30px 20px; background: #111; color: #aaa; font-size: 13px; display: flex; justify-content: center; }\nfooter p { color: #aaa; font-size: 13px; }\n@media (max-width: 767px) {\n  section { padding: 50px 16px; }\n  .linha, .passos { flex-direction: column; }\n  h1 { font-size: 29px; }\n  h2 { font-size: 26px; }\n  .hero { min-height: 0; padding-top: 40vh; background: linear-gradient(180deg, rgba(250,248,245,0) 0, rgba(250,248,245,0) 38vh, rgba(250,248,245,.88) 46vh, var(--neutro) 62vh), url(imagens/IMG-01-mobile.webp) center top / 100% auto no-repeat, var(--neutro); }\n  .hero .logo { height: 28px; }\n  .hero .col { gap: 12px; }\n  .hero p { font-size: 15px; }\n  .btn { align-self: stretch; text-align: center; }\n}\n/* animação de entrada da casa */\n.scroll-bottom { opacity: 0; transition: 0.5s all; transform: translate3d(0, 80px, 0); }\n.ativo { opacity: 1; transform: translate3d(0, 0, 0); }\n"
+ },
+ "version": "0.4",
+ "title": "Exemplo PageBrain",
+ "type": "page"
+}

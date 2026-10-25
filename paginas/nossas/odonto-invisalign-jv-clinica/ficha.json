@@ -1,0 +1,206 @@
+{
+ "nome": "PÁGINA INVISALIGN [JV CLINICA]",
+ "slug": "odonto-invisalign-jv-clinica",
+ "pasta_original": "Invisalign LP",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://lp.oreidalanding.com.br/pagina-invisalign-jv-clinica/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Odontologia",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#EAE5DF",
+   "#FFFFFF",
+   "#F7F7F7",
+   "#453513"
+  ],
+  "textos": [
+   "#453513",
+   "#FFFFFF"
+  ],
+  "destaques": [
+   "#453513"
+  ],
+  "gradientes": [
+   "linear-gradient(150deg, rgb(171, 145, 94) 0%, rgb(207, 183, 136) 85%)",
+   "linear-gradient(57deg, rgb(156, 129, 74) 0%, rgb(214, 196, 162) 100%)",
+   "linear-gradient(53deg, rgb(171, 145, 94) 0%, rgb(213, 198, 170) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Inter",
+   "uso_pct": 80
+  },
+  {
+   "familia": "Brushelva",
+   "uso_pct": 18
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  50,
+  39,
+  35,
+  29,
+  24,
+  23,
+  22,
+  19,
+  18,
+  16
+ ],
+ "escala_tipografica_mobile_px": [
+  33,
+  30,
+  29,
+  24,
+  23,
+  23,
+  22,
+  21
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#00000000",
+  "gradiente": "linear-gradient(rgb(36, 139, 50) 0%, rgb(46, 143, 59) 100%)",
+  "texto": "#FFFFFF",
+  "raio": "6px",
+  "padding": "22px 38px",
+  "fonte": "Inter",
+  "tamanho": "22px",
+  "peso": "500",
+  "caixa": "none",
+  "exemplos": [
+   "Agende sua avaliação agora"
+  ]
+ },
+ "raios": [
+  "6px",
+  "8px",
+  "12px",
+  "4px",
+  "54px",
+  "14px"
+ ],
+ "sombras": [],
+ "gaps": [
+  "20px",
+  "27px",
+  "40px"
+ ],
+ "largura_conteudo_px": 1140,
+ "altura_pagina_px": 5784,
+ "secoes_qtde": 7,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "Tenha o sorriso que você sempre quis com Invisalign, o alinhador transparente ma",
+   "fundo": "#EAE5DF",
+   "altura_px": 800
+  },
+  {
+   "ordem": 2,
+   "tipo": "beneficios",
+   "titulo": "",
+   "fundo": "gradiente",
+   "altura_px": 669
+  },
+  {
+   "ordem": 3,
+   "tipo": "como-funciona",
+   "titulo": "Vantagens do Invisalign",
+   "fundo": "#EAE5DF",
+   "altura_px": 843
+  },
+  {
+   "ordem": 4,
+   "tipo": "sobre",
+   "titulo": "Seu sorriso perfeito em 3 passos simples",
+   "fundo": "gradiente",
+   "altura_px": 1535
+  },
+  {
+   "ordem": 5,
+   "tipo": "contato",
+   "titulo": "Excelência, tecnologia e cuidado em cada detalhe",
+   "fundo": "#EAE5DF",
+   "altura_px": 1098
+  },
+  {
+   "ordem": 6,
+   "tipo": "rodape",
+   "titulo": "Cuidar do seu sorriso ficou ainda mais fácil",
+   "fundo": "#F7F7F7",
+   "altura_px": 771
+  },
+  {
+   "ordem": 7,
+   "tipo": null,
+   "titulo": "Todos os direitos reservados © 2026",
+   "fundo": "#453513",
+   "altura_px": 68
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "beneficios",
+  "como-funciona",
+  "sobre",
+  "contato",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "bege",
+  "dourado",
+  "verde",
+  "serifa-fina",
+  "claro"
+ ],
+ "tecnicas": [
+  "Botão com brilho passando (snippet botao-brilho-passando)",
+  "Carrossel linear"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "brilho",
+   "floatSoft"
+  ],
+  "entrada_elementor": [],
+  "classes_scroll": [
+   "scroll-bottom",
+   "scroll-left",
+   "scroll-right",
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "google-ads",
+  "happy-addons",
+  "jquery",
+  "lenis",
+  "lottie",
+  "meta-pixel",
+  "swiper"
+ ],
+ "snippets_usados": [
+  "botoes/botao-brilho-passando.css",
+  "animacoes/animacao-scroll-reveal.html",
+  "tracking-e-pixels/meta-pixel.html",
+  "tracking-e-pixels/google-ads-gtag.html",
+  "utilitarios-css/css-base-toda-pagina.css",
+  "utilitarios-css/elemento-posicao-absoluta.css"
+ ],
+ "relevancia": 4,
+ "resumo": "Captação para Invisalign em bege e dourado com serifa fina. Vídeo vertical logo após o hero, cards de vantagem com ícone de check, 3 passos em zigue-zague com linha vertical e seção da clínica com vídeo.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/odonto-invisalign-jv-clinica.md",
+  "json_elementor": "../../../elementor/paginas/captacao/odonto-invisalign-jv-clinica.json"
+ }
+}

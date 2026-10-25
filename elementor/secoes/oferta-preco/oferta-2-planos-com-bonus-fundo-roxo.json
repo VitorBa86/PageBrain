@@ -1,0 +1,1428 @@
+{
+ "content": [
+  {
+   "id": "25c1ac39",
+   "settings": {
+    "flex_direction": "column",
+    "min_height": {
+     "unit": "px",
+     "size": 0,
+     "sizes": []
+    },
+    "flex_align_items": "center",
+    "background_background": "classic",
+    "background_color": "#814CA2",
+    "background_color_b": "#BDAFFF",
+    "padding": {
+     "unit": "px",
+     "top": "50",
+     "right": "0",
+     "bottom": "50",
+     "left": "0",
+     "isLinked": false
+    },
+    "boxed_width_mobile": {
+     "unit": "%",
+     "size": 90,
+     "sizes": []
+    },
+    "eae_slider_delay": "5000",
+    "gradient_color_list": [
+     {
+      "eae_animated_gradient_color": "#00a6d8",
+      "_id": "dc45e4a"
+     },
+     {
+      "eae_animated_gradient_color": "#b800c9",
+      "_id": "31d8272"
+     },
+     {
+      "eae_animated_gradient_color": "#e57600",
+      "_id": "5177277"
+     }
+    ]
+   },
+   "elements": [
+    {
+     "id": "2ff41843",
+     "settings": {
+      "title": "Lorem Ipsum is simply dummy text ",
+      "align": "center",
+      "title_color": "#FFFFFF",
+      "typography_typography": "custom",
+      "typography_font_family": "Montserrat",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 36,
+       "sizes": []
+      },
+      "typography_font_weight": "600",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.4,
+       "sizes": []
+      },
+      "typography_line_height_tablet": {
+       "unit": "rem",
+       "size": "",
+       "sizes": []
+      },
+      "typography_line_height_mobile": {
+       "unit": "rem",
+       "size": "",
+       "sizes": []
+      },
+      "_margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "30",
+       "left": "0",
+       "isLinked": false
+      },
+      "typography_font_size_mobile": {
+       "unit": "vw",
+       "size": 8,
+       "sizes": []
+      },
+      "_element_width": "initial",
+      "_element_custom_width": {
+       "unit": "%",
+       "size": 43,
+       "sizes": []
+      },
+      "_element_custom_width_mobile": {
+       "unit": "px",
+       "size": 401,
+       "sizes": []
+      }
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "heading",
+     "elType": "widget"
+    },
+    {
+     "id": "5b39c978",
+     "settings": {
+      "flex_direction": "row",
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+       {
+        "eae_animated_gradient_color": "#00a6d8",
+        "_id": "342b25a"
+       },
+       {
+        "eae_animated_gradient_color": "#b800c9",
+        "_id": "f26077b"
+       },
+       {
+        "eae_animated_gradient_color": "#e57600",
+        "_id": "7b50517"
+       }
+      ]
+     },
+     "elements": [
+      {
+       "id": "7b8cb909",
+       "settings": {
+        "min_height": {
+         "unit": "px",
+         "size": 484,
+         "sizes": []
+        },
+        "flex_align_items": "center",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "border_border": "dashed",
+        "border_width": {
+         "unit": "px",
+         "top": "4",
+         "right": "4",
+         "bottom": "4",
+         "left": "4",
+         "isLinked": true
+        },
+        "border_color": "#F5B330",
+        "border_radius": {
+         "unit": "px",
+         "top": "12",
+         "right": "12",
+         "bottom": "12",
+         "left": "12",
+         "isLinked": true
+        },
+        "padding": {
+         "unit": "px",
+         "top": "30",
+         "right": "30",
+         "bottom": "30",
+         "left": "30",
+         "isLinked": true
+        },
+        "padding_mobile": {
+         "unit": "px",
+         "top": "15",
+         "right": "15",
+         "bottom": "40",
+         "left": "15",
+         "isLinked": false
+        },
+        "eae_slider_delay": "5000",
+        "gradient_color_list": [
+         {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "02f30c5"
+         },
+         {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "c35aafb"
+         },
+         {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "65123b4"
+         }
+        ]
+       },
+       "elements": [
+        {
+         "id": "4a051238",
+         "settings": {
+          "title": "PLANO básico<br><span style=\"font-size:50%;font-weight:400\">Acesso 30 dias</span>",
+          "align": "center",
+          "title_color": "#FFFFFF",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 33,
+           "sizes": []
+          },
+          "typography_font_weight": "600",
+          "typography_text_transform": "uppercase",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1,
+           "sizes": []
+          },
+          "typography_line_height_tablet": {
+           "unit": "rem",
+           "size": "",
+           "sizes": []
+          },
+          "typography_line_height_mobile": {
+           "unit": "rem",
+           "size": "",
+           "sizes": []
+          },
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": false
+          },
+          "_padding": {
+           "unit": "px",
+           "top": "18",
+           "right": "10",
+           "bottom": "10",
+           "left": "10",
+           "isLinked": false
+          },
+          "_element_width": "initial",
+          "_element_custom_width": {
+           "unit": "%",
+           "size": 95,
+           "sizes": []
+          },
+          "_background_background": "classic",
+          "_background_color": "#BB229C",
+          "_border_radius": {
+           "unit": "px",
+           "top": "16",
+           "right": "16",
+           "bottom": "16",
+           "left": "16",
+           "isLinked": true
+          }
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "heading",
+         "elType": "widget"
+        },
+        {
+         "id": "1cbc5186",
+         "settings": {
+          "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "align": "center",
+          "title_color": "#000000",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 18,
+           "sizes": []
+          },
+          "typography_font_weight": "500",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.4,
+           "sizes": []
+          },
+          "_margin": {
+           "unit": "px",
+           "top": "10",
+           "right": "0",
+           "bottom": "10",
+           "left": "0",
+           "isLinked": false
+          },
+          "_element_width": "initial",
+          "_element_custom_width": {
+           "unit": "%",
+           "size": 100,
+           "sizes": []
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16,
+           "sizes": []
+          },
+          "align_mobile": "center"
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "heading",
+         "elType": "widget"
+        },
+        {
+         "id": "c083a91",
+         "settings": {
+          "icon_list": [
+           {
+            "text": "Lorem Ipsum is simply dummy",
+            "selected_icon": {
+             "value": {
+              "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/04/svg-gobbler-5.svg",
+              "id": 498
+             },
+             "library": "svg"
+            },
+            "_id": "e887e30"
+           },
+           {
+            "text": "Lorem Ipsum is simply dummy",
+            "selected_icon": {
+             "value": {
+              "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/04/svg-gobbler-5.svg",
+              "id": 498
+             },
+             "library": "svg"
+            },
+            "_id": "715574d"
+           },
+           {
+            "text": "Lorem Ipsum is simply dummy",
+            "selected_icon": {
+             "value": {
+              "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/04/svg-gobbler-5.svg",
+              "id": 498
+             },
+             "library": "svg"
+            },
+            "_id": "f92435f"
+           }
+          ],
+          "space_between": {
+           "unit": "px",
+           "size": 22,
+           "sizes": []
+          },
+          "icon_align": "left",
+          "icon_color": "#FFFFFF",
+          "icon_size": {
+           "unit": "px",
+           "size": 20,
+           "sizes": []
+          },
+          "text_indent": {
+           "unit": "px",
+           "size": 5,
+           "sizes": []
+          },
+          "icon_self_vertical_align": "flex-start",
+          "icon_typography_typography": "custom",
+          "icon_typography_font_family": "Montserrat",
+          "icon_typography_font_size": {
+           "unit": "px",
+           "size": 18,
+           "sizes": []
+          },
+          "icon_typography_font_weight": "600",
+          "icon_typography_line_height": {
+           "unit": "em",
+           "size": 1.4,
+           "sizes": []
+          },
+          "text_color": "#814CA2",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": false
+          },
+          "_element_width": "initial",
+          "_element_custom_width": {
+           "unit": "%",
+           "size": 90,
+           "sizes": []
+          }
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "icon-list",
+         "elType": "widget"
+        },
+        {
+         "id": "14a0426f",
+         "settings": {
+          "title": "E de bônus ganhe:",
+          "align": "center",
+          "title_color": "#CC0000",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 24,
+           "sizes": []
+          },
+          "typography_font_weight": "700",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.4,
+           "sizes": []
+          },
+          "_margin": {
+           "unit": "px",
+           "top": "10",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": false
+          },
+          "_element_width": "inherit",
+          "_element_custom_width": {
+           "unit": "%",
+           "size": 78,
+           "sizes": []
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16,
+           "sizes": []
+          },
+          "align_mobile": "center",
+          "typography_text_transform": "uppercase"
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "heading",
+         "elType": "widget"
+        },
+        {
+         "id": "7c133de9",
+         "settings": {
+          "icon_list": [
+           {
+            "text": "Lorem Ipsum is simply dummy",
+            "selected_icon": {
+             "value": {
+              "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/04/svg-gobbler-5.svg",
+              "id": 498
+             },
+             "library": "svg"
+            },
+            "_id": "e887e30"
+           },
+           {
+            "text": "Lorem Ipsum is simply dummy",
+            "selected_icon": {
+             "value": {
+              "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/04/svg-gobbler-5.svg",
+              "id": 498
+             },
+             "library": "svg"
+            },
+            "_id": "338cbd7"
+           },
+           {
+            "text": "Lorem Ipsum is simply dummy",
+            "selected_icon": {
+             "value": {
+              "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/04/svg-gobbler-5.svg",
+              "id": 498
+             },
+             "library": "svg"
+            },
+            "_id": "7a7e316"
+           }
+          ],
+          "space_between": {
+           "unit": "px",
+           "size": 19,
+           "sizes": []
+          },
+          "icon_align": "left",
+          "icon_color": "#000000",
+          "icon_size": {
+           "unit": "px",
+           "size": 20,
+           "sizes": []
+          },
+          "text_indent": {
+           "unit": "px",
+           "size": 5,
+           "sizes": []
+          },
+          "icon_self_vertical_align": "flex-start",
+          "icon_typography_typography": "custom",
+          "icon_typography_font_family": "Montserrat",
+          "icon_typography_font_size": {
+           "unit": "px",
+           "size": 18,
+           "sizes": []
+          },
+          "icon_typography_font_weight": "600",
+          "icon_typography_line_height": {
+           "unit": "em",
+           "size": 1.4,
+           "sizes": []
+          },
+          "text_color": "#814CA2",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": false
+          },
+          "_element_width": "initial",
+          "_element_custom_width": {
+           "unit": "%",
+           "size": 90,
+           "sizes": []
+          }
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "icon-list",
+         "elType": "widget"
+        },
+        {
+         "id": "70219060",
+         "settings": {
+          "title": "De <span style=\"color:#C91A1A;\"><s><span style=\"color:#C91A1A;\">R$97</span></s></span> por:",
+          "align": "center",
+          "title_color": "#000000",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 24,
+           "sizes": []
+          },
+          "typography_font_weight": "700",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.4,
+           "sizes": []
+          },
+          "_margin": {
+           "unit": "px",
+           "top": "20",
+           "right": "0",
+           "bottom": "-10",
+           "left": "0",
+           "isLinked": false
+          },
+          "_element_width": "inherit",
+          "_element_custom_width": {
+           "unit": "%",
+           "size": 78,
+           "sizes": []
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 20,
+           "sizes": []
+          },
+          "align_mobile": "center",
+          "typography_text_transform": "uppercase"
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "heading",
+         "elType": "widget"
+        },
+        {
+         "id": "635d230b",
+         "settings": {
+          "title": "R$47,00",
+          "align": "center",
+          "title_color": "#FFFFFF",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 67,
+           "sizes": []
+          },
+          "typography_font_weight": "700",
+          "typography_text_transform": "uppercase",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1,
+           "sizes": []
+          },
+          "typography_line_height_tablet": {
+           "unit": "rem",
+           "size": "",
+           "sizes": []
+          },
+          "typography_line_height_mobile": {
+           "unit": "rem",
+           "size": "",
+           "sizes": []
+          },
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": false
+          },
+          "_padding": {
+           "unit": "px",
+           "top": "15",
+           "right": "15",
+           "bottom": "15",
+           "left": "15",
+           "isLinked": true
+          },
+          "_element_custom_width": {
+           "unit": "%",
+           "size": 95,
+           "sizes": []
+          },
+          "_background_background": "classic",
+          "_background_color": "#CC0000",
+          "_border_radius": {
+           "unit": "px",
+           "top": "16",
+           "right": "16",
+           "bottom": "16",
+           "left": "16",
+           "isLinked": true
+          },
+          "typography_font_size_mobile": {
+           "unit": "vw",
+           "size": 9,
+           "sizes": []
+          },
+          "_element_width_mobile": "initial",
+          "_padding_mobile": {
+           "unit": "px",
+           "top": "5",
+           "right": "0",
+           "bottom": "5",
+           "left": "0",
+           "isLinked": false
+          },
+          "_element_custom_width_mobile": {
+           "unit": "%",
+           "size": 75,
+           "sizes": []
+          }
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "heading",
+         "elType": "widget"
+        },
+        {
+         "id": "7708800f",
+         "settings": {
+          "title": "ACESSO DE 30 dias",
+          "align": "center",
+          "title_color": "#000000",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 21,
+           "sizes": []
+          },
+          "typography_font_weight": "600",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.4,
+           "sizes": []
+          },
+          "_margin": {
+           "unit": "px",
+           "top": "-5",
+           "right": "0",
+           "bottom": "10",
+           "left": "0",
+           "isLinked": false
+          },
+          "_element_width": "inherit",
+          "_element_custom_width": {
+           "unit": "%",
+           "size": 78,
+           "sizes": []
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16,
+           "sizes": []
+          },
+          "align_mobile": "center",
+          "typography_text_transform": "uppercase"
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "heading",
+         "elType": "widget"
+        },
+        {
+         "id": "4b837a36",
+         "settings": {
+          "text": "QUERO VENDER MUITO ",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 19,
+           "sizes": []
+          },
+          "typography_font_weight": "600",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.2,
+           "sizes": []
+          },
+          "background_color": "#FFFFFF00",
+          "background_color_b": "#C47AF2",
+          "background_gradient_angle": {
+           "unit": "deg",
+           "size": 79,
+           "sizes": []
+          },
+          "hover_animation": "grow",
+          "border_radius": {
+           "unit": "px",
+           "top": "7",
+           "right": "7",
+           "bottom": "7",
+           "left": "7",
+           "isLinked": true
+          },
+          "text_padding": {
+           "unit": "px",
+           "top": "25",
+           "right": "70",
+           "bottom": "25",
+           "left": "70",
+           "isLinked": false
+          },
+          "_margin": {
+           "unit": "px",
+           "top": "10",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": false
+          },
+          "align_mobile": "justify",
+          "text_padding_mobile": {
+           "unit": "px",
+           "top": "25",
+           "right": "0",
+           "bottom": "25",
+           "left": "0",
+           "isLinked": false
+          },
+          "_element_width_mobile": "initial",
+          "typography_font_size_mobile": {
+           "unit": "vw",
+           "size": 3.8,
+           "sizes": []
+          },
+          "_element_custom_width_mobile": {
+           "unit": "%",
+           "size": 85,
+           "sizes": []
+          },
+          "custom_css": "selector .elementor-button{\r\n    animation: 2s cubic-bezier(0.2, 0.5, 0.9, 0.6) 2s infinite brilho;\r\n    background-image: linear-gradient(45deg, #814CA2, #F2295B, #814CA2, #F2295B); /*troque as cores aqui, repetindo conforme indicado*/\r\n    background-size: 400% 200%;\r\n    transition: all .8s;\r\n}\r\n\r\n@keyframes brilho{\r\n    0% {\r\n        background-position: 0 0;\r\n    }  \r\n\r\n    100% {\r\n        background-position: 100% 0;\r\n    }\r\n}\r\n"
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "button",
+         "elType": "widget"
+        }
+       ],
+       "isInner": true,
+       "elType": "container"
+      },
+      {
+       "id": "61cba646",
+       "settings": {
+        "min_height": {
+         "unit": "px",
+         "size": 484,
+         "sizes": []
+        },
+        "flex_align_items": "center",
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "border_border": "dashed",
+        "border_width": {
+         "unit": "px",
+         "top": "4",
+         "right": "4",
+         "bottom": "4",
+         "left": "4",
+         "isLinked": true
+        },
+        "border_color": "#F5B330",
+        "border_radius": {
+         "unit": "px",
+         "top": "12",
+         "right": "12",
+         "bottom": "12",
+         "left": "12",
+         "isLinked": true
+        },
+        "padding": {
+         "unit": "px",
+         "top": "30",
+         "right": "30",
+         "bottom": "30",
+         "left": "30",
+         "isLinked": true
+        },
+        "margin_mobile": {
+         "unit": "px",
+         "top": "50",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": false
+        },
+        "padding_mobile": {
+         "unit": "px",
+         "top": "15",
+         "right": "15",
+         "bottom": "40",
+         "left": "15",
+         "isLinked": false
+        },
+        "eae_slider_delay": "5000",
+        "gradient_color_list": [
+         {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "b675662"
+         },
+         {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "f9fc7c5"
+         },
+         {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "1a5cb8a"
+         }
+        ]
+       },
+       "elements": [
+        {
+         "id": "733aeb08",
+         "settings": {
+          "title": "PACK premium<br><span style=\"font-size:50%;font-weight:400\">ACESSO 1 ANO</span>",
+          "align": "center",
+          "title_color": "#FFFFFF",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 33,
+           "sizes": []
+          },
+          "typography_font_weight": "600",
+          "typography_text_transform": "uppercase",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1,
+           "sizes": []
+          },
+          "typography_line_height_tablet": {
+           "unit": "rem",
+           "size": "",
+           "sizes": []
+          },
+          "typography_line_height_mobile": {
+           "unit": "rem",
+           "size": "",
+           "sizes": []
+          },
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": false
+          },
+          "_padding": {
+           "unit": "px",
+           "top": "18",
+           "right": "10",
+           "bottom": "10",
+           "left": "10",
+           "isLinked": false
+          },
+          "_element_width": "initial",
+          "_element_custom_width": {
+           "unit": "%",
+           "size": 95,
+           "sizes": []
+          },
+          "_background_background": "classic",
+          "_background_color": "#00A308",
+          "_border_radius": {
+           "unit": "px",
+           "top": "16",
+           "right": "16",
+           "bottom": "16",
+           "left": "16",
+           "isLinked": true
+          }
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "heading",
+         "elType": "widget"
+        },
+        {
+         "id": "7de2a12f",
+         "settings": {
+          "icon_list": [
+           {
+            "text": "Lorem Ipsum is simply dummy",
+            "selected_icon": {
+             "value": {
+              "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/04/svg-gobbler-5.svg",
+              "id": 498
+             },
+             "library": "svg"
+            },
+            "_id": "e887e30"
+           },
+           {
+            "text": "Lorem Ipsum is simply dummy",
+            "selected_icon": {
+             "value": {
+              "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/04/svg-gobbler-5.svg",
+              "id": 498
+             },
+             "library": "svg"
+            },
+            "_id": "6734765"
+           },
+           {
+            "text": "Lorem Ipsum is simply dummy",
+            "selected_icon": {
+             "value": {
+              "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/04/svg-gobbler-5.svg",
+              "id": 498
+             },
+             "library": "svg"
+            },
+            "_id": "abf7656"
+           }
+          ],
+          "space_between": {
+           "unit": "px",
+           "size": 22,
+           "sizes": []
+          },
+          "icon_align": "left",
+          "icon_color": "#FFFFFF",
+          "icon_size": {
+           "unit": "px",
+           "size": 20,
+           "sizes": []
+          },
+          "text_indent": {
+           "unit": "px",
+           "size": 5,
+           "sizes": []
+          },
+          "icon_self_vertical_align": "flex-start",
+          "icon_typography_typography": "custom",
+          "icon_typography_font_family": "Montserrat",
+          "icon_typography_font_size": {
+           "unit": "px",
+           "size": 18,
+           "sizes": []
+          },
+          "icon_typography_font_weight": "600",
+          "icon_typography_line_height": {
+           "unit": "em",
+           "size": 1.4,
+           "sizes": []
+          },
+          "text_color": "#814CA2",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": false
+          },
+          "_element_width": "initial",
+          "_element_custom_width": {
+           "unit": "%",
+           "size": 90,
+           "sizes": []
+          }
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "icon-list",
+         "elType": "widget"
+        },
+        {
+         "id": "41a31559",
+         "settings": {
+          "title": "E de bônus ganhe:",
+          "align": "center",
+          "title_color": "#CC0000",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 24,
+           "sizes": []
+          },
+          "typography_font_weight": "700",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.4,
+           "sizes": []
+          },
+          "_margin": {
+           "unit": "px",
+           "top": "10",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": false
+          },
+          "_element_width": "inherit",
+          "_element_custom_width": {
+           "unit": "%",
+           "size": 78,
+           "sizes": []
+          },
+          "typography_font_size_mobile": {
+           "unit": "vw",
+           "size": 5,
+           "sizes": []
+          },
+          "align_mobile": "center",
+          "typography_text_transform": "uppercase"
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "heading",
+         "elType": "widget"
+        },
+        {
+         "id": "2cdeefbb",
+         "settings": {
+          "icon_list": [
+           {
+            "text": "Lorem Ipsum is simply dummy",
+            "selected_icon": {
+             "value": {
+              "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/04/svg-gobbler-5.svg",
+              "id": 498
+             },
+             "library": "svg"
+            },
+            "_id": "e887e30"
+           },
+           {
+            "text": "Lorem Ipsum is simply dummy",
+            "selected_icon": {
+             "value": {
+              "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/04/svg-gobbler-5.svg",
+              "id": 498
+             },
+             "library": "svg"
+            },
+            "_id": "710d357"
+           },
+           {
+            "text": "Lorem Ipsum is simply dummy",
+            "selected_icon": {
+             "value": {
+              "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/04/svg-gobbler-5.svg",
+              "id": 498
+             },
+             "library": "svg"
+            },
+            "_id": "b7346ad"
+           }
+          ],
+          "space_between": {
+           "unit": "px",
+           "size": 19,
+           "sizes": []
+          },
+          "icon_align": "left",
+          "icon_color": "#000000",
+          "icon_size": {
+           "unit": "px",
+           "size": 20,
+           "sizes": []
+          },
+          "text_indent": {
+           "unit": "px",
+           "size": 5,
+           "sizes": []
+          },
+          "icon_self_vertical_align": "flex-start",
+          "icon_typography_typography": "custom",
+          "icon_typography_font_family": "Montserrat",
+          "icon_typography_font_size": {
+           "unit": "px",
+           "size": 18,
+           "sizes": []
+          },
+          "icon_typography_font_weight": "600",
+          "icon_typography_line_height": {
+           "unit": "em",
+           "size": 1.4,
+           "sizes": []
+          },
+          "text_color": "#814CA2",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": false
+          },
+          "_element_width": "initial",
+          "_element_custom_width": {
+           "unit": "%",
+           "size": 90,
+           "sizes": []
+          }
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "icon-list",
+         "elType": "widget"
+        },
+        {
+         "id": "53fe302f",
+         "settings": {
+          "title": "De <span style=\"color:#C91A1A;\"><s><span style=\"color:#C91A1A;\">R$497</span></s></span> por:",
+          "align": "center",
+          "title_color": "#000000",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 24,
+           "sizes": []
+          },
+          "typography_font_weight": "700",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.4,
+           "sizes": []
+          },
+          "_margin": {
+           "unit": "px",
+           "top": "20",
+           "right": "0",
+           "bottom": "-10",
+           "left": "0",
+           "isLinked": false
+          },
+          "_element_width": "inherit",
+          "_element_custom_width": {
+           "unit": "%",
+           "size": 78,
+           "sizes": []
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 20,
+           "sizes": []
+          },
+          "align_mobile": "center",
+          "typography_text_transform": "uppercase"
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "heading",
+         "elType": "widget"
+        },
+        {
+         "id": "4759b236",
+         "settings": {
+          "title": "R$297",
+          "align": "center",
+          "title_color": "#FFFFFF",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 79,
+           "sizes": []
+          },
+          "typography_font_weight": "700",
+          "typography_text_transform": "uppercase",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1,
+           "sizes": []
+          },
+          "typography_line_height_tablet": {
+           "unit": "rem",
+           "size": "",
+           "sizes": []
+          },
+          "typography_line_height_mobile": {
+           "unit": "rem",
+           "size": "",
+           "sizes": []
+          },
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": false
+          },
+          "_padding": {
+           "unit": "px",
+           "top": "15",
+           "right": "15",
+           "bottom": "15",
+           "left": "15",
+           "isLinked": true
+          },
+          "_element_custom_width": {
+           "unit": "%",
+           "size": 95,
+           "sizes": []
+          },
+          "_background_background": "classic",
+          "_background_color": "#CC0000",
+          "_border_radius": {
+           "unit": "px",
+           "top": "16",
+           "right": "16",
+           "bottom": "16",
+           "left": "16",
+           "isLinked": true
+          },
+          "typography_font_size_mobile": {
+           "unit": "vw",
+           "size": 9,
+           "sizes": []
+          },
+          "_element_width_mobile": "initial",
+          "_padding_mobile": {
+           "unit": "px",
+           "top": "5",
+           "right": "0",
+           "bottom": "5",
+           "left": "0",
+           "isLinked": false
+          },
+          "_element_custom_width_mobile": {
+           "unit": "%",
+           "size": 75,
+           "sizes": []
+          }
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "heading",
+         "elType": "widget"
+        },
+        {
+         "id": "69ffb960",
+         "settings": {
+          "title": "ACESSO DE 1 ANO",
+          "align": "center",
+          "title_color": "#000000",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 21,
+           "sizes": []
+          },
+          "typography_font_weight": "600",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.4,
+           "sizes": []
+          },
+          "_margin": {
+           "unit": "px",
+           "top": "-5",
+           "right": "0",
+           "bottom": "10",
+           "left": "0",
+           "isLinked": false
+          },
+          "_element_width": "inherit",
+          "_element_custom_width": {
+           "unit": "%",
+           "size": 78,
+           "sizes": []
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16,
+           "sizes": []
+          },
+          "align_mobile": "center",
+          "typography_text_transform": "uppercase"
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "heading",
+         "elType": "widget"
+        },
+        {
+         "id": "b8905cf",
+         "settings": {
+          "text": "QUERO VENDER MUITO",
+          "typography_typography": "custom",
+          "typography_font_family": "Montserrat",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 19,
+           "sizes": []
+          },
+          "typography_font_weight": "600",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.2,
+           "sizes": []
+          },
+          "background_color": "#FFFFFF00",
+          "background_color_b": "#C47AF2",
+          "background_gradient_angle": {
+           "unit": "deg",
+           "size": 79,
+           "sizes": []
+          },
+          "hover_animation": "grow",
+          "border_radius": {
+           "unit": "px",
+           "top": "7",
+           "right": "7",
+           "bottom": "7",
+           "left": "7",
+           "isLinked": true
+          },
+          "text_padding": {
+           "unit": "px",
+           "top": "25",
+           "right": "70",
+           "bottom": "25",
+           "left": "70",
+           "isLinked": false
+          },
+          "_margin": {
+           "unit": "px",
+           "top": "10",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": false
+          },
+          "align_mobile": "justify",
+          "text_padding_mobile": {
+           "unit": "px",
+           "top": "25",
+           "right": "0",
+           "bottom": "25",
+           "left": "0",
+           "isLinked": false
+          },
+          "_element_width_mobile": "initial",
+          "typography_font_size_mobile": {
+           "unit": "vw",
+           "size": 3.8,
+           "sizes": []
+          },
+          "_element_custom_width_mobile": {
+           "unit": "%",
+           "size": 85,
+           "sizes": []
+          },
+          "custom_css": "selector .elementor-button{\r\n    animation: 2s cubic-bezier(0.2, 0.5, 0.9, 0.6) 2s infinite brilho;\r\n    background-image: linear-gradient(45deg, #814CA2, #F2295B, #814CA2, #F2295B); /*troque as cores aqui, repetindo conforme indicado*/\r\n    background-size: 400% 200%;\r\n    transition: all .8s;\r\n}\r\n\r\n@keyframes brilho{\r\n    0% {\r\n        background-position: 0 0;\r\n    }  \r\n\r\n    100% {\r\n        background-position: 100% 0;\r\n    }\r\n}\r\n"
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "button",
+         "elType": "widget"
+        }
+       ],
+       "isInner": true,
+       "elType": "container"
+      }
+     ],
+     "isInner": true,
+     "elType": "container"
+    }
+   ],
+   "isInner": false,
+   "elType": "container"
+  }
+ ],
+ "page_settings": [],
+ "version": "0.4",
+ "title": "oferta 04",
+ "type": "container"
+}

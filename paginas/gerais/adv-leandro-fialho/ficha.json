@@ -1,0 +1,206 @@
+{
+ "nome": "Advocacia Especializada em BH | Leandro Fialho Advogados",
+ "slug": "adv-leandro-fialho",
+ "pasta_original": "LEandro Fialho Adv",
+ "origem": "paginas/gerais",
+ "prioridade": "referencia",
+ "url": "https://consultoriojuridico.com.br/",
+ "plataforma": "WordPress",
+ "nicho": "Advocacia",
+ "tipo_pagina": "institucional",
+ "paleta": {
+  "fundos": [
+   "#F6F6F6",
+   "#FFFFFF",
+   "#323A4D",
+   "#0B1A2B",
+   "#2B4766",
+   "#D3AB67",
+   "#1A5490"
+  ],
+  "textos": [
+   "#000000",
+   "#3D4F63",
+   "#596777",
+   "#FFFFFF",
+   "#DFE5EE",
+   "#DADADA"
+  ],
+  "destaques": [
+   "#D3AB67",
+   "#323A4D",
+   "#1A5490",
+   "#2B4766"
+  ],
+  "gradientes": [
+   "linear-gradient(to top, rgba(11, 26, 43, 0.97) 0%, rgba(11, 26, 43, 0.85) 45%, rgba(11, 26, 43, 0.3) 75%, rgba(11, 26, 43, 0.1) 100%)",
+   "linear-gradient(135deg, rgb(201, 168, 76) 0%, rgb(212, 184, 90) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Encode Sans",
+   "uso_pct": 67
+  },
+  {
+   "familia": "Trustindex Poppins",
+   "uso_pct": 31
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  50,
+  34,
+  32,
+  30,
+  25,
+  21,
+  20,
+  19
+ ],
+ "escala_tipografica_mobile_px": [
+  30,
+  25,
+  24,
+  21,
+  20,
+  19,
+  16,
+  16
+ ],
+ "h1_mobile": "35px",
+ "botao_principal": {
+  "fundo": "#323A4D",
+  "gradiente": null,
+  "texto": "#D3AB67",
+  "raio": "5px",
+  "padding": "0px 23px",
+  "fonte": "Encode Sans",
+  "tamanho": "18px",
+  "peso": "600",
+  "caixa": "uppercase",
+  "exemplos": [
+   "SAIBA MAIS",
+   "QUERO ENTENDER MELHOR",
+   "CONTINUAR LENDO"
+  ]
+ },
+ "raios": [
+  "12px",
+  "30px",
+  "5px",
+  "8px",
+  "16px",
+  "100%"
+ ],
+ "sombras": [
+  "rgba(20, 40, 70, 0.07) 0px 8px 28px 0px",
+  "rgba(15, 22, 38, 0.22) 0px 12px 30px 0px",
+  "rgba(211, 171, 103, 0.3) 0px 6px 16px 0px",
+  "rgb(211, 171, 103) 0px -2px 0px 0px inset"
+ ],
+ "gaps": [
+  "10px",
+  "14px",
+  "5px",
+  "12px",
+  "4px",
+  "24px"
+ ],
+ "largura_conteudo_px": 200,
+ "altura_pagina_px": 7056,
+ "secoes_qtde": 3,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 200
+  },
+  {
+   "ordem": 2,
+   "tipo": "servicos",
+   "titulo": "Áreas de atuação",
+   "fundo": "#F6F6F6",
+   "altura_px": 7056
+  },
+  {
+   "ordem": 3,
+   "tipo": "rodape",
+   "titulo": "",
+   "fundo": "#0B1A2B",
+   "altura_px": 420
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "servicos",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "navy",
+  "dourado",
+  "corporativo",
+  "claro"
+ ],
+ "tecnicas": [
+  "Google reviews certificado",
+  "Blog"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "a",
+   "arc",
+   "b",
+   "bounce",
+   "bounceIn",
+   "bounceInDown",
+   "bounceInLeft",
+   "bounceInRight",
+   "bounceInUp",
+   "bounceOut",
+   "bounceOutDown",
+   "bounceOutLeft",
+   "bounceOutRight",
+   "bounceOutUp",
+   "bouncedelay",
+   "buffering-stripes",
+   "cbh-circle-anim",
+   "cbh-circle-fill-anim",
+   "cbh-circle-img-anim",
+   "cubemove",
+   "element-from-bottom",
+   "element-from-left",
+   "element-from-right",
+   "element-from-top",
+   "element-transform",
+   "fade",
+   "fade-in-down",
+   "fade-in-up",
+   "fadeIn",
+   "fadeInDown",
+   "fadeInDownBig",
+   "fadeInLeft",
+   "fadeInLeftBig"
+  ],
+  "entrada_elementor": [],
+  "classes_scroll": []
+ },
+ "bibliotecas": [
+  "ga4",
+  "gtm",
+  "jquery"
+ ],
+ "snippets_usados": [],
+ "relevancia": 4,
+ "resumo": "Escritório patrimonial em BH, navy e dourado. Hero com três fotos verticais em mosaico, barra de 4 números com ícone, cards de valores com filete dourado no topo, especialidades em cards de foto, acordos extrajudiciais e blog.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": null,
+  "copy_real": null,
+  "json_elementor": null,
+  "ref": "ref/"
+ }
+}

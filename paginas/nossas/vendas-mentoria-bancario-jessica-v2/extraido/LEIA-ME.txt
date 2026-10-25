@@ -1,0 +1,26 @@
+Captura de https://lp.oreidalanding.com.br/construcao2/
+Data: 2026-10-19T12:51:12.792Z
+Modo: static · Plataforma detectada: WordPress + Elementor
+
+Como abrir:
+  1. Descompacte a pasta.
+  2. Abra index.html no navegador (ou rode `npx serve .` na pasta).
+
+Estrutura:
+  index.html      página com todas as referências reescritas
+  assets/css      folhas de estilo (com @import já embutidos)
+  assets/img      imagens, ícones e SVGs
+  assets/font     fontes
+  assets/js       scripts (só quando a opção estiver ligada)
+  captura.json    relatório completo, arquivo por arquivo
+
+7 arquivo(s) não vieram e continuam apontando para a URL original:
+  - https://lp.oreidalanding.com.br/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/peel/peel.css?ver=1.14.5 (não foi possível baixar)
+  - https://lp.oreidalanding.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=1.0 (não foi possível baixar)
+  - https://lp.oreidalanding.com.br/wp-content/themes/hello-elementor/theme.min.css?ver=3.0.1 (não foi possível baixar)
+  - https://lp.oreidalanding.com.br/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/css/arrow-right.svg (fetch failed)
+  - https://lp.oreidalanding.com.br/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff2 (fetch failed)
+  - https://lp.oreidalanding.com.br/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff (fetch failed)
+  - https://lp.oreidalanding.com.br/wp-content/uploads/2026/03/PTQSE-MB-1.webp (fetch failed)
+
+Use apenas em sites que você mantém ou tem autorização para copiar.

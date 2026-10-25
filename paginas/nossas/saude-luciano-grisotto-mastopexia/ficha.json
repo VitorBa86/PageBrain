@@ -1,0 +1,221 @@
+{
+ "nome": "PÁGINA (Mastopexia) [Luciano Grisotto] · Dr Luciano Grisotto",
+ "slug": "saude-luciano-grisotto-mastopexia",
+ "pasta_original": "Luciano Dr 1",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://lucianogrisotto.com.br/mastopexia/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Saúde / medicina",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#FCFAF3",
+   "#535456",
+   "#38393B",
+   "#61CE70"
+  ],
+  "textos": [
+   "#D5D5D5",
+   "#686868",
+   "#FFFFFF",
+   "#4E4E4E",
+   "#414141",
+   "#CC3366"
+  ],
+  "destaques": [
+   "#61CE70",
+   "#CC3366"
+  ],
+  "gradientes": [
+   "linear-gradient(218deg, rgb(118, 119, 122) 0%, rgb(83, 84, 86) 100%)",
+   "linear-gradient(150deg, rgba(255, 255, 255, 0.02) 0%, rgba(255, 255, 255, 0.21) 100%)",
+   "linear-gradient(90deg, rgb(233, 233, 233) 39%, rgb(177, 177, 177) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Inter",
+   "uso_pct": 97
+  },
+  {
+   "familia": "Sora",
+   "uso_pct": 3
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  72,
+  53,
+  49,
+  44,
+  43,
+  28,
+  24,
+  22
+ ],
+ "escala_tipografica_mobile_px": [
+  36,
+  35,
+  34,
+  32,
+  28,
+  24,
+  21,
+  20
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#61CE70",
+  "gradiente": "radial-gradient(67.54% 100.03% at 50% 0%, rgb(224, 223, 221) 0%, rgb(198, 197, 195) 45%, rgb(175, 174, 172) 100%)",
+  "texto": "#414141",
+  "raio": "14px",
+  "padding": "20px 50px",
+  "fonte": "Inter",
+  "tamanho": "22px",
+  "peso": "400",
+  "caixa": "none",
+  "exemplos": [
+   "Agendar avaliação personalizada",
+   "Falar com a equipe agora"
+  ]
+ },
+ "raios": [
+  "14px",
+  "8px",
+  "20px",
+  "12px"
+ ],
+ "sombras": [],
+ "gaps": [
+  "20px",
+  "5px",
+  "10px",
+  "8px"
+ ],
+ "largura_conteudo_px": 1250,
+ "altura_pagina_px": 6751,
+ "secoes_qtde": 9,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "Recupere a leveza, o formato e a beleza natural das suas mamas.",
+   "fundo": "#535456",
+   "altura_px": 850
+  },
+  {
+   "ordem": 2,
+   "tipo": "prova-resultados",
+   "titulo": "Naturalidade que se vê, e se sente!",
+   "fundo": "#FCFAF3",
+   "altura_px": 1226
+  },
+  {
+   "ordem": 3,
+   "tipo": "beneficios",
+   "titulo": "Benefícios da Mastopexia Sem Prótese:",
+   "fundo": "#535456",
+   "altura_px": 1093
+  },
+  {
+   "ordem": 4,
+   "tipo": "como-funciona",
+   "titulo": "Um procedimento planejado para você!",
+   "fundo": "#FCFAF3",
+   "altura_px": 875
+  },
+  {
+   "ordem": 5,
+   "tipo": "prova-social",
+   "titulo": "Veja o que estão falando sobre nós:",
+   "fundo": "#FCFAF3",
+   "altura_px": 349
+  },
+  {
+   "ordem": 6,
+   "tipo": "sobre",
+   "titulo": "Dr. Luciano Grisotto",
+   "fundo": "#FCFAF3",
+   "altura_px": 900
+  },
+  {
+   "ordem": 7,
+   "tipo": "localizacao",
+   "titulo": "Conheça a nossa clínica!",
+   "fundo": "#FCFAF3",
+   "altura_px": 1083
+  },
+  {
+   "ordem": 8,
+   "tipo": "cta-final",
+   "titulo": "LUCIANO GRISOTTO",
+   "fundo": "#38393B",
+   "altura_px": 253
+  },
+  {
+   "ordem": 9,
+   "tipo": "rodape",
+   "titulo": "Todos os direitos reservados © 2025",
+   "fundo": "#535456",
+   "altura_px": 123
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "prova-resultados",
+  "beneficios",
+  "como-funciona",
+  "prova-social",
+  "sobre",
+  "localizacao",
+  "cta-final",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "cinza-grafite",
+  "creme",
+  "minimalista",
+  "masculino-neutro"
+ ],
+ "tecnicas": [
+  "Hover escala nos cards",
+  "Carrossel linear",
+  "Botão com brilho"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "brilho"
+  ],
+  "entrada_elementor": [],
+  "classes_scroll": [
+   "scroll-bottom",
+   "scroll-left",
+   "scroll-right",
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "jquery",
+  "lottie",
+  "swiper"
+ ],
+ "snippets_usados": [
+  "animacoes/animacao-scroll-reveal.html",
+  "cards-e-bordas/hover-escala.css",
+  "faixas-e-carrosseis/carrossel-linear-continuo.css",
+  "whatsapp-e-flutuantes/link-whatsapp-com-mensagem.html",
+  "utilitarios-css/css-base-toda-pagina.css",
+  "utilitarios-css/elemento-posicao-absoluta.css"
+ ],
+ "relevancia": 4,
+ "resumo": "LP de procedimento único (mastopexia) em cinza grafite e creme. Galeria de resultados, checklist em barras, cards de benefício cinza com ícone, bloco do procedimento e clínica com contatos e CTA.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/saude-luciano-grisotto-mastopexia.md",
+  "json_elementor": null
+ }
+}

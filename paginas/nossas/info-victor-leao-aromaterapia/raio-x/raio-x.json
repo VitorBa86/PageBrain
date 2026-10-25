@@ -1,0 +1,1836 @@
+{
+ "pagina": "info-victor-leao-aromaterapia",
+ "desktop": {
+  "secoes": [
+   {
+    "indice": 0,
+    "topo": 0,
+    "altura": 60,
+    "largura": 1440,
+    "fundo": "rgb(255, 203, 135)",
+    "padding": "0px",
+    "padding_interno": "0px",
+    "largura_conteudo": 1140,
+    "direcao": "column",
+    "gap": "normal",
+    "textos": [
+     {
+      "tamanho": 17,
+      "peso": "400",
+      "fonte": "LEMON MILK1",
+      "cor": "rgb(67, 42, 33)",
+      "caixa": "none",
+      "lh": "1.00em",
+      "espacamento": "0.7px",
+      "italico": false,
+      "tag": "h2",
+      "exemplo": "Exclusivo para quem deseja construir uma carreira de sucesso com Aroma",
+      "chars": 91,
+      "largura_max": 1140
+     },
+     {
+      "tamanho": 17,
+      "peso": "700",
+      "fonte": "LEMON MILK1",
+      "cor": "rgb(67, 42, 33)",
+      "caixa": "none",
+      "lh": "1.00em",
+      "espacamento": "0.7px",
+      "italico": false,
+      "tag": "b",
+      "exemplo": "ATENÇÃO:",
+      "chars": 8,
+      "largura_max": 94
+     }
+    ],
+    "botoes": [],
+    "imagens": [],
+    "cards": []
+   },
+   {
+    "indice": 1,
+    "topo": 60,
+    "altura": 750,
+    "largura": 1440,
+    "fundo": "url(PARTE-1-512a885e.webp) sobre rgb(67, 42, 33)",
+    "padding": "0px",
+    "padding_interno": "80px 0px",
+    "largura_conteudo": 1140,
+    "direcao": "column",
+    "gap": "normal",
+    "textos": [
+     {
+      "tamanho": 25,
+      "peso": "300",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 245, 220)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "normal",
+      "italico": false,
+      "tag": "h2",
+      "exemplo": "Receba uma de Diagnóstico para descobrir como Transformar Sua Carreira",
+      "chars": 147,
+      "largura_max": 513
+     },
+     {
+      "tamanho": 25,
+      "peso": "700",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 203, 135)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "normal",
+      "italico": false,
+      "tag": "span",
+      "exemplo": "Consultoria Gratuita",
+      "chars": 20,
+      "largura_max": 265
+     },
+     {
+      "tamanho": 18,
+      "peso": "600",
+      "fonte": "LEMON MILK1",
+      "cor": "rgb(255, 203, 135)",
+      "caixa": "none",
+      "lh": "1.00em",
+      "espacamento": "1px",
+      "italico": false,
+      "tag": "span",
+      "exemplo": "Quero Aplicar Agora",
+      "chars": 19,
+      "largura_max": 194
+     }
+    ],
+    "botoes": [
+     {
+      "texto": "Quero Aplicar Agora",
+      "tamanho": 18,
+      "peso": "600",
+      "fonte": "LEMON MILK1",
+      "caixa": "none",
+      "padding": "22px",
+      "raio": "10px",
+      "fundo": "linear-gradient(45deg, rgb(41, 74, 57), rgb(66, 112, 88), rgb(41, 74, 57), rgb(66, 112, 88))",
+      "cor": "rgb(255, 203, 135)",
+      "borda": "",
+      "sombra": "",
+      "altura": 62,
+      "largura": 238,
+      "tem_icone": false,
+      "qtde": 1
+     }
+    ],
+    "imagens": [
+     {
+      "tipo": "fundo da seção",
+      "arquivo": "PARTE-1-512a885e.webp",
+      "largura": 1440,
+      "altura": 750,
+      "proporcao": "1.92",
+      "x": 0,
+      "y_na_secao": 0,
+      "raio": "0px",
+      "encaixe": "auto",
+      "alt": ""
+     },
+     {
+      "tipo": "img",
+      "arquivo": "LOGO-697bb084.svg",
+      "largura": 374,
+      "altura": 129,
+      "proporcao": "2.90",
+      "x": 150,
+      "y_na_secao": 138,
+      "raio": "0px",
+      "encaixe": "fill",
+      "alt": ""
+     }
+    ],
+    "cards": []
+   },
+   {
+    "indice": 2,
+    "topo": 810,
+    "altura": 393,
+    "largura": 1440,
+    "fundo": "rgb(255, 203, 135)",
+    "padding": "0px",
+    "padding_interno": "80px 0px",
+    "largura_conteudo": 1140,
+    "direcao": "column",
+    "gap": "normal",
+    "textos": [
+     {
+      "tamanho": 23,
+      "peso": "300",
+      "fonte": "Poppins",
+      "cor": "rgb(68, 44, 36)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "0.4px",
+      "italico": false,
+      "tag": "h2",
+      "exemplo": "Conheça os 7 pilares que todo aromaterapeuta de sucesso utiliza para a",
+      "chars": 140,
+      "largura_max": 570
+     },
+     {
+      "tamanho": 23,
+      "peso": "400",
+      "fonte": "Poppins",
+      "cor": "rgb(68, 44, 36)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "0.4px",
+      "italico": false,
+      "tag": "b",
+      "exemplo": "estabilidade financeira",
+      "chars": 23,
+      "largura_max": 275
+     }
+    ],
+    "botoes": [],
+    "imagens": [
+     {
+      "tipo": "img",
+      "arquivo": "LOGO-MARROM-245d55f9.svg",
+      "largura": 451,
+      "altura": 156,
+      "proporcao": "2.90",
+      "x": 150,
+      "y_na_secao": 119,
+      "raio": "0px",
+      "encaixe": "fill",
+      "alt": ""
+     }
+    ],
+    "cards": []
+   },
+   {
+    "indice": 3,
+    "topo": 1203,
+    "altura": 750,
+    "largura": 1440,
+    "fundo": "url(PARTE-3-4f4d2f0b.webp) sobre rgb(23, 48, 35)",
+    "padding": "0px",
+    "padding_interno": "80px 0px",
+    "largura_conteudo": 1440,
+    "direcao": "column",
+    "gap": "normal",
+    "textos": [
+     {
+      "tamanho": 25,
+      "peso": "300",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 245, 220)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "normal",
+      "italico": false,
+      "tag": "h2",
+      "exemplo": "mesmo e se candidate a uma vaga para fazer o seu Diagnóstico de carrei",
+      "chars": 230,
+      "largura_max": 468
+     },
+     {
+      "tamanho": 25,
+      "peso": "400",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 245, 220)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "normal",
+      "italico": false,
+      "tag": "b",
+      "exemplo": "Clique no botão abaixo agora",
+      "chars": 28,
+      "largura_max": 374
+     },
+     {
+      "tamanho": 20,
+      "peso": "600",
+      "fonte": "LEMON MILK1",
+      "cor": "rgb(67, 42, 33)",
+      "caixa": "none",
+      "lh": "1.00em",
+      "espacamento": "normal",
+      "italico": false,
+      "tag": "span",
+      "exemplo": "Quero Aplicar Agora",
+      "chars": 19,
+      "largura_max": 194
+     }
+    ],
+    "botoes": [
+     {
+      "texto": "Quero Aplicar Agora",
+      "tamanho": 20,
+      "peso": "600",
+      "fonte": "LEMON MILK1",
+      "caixa": "none",
+      "padding": "16px 22px",
+      "raio": "10px",
+      "fundo": "rgb(255, 203, 135)",
+      "cor": "rgb(67, 42, 33)",
+      "borda": "",
+      "sombra": "",
+      "altura": 52,
+      "largura": 238,
+      "tem_icone": false,
+      "qtde": 1
+     }
+    ],
+    "imagens": [
+     {
+      "tipo": "fundo da seção",
+      "arquivo": "PARTE-3-4f4d2f0b.webp",
+      "largura": 1440,
+      "altura": 750,
+      "proporcao": "1.92",
+      "x": 0,
+      "y_na_secao": 0,
+      "raio": "0px",
+      "encaixe": "auto",
+      "alt": ""
+     }
+    ],
+    "cards": [
+     {
+      "raio": "22px 0px 0px 22px",
+      "fundo": "rgba(67, 42, 33, 0.67)",
+      "borda": "1px rgb(255, 203, 135)",
+      "sombra": "",
+      "padding": "50px 40px",
+      "largura": 720,
+      "altura": 454,
+      "qtde": 1
+     }
+    ]
+   },
+   {
+    "indice": 4,
+    "topo": 1953,
+    "altura": 1559,
+    "largura": 1440,
+    "fundo": "url(PARTE-4-1-d9bbe93a.webp) sobre rgb(41, 74, 57)",
+    "padding": "0px",
+    "padding_interno": "0px",
+    "largura_conteudo": 1140,
+    "direcao": "column",
+    "gap": "normal",
+    "textos": [
+     {
+      "tamanho": 30,
+      "peso": "900",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 245, 220)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "0.4px",
+      "italico": false,
+      "tag": "h2",
+      "exemplo": "Para quem é?",
+      "chars": 12,
+      "largura_max": 216
+     },
+     {
+      "tamanho": 25,
+      "peso": "800",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 203, 135)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "normal",
+      "italico": false,
+      "tag": "h3",
+      "exemplo": "1. Aromaterapeutas iniciantes",
+      "chars": 229,
+      "largura_max": 431
+     },
+     {
+      "tamanho": 18,
+      "peso": "200",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 245, 220)",
+      "caixa": "none",
+      "lh": "1.40em",
+      "espacamento": "normal",
+      "italico": false,
+      "tag": "p",
+      "exemplo": "Pessoas que estão começando na aromaterapia e desejam construir uma ca",
+      "chars": 795,
+      "largura_max": 431
+     }
+    ],
+    "botoes": [],
+    "imagens": [
+     {
+      "tipo": "fundo da seção",
+      "arquivo": "PARTE-4-1-d9bbe93a.webp",
+      "largura": 1440,
+      "altura": 1559,
+      "proporcao": "0.92",
+      "x": 0,
+      "y_na_secao": 0,
+      "raio": "0px",
+      "encaixe": "auto",
+      "alt": ""
+     },
+     {
+      "tipo": "img",
+      "arquivo": "01-9ac3d958.jpg",
+      "largura": 310,
+      "altura": 208,
+      "proporcao": "1.49",
+      "x": 280,
+      "y_na_secao": 239,
+      "raio": "22px",
+      "encaixe": "fill",
+      "alt": ""
+     },
+     {
+      "tipo": "img",
+      "arquivo": "02-e2f9bb15.jpg",
+      "largura": 310,
+      "altura": 208,
+      "proporcao": "1.49",
+      "x": 280,
+      "y_na_secao": 530,
+      "raio": "22px",
+      "encaixe": "fill",
+      "alt": ""
+     },
+     {
+      "tipo": "img",
+      "arquivo": "03-294fd8d3.jpg",
+      "largura": 310,
+      "altura": 208,
+      "proporcao": "1.49",
+      "x": 280,
+      "y_na_secao": 821,
+      "raio": "22px",
+      "encaixe": "fill",
+      "alt": ""
+     },
+     {
+      "tipo": "img",
+      "arquivo": "04-20d87ce9.jpg",
+      "largura": 310,
+      "altura": 208,
+      "proporcao": "1.49",
+      "x": 280,
+      "y_na_secao": 1162,
+      "raio": "22px",
+      "encaixe": "fill",
+      "alt": ""
+     }
+    ],
+    "cards": []
+   },
+   {
+    "indice": 5,
+    "topo": 3512,
+    "altura": 1957,
+    "largura": 1440,
+    "fundo": "rgb(41, 74, 57)",
+    "padding": "0px",
+    "padding_interno": "0px 0px 80px",
+    "largura_conteudo": 1140,
+    "direcao": "column",
+    "gap": "normal",
+    "textos": [
+     {
+      "tamanho": 30,
+      "peso": "900",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 245, 220)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "0.4px",
+      "italico": false,
+      "tag": "h2",
+      "exemplo": "Como Funciona a Consultoria de Diagnóstico?",
+      "chars": 43,
+      "largura_max": 736
+     },
+     {
+      "tamanho": 25,
+      "peso": "500",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 203, 135)",
+      "caixa": "none",
+      "lh": "1.20em",
+      "espacamento": "normal",
+      "italico": false,
+      "tag": "h3",
+      "exemplo": "Conhecimento Científico como Diferencial.",
+      "chars": 225,
+      "largura_max": 557
+     },
+     {
+      "tamanho": 20,
+      "peso": "200",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 245, 220)",
+      "caixa": "none",
+      "lh": "1.40em",
+      "espacamento": "0.4px",
+      "italico": false,
+      "tag": "h2",
+      "exemplo": "Com o objetivo de identificar as áreas que precisam de ajustes e apres",
+      "chars": 198,
+      "largura_max": 421
+     },
+     {
+      "tamanho": 18,
+      "peso": "200",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 245, 220)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "0.4px",
+      "italico": false,
+      "tag": "h2",
+      "exemplo": "Na Consultoria de Diagnóstico para Carreira em Aromaterapia, vamos ana",
+      "chars": 244,
+      "largura_max": 821
+     }
+    ],
+    "botoes": [],
+    "imagens": [
+     {
+      "tipo": "img",
+      "arquivo": "LOGO-1-bc17af0e.png",
+      "largura": 325,
+      "altura": 61,
+      "proporcao": "5.35",
+      "x": 228,
+      "y_na_secao": 319,
+      "raio": "0px",
+      "encaixe": "fill",
+      "alt": ""
+     }
+    ],
+    "cards": [
+     {
+      "raio": "36px",
+      "fundo": "rgb(41, 74, 57)",
+      "borda": "1px rgb(255, 203, 135)",
+      "sombra": "",
+      "padding": "40px 30px",
+      "largura": 619,
+      "altura": 188,
+      "qtde": 7
+     },
+     {
+      "raio": "34px",
+      "fundo": "rgba(255, 203, 135, 0.14)",
+      "borda": "",
+      "sombra": "",
+      "padding": "30px",
+      "largura": 481,
+      "altura": 399,
+      "qtde": 1
+     }
+    ]
+   },
+   {
+    "indice": 6,
+    "topo": 5469,
+    "altura": 983,
+    "largura": 1440,
+    "fundo": "rgb(67, 42, 33)",
+    "padding": "0px",
+    "padding_interno": "80px 0px 250px",
+    "largura_conteudo": 1140,
+    "direcao": "column",
+    "gap": "normal",
+    "textos": [
+     {
+      "tamanho": 30,
+      "peso": "800",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 245, 220)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "normal",
+      "italico": false,
+      "tag": "h2",
+      "exemplo": "Etapas do Diagnóstico:",
+      "chars": 22,
+      "largura_max": 355
+     },
+     {
+      "tamanho": 25,
+      "peso": "700",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 203, 135)",
+      "caixa": "none",
+      "lh": "1.20em",
+      "espacamento": "normal",
+      "italico": false,
+      "tag": "span",
+      "exemplo": "Análise da Sua Carreira Atual",
+      "chars": 101,
+      "largura_max": 232
+     },
+     {
+      "tamanho": 18,
+      "peso": "200",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 245, 220)",
+      "caixa": "none",
+      "lh": "1.40em",
+      "espacamento": "normal",
+      "italico": false,
+      "tag": "p",
+      "exemplo": "Avaliamos sua experiência, suas habilidades e a forma como você tem se",
+      "chars": 413,
+      "largura_max": 303
+     },
+     {
+      "tamanho": 18,
+      "peso": "600",
+      "fonte": "LEMON MILK1",
+      "cor": "rgb(255, 203, 135)",
+      "caixa": "none",
+      "lh": "1.00em",
+      "espacamento": "1px",
+      "italico": false,
+      "tag": "span",
+      "exemplo": "Quero Aplicar Agora",
+      "chars": 19,
+      "largura_max": 194
+     }
+    ],
+    "botoes": [
+     {
+      "texto": "Quero Aplicar Agora",
+      "tamanho": 18,
+      "peso": "600",
+      "fonte": "LEMON MILK1",
+      "caixa": "none",
+      "padding": "22px",
+      "raio": "10px",
+      "fundo": "rgb(41, 74, 57)",
+      "cor": "rgb(255, 203, 135)",
+      "borda": "",
+      "sombra": "",
+      "altura": 62,
+      "largura": 238,
+      "tem_icone": false,
+      "qtde": 1
+     }
+    ],
+    "imagens": [],
+    "cards": [
+     {
+      "raio": "22px",
+      "fundo": "rgb(39, 27, 23)",
+      "borda": "2px rgb(255, 203, 135)",
+      "sombra": "",
+      "padding": "30px",
+      "largura": 367,
+      "altura": 392,
+      "qtde": 3
+     }
+    ]
+   },
+   {
+    "indice": 7,
+    "topo": 6452,
+    "altura": 2714,
+    "largura": 1440,
+    "fundo": "rgb(255, 203, 135)",
+    "padding": "0px",
+    "padding_interno": "0px 0px 80px",
+    "largura_conteudo": 1140,
+    "direcao": "column",
+    "gap": "normal",
+    "textos": [
+     {
+      "tamanho": 30,
+      "peso": "800",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 245, 220)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "normal",
+      "italico": false,
+      "tag": "h2",
+      "exemplo": "Veja alguns resultados das minhas alunas:",
+      "chars": 41,
+      "largura_max": 671
+     },
+     {
+      "tamanho": 28,
+      "peso": "800",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 245, 220)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "0.4px",
+      "italico": false,
+      "tag": "h2",
+      "exemplo": "Camila Castellan",
+      "chars": 66,
+      "largura_max": 508
+     },
+     {
+      "tamanho": 20,
+      "peso": "300",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 245, 220)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "0.4px",
+      "italico": false,
+      "tag": "h2",
+      "exemplo": "Biomédica e com doutorado em neurologia, ela utiliza os seus conhecime",
+      "chars": 900,
+      "largura_max": 508
+     },
+     {
+      "tamanho": 20,
+      "peso": "500",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 245, 220)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "0.4px",
+      "italico": false,
+      "tag": "h2",
+      "exemplo": "Camila é uma neurocientista e aromaterapeuta especialista em crianças ",
+      "chars": 527,
+      "largura_max": 508
+     },
+     {
+      "tamanho": 18,
+      "peso": "200",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 245, 220)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "0.4px",
+      "italico": true,
+      "tag": "h2",
+      "exemplo": "“Descobrir a clareza, a postura e a empatia do Victor, me fez decidir ",
+      "chars": 1461,
+      "largura_max": 508
+     },
+     {
+      "tamanho": 18,
+      "peso": "600",
+      "fonte": "LEMON MILK1",
+      "cor": "rgb(255, 203, 135)",
+      "caixa": "none",
+      "lh": "1.00em",
+      "espacamento": "1px",
+      "italico": false,
+      "tag": "span",
+      "exemplo": "Quero me tornar uma referência na aromaterapia",
+      "chars": 46,
+      "largura_max": 464
+     }
+    ],
+    "botoes": [
+     {
+      "texto": "Quero me tornar uma referência na aromaterapia",
+      "tamanho": 18,
+      "peso": "600",
+      "fonte": "LEMON MILK1",
+      "caixa": "none",
+      "padding": "22px",
+      "raio": "10px",
+      "fundo": "rgb(41, 74, 57)",
+      "cor": "rgb(255, 203, 135)",
+      "borda": "",
+      "sombra": "",
+      "altura": 62,
+      "largura": 508,
+      "tem_icone": false,
+      "qtde": 1
+     }
+    ],
+    "imagens": [
+     {
+      "tipo": "img",
+      "arquivo": "DEPO-1-fef6d148.jpg",
+      "largura": 508,
+      "altura": 460,
+      "proporcao": "1.10",
+      "x": 122,
+      "y_na_secao": 55,
+      "raio": "34px",
+      "encaixe": "fill",
+      "alt": ""
+     },
+     {
+      "tipo": "img",
+      "arquivo": "DEPO-4-18744635.jpg",
+      "largura": 508,
+      "altura": 460,
+      "proporcao": "1.10",
+      "x": 122,
+      "y_na_secao": 742,
+      "raio": "34px",
+      "encaixe": "fill",
+      "alt": ""
+     },
+     {
+      "tipo": "img",
+      "arquivo": "DEPO-2-9248dc5c.jpg",
+      "largura": 508,
+      "altura": 460,
+      "proporcao": "1.10",
+      "x": 122,
+      "y_na_secao": 1405,
+      "raio": "34px",
+      "encaixe": "fill",
+      "alt": ""
+     },
+     {
+      "tipo": "img",
+      "arquivo": "DEPO-3-a00fa643.jpg",
+      "largura": 508,
+      "altura": 460,
+      "proporcao": "1.10",
+      "x": 122,
+      "y_na_secao": 2010,
+      "raio": "34px",
+      "encaixe": "fill",
+      "alt": ""
+     }
+    ],
+    "cards": []
+   },
+   {
+    "indice": 8,
+    "topo": 9167,
+    "altura": 950,
+    "largura": 1440,
+    "fundo": "rgb(67, 42, 33)",
+    "padding": "0px",
+    "padding_interno": "80px 0px",
+    "largura_conteudo": 1140,
+    "direcao": "column",
+    "gap": "normal",
+    "textos": [
+     {
+      "tamanho": 30,
+      "peso": "800",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 245, 220)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "normal",
+      "italico": false,
+      "tag": "h2",
+      "exemplo": "Quem é Victor Leão?",
+      "chars": 19,
+      "largura_max": 513
+     },
+     {
+      "tamanho": 18,
+      "peso": "200",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 245, 220)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "0.4px",
+      "italico": false,
+      "tag": "h2",
+      "exemplo": "Victor Leão é um dos maiores nomes da aromaterapia no Brasil, criador ",
+      "chars": 612,
+      "largura_max": 513
+     }
+    ],
+    "botoes": [],
+    "imagens": [
+     {
+      "tipo": "img",
+      "arquivo": "foto-comunidade-fa4bd9f9.png",
+      "largura": 477,
+      "altura": 253,
+      "proporcao": "1.89",
+      "x": 777,
+      "y_na_secao": 584,
+      "raio": "0px",
+      "encaixe": "fill",
+      "alt": ""
+     }
+    ],
+    "cards": []
+   },
+   {
+    "indice": 9,
+    "topo": 10117,
+    "altura": 60,
+    "largura": 1440,
+    "fundo": "rgb(44, 28, 22)",
+    "padding": "0px 10px",
+    "padding_interno": "10px 0px",
+    "largura_conteudo": 1140,
+    "direcao": "column",
+    "gap": "normal",
+    "textos": [
+     {
+      "tamanho": 13,
+      "peso": "200",
+      "fonte": "Sora",
+      "cor": "rgb(255, 255, 255)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "normal",
+      "italico": false,
+      "tag": "h2",
+      "exemplo": "Todos os direitos reservados © 2024",
+      "chars": 76,
+      "largura_max": 256
+     }
+    ],
+    "botoes": [],
+    "imagens": [],
+    "cards": []
+   }
+  ],
+  "altura": 10177
+ },
+ "mobile": {
+  "secoes": [
+   {
+    "indice": 0,
+    "topo": 0,
+    "altura": 76,
+    "largura": 390,
+    "fundo": "rgb(255, 203, 135)",
+    "padding": "0px",
+    "padding_interno": "10px 0px",
+    "largura_conteudo": 351,
+    "direcao": "column",
+    "gap": "normal",
+    "textos": [
+     {
+      "tamanho": 13,
+      "peso": "400",
+      "fonte": "LEMON MILK1",
+      "cor": "rgb(67, 42, 33)",
+      "caixa": "none",
+      "lh": "1.40em",
+      "espacamento": "0.7px",
+      "italico": false,
+      "tag": "h2",
+      "exemplo": "Exclusivo para quem deseja construir uma carreira de sucesso com Aroma",
+      "chars": 91,
+      "largura_max": 351
+     },
+     {
+      "tamanho": 13,
+      "peso": "700",
+      "fonte": "LEMON MILK1",
+      "cor": "rgb(67, 42, 33)",
+      "caixa": "none",
+      "lh": "1.40em",
+      "espacamento": "0.7px",
+      "italico": false,
+      "tag": "b",
+      "exemplo": "ATENÇÃO:",
+      "chars": 8,
+      "largura_max": 75
+     }
+    ],
+    "botoes": [],
+    "imagens": [],
+    "cards": []
+   },
+   {
+    "indice": 1,
+    "topo": 76,
+    "altura": 750,
+    "largura": 390,
+    "fundo": "url(PARTE-1-MB-1-8e38b8f3.webp) sobre rgb(67, 42, 33)",
+    "padding": "0px",
+    "padding_interno": "273px 0px 39px",
+    "largura_conteudo": 351,
+    "direcao": "column",
+    "gap": "normal",
+    "textos": [
+     {
+      "tamanho": 18,
+      "peso": "600",
+      "fonte": "LEMON MILK1",
+      "cor": "rgb(255, 203, 135)",
+      "caixa": "none",
+      "lh": "1.00em",
+      "espacamento": "1px",
+      "italico": false,
+      "tag": "span",
+      "exemplo": "Quero Aplicar Agora",
+      "chars": 19,
+      "largura_max": 193
+     },
+     {
+      "tamanho": 17,
+      "peso": "300",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 245, 220)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "normal",
+      "italico": false,
+      "tag": "h2",
+      "exemplo": "Receba uma de Diagnóstico para descobrir como Transformar Sua Carreira",
+      "chars": 147,
+      "largura_max": 351
+     },
+     {
+      "tamanho": 17,
+      "peso": "700",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 203, 135)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "normal",
+      "italico": false,
+      "tag": "span",
+      "exemplo": "Consultoria Gratuita",
+      "chars": 20,
+      "largura_max": 182
+     }
+    ],
+    "botoes": [
+     {
+      "texto": "Quero Aplicar Agora",
+      "tamanho": 18,
+      "peso": "600",
+      "fonte": "LEMON MILK1",
+      "caixa": "none",
+      "padding": "22px 0px",
+      "raio": "10px",
+      "fundo": "linear-gradient(45deg, rgb(41, 74, 57), rgb(66, 112, 88), rgb(41, 74, 57), rgb(66, 112, 88))",
+      "cor": "rgb(255, 203, 135)",
+      "borda": "",
+      "sombra": "",
+      "altura": 62,
+      "largura": 351,
+      "tem_icone": false,
+      "qtde": 1
+     }
+    ],
+    "imagens": [
+     {
+      "tipo": "fundo da seção",
+      "arquivo": "PARTE-1-MB-1-8e38b8f3.webp",
+      "largura": 390,
+      "altura": 750,
+      "proporcao": "0.52",
+      "x": 0,
+      "y_na_secao": 0,
+      "raio": "0px",
+      "encaixe": "100% auto",
+      "alt": ""
+     },
+     {
+      "tipo": "img",
+      "arquivo": "LOGO-697bb084.svg",
+      "largura": 256,
+      "altura": 88,
+      "proporcao": "2.90",
+      "x": 20,
+      "y_na_secao": 292,
+      "raio": "0px",
+      "encaixe": "fill",
+      "alt": ""
+     }
+    ],
+    "cards": []
+   },
+   {
+    "indice": 2,
+    "topo": 826,
+    "altura": 418,
+    "largura": 390,
+    "fundo": "rgb(255, 203, 135)",
+    "padding": "0px",
+    "padding_interno": "80px 0px",
+    "largura_conteudo": 351,
+    "direcao": "column",
+    "gap": "normal",
+    "textos": [
+     {
+      "tamanho": 17,
+      "peso": "300",
+      "fonte": "Poppins",
+      "cor": "rgb(68, 44, 36)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "0.4px",
+      "italico": false,
+      "tag": "h2",
+      "exemplo": "Conheça os 7 pilares que todo aromaterapeuta de sucesso utiliza para a",
+      "chars": 140,
+      "largura_max": 351
+     },
+     {
+      "tamanho": 17,
+      "peso": "400",
+      "fonte": "Poppins",
+      "cor": "rgb(68, 44, 36)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "0.4px",
+      "italico": false,
+      "tag": "b",
+      "exemplo": "estabilidade financeira",
+      "chars": 23,
+      "largura_max": 325
+     }
+    ],
+    "botoes": [],
+    "imagens": [
+     {
+      "tipo": "img",
+      "arquivo": "LOGO-MARROM-245d55f9.svg",
+      "largura": 309,
+      "altura": 107,
+      "proporcao": "2.90",
+      "x": 20,
+      "y_na_secao": 232,
+      "raio": "0px",
+      "encaixe": "fill",
+      "alt": ""
+     }
+    ],
+    "cards": []
+   },
+   {
+    "indice": 3,
+    "topo": 1244,
+    "altura": 775,
+    "largura": 390,
+    "fundo": "url(PARTE-3-MB-d35049df.webp) sobre rgb(23, 48, 35)",
+    "padding": "0px 0px 0px 20px",
+    "padding_interno": "300px 0px 50px",
+    "largura_conteudo": 370,
+    "direcao": "column",
+    "gap": "normal",
+    "textos": [
+     {
+      "tamanho": 18,
+      "peso": "600",
+      "fonte": "LEMON MILK1",
+      "cor": "rgb(67, 42, 33)",
+      "caixa": "none",
+      "lh": "1.00em",
+      "espacamento": "normal",
+      "italico": false,
+      "tag": "span",
+      "exemplo": "Quero Aplicar Agora",
+      "chars": 19,
+      "largura_max": 174
+     },
+     {
+      "tamanho": 17,
+      "peso": "300",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 245, 220)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "normal",
+      "italico": false,
+      "tag": "h2",
+      "exemplo": "mesmo e se candidate a uma vaga para fazer o seu Diagnóstico de carrei",
+      "chars": 230,
+      "largura_max": 289
+     },
+     {
+      "tamanho": 17,
+      "peso": "400",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 245, 220)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "normal",
+      "italico": false,
+      "tag": "b",
+      "exemplo": "Clique no botão abaixo agora",
+      "chars": 28,
+      "largura_max": 257
+     }
+    ],
+    "botoes": [
+     {
+      "texto": "Quero Aplicar Agora",
+      "tamanho": 18,
+      "peso": "600",
+      "fonte": "LEMON MILK1",
+      "caixa": "none",
+      "padding": "22px 0px",
+      "raio": "10px",
+      "fundo": "rgb(255, 203, 135)",
+      "cor": "rgb(67, 42, 33)",
+      "borda": "",
+      "sombra": "",
+      "altura": 62,
+      "largura": 289,
+      "tem_icone": false,
+      "qtde": 1
+     }
+    ],
+    "imagens": [
+     {
+      "tipo": "fundo da seção",
+      "arquivo": "PARTE-3-MB-d35049df.webp",
+      "largura": 390,
+      "altura": 775,
+      "proporcao": "0.50",
+      "x": 0,
+      "y_na_secao": 0,
+      "raio": "0px",
+      "encaixe": "100% auto",
+      "alt": ""
+     }
+    ],
+    "cards": [
+     {
+      "raio": "22px 0px 0px 22px",
+      "fundo": "rgba(67, 42, 33, 0.67)",
+      "borda": "1px rgb(255, 203, 135)",
+      "sombra": "",
+      "padding": "50px 40px",
+      "largura": 370,
+      "altura": 405,
+      "qtde": 1
+     }
+    ]
+   },
+   {
+    "indice": 4,
+    "topo": 2019,
+    "altura": 2419,
+    "largura": 390,
+    "fundo": "url(PARTE-4-MB-1-1-2032a4aa.webp) sobre rgb(41, 74, 57)",
+    "padding": "0px",
+    "padding_interno": "70px 0px",
+    "largura_conteudo": 351,
+    "direcao": "column",
+    "gap": "normal",
+    "textos": [
+     {
+      "tamanho": 27,
+      "peso": "900",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 245, 220)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "0.4px",
+      "italico": false,
+      "tag": "h2",
+      "exemplo": "Para quem é?",
+      "chars": 12,
+      "largura_max": 194
+     },
+     {
+      "tamanho": 19,
+      "peso": "800",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 203, 135)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "normal",
+      "italico": false,
+      "tag": "h3",
+      "exemplo": "1. Aromaterapeutas iniciantes",
+      "chars": 229,
+      "largura_max": 287
+     },
+     {
+      "tamanho": 18,
+      "peso": "200",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 245, 220)",
+      "caixa": "none",
+      "lh": "1.40em",
+      "espacamento": "normal",
+      "italico": false,
+      "tag": "p",
+      "exemplo": "Pessoas que estão começando na aromaterapia e desejam construir uma ca",
+      "chars": 795,
+      "largura_max": 287
+     }
+    ],
+    "botoes": [],
+    "imagens": [
+     {
+      "tipo": "fundo da seção",
+      "arquivo": "PARTE-4-MB-1-1-2032a4aa.webp",
+      "largura": 390,
+      "altura": 2419,
+      "proporcao": "0.16",
+      "x": 0,
+      "y_na_secao": 0,
+      "raio": "0px",
+      "encaixe": "100% auto",
+      "alt": ""
+     },
+     {
+      "tipo": "img",
+      "arquivo": "01-9ac3d958.jpg",
+      "largura": 287,
+      "altura": 193,
+      "proporcao": "1.49",
+      "x": 52,
+      "y_na_secao": 163,
+      "raio": "22px",
+      "encaixe": "fill",
+      "alt": ""
+     },
+     {
+      "tipo": "img",
+      "arquivo": "02-e2f9bb15.jpg",
+      "largura": 287,
+      "altura": 193,
+      "proporcao": "1.49",
+      "x": 52,
+      "y_na_secao": 678,
+      "raio": "22px",
+      "encaixe": "fill",
+      "alt": ""
+     },
+     {
+      "tipo": "img",
+      "arquivo": "03-294fd8d3.jpg",
+      "largura": 287,
+      "altura": 193,
+      "proporcao": "1.49",
+      "x": 52,
+      "y_na_secao": 1217,
+      "raio": "22px",
+      "encaixe": "fill",
+      "alt": ""
+     },
+     {
+      "tipo": "img",
+      "arquivo": "04-20d87ce9.jpg",
+      "largura": 287,
+      "altura": 193,
+      "proporcao": "1.49",
+      "x": 52,
+      "y_na_secao": 1732,
+      "raio": "22px",
+      "encaixe": "fill",
+      "alt": ""
+     }
+    ],
+    "cards": [
+     {
+      "raio": "22px",
+      "fundo": "rgba(67, 42, 33, 0.57)",
+      "borda": "2px rgb(255, 203, 135)",
+      "sombra": "",
+      "padding": "30px",
+      "largura": 351,
+      "altura": 435,
+      "qtde": 4
+     }
+    ]
+   },
+   {
+    "indice": 5,
+    "topo": 4438,
+    "altura": 2489,
+    "largura": 390,
+    "fundo": "rgb(41, 74, 57)",
+    "padding": "0px",
+    "padding_interno": "20px 0px 80px",
+    "largura_conteudo": 351,
+    "direcao": "column",
+    "gap": "normal",
+    "textos": [
+     {
+      "tamanho": 28,
+      "peso": "900",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 245, 220)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "0.4px",
+      "italico": false,
+      "tag": "h2",
+      "exemplo": "Como Funciona a Consultoria de Diagnóstico?",
+      "chars": 43,
+      "largura_max": 351
+     },
+     {
+      "tamanho": 25,
+      "peso": "500",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 203, 135)",
+      "caixa": "none",
+      "lh": "1.20em",
+      "espacamento": "normal",
+      "italico": false,
+      "tag": "h3",
+      "exemplo": "Conhecimento Científico como Diferencial.",
+      "chars": 225,
+      "largura_max": 289
+     },
+     {
+      "tamanho": 16,
+      "peso": "200",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 245, 220)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "0.4px",
+      "italico": false,
+      "tag": "h2",
+      "exemplo": "Na Consultoria de Diagnóstico para Carreira em Aromaterapia, vamos ana",
+      "chars": 244,
+      "largura_max": 351
+     },
+     {
+      "tamanho": 16,
+      "peso": "200",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 245, 220)",
+      "caixa": "none",
+      "lh": "1.40em",
+      "espacamento": "0.4px",
+      "italico": false,
+      "tag": "h2",
+      "exemplo": "Com o objetivo de identificar as áreas que precisam de ajustes e apres",
+      "chars": 198,
+      "largura_max": 311
+     }
+    ],
+    "botoes": [],
+    "imagens": [],
+    "cards": [
+     {
+      "raio": "36px",
+      "fundo": "rgb(41, 74, 57)",
+      "borda": "1px rgb(255, 203, 135)",
+      "sombra": "",
+      "padding": "40px 30px",
+      "largura": 351,
+      "altura": 248,
+      "qtde": 7
+     },
+     {
+      "raio": "34px",
+      "fundo": "rgba(255, 255, 255, 0)",
+      "borda": "",
+      "sombra": "",
+      "padding": "0px 0px 230px",
+      "largura": 351,
+      "altura": 532,
+      "qtde": 1
+     },
+     {
+      "raio": "34px",
+      "fundo": "rgb(71, 93, 68)",
+      "borda": "",
+      "sombra": "",
+      "padding": "0px 20px 40px",
+      "largura": 351,
+      "altura": 302,
+      "qtde": 1
+     }
+    ]
+   },
+   {
+    "indice": 6,
+    "topo": 6927,
+    "altura": 1605,
+    "largura": 390,
+    "fundo": "rgb(67, 42, 33)",
+    "padding": "0px",
+    "padding_interno": "80px 0px 200px",
+    "largura_conteudo": 351,
+    "direcao": "column",
+    "gap": "normal",
+    "textos": [
+     {
+      "tamanho": 26,
+      "peso": "800",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 245, 220)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "normal",
+      "italico": false,
+      "tag": "h2",
+      "exemplo": "Etapas do Diagnóstico:",
+      "chars": 22,
+      "largura_max": 309
+     },
+     {
+      "tamanho": 25,
+      "peso": "700",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 203, 135)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "normal",
+      "italico": false,
+      "tag": "span",
+      "exemplo": "Análise da Sua Carreira Atual",
+      "chars": 101,
+      "largura_max": 303
+     },
+     {
+      "tamanho": 19,
+      "peso": "600",
+      "fonte": "LEMON MILK1",
+      "cor": "rgb(255, 203, 135)",
+      "caixa": "none",
+      "lh": "1.00em",
+      "espacamento": "1px",
+      "italico": false,
+      "tag": "span",
+      "exemplo": "Quero Aplicar Agora",
+      "chars": 19,
+      "largura_max": 201
+     },
+     {
+      "tamanho": 18,
+      "peso": "200",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 245, 220)",
+      "caixa": "none",
+      "lh": "1.40em",
+      "espacamento": "normal",
+      "italico": false,
+      "tag": "p",
+      "exemplo": "Avaliamos sua experiência, suas habilidades e a forma como você tem se",
+      "chars": 413,
+      "largura_max": 307
+     }
+    ],
+    "botoes": [
+     {
+      "texto": "Quero Aplicar Agora",
+      "tamanho": 19,
+      "peso": "600",
+      "fonte": "LEMON MILK1",
+      "caixa": "none",
+      "padding": "22px 0px",
+      "raio": "10px",
+      "fundo": "rgb(41, 74, 57)",
+      "cor": "rgb(255, 203, 135)",
+      "borda": "",
+      "sombra": "",
+      "altura": 63,
+      "largura": 351,
+      "tem_icone": false,
+      "qtde": 1
+     }
+    ],
+    "imagens": [],
+    "cards": [
+     {
+      "raio": "22px",
+      "fundo": "rgb(39, 27, 23)",
+      "borda": "2px rgb(255, 203, 135)",
+      "sombra": "",
+      "padding": "20px 20px 70px",
+      "largura": 351,
+      "altura": 422,
+      "qtde": 1
+     },
+     {
+      "raio": "22px",
+      "fundo": "rgb(39, 27, 23)",
+      "borda": "2px rgb(255, 203, 135)",
+      "sombra": "",
+      "padding": "30px 30px 70px",
+      "largura": 351,
+      "altura": 465,
+      "qtde": 1
+     },
+     {
+      "raio": "22px",
+      "fundo": "rgb(39, 27, 23)",
+      "borda": "2px rgb(255, 203, 135)",
+      "sombra": "",
+      "padding": "30px",
+      "largura": 351,
+      "altura": 342,
+      "qtde": 1
+     }
+    ]
+   },
+   {
+    "indice": 7,
+    "topo": 8533,
+    "altura": 4048,
+    "largura": 390,
+    "fundo": "rgb(255, 203, 135)",
+    "padding": "0px",
+    "padding_interno": "80px 0px",
+    "largura_conteudo": 351,
+    "direcao": "column",
+    "gap": "normal",
+    "textos": [
+     {
+      "tamanho": 25,
+      "peso": "800",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 245, 220)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "normal",
+      "italico": false,
+      "tag": "h2",
+      "exemplo": "Veja alguns resultados das minhas alunas:",
+      "chars": 41,
+      "largura_max": 351
+     },
+     {
+      "tamanho": 23,
+      "peso": "800",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 245, 220)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "0.4px",
+      "italico": false,
+      "tag": "h2",
+      "exemplo": "Camila Castellan",
+      "chars": 66,
+      "largura_max": 287
+     },
+     {
+      "tamanho": 17,
+      "peso": "500",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 245, 220)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "0.4px",
+      "italico": false,
+      "tag": "h2",
+      "exemplo": "Camila é uma neurocientista e aromaterapeuta especialista em crianças ",
+      "chars": 527,
+      "largura_max": 287
+     },
+     {
+      "tamanho": 16,
+      "peso": "600",
+      "fonte": "LEMON MILK1",
+      "cor": "rgb(255, 203, 135)",
+      "caixa": "none",
+      "lh": "1.40em",
+      "espacamento": "1px",
+      "italico": false,
+      "tag": "span",
+      "exemplo": "Quero me tornar uma referência na aromaterapia",
+      "chars": 46,
+      "largura_max": 351
+     },
+     {
+      "tamanho": 15,
+      "peso": "200",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 245, 220)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "0.4px",
+      "italico": true,
+      "tag": "h2",
+      "exemplo": "“Descobrir a clareza, a postura e a empatia do Victor, me fez decidir ",
+      "chars": 1461,
+      "largura_max": 287
+     },
+     {
+      "tamanho": 15,
+      "peso": "300",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 245, 220)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "0.4px",
+      "italico": false,
+      "tag": "h2",
+      "exemplo": "Biomédica e com doutorado em neurologia, ela utiliza os seus conhecime",
+      "chars": 900,
+      "largura_max": 287
+     }
+    ],
+    "botoes": [
+     {
+      "texto": "Quero me tornar uma referência na aromaterapia",
+      "tamanho": 16,
+      "peso": "600",
+      "fonte": "LEMON MILK1",
+      "caixa": "none",
+      "padding": "22px 0px",
+      "raio": "10px",
+      "fundo": "rgb(41, 74, 57)",
+      "cor": "rgb(255, 203, 135)",
+      "borda": "",
+      "sombra": "",
+      "altura": 90,
+      "largura": 351,
+      "tem_icone": false,
+      "qtde": 1
+     }
+    ],
+    "imagens": [
+     {
+      "tipo": "img",
+      "arquivo": "DEPO-1-768x695-988c6777.jpg",
+      "largura": 287,
+      "altura": 260,
+      "proporcao": "1.10",
+      "x": 52,
+      "y_na_secao": -67,
+      "raio": "34px",
+      "encaixe": "fill",
+      "alt": ""
+     },
+     {
+      "tipo": "img",
+      "arquivo": "DEPO-4-768x695-4f09838b.jpg",
+      "largura": 287,
+      "altura": 260,
+      "proporcao": "1.10",
+      "x": 52,
+      "y_na_secao": 984,
+      "raio": "34px",
+      "encaixe": "fill",
+      "alt": ""
+     },
+     {
+      "tipo": "img",
+      "arquivo": "DEPO-2-768x695-dd1e7af5.jpg",
+      "largura": 287,
+      "altura": 260,
+      "proporcao": "1.10",
+      "x": 52,
+      "y_na_secao": 2037,
+      "raio": "34px",
+      "encaixe": "fill",
+      "alt": ""
+     },
+     {
+      "tipo": "img",
+      "arquivo": "DEPO-3-768x695-fe4661c2.jpg",
+      "largura": 287,
+      "altura": 260,
+      "proporcao": "1.10",
+      "x": 52,
+      "y_na_secao": 2992,
+      "raio": "34px",
+      "encaixe": "fill",
+      "alt": ""
+     }
+    ],
+    "cards": [
+     {
+      "raio": "34px",
+      "fundo": "rgb(39, 27, 23)",
+      "borda": "2px rgb(255, 203, 135)",
+      "sombra": "",
+      "padding": "30px",
+      "largura": 351,
+      "altura": 1001,
+      "qtde": 4
+     }
+    ]
+   },
+   {
+    "indice": 8,
+    "topo": 12580,
+    "altura": 1082,
+    "largura": 390,
+    "fundo": "rgb(67, 42, 33)",
+    "padding": "0px",
+    "padding_interno": "351px 0px 39px",
+    "largura_conteudo": 351,
+    "direcao": "column",
+    "gap": "normal",
+    "textos": [
+     {
+      "tamanho": 23,
+      "peso": "800",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 245, 220)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "normal",
+      "italico": false,
+      "tag": "h2",
+      "exemplo": "Quem é Victor Leão?",
+      "chars": 19,
+      "largura_max": 351
+     },
+     {
+      "tamanho": 15,
+      "peso": "200",
+      "fonte": "Poppins",
+      "cor": "rgb(255, 245, 220)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "0.4px",
+      "italico": false,
+      "tag": "h2",
+      "exemplo": "Victor Leão é um dos maiores nomes da aromaterapia no Brasil, criador ",
+      "chars": 612,
+      "largura_max": 351
+     }
+    ],
+    "botoes": [],
+    "imagens": [
+     {
+      "tipo": "img",
+      "arquivo": "foto-comunidade-fa4bd9f9.png",
+      "largura": 351,
+      "altura": 186,
+      "proporcao": "1.89",
+      "x": 20,
+      "y_na_secao": 857,
+      "raio": "0px",
+      "encaixe": "fill",
+      "alt": ""
+     }
+    ],
+    "cards": []
+   },
+   {
+    "indice": 9,
+    "topo": 13662,
+    "altura": 127,
+    "largura": 390,
+    "fundo": "rgb(44, 28, 22)",
+    "padding": "0px",
+    "padding_interno": "30px 0px",
+    "largura_conteudo": 390,
+    "direcao": "column",
+    "gap": "normal",
+    "textos": [
+     {
+      "tamanho": 13,
+      "peso": "200",
+      "fonte": "Sora",
+      "cor": "rgb(255, 255, 255)",
+      "caixa": "none",
+      "lh": "1.30em",
+      "espacamento": "normal",
+      "italico": false,
+      "tag": "h2",
+      "exemplo": "Todos os direitos reservados © 2024",
+      "chars": 76,
+      "largura_max": 390
+     }
+    ],
+    "botoes": [],
+    "imagens": [],
+    "cards": []
+   }
+  ],
+  "altura": 13789
+ }
+}

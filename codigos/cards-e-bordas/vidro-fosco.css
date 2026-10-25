@@ -1,0 +1,14 @@
+/*
+  SNIPPET: Vidro fosco (backdrop blur)
+  CATEGORIA: cards-e-bordas
+  O QUE FAZ: Desfoca o que está atrás do container. Usado em cards e menus sobre foto ou vídeo.
+  COMO USAR: Cole no CSS personalizado do container. Use cor de fundo semitransparente (ex.: rgba(255,255,255,0.08)).
+  ONDE COLAR: CSS personalizado do container
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: 9 páginas (ex.: adv-souza-santos)
+  USADO EM: 11 página(s) da casa: adv-barros-e-carvalho, adv-gustavo-kehl, adv-souza-santos, imob-construtora-vitta, imob-vega-costa-e-silva, imob-vistoria-alphaville, info-carol-guglielmi-imagem-pessoal, negocio-bar-santa-boemia, vendas-odonto-luiz-gustavo-melo, vendas-scripts-consignado-jessica, vendas-templates-arquiteto-jardel
+*/
+
+selector{
+    backdrop-filter: blur(8px);
+}

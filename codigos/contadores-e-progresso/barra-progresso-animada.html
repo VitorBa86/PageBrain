@@ -1,0 +1,117 @@
+<!--
+  SNIPPET: Barra de progresso com número animado
+  CATEGORIA: contadores-e-progresso
+  O QUE FAZ: Barra que enche até X% e número que conta de 0 até X quando a seção aparece. Usada para "andamento da obra".
+  COMO USAR: Cole em um widget HTML. Troque 30 (em valorFinal, width e aria-valuenow) e o texto da previsão.
+  ONDE COLAR: Widget HTML
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: paginas/nossas/imob-vega-costa-e-silva
+  USADO EM: 1 página(s) da casa: imob-vega-costa-e-silva
+-->
+
+<div class="progress-entrega" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100">
+
+    <div style="height:14px;overflow:hidden;border-radius:999px;background:#fff3">
+        <span class="progress-bar" style="display:block;width:0%;height:100%;border-radius:inherit;background:#FF981F"></span>
+    </div>
+
+    <div style="display:flex;justify-content:space-between;align-items:baseline;gap:16px;margin-top:10px;color:#fff;font:700 14px/1.35 Inter">
+        
+        <strong class="progress-number" style="font:400 43px/1 Georgia">
+            0%
+        </strong>
+
+        <span>Previsão de entrega: 2° semestre de 2028</span>
+
+    </div>
+
+</div>
+
+<style>
+
+.progress-entrega .progress-bar {
+    transition: width 2s cubic-bezier(.22,.7,.3,1);
+}
+
+.progress-entrega.animar .progress-bar {
+    width: 30% !important;
+}
+
+.progress-entrega > div:last-child > span {
+    opacity: 0;
+    transform: translateY(8px);
+    transition: opacity .6s ease 1.2s, transform .6s ease 1.2s;
+}
+
+.progress-entrega.animar > div:last-child > span {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+</style>
+
+<script>
+
+document.addEventListener("DOMContentLoaded", function () {
+
+    const progresses = document.querySelectorAll(".progress-entrega");
+
+    progresses.forEach((progress) => {
+
+        let animado = false;
+
+        const observer = new IntersectionObserver((entries) => {
+
+            entries.forEach((entry) => {
+
+                if (entry.isIntersecting && !animado) {
+
+                    animado = true;
+                    progress.classList.add("animar");
+
+                    const numero = progress.querySelector(".progress-number");
+
+                    const valorFinal = 30;
+                    const duracao = 2000;
+                    const inicio = performance.now();
+
+                    function animarNumero(tempo) {
+
+                        const progresso = Math.min(
+                            (tempo - inicio) / duracao,
+                            1
+                        );
+
+                        /* mesma desaceleração visual da barra */
+                        const ease = 1 - Math.pow(1 - progresso, 4);
+
+                        const valor = Math.round(valorFinal * ease);
+
+                        numero.textContent = valor + "%";
+
+                        if (progresso < 1) {
+                            requestAnimationFrame(animarNumero);
+                        } else {
+                            numero.textContent = "30%";
+                        }
+
+                    }
+
+                    requestAnimationFrame(animarNumero);
+
+                    observer.unobserve(progress);
+                }
+
+            });
+
+        }, {
+            threshold: 0.3
+        });
+
+        observer.observe(progress);
+
+    });
+
+});
+
+</script>

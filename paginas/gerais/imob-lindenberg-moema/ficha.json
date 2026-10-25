@@ -1,0 +1,235 @@
+{
+ "nome": "Lindenberg Moema",
+ "slug": "imob-lindenberg-moema",
+ "pasta_original": "Linderberg Imob",
+ "origem": "paginas/gerais",
+ "prioridade": "referencia",
+ "url": "https://lindenbergmoema.com.br/",
+ "plataforma": "WordPress",
+ "nicho": "Imobiliário",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#FAF4ED",
+   "#F2EADF",
+   "#23160E",
+   "#BA9D80",
+   "#51332A",
+   "#D9D9D9",
+   "#573717"
+  ],
+  "textos": [
+   "#8B7D78",
+   "#51332A",
+   "#BA9D80",
+   "#000000",
+   "#C9A989",
+   "#2B1A12"
+  ],
+  "destaques": [
+   "#51332A",
+   "#573717",
+   "#BA9D80",
+   "#C9A989"
+  ],
+  "gradientes": []
+ },
+ "fontes": [
+  {
+   "familia": "Lato",
+   "uso_pct": 36
+  },
+  {
+   "familia": "Montserrat",
+   "uso_pct": 36
+  },
+  {
+   "familia": "Inter",
+   "uso_pct": 20
+  },
+  {
+   "familia": "Cormorant Garamond",
+   "uso_pct": 5
+  },
+  {
+   "familia": "Roboto",
+   "uso_pct": 2
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  48,
+  36,
+  30,
+  26,
+  24,
+  20,
+  18
+ ],
+ "escala_tipografica_mobile_px": [
+  30,
+  24,
+  24,
+  24,
+  18,
+  18,
+  16,
+  16
+ ],
+ "h1_mobile": "30px",
+ "botao_principal": {
+  "fundo": "#573717",
+  "gradiente": null,
+  "texto": "#FFFFFF",
+  "raio": "10px",
+  "padding": "12px 40px",
+  "fonte": "Lato",
+  "tamanho": "16px",
+  "peso": "400",
+  "caixa": "none",
+  "exemplos": [
+   "Enviar"
+  ]
+ },
+ "raios": [
+  "16px",
+  "12px",
+  "8px",
+  "3.35544e+07px",
+  "24px",
+  "10px"
+ ],
+ "sombras": [
+  "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 14px 24px 0px",
+  "rgba(0, 0, 0, 0.25) 0px 4px 4px 0px"
+ ],
+ "gaps": [
+  "24px",
+  "10px",
+  "40px",
+  "12px",
+  "60px",
+  "28px"
+ ],
+ "largura_conteudo_px": null,
+ "altura_pagina_px": 9483,
+ "secoes_qtde": 10,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "Entre o Jardim Luzitânia e a Vila Nova Conceição.",
+   "fundo": "imagem",
+   "altura_px": 900
+  },
+  {
+   "ordem": 2,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "imagem",
+   "altura_px": 920
+  },
+  {
+   "ordem": 3,
+   "tipo": "",
+   "titulo": "Onde Moema guarda o seu melhor",
+   "fundo": "imagem",
+   "altura_px": 1608
+  },
+  {
+   "ordem": 4,
+   "tipo": "",
+   "titulo": "Bem-estar em estado de experiência. Wellness Design.",
+   "fundo": "#23160E",
+   "altura_px": 1152
+  },
+  {
+   "ordem": 5,
+   "tipo": "produto",
+   "titulo": "Ficha técnica",
+   "fundo": "#FAF4ED",
+   "altura_px": 1052
+  },
+  {
+   "ordem": 6,
+   "tipo": "",
+   "titulo": "Arquitetura contemporânea atemporal.",
+   "fundo": "#1F1714",
+   "altura_px": 608
+  },
+  {
+   "ordem": 7,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "#F2EADF",
+   "altura_px": 485
+  },
+  {
+   "ordem": 8,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "#F2EADF",
+   "altura_px": 738
+  },
+  {
+   "ordem": 9,
+   "tipo": "produto",
+   "titulo": "Plantas",
+   "fundo": "#FAF4ED",
+   "altura_px": 992
+  },
+  {
+   "ordem": 10,
+   "tipo": "cta-final",
+   "titulo": "Fale Conosco",
+   "fundo": "#F2EADF",
+   "altura_px": 900
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "",
+  "",
+  "",
+  "produto",
+  "",
+  "",
+  "",
+  "produto",
+  "cta-final"
+ ],
+ "tags_estilo": [
+  "bege",
+  "marrom-cafe",
+  "serifa",
+  "alto-padrao",
+  "editorial"
+ ],
+ "tecnicas": [
+  "Ritmo bege e marrom alternado"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "blink",
+   "spin"
+  ],
+  "entrada_elementor": [],
+  "classes_scroll": []
+ },
+ "bibliotecas": [
+  "ga4",
+  "gtm",
+  "jquery"
+ ],
+ "snippets_usados": [],
+ "relevancia": 4,
+ "resumo": "Lançamento de alto padrão em Moema, bege e marrom café com serifa. Linhas verticais finas como textura, bloco de localização com distâncias em card marrom, ficha técnica completa, vídeo, diferenciais comuns e privativos e plantas.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": null,
+  "copy_real": null,
+  "json_elementor": null,
+  "ref": "ref/"
+ }
+}

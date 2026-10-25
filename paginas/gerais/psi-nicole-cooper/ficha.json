@@ -1,0 +1,229 @@
+{
+ "nome": "Nicole Cooper · Psicóloga Online · CRP 06/207758",
+ "slug": "psi-nicole-cooper",
+ "pasta_original": "PSI Nicole Cooper",
+ "origem": "paginas/gerais",
+ "prioridade": "referencia",
+ "url": "https://www.psicologanicolecooper.com.br/",
+ "plataforma": "desconhecida",
+ "nicho": "Psicologia",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#FDF8F2",
+   "#F2E2D5",
+   "#311507",
+   "#F8F0E7",
+   "#A0785E"
+  ],
+  "textos": [
+   "#5E5C5A",
+   "#E3D2C3",
+   "#120C0A",
+   "#7A3C20",
+   "#EBDCCD",
+   "#3F3D3A"
+  ],
+  "destaques": [
+   "#E3D2C3",
+   "#7A3C20",
+   "#EBDCCD",
+   "#62230B"
+  ],
+  "gradientes": [
+   "linear-gradient(135deg, oklab(0.234 0.036 0.037) 0%, oklab(0.313 0.043 0.043) 100%)",
+   "linear-gradient(90deg, oklab(0.434 0.066 0.065) 0%, oklab(0.308 0.046 0.045) 100%)",
+   "linear-gradient(90deg, oklab(0.434 0.066 0.065) 0%, oklab(0.504 0.062 0.066) 55%, oklab(0.608 0.059 0.065) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Raleway",
+   "uso_pct": 91
+  },
+  {
+   "familia": "Instrument Serif",
+   "uso_pct": 5
+  },
+  {
+   "familia": "Playfair Display",
+   "uso_pct": 3
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  53,
+  46,
+  44,
+  42,
+  38,
+  35,
+  23,
+  20,
+  17
+ ],
+ "escala_tipografica_mobile_px": [
+  37,
+  36,
+  35,
+  24,
+  22,
+  16,
+  16,
+  15
+ ],
+ "h1_mobile": "32px",
+ "botao_principal": {
+  "fundo": "#62230B11",
+  "gradiente": null,
+  "texto": "#5E5C5A",
+  "raio": "999px",
+  "padding": "0px 8px",
+  "fonte": "Raleway",
+  "tamanho": "16px",
+  "peso": "400",
+  "caixa": "none",
+  "exemplos": [
+   "Agendar Primeira Conversa Agora",
+   "Agendar Primeira Conversa",
+   "Falar com Nicole pelo WhatsApp"
+  ]
+ },
+ "raios": [
+  "999px",
+  "8px",
+  "10px",
+  "16px"
+ ],
+ "sombras": [
+  "rgba(90, 40, 15, 0.22) 0px 3px 8px 0px",
+  "rgba(217, 167, 127, 0.28) 0px 0px 30px 0px",
+  "rgba(49, 21, 7, 0.12) 0px 6px 16px 0px"
+ ],
+ "gaps": [
+  "10px",
+  "16px",
+  "14px",
+  "4px",
+  "normal 16px",
+  "normal 12px"
+ ],
+ "largura_conteudo_px": null,
+ "altura_pagina_px": 6581,
+ "secoes_qtde": 8,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "Psicoterapia online com escuta profissional e acolhimento",
+   "fundo": "#FDF8F2",
+   "altura_px": 673
+  },
+  {
+   "ordem": 2,
+   "tipo": "",
+   "titulo": "Alguns momentos da vida pedem um olhar mais cuidadoso",
+   "fundo": "#F8F0E7",
+   "altura_px": 880
+  },
+  {
+   "ordem": 3,
+   "tipo": "",
+   "titulo": "Psicoterapia online: praticidade e privacidade no seu atendimento",
+   "fundo": "#311507",
+   "altura_px": 1165
+  },
+  {
+   "ordem": 4,
+   "tipo": "como-funciona",
+   "titulo": "Um processo em que você é o foco",
+   "fundo": "#FDF8F2",
+   "altura_px": 785
+  },
+  {
+   "ordem": 5,
+   "tipo": "",
+   "titulo": "Conheça Nicole Cooper",
+   "fundo": "#FDF8F2",
+   "altura_px": 865
+  },
+  {
+   "ordem": 6,
+   "tipo": "",
+   "titulo": "Seu atendimento psicológico acontece de onde você estiver",
+   "fundo": "#F2E2D5",
+   "altura_px": 675
+  },
+  {
+   "ordem": 7,
+   "tipo": "faq",
+   "titulo": "Dúvidas frequentes",
+   "fundo": "#FDF8F2",
+   "altura_px": 766
+  },
+  {
+   "ordem": 8,
+   "tipo": "como-funciona",
+   "titulo": "Dar o primeiro passo também faz parte do processo",
+   "fundo": "#F2E2D5",
+   "altura_px": 682
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "",
+  "",
+  "como-funciona",
+  "",
+  "",
+  "faq",
+  "como-funciona"
+ ],
+ "tags_estilo": [
+  "marrom-cafe",
+  "terracota",
+  "creme",
+  "serifa-italica",
+  "acolhedor"
+ ],
+ "tecnicas": [
+  "Faixa animada",
+  "Botão com ícone de WhatsApp separado"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "abrindo",
+   "boia",
+   "brilha-ponto",
+   "brilho",
+   "faixa",
+   "flutua",
+   "flutua-entra",
+   "fundo-vivo",
+   "gira",
+   "pre-fundo",
+   "pre-gira",
+   "pulso",
+   "respira",
+   "sacode"
+  ],
+  "entrada_elementor": [],
+  "classes_scroll": []
+ },
+ "bibliotecas": [
+  "ga4",
+  "google-ads",
+  "gtm"
+ ],
+ "snippets_usados": [],
+ "relevancia": 4,
+ "resumo": "Psicóloga online em marrom café e terracota: marquee no topo, foto conceitual em sépia, diagrama circular de etapas em fundo marrom, cards 01 a 04 em itálico, bio com card de nome, vantagens do online e CTA final em card dividido com foto.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": null,
+  "copy_real": null,
+  "json_elementor": null,
+  "ref": "ref/"
+ }
+}

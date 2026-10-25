@@ -1,0 +1,87 @@
+<!--
+  HERO COM FOTO DE FUNDO E FADE (padrão aprovado em 24/10/2026, página psi-luana-carolina-casais)
+  É o padrão de hero do PageBrain quando o usuário não pede outro.
+
+  Como funciona
+  - Desktop: a foto ocupa a hero inteira (cover, ancorada à direita). A pessoa fica no terço direito.
+    Um fade horizontal na cor do fundo (creme) cobre a esquerda, onde ficam logo, rótulo, título, texto e botão.
+  - Mobile (até 640px): troca para um RECORTE da mesma foto centralizado na pessoa (quase quadrado),
+    em largura total no topo. Rosto e tronco ficam nítidos ACIMA da logo; o fade vertical só começa
+    logo acima da logo e fica forte atrás do texto. O conteúdo começa a 44svh para o botão aparecer
+    sem rolar (testado em 390x664 e 500x750).
+  - Sem menu. A logo fica acima do rótulo e do H1 (regra do PageBrain, a não ser que o usuário peça outra coisa).
+
+  Imagens (slots)
+  - IMG-01.webp: foto larga 16:9 (ex.: 2400x1340). Pessoa entre 55% e 90% da largura, lado esquerdo
+    claro e limpo (parede, cortina, luz) para o texto. Prompt base em imagens-ia/estilos-de-prompt.md, "Hero de fundo".
+  - IMG-01-mobile.webp: recorte da IMG-01 centralizado no corpo da pessoa, proporção ~1:1 (ex.: 1000x1040).
+    Gerar com ffmpeg a partir da IMG-01 (ajuste x para o centro do corpo ficar no meio):
+      ffmpeg -i IMG-01.jpg -vf "crop=ih*0.96:ih:iw*0.465:0,scale=1000:-1" -q:v 4 IMG-01-mobile.jpg
+    (o recorte usado na Luana foi crop=1472:1536:1280:0 numa foto de 2752x1536)
+
+  Ajustes por foto
+  - Desktop: se o rosto ficar atrás do texto, aumente o 0% final do fade (58%) para 52% ou troque
+    "right center" por "75% center".
+  - Mobile: se a pessoa não ficar no centro, refaça o recorte (não mexa no background-position).
+    Se o botão sair da primeira tela, reduza o padding-top (44svh) de 2 em 2 ou diminua o subtítulo.
+
+  Atenção: botão colado na subheadline (aprendido em 25/10/2026)
+  - O css-base-toda-pagina.css tem p:last-of-type{margin-bottom:0}, que pesa mais que .hf-sub e zera
+    o espaço até o botão (a sub é o último <p> da coluna). Por isso a margem vai em ".hf-texto .hf-sub".
+
+  Variante ESCURA (página de vendas, referência vendas-luana-carolina-metodo-lua)
+  - --hf-fundo:#0D0B12; fade desktop: linear-gradient(90deg,rgba(13,11,18,.96) 0%,rgba(13,11,18,.82) 30%,rgba(13,11,18,0) 65%)
+    e background-position 70% center. Sem a curva do ::after.
+  - Mobile com RECORTE ABERTO (pessoa menor, com fundo em volta), quando a cliente pede "expert mais afastada":
+      ffmpeg -i IMG-01.png -vf "crop=ih*1.17:ih:iw*0.33:0,scale=1000:-1" IMG-01-mobile.jpg   (Luana: crop=1680:1440:850:0)
+    Com recorte mais largo que alto, use posições em vw (ligadas à largura da foto) em vez de svh:
+      padding-top:72vw; fade 180°: 0 até 56vw, 88% em 74vw, sólido em 88vw; logo 54px; H1 33px; sub 28px até o botão.
+    Confira no checar_pagina.py que o botão continua na primeira tela (Luana: 615px de 664).
+
+  No Elementor
+  - Container da hero: Fundo > Clássico > Imagem (IMG-01), Posição "Centro direita", Tamanho "Cobrir".
+    Na aba do celular, troque a imagem para IMG-01-mobile, Posição "Topo centro", Tamanho personalizado 100% auto.
+  - Overlay: Sobreposição de fundo > Gradiente 90° (creme 92% em 0, creme 75% em 34, transparente em 58).
+    No celular: gradiente 180° (transparente até 38%, creme 88% em 46%, creme em 62%).
+  - Padding superior no celular: 44vh (o Elementor não tem svh; use vh).
+-->
+<style>
+.hf-hero{--hf-fundo:#FBF7F1;position:relative;overflow:hidden;min-height:min(100vh,860px);display:flex;align-items:center;padding:60px 0 120px;
+  background:var(--hf-fundo) url(imagens/IMG-01.webp) right center/cover no-repeat}
+.hf-hero::before{content:"";position:absolute;inset:0;pointer-events:none;
+  background:linear-gradient(90deg,rgba(251,247,241,.92) 0%,rgba(251,247,241,.75) 34%,rgba(251,247,241,0) 58%)}
+/* curva suave na base, emendando com a seção seguinte (opcional) */
+.hf-hero::after{content:"";position:absolute;left:-5%;right:-5%;bottom:-1px;height:90px;background:var(--hf-fundo);border-radius:50% 50% 0 0/100% 100% 0 0}
+.hf-wrap{position:relative;z-index:2;width:min(1140px,100% - 40px);margin-inline:auto}
+.hf-texto{max-width:560px}
+.hf-logo{display:block;height:52px;width:auto;margin-bottom:34px}
+.hf-rotulo{font-size:12px;letter-spacing:.24em;text-transform:uppercase;font-weight:500;color:#9E6644;margin:0}
+/* título: até 46px (teto do PageBrain 55px), 3 linhas na coluna de 560px; 4 só se a frase for longa */
+.hf-hero h1{font-weight:600;font-size:clamp(32px,3.6vw,46px);line-height:1.08;letter-spacing:-.035em;color:#3A2A22;margin:22px 0 26px}
+.hf-sub{font-size:18px;line-height:1.65;color:#6F5D51;margin:0 0 38px}
+/* o CSS base zera a margem do último <p> (p:last-of-type): sem isto o botão cola na sub */
+.hf-texto .hf-sub{margin-bottom:38px}
+@media (max-width:640px){
+  .hf-hero{min-height:0;display:block;padding:44svh 0 70px;
+    background-image:url(imagens/IMG-01-mobile.webp);background-size:100% auto;background-position:center top}
+  .hf-hero::before{background:linear-gradient(180deg,rgba(251,247,241,0) 0,rgba(251,247,241,0) 38svh,rgba(251,247,241,.88) 46svh,var(--hf-fundo) 62svh)}
+  .hf-wrap{width:calc(100% - 32px)}
+  .hf-logo{height:28px;margin-bottom:10px}
+  .hf-rotulo{font-size:11px;letter-spacing:.14em}
+  .hf-hero h1{font-size:29px;margin:10px 0 12px}
+  .hf-sub,.hf-texto .hf-sub{font-size:14.5px;line-height:1.5;margin-bottom:24px}
+  .hf-hero .btn{width:100%;justify-content:center}
+}
+</style>
+
+<header class="hf-hero" data-bg-slot="IMG-01">
+  <div class="hf-wrap">
+    <div class="hf-texto">
+      <img class="hf-logo" src="imagens/logo.png" alt="[Nome do cliente]">
+      <p class="hf-rotulo">[Especialidade] · [Online e presencial]</p>
+      <h1>[Headline com uma <em>palavra</em> destacada em cor]</h1>
+      <p class="hf-sub">[Subheadline em até 3 linhas]</p>
+      <a class="btn" href="https://wa.me/55DDDNUMERO?text=..." target="_blank" rel="noopener">[CTA]</a>
+    </div>
+  </div>
+</header>

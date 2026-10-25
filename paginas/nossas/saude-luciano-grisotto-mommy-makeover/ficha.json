@@ -1,0 +1,228 @@
+{
+ "nome": "PÁGINA (Mommy Makeover) [Luciano Grisotto] · Dr Luciano Grisotto",
+ "slug": "saude-luciano-grisotto-mommy-makeover",
+ "pasta_original": "Luciano Grisotto 2",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://lucianogrisotto.com.br/mommy-makeover/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Saúde / medicina",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#FCFAF3",
+   "#535456",
+   "#76777A",
+   "#F0F0F0",
+   "#61CE70"
+  ],
+  "textos": [
+   "#D5D5D5",
+   "#686868",
+   "#4E4E4E",
+   "#FFFFFF",
+   "#414141",
+   "#6E7074"
+  ],
+  "destaques": [
+   "#61CE70",
+   "#CC3366"
+  ],
+  "gradientes": [
+   "linear-gradient(90deg, rgb(110, 112, 116) 0%, rgb(83, 84, 86) 100%)",
+   "linear-gradient(90deg, rgb(233, 233, 233) 39%, rgb(177, 177, 177) 100%)",
+   "radial-gradient(67.54% 100.03% at 50% 0%, rgb(224, 223, 221) 0%, rgb(198, 197, 195) 45%, rgb(175, 174, 172) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Inter",
+   "uso_pct": 98
+  },
+  {
+   "familia": "Sora",
+   "uso_pct": 2
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  72,
+  53,
+  43,
+  41,
+  27,
+  24,
+  22,
+  21,
+  20
+ ],
+ "escala_tipografica_mobile_px": [
+  51,
+  35,
+  32,
+  28,
+  27,
+  24,
+  21,
+  20
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#61CE70",
+  "gradiente": "radial-gradient(67.54% 100.03% at 50% 0%, rgb(224, 223, 221) 0%, rgb(198, 197, 195) 45%, rgb(175, 174, 172) 100%)",
+  "texto": "#414141",
+  "raio": "14px",
+  "padding": "20px 50px",
+  "fonte": "Inter",
+  "tamanho": "22px",
+  "peso": "400",
+  "caixa": "none",
+  "exemplos": [
+   "Agendar avaliação personalizada",
+   "Falar com a equipe agora"
+  ]
+ },
+ "raios": [
+  "14px",
+  "8px",
+  "12px",
+  "22px"
+ ],
+ "sombras": [],
+ "gaps": [
+  "20px",
+  "5px",
+  "8px",
+  "60px",
+  "10px"
+ ],
+ "largura_conteudo_px": 1250,
+ "altura_pagina_px": 6062,
+ "secoes_qtde": 10,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "Recupere seu contorno corporal com naturalidade, segurança e planejamento person",
+   "fundo": "#535456",
+   "altura_px": 850
+  },
+  {
+   "ordem": 2,
+   "tipo": "prova-resultados",
+   "titulo": "Resultados que respeitam a sua história!",
+   "fundo": "#FCFAF3",
+   "altura_px": 792
+  },
+  {
+   "ordem": 3,
+   "tipo": "beneficios",
+   "titulo": "O que o Mommy Makeover pode transformar em você:",
+   "fundo": "gradiente",
+   "altura_px": 986
+  },
+  {
+   "ordem": 4,
+   "tipo": "como-funciona",
+   "titulo": "Como funciona sua jornada até o resultado:",
+   "fundo": "#FCFAF3",
+   "altura_px": 793
+  },
+  {
+   "ordem": 5,
+   "tipo": "sobre",
+   "titulo": "Dr. Luciano Grisotto",
+   "fundo": "#FCFAF3",
+   "altura_px": 900
+  },
+  {
+   "ordem": 6,
+   "tipo": "prova-social",
+   "titulo": "Veja o que estão falando sobre nós:",
+   "fundo": "#FCFAF3",
+   "altura_px": 349
+  },
+  {
+   "ordem": 7,
+   "tipo": "localizacao",
+   "titulo": "Conheça a nossa clínica!",
+   "fundo": "#FCFAF3",
+   "altura_px": 676
+  },
+  {
+   "ordem": 8,
+   "tipo": "cta-final",
+   "titulo": "Agende sua avaliação!",
+   "fundo": "#FCFAF3",
+   "altura_px": 341
+  },
+  {
+   "ordem": 9,
+   "tipo": "rodape",
+   "titulo": "LUCIANO GRISOTTO",
+   "fundo": "#F0F0F0",
+   "altura_px": 253
+  },
+  {
+   "ordem": 10,
+   "tipo": null,
+   "titulo": "Todos os direitos reservados © 2025",
+   "fundo": "#535456",
+   "altura_px": 123
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "prova-resultados",
+  "beneficios",
+  "como-funciona",
+  "sobre",
+  "prova-social",
+  "localizacao",
+  "cta-final",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "cinza-grafite",
+  "creme",
+  "minimalista"
+ ],
+ "tecnicas": [
+  "Mesmas do mastopexia"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "brilho"
+  ],
+  "entrada_elementor": [],
+  "classes_scroll": [
+   "scroll-bottom",
+   "scroll-left",
+   "scroll-right",
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "jquery",
+  "lottie",
+  "swiper"
+ ],
+ "snippets_usados": [
+  "animacoes/animacao-scroll-reveal.html",
+  "faixas-e-carrosseis/carrossel-linear-continuo.css",
+  "faixas-e-carrosseis/carrossel-imagem-largura.css",
+  "whatsapp-e-flutuantes/link-whatsapp-com-mensagem.html",
+  "utilitarios-css/css-base-toda-pagina.css",
+  "utilitarios-css/elemento-posicao-absoluta.css"
+ ],
+ "relevancia": 3,
+ "resumo": "Mesmo template da página de mastopexia, aplicado ao Mommy Makeover. Prova de que a casa reaproveita a estrutura por procedimento e troca só copy, fotos e mensagem do WhatsApp.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/saude-luciano-grisotto-mommy-makeover.md",
+  "json_elementor": null
+ }
+}

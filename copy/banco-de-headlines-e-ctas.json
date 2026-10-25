@@ -1,0 +1,877 @@
+{
+ "headlines": [
+  {
+   "pagina": "adv-barros-e-carvalho",
+   "nicho": "Advocacia",
+   "headline": "Aposentado ou Pensionista? Você pode estar pagando Imposto de Renda indevidamente!",
+   "subheadline": "Se você possui uma doença grave, a lei pode garantir sua isenção e restituição do Imposto de Renda. Descubra agora se tem direito e recupere valores pagos indevidamente.",
+   "formula": "Pergunta de identificação",
+   "palavras": 11,
+   "ajustado": false
+  },
+  {
+   "pagina": "adv-luisa",
+   "nicho": "Advocacia",
+   "headline": "Sofreu algum problema no seu voo? Receba indenizações por isso!",
+   "subheadline": "Sou advogada especialista em direitos dos passageiros aéreos. Transformo o seu transtorno em compensação financeira sem complicação.",
+   "formula": "Pergunta de identificação",
+   "palavras": 10,
+   "ajustado": false
+  },
+  {
+   "pagina": "adv-souza-santos",
+   "nicho": "Advocacia",
+   "headline": "Bancário, com certeza você tem valores a receber do Banco, só precisa saber quanto.",
+   "subheadline": "",
+   "formula": "Público nomeado + verdade que ele não sabe",
+   "palavras": 14,
+   "ajustado": false
+  },
+  {
+   "pagina": "adv-gustavo-kehl",
+   "nicho": "Advocacia",
+   "headline": "Desista do Contrato de Compra de Seu Imóvel e Recupere Seu Dinheiro, Sem Multas Abusivas e com Apoio Jurídico Especializado",
+   "subheadline": "Se sua obra atrasou ou se você simplesmente deseja rescindir seu contrato de compra de imóvel por motivos pessoais, nosso escritório de advocacia pode te ajudar!",
+   "formula": "Resultado + sem a objeção",
+   "palavras": 20,
+   "ajustado": false
+  },
+  {
+   "pagina": "adv-calgarotto",
+   "nicho": "Advocacia",
+   "headline": "Advocacia com experiência em Direito da Saúde, benefícios do INSS e isenção de impostos",
+   "subheadline": "Atuação ágil e especializada para garantir seus benefícios previdenciários, acesso a tratamentos e isenções tributárias no momento em que você mais precisa.",
+   "formula": "Serviço + especialidade (descritiva)",
+   "palavras": 14,
+   "ajustado": false
+  },
+  {
+   "pagina": "psi-renan",
+   "nicho": "Psicologia",
+   "headline": "Quando o relacionamento pesa mais do que acolhe, é hora de olhar para dentro.",
+   "subheadline": "Terapia especializada para pessoas que estão vivendo momentos difíceis no casamento, na separação ou em conflitos que já não conseguem resolver sozinhas.",
+   "formula": "Dor nomeada + saída",
+   "palavras": 14,
+   "ajustado": false
+  },
+  {
+   "pagina": "psi-rosangela-munhoz-psicanalista",
+   "nicho": "Psicologia",
+   "headline": "Um espaço de escuta para mulheres atravessando transformações na maternidade.",
+   "subheadline": "Psicanálise para mulheres que buscam autoconhecimento e desejam se reencontrar para além do papel de mãe.",
+   "formula": "Serviço + público específico",
+   "palavras": 10,
+   "ajustado": false
+  },
+  {
+   "pagina": "psi-maria-rita-sales",
+   "nicho": "Psicologia",
+   "headline": "Todo profissional que cuida de pessoas precisa, antes de tudo, cuidar de si.",
+   "subheadline": "Apoio profissionais experientes que desejam sustentar sua prática com mais saúde emocional, organização e discernimento.",
+   "formula": "Frase-manifesto para um público",
+   "palavras": 13,
+   "ajustado": false
+  },
+  {
+   "pagina": "psi-vivian-widuch",
+   "nicho": "Psicologia",
+   "headline": "Psicóloga Online de Mulheres Imigrantes e Expatriadas",
+   "subheadline": "Seja acolhida na sua língua materna, cultive raízes internas e fique bem, onde quer que esteja.",
+   "formula": "Serviço + público específico",
+   "palavras": 7,
+   "ajustado": false
+  },
+  {
+   "pagina": "psi-julia-valdetaro",
+   "nicho": "Psicologia",
+   "headline": "Recupere Seu Bem-Estar Emocional com Terapia Individual",
+   "subheadline": "Marque sua consulta online com Júlia Valdetaro, especialista em Ansiedade, Depressão e Autoestima.",
+   "formula": "Resultado + serviço",
+   "palavras": 8,
+   "ajustado": false
+  },
+  {
+   "pagina": "psi-andressa-darold",
+   "nicho": "Psicologia",
+   "headline": "Psicoterapia baseada em evidências, conduzida com acolhimento, afeto e responsabilidade.",
+   "subheadline": "Psicóloga Andressa Darold | CRP 06/227932",
+   "formula": "Serviço + como é feito",
+   "palavras": 10,
+   "ajustado": false
+  },
+  {
+   "pagina": "saude-pedro-camargo-psiquiatra",
+   "nicho": "Saúde e cirurgia",
+   "headline": "Psiquiatria baseada em evidências para um cuidado individualizado",
+   "subheadline": "Atendimento presencial em Campinas/SP e online para todo o Brasil.",
+   "formula": "Serviço + como é feito (com cidade na sub)",
+   "palavras": 8,
+   "ajustado": false
+  },
+  {
+   "pagina": "saude-luciano-grisotto-mastopexia",
+   "nicho": "Saúde e cirurgia",
+   "headline": "Recupere a leveza, o formato e a beleza natural das suas mamas.",
+   "subheadline": "Procedimento indicado para mulheres que desejam corrigir a flacidez e a queda das mamas sem o uso de silicone, respeitando o volume natural do próprio corpo.",
+   "formula": "Resultado + sem a objeção (na sub)",
+   "palavras": 12,
+   "ajustado": false
+  },
+  {
+   "pagina": "saude-luciano-grisotto-mommy-makeover",
+   "nicho": "Saúde e cirurgia",
+   "headline": "Recupere seu contorno corporal com naturalidade, segurança e planejamento personalizado",
+   "subheadline": "O Mommy Makeover é um procedimento cirúrgico indicado para mulheres que passaram pela gestação e desejam restaurar abdômen, mamas e autoestima.",
+   "formula": "Resultado + como",
+   "palavras": 10,
+   "ajustado": false
+  },
+  {
+   "pagina": "saude-cecilia-borges-cirurgia-plastica",
+   "nicho": "Saúde e cirurgia",
+   "headline": "Ressignificar vidas. Lapidar histórias.",
+   "subheadline": "Cirurgia plástica individualizada, segura e natural para revelar uma versão mais confiante e autêntica de você.",
+   "formula": "Frase-manifesto curta",
+   "palavras": 4,
+   "ajustado": false
+  },
+  {
+   "pagina": "odonto-rubiane-vitali",
+   "nicho": "Odontologia",
+   "headline": "Tenha dentes fixos em 72h e garantia vitalícia do tratamento*",
+   "subheadline": "Recupere sua autoestima com um tratamento de implantes dentários que oferece dentes fixos em tempo recorde e sem enxertos ósseos. (*sujeito a avaliação)",
+   "formula": "Resultado + prazo + garantia (com ressalva)",
+   "palavras": 10,
+   "ajustado": false
+  },
+  {
+   "pagina": "odonto-invisalign-jv-clinica",
+   "nicho": "Odontologia",
+   "headline": "Tenha o sorriso que você sempre quis com Invisalign, o alinhador transparente mais avançado do mundo",
+   "subheadline": "Alinhe seus dentes de forma discreta, confortável e previsível, sem fios ou metais.",
+   "formula": "Resultado + produto",
+   "palavras": 16,
+   "ajustado": false
+  },
+  {
+   "pagina": "imob-vega-costa-e-silva",
+   "nicho": "Imobiliário",
+   "headline": "Seu novo lar no bairro que mais cresce em Joinville",
+   "subheadline": "Apartamentos de 2 quartos, de 46 a 92 m², com sacada churrasqueira ou Giardino privativo. 5 torres, lazer completo e a segurança de quem compra com a Minatto Imóveis.",
+   "formula": "Lançamento: lugar + momento",
+   "palavras": 10,
+   "ajustado": false
+  },
+  {
+   "pagina": "imob-construtora-vitta",
+   "nicho": "Imobiliário",
+   "headline": "Apartamentos na planta a partir de R$199.000,00 no interior paulista",
+   "subheadline": "Varanda Gourmet em todos os apartamentos, Garagem Coberta e pagamento facilitado pela incorporadora!",
+   "formula": "Produto + preço + região",
+   "palavras": 12,
+   "ajustado": false
+  },
+  {
+   "pagina": "imob-the-palace",
+   "nicho": "Imobiliário",
+   "headline": "Dois Endereços, Um Símbolo de Status.",
+   "subheadline": "Conheça os lançamentos The Palace Oasis e The Palace Royal, dois projetos independentes, com identidade única, localizados no eixo mais valorizado de São Paulo, Vila Mariana.",
+   "formula": "Frase-manifesto curta",
+   "palavras": 6,
+   "ajustado": false
+  },
+  {
+   "pagina": "imob-vistoria-alphaville",
+   "nicho": "Imobiliário",
+   "headline": "Segurança técnica do início ao fim da locação",
+   "subheadline": "Conte com um processo técnico, transparente e organizado para receber ou entregar seu imóvel com mais segurança e menos conflitos.",
+   "formula": "Promessa operacional (B2B)",
+   "palavras": 8,
+   "ajustado": false
+  },
+  {
+   "pagina": "imob-mb2-incorporacoes",
+   "nicho": "Imobiliário",
+   "headline": "Incorporações de alto padrão",
+   "subheadline": "Empreendimentos exclusivos com excelência construtiva desde o projeto à entrega",
+   "formula": "Posicionamento institucional",
+   "palavras": 4,
+   "ajustado": false
+  },
+  {
+   "pagina": "negocio-inter-frios-refrigeracao",
+   "nicho": "Negócios locais e B2B",
+   "headline": "Refrigeração comercial para empresas que não podem parar.",
+   "subheadline": "Instalação, manutenção preventiva e corretiva, contratos técnicos e monitoramento de câmaras frias, balcões refrigerados, racks e sistemas de conservação na Grande São Paulo.",
+   "formula": "Promessa operacional (B2B)",
+   "palavras": 8,
+   "ajustado": false
+  },
+  {
+   "pagina": "negocio-hoffen-sports",
+   "nicho": "Negócios locais e B2B",
+   "headline": "Performance desenvolvida com engenharia e precisão",
+   "subheadline": "A Hoffen Sports desenvolve e fabrica equipamentos esportivos que unem tecnologia, resistência e alto desempenho.",
+   "formula": "Posicionamento institucional",
+   "palavras": 6,
+   "ajustado": false
+  },
+  {
+   "pagina": "negocio-bar-santa-boemia",
+   "nicho": "Negócios locais e B2B",
+   "headline": "O sabor da Boemia de Santa Tereza está aqui!",
+   "subheadline": "Petiscos premiados, cerveja sempre gelada, atendimento impecável e a melhor vista da Praça de Santa Tereza.",
+   "formula": "Lugar + experiência",
+   "palavras": 9,
+   "ajustado": false
+  },
+  {
+   "pagina": "negocio-entre-para-trip",
+   "nicho": "Negócios locais e B2B",
+   "headline": "Para quem já sabe que dá pra mais, e parou de esperar.",
+   "subheadline": "Você parou de aceitar viagem comum. A gente também.",
+   "formula": "Público nomeado (identificação)",
+   "palavras": 12,
+   "ajustado": true
+  },
+  {
+   "pagina": "negocio-harmony-estudio-tatuagem",
+   "nicho": "Negócios locais e B2B",
+   "headline": "Tenha um fluxo constante de pessoas interessadas em tatuar com você todos os dias",
+   "subheadline": "Concentre-se em aprimorar sua arte, enquanto nossa equipe se encarrega do marketing e apoia você na conquista de novos clientes.",
+   "formula": "Resultado contínuo (aplicação)",
+   "palavras": 14,
+   "ajustado": false
+  },
+  {
+   "pagina": "servico-goncont-contador",
+   "nicho": "Serviços B2B",
+   "headline": "Reduza sua carga tributária de forma legal e estratégica com uma contabilidade especializada na área da saúde.",
+   "subheadline": "Planejamento tributário estratégico para médicos e profissionais da saúde que desejam pagar menos impostos com segurança e aumentar sua lucratividade.",
+   "formula": "Resultado + sem a objeção",
+   "palavras": 17,
+   "ajustado": false
+  },
+  {
+   "pagina": "servico-rp-vision-marketing",
+   "nicho": "Serviços B2B",
+   "headline": "Tenha um fluxo constante de clientes prontos para comprar todos os dias.",
+   "subheadline": "Enquanto você foca na gestão do seu negócio, nós estruturamos um sistema completo de visibilidade, vendas e tráfego.",
+   "formula": "Resultado contínuo (aplicação)",
+   "palavras": 12,
+   "ajustado": false
+  },
+  {
+   "pagina": "info-carol-guglielmi-imagem-pessoal",
+   "nicho": "Aplicação / consultoria gratuita",
+   "headline": "Para profissionais extraordinários que querem uma imagem pessoal que cria oportunidades",
+   "subheadline": "Em 1 hora, eu vou entregar o Plano de Imagem Pessoal para você transmitir confiança e autoridade enquanto veste sua personalidade da cabeça aos pés.",
+   "formula": "Público nomeado + desejo (aplicação)",
+   "palavras": 11,
+   "ajustado": false
+  },
+  {
+   "pagina": "info-victor-leao-aromaterapia",
+   "nicho": "Aplicação / consultoria gratuita",
+   "headline": "Receba uma Consultoria Gratuita de Diagnóstico para descobrir como ter na Aromaterapia sua Fonte de Renda principal de R$ 6.000 por Mês ou Mais",
+   "subheadline": "Pré-headline: \"ATENÇÃO: Exclusivo para quem deseja construir uma carreira de sucesso com Aromaterapia Profissional.\"",
+   "formula": "Oferta gratuita + resultado numérico (aplicação)",
+   "palavras": 25,
+   "ajustado": false
+  },
+  {
+   "pagina": "vendas-scripts-consignado-jessica",
+   "nicho": "Vendas (infoproduto, curso, evento)",
+   "headline": "Receba mais de 100 scripts prontos para vender Consignado.",
+   "subheadline": "Copie e cole a abordagem ideal para cada cliente, adapte ao seu jeito e conduza conversas com muito mais segurança e naturalidade.",
+   "formula": "Entregável concreto + número",
+   "palavras": 9,
+   "ajustado": false
+  },
+  {
+   "pagina": "vendas-mentoria-bancario-jessica",
+   "nicho": "Vendas (infoproduto, curso, evento)",
+   "headline": "Aprenda a bater metas no banco",
+   "subheadline": "Aprenda a vender produtos bancários com segurança e bater as metas dentro da agência sem parecer que está empurrando produto!",
+   "formula": "Resultado + sem a objeção (na sub)",
+   "palavras": 6,
+   "ajustado": false
+  },
+  {
+   "pagina": "vendas-odonto-luiz-gustavo-melo",
+   "nicho": "Vendas (infoproduto, curso, evento)",
+   "headline": "Domine cirurgias estéticas periodontais mesmo nos casos mais desafiadores",
+   "subheadline": "Aprenda a planejar e executar cirurgias estéticas periodontais e peri-implantares com segurança, mesmo em áreas de alta exigência estética.",
+   "formula": "Domínio + mesmo no caso difícil",
+   "palavras": 9,
+   "ajustado": false
+  },
+  {
+   "pagina": "vendas-templates-arquiteto-jardel",
+   "nicho": "Vendas (infoproduto, curso, evento)",
+   "headline": "Enquanto você começa do zero, outros arquitetos já estão saindo na frente com um Template profissional.",
+   "subheadline": "Mais de 200 famílias configuradas, vistas organizadas, fases estruturadas e tabelas prontas para você simplesmente abrir e começar a projetar.",
+   "formula": "Contraste com o concorrente",
+   "palavras": 16,
+   "ajustado": false
+  },
+  {
+   "pagina": "vendas-workshop-barbearia-toledo",
+   "nicho": "Vendas (infoproduto, curso, evento)",
+   "headline": "Sua barbearia não aumenta o faturamento porque você não tem estrutura de gestão",
+   "subheadline": "Em apenas 1 dia comigo, você aprende os 4 pilares que me fizeram sair dos 25k para + de 70k todos os meses.",
+   "formula": "Causa da dor (diagnóstico)",
+   "palavras": 13,
+   "ajustado": false
+  },
+  {
+   "pagina": "vendas-morelli-churrasco-networking",
+   "nicho": "Vendas (infoproduto, curso, evento)",
+   "headline": "Você na mesa com as melhores oportunidades",
+   "subheadline": "Um encontro de um dia inteiro reunindo 100 empresários brasileiros selecionados, construído para gerar conexões reais, não apenas cartões trocados.",
+   "formula": "Imagem do resultado (evento)",
+   "palavras": 7,
+   "ajustado": false
+  }
+ ],
+ "ctas_por_nicho": {
+  "Advocacia": {
+   "Falar com um Advogado(a)": [
+    "adv-barros-e-carvalho"
+   ],
+   "Consultar Especialista": [
+    "adv-barros-e-carvalho"
+   ],
+   "Fale agora pelo WhatsApp": [
+    "adv-calgarotto"
+   ],
+   "Quero falar com o advogado agora": [
+    "adv-calgarotto"
+   ],
+   "Entrar em contato": [
+    "adv-gustavo-kehl"
+   ],
+   "Fale com um Advogado": [
+    "adv-gustavo-kehl"
+   ],
+   "Fale comigo no Whatsapp": [
+    "adv-luisa"
+   ],
+   "QUERO AVALIAR MEU CASO": [
+    "adv-souza-santos"
+   ],
+   "Falar com quem entende bancários": [
+    "adv-souza-santos"
+   ],
+   "TRABALHISTA PARA BANCÁRIOS": [
+    "adv-souza-santos"
+   ],
+   "Falar com um especialista": [
+    "adv-souza-santos"
+   ],
+   "QUERO ANALISAR MINHA SITUAÇÃO": [
+    "adv-souza-santos"
+   ]
+  },
+  "Psicologia": {
+   "AGENDAR SESSÃO": [
+    "psi-andressa-darold",
+    "psi-vivian-widuch"
+   ],
+   "ENTRE EM CONTATO": [
+    "psi-andressa-darold"
+   ],
+   "Agende Sua Sessão Agora": [
+    "psi-julia-valdetaro"
+   ],
+   "Entrar em contato": [
+    "psi-maria-rita-sales"
+   ],
+   "Quero saber mais": [
+    "psi-maria-rita-sales"
+   ],
+   "Entrar na Comunidade": [
+    "psi-maria-rita-sales"
+   ],
+   "Fazer Diagnóstico": [
+    "psi-maria-rita-sales"
+   ],
+   "Acessar Blog Completo": [
+    "psi-maria-rita-sales"
+   ],
+   "Acompanhar no Instagram": [
+    "psi-maria-rita-sales"
+   ],
+   "Acessar Instagram Design Gente": [
+    "psi-maria-rita-sales"
+   ],
+   "Acessar site Design Gente": [
+    "psi-maria-rita-sales"
+   ],
+   "Agendar sessão": [
+    "psi-renan"
+   ],
+   "Agendar minha consulta": [
+    "psi-renan"
+   ],
+   "Agendar consulta inicial": [
+    "psi-renan"
+   ],
+   "Como chegar": [
+    "psi-renan"
+   ],
+   "Agendar consulta pelo WhatsApp": [
+    "psi-renan"
+   ],
+   "AGENDE SESSÃO": [
+    "psi-rosangela-munhoz-psicanalista"
+   ],
+   "ENVIAR MENSAGEM": [
+    "psi-vivian-widuch"
+   ]
+  },
+  "Saúde e cirurgia": {
+   "Agendar avaliação personalizada": [
+    "saude-luciano-grisotto-mastopexia",
+    "saude-luciano-grisotto-mommy-makeover"
+   ],
+   "Falar com a equipe agora": [
+    "saude-luciano-grisotto-mastopexia",
+    "saude-luciano-grisotto-mommy-makeover"
+   ],
+   "Agende sua avaliação": [
+    "saude-cecilia-borges-cirurgia-plastica"
+   ],
+   "Entrar em contato": [
+    "saude-pedro-camargo-psiquiatra"
+   ],
+   "Agende sua consulta agora": [
+    "saude-pedro-camargo-psiquiatra"
+   ],
+   "acessar no mapas": [
+    "saude-pedro-camargo-psiquiatra"
+   ],
+   "ACESSAR NO MAPAS": [
+    "saude-pedro-camargo-psiquiatra"
+   ],
+   "Agende sua consulta presencial": [
+    "saude-pedro-camargo-psiquiatra"
+   ],
+   "Agende sua consulta online": [
+    "saude-pedro-camargo-psiquiatra"
+   ]
+  },
+  "Odontologia": {
+   "Agende sua avaliação agora": [
+    "odonto-invisalign-jv-clinica"
+   ],
+   "Agendar minha Avaliação": [
+    "odonto-rubiane-vitali"
+   ]
+  },
+  "Imobiliário": {
+   "Quero conhecer o Villágio das águas": [
+    "imob-construtora-vitta"
+   ],
+   "Quero comprar um apartamento na planta": [
+    "imob-construtora-vitta"
+   ],
+   "Fale Conosco!": [
+    "imob-construtora-vitta"
+   ],
+   "Fale com um especialista": [
+    "imob-mb2-incorporacoes"
+   ],
+   "Falar com a MB2": [
+    "imob-mb2-incorporacoes"
+   ],
+   "Entrar em contato": [
+    "imob-the-palace"
+   ],
+   "Quero mais informações": [
+    "imob-the-palace"
+   ],
+   "Falar com corretor": [
+    "imob-the-palace"
+   ],
+   "FALE COM UM CONSULTOR": [
+    "imob-vega-costa-e-silva"
+   ],
+   "QUERO INVESTIR NESSA VALORIZAÇÃO": [
+    "imob-vega-costa-e-silva"
+   ],
+   "Solicitar orçamento pelo WhatsApp": [
+    "imob-vistoria-alphaville"
+   ],
+   "Solicitar vistoria de entrada": [
+    "imob-vistoria-alphaville"
+   ],
+   "Solicitar vistoria de saída": [
+    "imob-vistoria-alphaville"
+   ],
+   "Solicitar laudo comparativo": [
+    "imob-vistoria-alphaville"
+   ],
+   "Solicitar planilha orçamentária": [
+    "imob-vistoria-alphaville"
+   ],
+   "Quero ajuda na entrega do imóvel": [
+    "imob-vistoria-alphaville"
+   ],
+   "Ver avaliações no Google": [
+    "imob-vistoria-alphaville"
+   ],
+   "Conhecer as soluções": [
+    "imob-vistoria-alphaville"
+   ]
+  },
+  "Negócios locais e B2B": {
+   "NOS CHAME": [
+    "negocio-bar-santa-boemia"
+   ],
+   "COMO CHEGAR": [
+    "negocio-bar-santa-boemia"
+   ],
+   "Ver Cardápio Completo": [
+    "negocio-bar-santa-boemia"
+   ],
+   "VER CARDÁPIO": [
+    "negocio-bar-santa-boemia"
+   ],
+   "Ver mais no Instagram": [
+    "negocio-bar-santa-boemia"
+   ],
+   "Como Chegar": [
+    "negocio-bar-santa-boemia"
+   ],
+   "falar no whatsapp": [
+    "negocio-entre-para-trip"
+   ],
+   "QUERO MINHA VAGA NA PRÓXIMA EXPEDIÇÃO": [
+    "negocio-entre-para-trip"
+   ],
+   "QUERO FAZER PARTE DO PRÓXIMO GRUPO": [
+    "negocio-entre-para-trip"
+   ],
+   "QUERO CONHECER O INVESTIMENTO": [
+    "negocio-entre-para-trip"
+   ],
+   "entrar para essa história": [
+    "negocio-entre-para-trip"
+   ],
+   "MAIS INFORMAÇÕES": [
+    "negocio-entre-para-trip"
+   ],
+   "SOLICITAR MINHA VAGA - FALAR COM A EQUIPE": [
+    "negocio-entre-para-trip"
+   ],
+   "QUERO CONSULTORIA GRATUITA": [
+    "negocio-harmony-estudio-tatuagem"
+   ],
+   "QUERO UMA CONSULTORIA GRATUITA": [
+    "negocio-harmony-estudio-tatuagem"
+   ],
+   "CONHEÇA NOSSOS PRODUTOS": [
+    "negocio-hoffen-sports"
+   ],
+   "CONHEÇA OS EQUIPAMENTOS": [
+    "negocio-hoffen-sports"
+   ],
+   "SOLICITAR ORÇAMENTO": [
+    "negocio-hoffen-sports"
+   ],
+   "Solicitar avaliação técnica": [
+    "negocio-inter-frios-refrigeracao"
+   ],
+   "Falar com um especialista": [
+    "negocio-inter-frios-refrigeracao"
+   ],
+   "Falar no WhatsApp": [
+    "negocio-inter-frios-refrigeracao"
+   ]
+  },
+  "Serviços B2B": {
+   "Suporte Whatsapp": [
+    "servico-goncont-contador",
+    "servico-rp-vision-marketing"
+   ],
+   "Solicitar análise tributária gratuita": [
+    "servico-goncont-contador"
+   ],
+   "Falar com contador": [
+    "servico-goncont-contador"
+   ],
+   "Agendar consultoria": [
+    "servico-goncont-contador"
+   ],
+   "Suporte e-mail": [
+    "servico-goncont-contador"
+   ],
+   "Fazer aplicação em menos 2 minutos": [
+    "servico-rp-vision-marketing"
+   ]
+  },
+  "Aplicação / consultoria gratuita": {
+   "QUERO PLANO DE ESTILO PESSOAL": [
+    "info-carol-guglielmi-imagem-pessoal"
+   ],
+   "Quero Aplicar Agora": [
+    "info-victor-leao-aromaterapia"
+   ],
+   "Quero me tornar uma referência na aromaterapia": [
+    "info-victor-leao-aromaterapia"
+   ]
+  },
+  "Vendas (infoproduto, curso, evento)": {
+   "COMPRAR AGORA!": [
+    "vendas-odonto-luiz-gustavo-melo",
+    "vendas-templates-arquiteto-jardel"
+   ],
+   "Quero bater as metas": [
+    "vendas-mentoria-bancario-jessica"
+   ],
+   "Quero comprar agora": [
+    "vendas-mentoria-bancario-jessica"
+   ],
+   "GARANTIR MINHA VAGA, LOTE 1": [
+    "vendas-morelli-churrasco-networking"
+   ],
+   "GARANTIR ACESSO NETWORKING": [
+    "vendas-morelli-churrasco-networking"
+   ],
+   "GARANTIR BUSINESS MATCH": [
+    "vendas-morelli-churrasco-networking"
+   ],
+   "GARANTIR BUSINESS STAGE": [
+    "vendas-morelli-churrasco-networking"
+   ],
+   "Quero Participar da Formação": [
+    "vendas-odonto-luiz-gustavo-melo"
+   ],
+   "Quero ter acesso agora": [
+    "vendas-scripts-consignado-jessica"
+   ],
+   "QUERO TER ACESSO AGORA": [
+    "vendas-scripts-consignado-jessica"
+   ],
+   "QUERO MEU TEMPLATE PROFISSIONAL": [
+    "vendas-templates-arquiteto-jardel"
+   ],
+   "QUERO GARANTIR MEU INGRESSO": [
+    "vendas-workshop-barbearia-toledo"
+   ],
+   "Comprar agora!": [
+    "vendas-workshop-barbearia-toledo"
+   ],
+   "QUERO COMEÇAR AGORA": [
+    "vendas-workshop-barbearia-toledo"
+   ],
+   "QUERO COMEÇAR": [
+    "vendas-workshop-barbearia-toledo"
+   ]
+  }
+ },
+ "mensagens_whatsapp": [
+  {
+   "pagina": "adv-barros-e-carvalho",
+   "mensagem": "Olá, vim do site e gostaria de mais informações sobre Isenção do IR"
+  },
+  {
+   "pagina": "adv-calgarotto",
+   "mensagem": "Olá, estava no site e gostaria de tirar uma dúvida !"
+  },
+  {
+   "pagina": "imob-mb2-incorporacoes",
+   "mensagem": "Olá, vim do site e quero falar com um especialista."
+  },
+  {
+   "pagina": "imob-vistoria-alphaville",
+   "mensagem": "Olá! Gostaria de solicitar um orçamento de vistoria."
+  },
+  {
+   "pagina": "negocio-bar-santa-boemia",
+   "mensagem": "Olá! Vim pelo site do Santa Boemia e quero reservar uma mesa."
+  },
+  {
+   "pagina": "negocio-entre-para-trip",
+   "mensagem": "Olá, estava no site e gostaria de mais informações sobre as Expedições."
+  },
+  {
+   "pagina": "negocio-hoffen-sports",
+   "mensagem": "Olá! Vim pelo site e gostaria de saber mais sobre os equipamentos da Hoffen Sports."
+  },
+  {
+   "pagina": "negocio-inter-frios-refrigeracao",
+   "mensagem": "Olá, vim pelo site e gostaria de solicitar uma avaliação técnica."
+  },
+  {
+   "pagina": "psi-julia-valdetaro",
+   "mensagem": "Olá, gostaria de mais informações sobre o processo terapêutico."
+  },
+  {
+   "pagina": "psi-renan",
+   "mensagem": "Olá, gostaria de agendar uma sessão!"
+  },
+  {
+   "pagina": "saude-cecilia-borges-cirurgia-plastica",
+   "mensagem": "Olá, estava no site e gostaria de agendar uma avaliação!"
+  },
+  {
+   "pagina": "saude-luciano-grisotto-mastopexia",
+   "mensagem": "Olá, gostaria de agendar uma avaliação para mastopexia"
+  },
+  {
+   "pagina": "saude-luciano-grisotto-mommy-makeover",
+   "mensagem": "Olá, gostaria de agendar uma avaliação para Mommy Makeover"
+  },
+  {
+   "pagina": "saude-pedro-camargo-psiquiatra",
+   "mensagem": "Olá, estava no site e gostaria de marcar uma consulta!"
+  }
+ ],
+ "faq_por_nicho": {
+  "Advocacia": [
+   "Como saber se tenho direito à isenção do Imposto de Renda?",
+   "Quais doenças dão direito à isenção?",
+   "Como é feito o pedido de isenção?",
+   "Posso recuperar o que já paguei de imposto?",
+   "O atendimento é online?",
+   "Em quais casos posso pedir a devolução do valor pago?",
+   "Qual valor receberei de volta após a desistência/rescisão?",
+   "Já assinei o distrato/rescisão e acho que não recebi o valor correto. O que pode ser feito?",
+   "Sou de outra cidade, preciso ir presencialmente ao escritório?",
+   "Precisarei ir em alguma audiência ou até o fórum?",
+   "Preciso continuar pagando as parcelas?",
+   "Tenho receio de processar o banco. Isso é normal?",
+   "Mesmo trabalhando há muitos anos no banco, ainda posso buscar meus direitos?",
+   "Se eu não buscar orientação agora, posso estar deixando direitos para trás?",
+   "Conversar com o escritório significa que eu já preciso entrar com uma ação?",
+   "Como saber se o meu caso realmente tem chance?",
+   "Tenho medo de não ter provas suficientes. Ainda assim posso conversar com o escritório?",
+   "O escritório atende somente em São Paulo ou em todo o Brasil?",
+   "Preciso morar perto do escritório para ser atendido?",
+   "Onde estão localizadas as unidades do escritório?",
+   "As audiências precisam ser presenciais?",
+   "Como funciona o atendimento online?",
+   "O atendimento online muda a qualidade do processo?",
+   "Preciso ir presencialmente ao escritório em algum momento?",
+   "O escritório atende apenas bancários?"
+  ],
+  "Imobiliário": [
+   "Quando será entregue o empreendimento?",
+   "O que está incluído na área de lazer?",
+   "Como é o financiamento?",
+   "Qual é a diferença entre vistoria de saída e laudo comparativo?",
+   "A vistoria define quem deve pagar os reparos?",
+   "O que é a planilha orçamentária?",
+   "A Vistoria Alphaville executa os reparos?",
+   "Como funciona a intermediação?",
+   "A intermediação substitui um advogado?",
+   "Vocês atendem imobiliárias?",
+   "Quais tipos de imóveis são atendidos?",
+   "Como recebo os documentos?",
+   "Qual é o prazo de entrega?"
+  ],
+  "Negócios locais e B2B": [
+   "Se eu contratar e não tiver resultados?",
+   "Quanto devo investir para trabalhar com vocês?",
+   "O que será tratado na consultoria gratuita?",
+   "Posso fazer de qualquer lugar e qualquer dispositivo?",
+   "Quando a reunião será realizada?",
+   "Estou desesperado e preciso aumentar meu faturamento em uma semana. Podem me ajudar?",
+   "Vocês atendem residências?",
+   "O que é um sistema supervisório?",
+   "Posso acompanhar pelo celular ou computador?",
+   "O supervisório pode ser instalado em equipamentos que já existem?",
+   "Preciso trocar todos os controladores?",
+   "O que acontece se a internet cair?",
+   "É possível ter histórico de temperatura?",
+   "O sistema supervisório substitui a manutenção preventiva?",
+   "O plantão 24h está disponível para todos?",
+   "Como funciona o contrato de manutenção?",
+   "Qual a região de atendimento?"
+  ],
+  "Odontologia": [
+   "Quanto custa o tratamento com implantes?",
+   "Vocês parcelam no boleto?",
+   "Qualquer pessoa pode realizar o tratamento com implantes dentários?",
+   "O organismo pode rejeitar um implante?",
+   "O implante dentário causa algum tipo de dor?",
+   "Quais os cuidados após a colocação da prótese protocolo?",
+   "Quais os principais cuidados o paciente deve ter?",
+   "É preciso alguma manutenção após o tratamento de implantes?",
+   "Implante dentário causa mau hálito?",
+   "Posso comer de tudo após a colocação da prótese protocolo?"
+  ],
+  "Psicologia": [
+   "Atende por convênio?",
+   "Para quem é a terapia?",
+   "Qual a sua abordagem?",
+   "Quais são os valores?",
+   "Como são realizadas as sessões de terapia?",
+   "Quanto tempo dura cada sessão?",
+   "Atende convênios?",
+   "Como saber qual serviço é mais indicado para mim?",
+   "Onde acontecem as sessões?",
+   "Também atende brasileiros que vivem no exterior?",
+   "Quanto tempo dura cada processo?",
+   "Como funciona o Diagnóstico?",
+   "Você aceita convênio?",
+   "Como funciona a primeira consulta?",
+   "O atendimento é presencial ou online?",
+   "Preciso já saber o que está errado no meu relacionamento para começar?",
+   "Meu parceiro/parceira precisa vir junto?",
+   "Tudo que eu contar é confidencial?",
+   "Quanto tempo dura o processo terapêutico?",
+   "Como faço para agendar?",
+   "Eu não tenho um problema grave. Será que preciso mesmo de análise?",
+   "O atendimento online funciona da mesma forma?\"",
+   "E o investimento?",
+   "Qual é a frequência dos encontros?",
+   "Como funcionam os encontros online?",
+   "Você atende por convênio (Krankenkasse)?"
+  ],
+  "Saúde e cirurgia": [
+   "Preciso de encaminhamento para marcar uma consulta?",
+   "O atendimento online é seguro e eficaz?",
+   "Você aceita convênio?",
+   "Como agendar uma consulta?"
+  ],
+  "Serviços B2B": [
+   "Como posso pagar menos impostos dentro da legalidade?",
+   "Como colocar mais dinheiro no bolso com planejamento fiscal?",
+   "A equiparação hospitalar serve para mim?",
+   "O atendimento é personalizado?",
+   "Se eu contratar e não tiver resultados?",
+   "Quanto devo investir para trabalhar com vocês?",
+   "O que será tratado na reunião em caso de agendamento?",
+   "Posso fazer de qualquer lugar e qualquer dispositivo?"
+  ],
+  "Vendas (infoproduto, curso, evento)": [
+   "Esse treinamento serve para quem trabalha em qualquer banco ou cooperativa?",
+   "Sou iniciante no banco. Esse treinamento é para mim?",
+   "Eu não gosto de vender ou tenho vergonha de oferecer produtos. Vai funcionar para mim?",
+   "Qual a diferença entre o curso e a mentoria?",
+   "O ingresso inclui alimentação?",
+   "Como funciona o preço do Lote 1?",
+   "As 3 reuniões do Business Match são garantia de venda?",
+   "Quantas vagas de Business Stage existem?",
+   "Como recebo a confirmação depois de garantir minha vaga?",
+   "Preciso ter experiência cirúrgica prévia?",
+   "O curso é mais teórico ou prático?",
+   "Vou aprender quando usar cada técnica?",
+   "O curso aborda fluxo digital e IA?",
+   "As cirurgias são realizadas em pacientes reais?",
+   "Os scripts servem para qualquer banco?",
+   "Como recebo o material?",
+   "Preciso ter experiência para aproveitar o conteúdo?",
+   "Os scripts podem ser copiados exatamente como estão?",
+   "Esse material substitui um treinamento completo?",
+   "Por quanto tempo terei acesso?",
+   "Preciso já saber Revit?",
+   "É compatível com quais versões?",
+   "Recebo atualizações?",
+   "Tem garantia?"
+  ]
+ }
+}

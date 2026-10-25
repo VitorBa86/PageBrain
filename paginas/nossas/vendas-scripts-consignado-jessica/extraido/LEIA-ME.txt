@@ -1,0 +1,19 @@
+Captura de https://lp.oreidalanding.com.br/pagina-jessica-script/
+Data: 2026-10-12T18:46:01.258Z
+Modo: static · Plataforma detectada: WordPress + Elementor
+
+Como abrir:
+  1. Descompacte a pasta.
+  2. Abra index.html no navegador (ou rode `npx serve .` na pasta).
+
+Estrutura:
+  index.html      página com todas as referências reescritas
+  assets/css      folhas de estilo (com @import já embutidos)
+  assets/img      imagens, ícones e SVGs
+  assets/font     fontes
+  assets/js       scripts (só quando a opção estiver ligada)
+  captura.json    relatório completo, arquivo por arquivo
+
+Todos os arquivos referenciados foram baixados.
+
+Use apenas em sites que você mantém ou tem autorização para copiar.

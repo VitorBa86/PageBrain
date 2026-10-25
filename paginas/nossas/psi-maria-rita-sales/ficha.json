@@ -1,0 +1,272 @@
+{
+ "nome": "PÁGINA MARIA RITA SALES [01 · JULHO]",
+ "slug": "psi-maria-rita-sales",
+ "pasta_original": "Psi Maria Rita",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://lp.oreidalanding.com.br/maria-rita-sales/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Psicologia",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#29476D",
+   "#FFFFFF",
+   "#EBEBEB",
+   "#E8DCC8",
+   "#E6E2DA",
+   "#B1D5F3",
+   "#192E47"
+  ],
+  "textos": [
+   "#29476D",
+   "#FFFFFF",
+   "#2668A8",
+   "#B1D5F3",
+   "#1D3447",
+   "#6F9FC8"
+  ],
+  "destaques": [
+   "#29476D",
+   "#FFFFFF",
+   "#E8DCC8",
+   "#2668A8",
+   "#B1D5F3",
+   "#1D3447"
+  ],
+  "gradientes": [
+   "linear-gradient(rgb(232, 220, 200) 0%, rgb(255, 255, 255) 29%)",
+   "linear-gradient(rgb(41, 71, 109) 0%, rgb(64, 106, 160) 100%)",
+   "linear-gradient(150deg, rgb(38, 104, 168), rgb(29, 52, 71))"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Karla",
+   "uso_pct": 86
+  },
+  {
+   "familia": "Fraunces",
+   "uso_pct": 14
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  48,
+  41,
+  40,
+  36,
+  34,
+  30,
+  20,
+  19
+ ],
+ "escala_tipografica_mobile_px": [
+  28,
+  27,
+  26,
+  20,
+  19,
+  18,
+  18,
+  17
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#00000000",
+  "gradiente": "radial-gradient(167.45% 161.3% at 11.98% 6.04%, rgb(111, 159, 200) 0%, rgb(38, 104, 168) 100%)",
+  "texto": "#FFFFFF",
+  "raio": "202px",
+  "padding": "18px 42px",
+  "fonte": "Karla",
+  "tamanho": "18px",
+  "peso": "600",
+  "caixa": "none",
+  "exemplos": [
+   "Entrar em contato",
+   "Quero saber mais",
+   "Entrar na Comunidade"
+  ]
+ },
+ "raios": [
+  "12px",
+  "202px",
+  "999px",
+  "20px",
+  "16px",
+  "8px"
+ ],
+ "sombras": [
+  "rgba(0, 0, 0, 0.32) 0px 26px 60px 0px",
+  "rgba(41, 72, 109, 0.21) 8px 7px 33px 0px",
+  "rgba(0, 0, 0, 0) 0px 0px 0px 0px"
+ ],
+ "gaps": [
+  "20px",
+  "5px",
+  "10px",
+  "16px",
+  "12px",
+  "18px"
+ ],
+ "largura_conteudo_px": 1140,
+ "altura_pagina_px": 19450,
+ "secoes_qtde": 12,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "menu",
+   "titulo": "Psicóloga, Ph.D - CRP 16/1077",
+   "fundo": "#29476D",
+   "altura_px": 800
+  },
+  {
+   "ordem": 2,
+   "tipo": "hero",
+   "titulo": "Se você trabalha com pessoas (professor, psicólogo, terapeuta, médico, advogado,",
+   "fundo": "#E8DCC8",
+   "altura_px": 757
+  },
+  {
+   "ordem": 3,
+   "tipo": "para-quem-e",
+   "titulo": "SOBRE MIM",
+   "fundo": "gradiente",
+   "altura_px": 1021
+  },
+  {
+   "ordem": 4,
+   "tipo": "sobre",
+   "titulo": "SERVIÇOS",
+   "fundo": "#E5E4E2",
+   "altura_px": 2692
+  },
+  {
+   "ordem": 5,
+   "tipo": "servicos",
+   "titulo": "DIAGNÓSTICO CUIDANDO DE QUEM CUIDA",
+   "fundo": "#29476D",
+   "altura_px": 931
+  },
+  {
+   "ordem": 6,
+   "tipo": "metodo",
+   "titulo": "PROVA SOCIAL",
+   "fundo": "#FFFFFF",
+   "altura_px": 1739
+  },
+  {
+   "ordem": 7,
+   "tipo": "prova-social",
+   "titulo": "Antes de transformar a prática profissional, é preciso transformar a forma como",
+   "fundo": "transparente",
+   "altura_px": 8190
+  },
+  {
+   "ordem": 8,
+   "tipo": "conteudo",
+   "titulo": "BLOG",
+   "fundo": "#E6E2DA",
+   "altura_px": 668
+  },
+  {
+   "ordem": 9,
+   "tipo": "conteudo",
+   "titulo": "A conversa continua! Sempre às 06h07",
+   "fundo": "#29476D",
+   "altura_px": 622
+  },
+  {
+   "ordem": 10,
+   "tipo": "localizacao",
+   "titulo": "ONDE ATENDO",
+   "fundo": "#E6E2DA",
+   "altura_px": 912
+  },
+  {
+   "ordem": 11,
+   "tipo": "faq",
+   "titulo": "PERGUNTAS FREQUENTES",
+   "fundo": "#E8DCC8",
+   "altura_px": 615
+  },
+  {
+   "ordem": 12,
+   "tipo": "rodape",
+   "titulo": "",
+   "fundo": "#E8DCC8",
+   "altura_px": 501
+  }
+ ],
+ "tipos_de_secao": [
+  "menu",
+  "hero",
+  "para-quem-e",
+  "sobre",
+  "servicos",
+  "metodo",
+  "prova-social",
+  "conteudo",
+  "conteudo",
+  "localizacao",
+  "faq",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "azul-petroleo",
+  "bege",
+  "editorial",
+  "serifa"
+ ],
+ "tecnicas": [
+  "GSAP/sticky em widget HTML",
+  "Rodapé autocontido"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "fadeIn",
+   "piscar"
+  ],
+  "entrada_elementor": [
+   "fadeIn"
+  ],
+  "classes_scroll": [
+   "scroll-bottom",
+   "scroll-left",
+   "scroll-right",
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "google-ads",
+  "happy-addons",
+  "jquery",
+  "lenis",
+  "lottie",
+  "meta-pixel",
+  "swiper"
+ ],
+ "snippets_usados": [
+  "animacoes/animacao-scroll-reveal.html",
+  "animacoes/animacao-scroll-reveal-blur.css",
+  "cards-e-bordas/card-borda-degrade.css",
+  "menus-e-headers/menu-transparente-vira-pilula.html",
+  "rodapes/rodape-tres-colunas-maria-rita.html",
+  "secoes-prontas/metodo-cartas-voando-scroll.html",
+  "whatsapp-e-flutuantes/link-whatsapp-com-mensagem.html",
+  "tracking-e-pixels/meta-pixel.html",
+  "tracking-e-pixels/google-ads-gtag.html",
+  "utilitarios-css/css-base-toda-pagina.css",
+  "utilitarios-css/elemento-posicao-absoluta.css"
+ ],
+ "relevancia": 4,
+ "resumo": "Psicóloga PhD para profissionais que cuidam de pessoas. Tem menu que vira pílula ao rolar, seção de método com cartas voando no scroll, rodapé em HTML, blog, lives e comunidade. No print estático o hero e o método aparecem vazios porque são animados.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/psi-maria-rita-sales.md",
+  "json_elementor": "../../../elementor/paginas/captacao/psi-maria-rita-sales.json"
+ }
+}

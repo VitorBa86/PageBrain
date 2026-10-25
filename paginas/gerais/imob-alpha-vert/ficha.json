@@ -1,0 +1,221 @@
+{
+ "nome": "Casas e Apartamentos à Venda em Alphaville | ALPHA VERT",
+ "slug": "imob-alpha-vert",
+ "pasta_original": "Alphaver imob",
+ "origem": "paginas/gerais",
+ "prioridade": "referencia",
+ "url": "https://www.alphavert.com.br/",
+ "plataforma": "Webflow",
+ "nicho": "Imobiliário",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#E2E2DB",
+   "#67684F",
+   "#313131",
+   "#FFFFFF",
+   "#F6F3EE",
+   "#8D8D8B",
+   "#25D366"
+  ],
+  "textos": [
+   "#FFFFFF",
+   "#333333",
+   "#000000",
+   "#424241",
+   "#0000EE",
+   "#9E9E9B"
+  ],
+  "destaques": [
+   "#313131"
+  ],
+  "gradientes": [
+   "linear-gradient(90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5))"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Gotham Book 0",
+   "uso_pct": 70
+  },
+  {
+   "familia": "Gotham 1",
+   "uso_pct": 4
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  38,
+  36,
+  30,
+  25,
+  23,
+  22,
+  20,
+  19
+ ],
+ "escala_tipografica_mobile_px": [
+  38,
+  25,
+  23,
+  22,
+  20,
+  20,
+  19,
+  18
+ ],
+ "h1_mobile": "38px",
+ "botao_principal": {
+  "fundo": "#313131",
+  "gradiente": null,
+  "texto": "#FFFFFF",
+  "raio": "20px 0px",
+  "padding": "9px 15px",
+  "fonte": "Arial",
+  "tamanho": "18px",
+  "peso": "400",
+  "caixa": "none",
+  "exemplos": [
+   "Enviar"
+  ]
+ },
+ "raios": [
+  "20px 0px",
+  "5px 0px",
+  "50px 0px",
+  "40px 0px 0px",
+  "0px 0px 40px",
+  "8px"
+ ],
+ "sombras": [],
+ "gaps": [
+  "20px",
+  "normal 8px",
+  "30px",
+  "normal 24px",
+  "10px normal",
+  "40px"
+ ],
+ "largura_conteudo_px": null,
+ "altura_pagina_px": 13108,
+ "secoes_qtde": 10,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "Alpha Vert",
+   "fundo": "transparente",
+   "altura_px": 900
+  },
+  {
+   "ordem": 2,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 910
+  },
+  {
+   "ordem": 3,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 886
+  },
+  {
+   "ordem": 4,
+   "tipo": "diferenciais",
+   "titulo": "Diferenciais das casas",
+   "fundo": "#E2E2DB",
+   "altura_px": 4043
+  },
+  {
+   "ordem": 5,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "#E2E2DB",
+   "altura_px": 722
+  },
+  {
+   "ordem": 6,
+   "tipo": "diferenciais",
+   "titulo": "Diferenciais dos apartamentos",
+   "fundo": "#67684F",
+   "altura_px": 1212
+  },
+  {
+   "ordem": 7,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "#67684F",
+   "altura_px": 1128
+  },
+  {
+   "ordem": 8,
+   "tipo": "",
+   "titulo": "Um oásis tão natural quanto urbano, um novo jeito de viver o raro.",
+   "fundo": "transparente",
+   "altura_px": 2216
+  },
+  {
+   "ordem": 9,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "#67684F",
+   "altura_px": 709
+  },
+  {
+   "ordem": 10,
+   "tipo": "rodape",
+   "titulo": "",
+   "fundo": "#313131",
+   "altura_px": 342
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "",
+  "",
+  "diferenciais",
+  "",
+  "diferenciais",
+  "",
+  "",
+  "",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "cinza-verde",
+  "renders",
+  "alto-padrao",
+  "editorial"
+ ],
+ "tecnicas": [
+  "Linhas diagonais decorativas",
+  "Webflow"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "spin",
+   "spinner-rotate"
+  ],
+  "entrada_elementor": [],
+  "classes_scroll": []
+ },
+ "bibliotecas": [
+  "ga4",
+  "gtm",
+  "jquery",
+  "webflow"
+ ],
+ "snippets_usados": [],
+ "relevancia": 3,
+ "resumo": "Lançamento de casas em Alphaville (Webflow) com renders grandes, linhas diagonais decorativas, plantas por pavimento em abas, ícones de diferenciais e clube com carrossel.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": null,
+  "copy_real": null,
+  "json_elementor": null,
+  "ref": "ref/"
+ }
+}

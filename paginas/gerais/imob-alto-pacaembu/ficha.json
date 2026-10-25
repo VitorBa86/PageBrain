@@ -1,0 +1,274 @@
+{
+ "nome": "Alto Pacaembu",
+ "slug": "imob-alto-pacaembu",
+ "pasta_original": "Alto Pacaembu Imob",
+ "origem": "paginas/gerais",
+ "prioridade": "referencia",
+ "url": "https://altopacaembu.com.br/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Imobiliário",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#035959",
+   "#0FC2BF",
+   "#0DABA8",
+   "#033636",
+   "#309999",
+   "#FFFFFF",
+   "#064444"
+  ],
+  "textos": [
+   "#FFFFFF",
+   "#7A7A7A",
+   "#54595F",
+   "#033636",
+   "#0FC2BF",
+   "#008F8C"
+  ],
+  "destaques": [
+   "#035959",
+   "#0FC2BF",
+   "#0DABA8",
+   "#309999",
+   "#008F8C",
+   "#064444"
+  ],
+  "gradientes": []
+ },
+ "fontes": [
+  {
+   "familia": "Plus Jakarta Sans",
+   "uso_pct": 95
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  50,
+  40,
+  35,
+  32,
+  30,
+  20,
+  18
+ ],
+ "escala_tipografica_mobile_px": [
+  40,
+  35,
+  32,
+  30,
+  30,
+  25,
+  20,
+  18
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#00000000",
+  "gradiente": null,
+  "texto": "#CC3366",
+  "raio": "3px",
+  "padding": "8px 16px",
+  "fonte": "-apple-system",
+  "tamanho": "16px",
+  "peso": "400",
+  "caixa": "none",
+  "exemplos": [
+   "Quero saber mais"
+  ]
+ },
+ "raios": [
+  "3px",
+  "5px",
+  "20px",
+  "25px"
+ ],
+ "sombras": [],
+ "gaps": [
+  "20px",
+  "0px 5px"
+ ],
+ "largura_conteudo_px": 1140,
+ "altura_pagina_px": 6778,
+ "secoes_qtde": 17,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 600
+  },
+  {
+   "ordem": 2,
+   "tipo": "",
+   "titulo": "Confira o que preparamos para você!",
+   "fundo": "transparente",
+   "altura_px": 431
+  },
+  {
+   "ordem": 3,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 21
+  },
+  {
+   "ordem": 4,
+   "tipo": "",
+   "titulo": "Um projeto com alto padrão de acabamento.",
+   "fundo": "transparente",
+   "altura_px": 707
+  },
+  {
+   "ordem": 5,
+   "tipo": "produto",
+   "titulo": "Masterplan",
+   "fundo": "transparente",
+   "altura_px": 700
+  },
+  {
+   "ordem": 6,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 230
+  },
+  {
+   "ordem": 7,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 570
+  },
+  {
+   "ordem": 8,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "#0FC2BF",
+   "altura_px": 164
+  },
+  {
+   "ordem": 9,
+   "tipo": "diferenciais",
+   "titulo": "Conheça nossos diferenciais:",
+   "fundo": "#035959",
+   "altura_px": 685
+  },
+  {
+   "ordem": 10,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "#0FC2BF",
+   "altura_px": 711
+  },
+  {
+   "ordem": 11,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "#0DABA8",
+   "altura_px": 211
+  },
+  {
+   "ordem": 12,
+   "tipo": "produto",
+   "titulo": "Tipologia 1",
+   "fundo": "#035959",
+   "altura_px": 558
+  },
+  {
+   "ordem": 13,
+   "tipo": "localizacao",
+   "titulo": "Localização",
+   "fundo": "#0FC2BF",
+   "altura_px": 209
+  },
+  {
+   "ordem": 14,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 350
+  },
+  {
+   "ordem": 15,
+   "tipo": "",
+   "titulo": "REALIZAÇÃO",
+   "fundo": "transparente",
+   "altura_px": 266
+  },
+  {
+   "ordem": 16,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 59
+  },
+  {
+   "ordem": 17,
+   "tipo": "rodape",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 20
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "",
+  "",
+  "",
+  "produto",
+  "",
+  "",
+  "",
+  "diferenciais",
+  "",
+  "",
+  "produto",
+  "localizacao",
+  "",
+  "",
+  "",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "turquesa",
+  "verde-agua",
+  "claro",
+  "imobiliario"
+ ],
+ "tecnicas": [
+  "Galeria lightbox"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "bounceIn",
+   "ctc_fadeIn",
+   "slideInRight",
+   "slideInUp"
+  ],
+  "entrada_elementor": [
+   "bounceIn",
+   "slideInUp"
+  ],
+  "classes_scroll": []
+ },
+ "bibliotecas": [
+  "ga4",
+  "gtm",
+  "jquery",
+  "lottie",
+  "swiper"
+ ],
+ "snippets_usados": [],
+ "relevancia": 3,
+ "resumo": "Lançamento econômico em turquesa. Formulário já no hero, galeria em grade de fotos, blocos de cor com frase, masterplan com legenda, diferenciais de apartamento e condomínio em duas colunas, tipologias e localização.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": null,
+  "copy_real": null,
+  "json_elementor": null,
+  "ref": "ref/"
+ }
+}

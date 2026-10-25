@@ -1,0 +1,292 @@
+{
+ "nome": "Benatti Odontologia - Dentistas Especialistas em SP",
+ "slug": "odonto-benatti",
+ "pasta_original": "Benattio Odonto",
+ "origem": "paginas/gerais",
+ "prioridade": "referencia",
+ "url": "https://benattiodontologia.com.br/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Odontologia",
+ "tipo_pagina": "institucional",
+ "paleta": {
+  "fundos": [
+   "#111111",
+   "#013A65",
+   "#FFFFFF",
+   "#F4F4F4",
+   "#000000",
+   "#157351"
+  ],
+  "textos": [
+   "#000000",
+   "#6B6B6B",
+   "#1A1A1A",
+   "#5E5E5E",
+   "#777777",
+   "#FFFFFF"
+  ],
+  "destaques": [
+   "#013A65"
+  ],
+  "gradientes": [
+   "linear-gradient(90deg, rgb(94, 178, 242) 0px, rgb(94, 178, 242) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Josefin Sans",
+   "uso_pct": 43
+  },
+  {
+   "familia": "Trebuchet MS",
+   "uso_pct": 24
+  },
+  {
+   "familia": "Trustindex Poppins",
+   "uso_pct": 19
+  },
+  {
+   "familia": "Gabarito",
+   "uso_pct": 13
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  32,
+  29,
+  20,
+  18,
+  17,
+  16
+ ],
+ "escala_tipografica_mobile_px": [
+  24,
+  20,
+  18,
+  17,
+  17,
+  17,
+  16,
+  15
+ ],
+ "h1_mobile": "17px",
+ "botao_principal": {
+  "fundo": "#00000000",
+  "gradiente": null,
+  "texto": "#000000",
+  "raio": "0px",
+  "padding": "0px 0px",
+  "fonte": "Trebuchet MS",
+  "tamanho": "15px",
+  "peso": "700",
+  "caixa": "none",
+  "exemplos": [
+   "VER TODOS",
+   "VER MAIS TRANSFORMAÇÕES",
+   "VER TODOS POSTS"
+  ]
+ },
+ "raios": [
+  "12px",
+  "30px",
+  "0px 1px 0px 0px",
+  "15px",
+  "3px"
+ ],
+ "sombras": [
+  "rgba(0, 0, 0, 0.08) 0px 3px 6px 0px",
+  "rgba(255, 255, 255, 0.85) 0px 0px 0px 2px",
+  "rgba(0, 0, 0, 0.06) 0px 3px 6px 0px"
+ ],
+ "gaps": [
+  "10px",
+  "20px",
+  "15px",
+  "30px",
+  "17px 30px",
+  "10px 26px"
+ ],
+ "largura_conteudo_px": 1259,
+ "altura_pagina_px": 8961,
+ "secoes_qtde": 12,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 810
+  },
+  {
+   "ordem": 2,
+   "tipo": "",
+   "titulo": "DENTISTAS ESPECIALISTAS",
+   "fundo": "transparente",
+   "altura_px": 488
+  },
+  {
+   "ordem": 3,
+   "tipo": "",
+   "titulo": "• AMBIENTE SOFISTICADO E ACOLHEDOR • EXCELÊNCIA TÉCNICA • INOVAÇÃO CONSTANTE",
+   "fundo": "transparente",
+   "altura_px": 826
+  },
+  {
+   "ordem": 4,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 539
+  },
+  {
+   "ordem": 5,
+   "tipo": "servicos",
+   "titulo": "PROCEDIMENTOS",
+   "fundo": "transparente",
+   "altura_px": 1010
+  },
+  {
+   "ordem": 6,
+   "tipo": "sobre",
+   "titulo": "HÁ MAIS DE 50 ANOS FAZENDO HISTÓRIA...",
+   "fundo": "transparente",
+   "altura_px": 665
+  },
+  {
+   "ordem": 7,
+   "tipo": "sobre",
+   "titulo": "QUEM SOMOS",
+   "fundo": "transparente",
+   "altura_px": 815
+  },
+  {
+   "ordem": 8,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 180
+  },
+  {
+   "ordem": 9,
+   "tipo": "",
+   "titulo": "ANTES E DEPOIS",
+   "fundo": "transparente",
+   "altura_px": 985
+  },
+  {
+   "ordem": 10,
+   "tipo": "",
+   "titulo": "TRANSFORME SEU SORRISO",
+   "fundo": "transparente",
+   "altura_px": 370
+  },
+  {
+   "ordem": 11,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 409
+  },
+  {
+   "ordem": 12,
+   "tipo": "blog",
+   "titulo": "ARTIGOS",
+   "fundo": "transparente",
+   "altura_px": 1125
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "",
+  "",
+  "",
+  "servicos",
+  "sobre",
+  "sobre",
+  "",
+  "",
+  "",
+  "",
+  "blog"
+ ],
+ "tags_estilo": [
+  "branco",
+  "cinza",
+  "p-e-b",
+  "clinica-premium"
+ ],
+ "tecnicas": [
+  "Vídeo de fundo",
+  "Seletor de idioma"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "blink",
+   "cover_search_fade_in",
+   "cover_search_fade_out",
+   "ctcBounce",
+   "ctc_fadeIn",
+   "ctf-sk-scaleout",
+   "fadeInLeft",
+   "fadeInRight",
+   "fadeInUp",
+   "flash",
+   "fullscreen_search_fade_in",
+   "fullscreen_search_fade_out",
+   "ht_ctc_anim_corner",
+   "ht_ctc_cta_stick",
+   "qi-addons-for-elementor-fade-in",
+   "qi-addons-for-elementor-fade-out",
+   "qode-atom-position",
+   "qode-atom-shrink",
+   "qode-atom-size",
+   "qode-atom-zindex",
+   "qode-ball-fall",
+   "qode-bounce",
+   "qode-bounce-delay",
+   "qode-clock",
+   "qode-clock-1",
+   "qode-clock-2",
+   "qode-clock-3",
+   "qode-clock-4",
+   "qode-cube",
+   "qode-double-pulse",
+   "qode-draw",
+   "qode-draw-from-right",
+   "qode-fade-in",
+   "qode-fade-out",
+   "qode-fussion-ball-1",
+   "qode-fussion-ball-2",
+   "qode-fussion-ball-3",
+   "qode-fussion-ball-4",
+   "qode-inline-underline-initial-hover"
+  ],
+  "entrada_elementor": [
+   "fadeInLeft",
+   "fadeInRight",
+   "fadeInUp",
+   "flash",
+   "none"
+  ],
+  "classes_scroll": []
+ },
+ "bibliotecas": [
+  "ga4",
+  "gsap",
+  "gtm",
+  "jquery",
+  "lottie",
+  "swiper"
+ ],
+ "snippets_usados": [],
+ "relevancia": 3,
+ "resumo": "Clínica odontológica premium em São Paulo, branca com fotos P&B: vídeo de fundo no hero, 3 pilares com ícone, fotos da clínica, especialidades com foto, ícones de tratamentos, vídeo do fundador, logos de universidades (Harvard, Columbia, USP), antes e depois, Google e artigos.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": null,
+  "copy_real": null,
+  "json_elementor": null,
+  "ref": "ref/"
+ }
+}

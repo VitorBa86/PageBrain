@@ -1,0 +1,36 @@
+<!--
+  SNIPPET: Texto que aparece palavra por palavra no scroll (GSAP)
+  CATEGORIA: animacoes
+  O QUE FAZ: Cada palavra do título desce e aparece em sequência conforme a pessoa rola a página.
+  COMO USAR: Coloque a classe "textoAnimado" no widget de título. Cole este arquivo em um widget HTML no fim da página.
+  ONDE COLAR: Widget HTML no fim da página
+  DEPENDÊNCIAS: GSAP, ScrollTrigger e SplitType (scripts já referenciados no topo do arquivo)
+  ORIGEM: paginas/nossas/psi-vivian-widuch
+  USADO EM: 2 página(s) da casa: psi-vivian-widuch, vendas-templates-arquiteto-jardel
+-->
+
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
+<script src="https://unpkg.com/split-type"></script>
+
+<script>
+  gsap.registerPlugin(ScrollTrigger);
+
+  const splitTypes = document.querySelectorAll(".textoAnimado");
+
+  splitTypes.forEach((char, i) => {
+    const text = new SplitType(char, { types: "words" });  // Dividindo em palavras
+
+    gsap.from(text.words, {
+      scrollTrigger: {
+        trigger: char,
+        start: "top 80%",
+        end: "top 50%",
+        scrub: 1,
+      },
+      y: -40,
+      opacity: 0,
+      stagger: 0.1,
+    });
+  });
+</script>

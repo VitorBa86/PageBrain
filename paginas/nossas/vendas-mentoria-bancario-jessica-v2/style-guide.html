@@ -1,0 +1,394 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>PageBrain · Style guide · Método Bate Metas</title>
+<link rel="stylesheet" href="extraido/assets/css/inter-af8d038a.css">
+<link rel="stylesheet" href="extraido/assets/css/css-da3d5782.css">
+<link rel="stylesheet" href="extraido/assets/css/sora-224acd53.css">
+<style>
+:root{--bg:#f5f4f0;--fg:#1b1b1a;--mut:#6d6b66;--card:#fff;--line:#e2dfd7}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif}
+header{padding:28px 0 18px;border-bottom:1px solid var(--line);background:#fff}header h1{margin:6px 0;font-size:26px}
+.wrap{max-width:1200px;margin:auto;padding:0 20px}
+nav{position:sticky;top:0;background:#fffe;backdrop-filter:blur(6px);border-bottom:1px solid var(--line);z-index:5}nav .wrap{display:flex;gap:16px;overflow-x:auto;padding:10px 20px}nav a{color:var(--fg);font-size:13px;white-space:nowrap;text-decoration:none}nav a:hover{color:#E8700F}
+section{padding:34px 0;border-bottom:1px solid var(--line)}h2{font-size:21px;margin:0 0 8px}h3{font-size:15px;margin:22px 0 10px}
+.lead{color:var(--mut);margin:0 0 16px;max-width:820px}
+code{font:12px/1.4 ui-monospace,Menlo,monospace;color:#5a5852;word-break:break-word}
+pre{background:#1b1b1a;color:#eae6dc;border-radius:10px;padding:16px;overflow-x:auto;font:12px/1.55 ui-monospace,Menlo,monospace;margin:10px 0}
+.badge{display:inline-block;font-size:12px;border:1px solid var(--line);border-radius:99px;padding:2px 10px;margin-right:6px}.tag{display:inline-block;font-size:12px;background:#eceae3;border-radius:6px;padding:2px 8px;margin:2px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:12px}
+.sw .chip{height:84px;border-radius:10px;display:flex;align-items:flex-end;padding:8px;font:600 13px ui-monospace,monospace;border:1px solid #0001}.sw .cap{font-size:12px;margin-top:5px;line-height:1.35}.sw .cap small{color:var(--mut)}
+.grad{height:76px;border-radius:10px;margin-bottom:6px;display:flex;align-items:flex-end;padding:8px}.grad code{background:#fffd;border-radius:4px;padding:2px 5px;color:#222}
+.gcap{font-size:12px;color:var(--mut);margin:0 0 14px}
+table{width:100%;border-collapse:collapse;background:#fff;border-radius:10px;overflow:hidden}td,th{border-bottom:1px solid var(--line);padding:9px 10px;text-align:left;vertical-align:middle;font-size:13px}th{background:#faf9f6;font-weight:600}
+.tbl{overflow-x:auto;border-radius:10px;border:1px solid var(--line)}
+.fam{background:#fff;border:1px solid var(--line);border-radius:10px;padding:16px;margin-bottom:10px}.fam-s{font-size:30px;line-height:1.2}
+.dark{background:#000;color:#fff;border-radius:14px;padding:30px;margin:10px 0}
+.demo-row{display:flex;flex-wrap:wrap;gap:24px;align-items:center}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:24px}@media(max-width:860px){.two{grid-template-columns:1fr}}
+ul{margin:0;padding-left:18px}li{margin:3px 0}
+.note{background:#fff6e9;border:1px solid #f3d3a8;border-radius:10px;padding:12px 14px;font-size:14px;margin:12px 0}
+.strip{display:flex;align-items:center;gap:8px;padding:0 12px;font-size:12px;border-bottom:1px solid #0003;overflow:hidden;white-space:nowrap}.strip small{opacity:.75;margin-left:auto}
+.shot{width:100%;border:1px solid var(--line);border-radius:8px;display:block}
+.imgs{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px}figure{margin:0;background:#fff;border-radius:8px;overflow:hidden;border:1px solid var(--line)}figure img{width:100%;height:130px;object-fit:cover;display:block;background:#111}figcaption{font-size:11px;padding:5px 7px;color:var(--mut)}
+.rbox{width:110px;height:76px;background:#fff;border:2px solid #333;display:flex;align-items:center;justify-content:center;font:12px monospace}.rrow{display:flex;gap:12px;flex-wrap:wrap}
+
+/* ===== Demos (recriação fiel dos componentes) ===== */
+.mbm{font-family:'Inter',sans-serif}
+.mbm .laranja{color:#F5811E}
+.pill{display:inline-block;border:1px solid #5A5A5A;border-radius:222px;padding:5px 30px;color:#fff;font:300 20px/30px 'Inter'}
+.titulo{font:600 33px/1.2 'Inter';color:#fff;margin:14px 0 0}
+.btn-mbm{position:relative;z-index:1;display:inline-flex;align-items:center;justify-content:center;padding:26px 42px;border-radius:104px;text-decoration:none;font:500 20px/20px 'Inter';letter-spacing:-.5px;text-transform:uppercase;color:#31170D;overflow:hidden;background:radial-gradient(51.25% 80.52% at 50.14% 0%,#FDD16E 0%,#F5811E 100%)}
+.btn-mbm::after{content:"";position:absolute;left:50%;top:50%;width:600px;height:600px;translate:-50% -50%;background:conic-gradient(transparent 0deg,transparent 60deg,#FDD16E 100deg,#fff 130deg,#FDD16E 160deg,transparent 200deg,transparent 360deg);animation:btn-spin 2.2s linear infinite;z-index:-2}
+.btn-mbm::before{content:"";position:absolute;inset:2px;border-radius:104px;background:radial-gradient(51.25% 80.52% at 50.14% 0%,#FDD16E 0%,#F5811E 100%);z-index:-1}
+.halo{position:relative;display:inline-block}.halo::before{content:"";position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:calc(100% + 20px);height:calc(100% + 20px);background:#FCC86530;border-radius:220px;animation:pulseGlow 2.5s ease-in-out infinite}
+.btn-dark{display:inline-flex;padding:26px 42px;border-radius:104px;background:linear-gradient(#1A1A1A,#000);border:1px solid rgba(253,209,110,.4);color:#FDD16E;font:700 20px/20px 'Inter';letter-spacing:-.5px;text-transform:uppercase;text-decoration:none}
+@keyframes btn-spin{to{transform:rotate(360deg)}}
+@keyframes pulseGlow{0%{opacity:0;transform:translate(-50%,-50%) scale(1)}50%{opacity:1;transform:translate(-50%,-50%) scale(1.05)}100%{opacity:0;transform:translate(-50%,-50%) scale(1)}}
+.card-pq{width:330px;max-width:100%;padding:30px;border-radius:18px;border:1px solid #723A0B;background:linear-gradient(27deg,#140A01 0%,#381B03 100%)}
+.card-pq .ico{width:60px;height:60px;border-radius:14px;background:linear-gradient(135deg,#FDD16E,#F5811E);box-shadow:0 0 0 6px rgba(245,129,30,.18);display:flex;align-items:center;justify-content:center;margin-bottom:22px}
+.card-pq h4{font:600 20px/24px 'Inter';color:#fff;margin:0 0 12px}.card-pq p{font:300 16px/1.6 'Inter';color:#fff;margin:0}
+.acc{width:560px;max-width:100%;background:rgba(255,255,255,.05);border-radius:18px;border-bottom:2px solid #F5811E;padding:20px;display:flex;justify-content:space-between}
+.acc small{display:block;font:300 16px/28px 'Inter';color:#BEBEBE}.acc b{font:500 20px/28px 'Inter';color:#BEBEBE}
+.box-dor{position:relative;overflow:hidden;border-radius:22px;padding:40px 60px;background:#F5811E;box-shadow:rgba(0,0,0,.64) 10px 10px 39px;text-align:center}
+.box-dor::before{content:"";position:absolute;width:250%;height:250%;top:-75%;left:-75%;background:radial-gradient(circle,#FDD16E 0%,#F5811E 60%);filter:blur(80px);animation:liquidMove 3s ease-in-out infinite}
+.box-dor>*{position:relative}
+.box-dor .t1{font:500 29px/1.4 'Inter';letter-spacing:-.8px;color:#141414;margin:0}.box-dor .t2{font:600 37px/1.4 'Inter';letter-spacing:-.8px;color:#141414;margin:0 0 14px}
+.box-dor .p{font:500 18px/1.5 'Inter';letter-spacing:-.5px;color:#141414;max-width:640px;margin:0 auto 18px}
+.box-dor .faixa{display:inline-block;background:rgba(245,129,30,.49);border:1px solid rgba(255,255,255,.35);border-radius:33px;padding:10px 30px;font:500 24px/1.4 'Inter';letter-spacing:-.8px;color:#141414;margin-bottom:18px}
+@keyframes liquidMove{0%,100%{transform:translate(0,0)}25%{transform:translate(20%,-10%)}50%{transform:translate(10%,20%)}75%{transform:translate(-20%,10%)}}
+.marquee{overflow:hidden;padding:30px 0}.marquee div{transform:rotate(-5deg);margin:0 -40px;background:radial-gradient(77.71% 122.08% at 50.14% 0%,#FDD16E 0%,#F5811E 58.21%);padding:14px 0;white-space:nowrap;font:400 20px/24px 'Inter';letter-spacing:.4px;color:#fff;box-shadow:0 4px 81px #000}
+.bonus-w{background:#F5811E;border-radius:22px;padding:20px}
+.bonus-c{background:#fff;border-radius:22px;border:1px solid #888;box-shadow:rgba(0,0,0,.18) 6px 6px 10px;padding:34px;display:flex;gap:30px;align-items:center;flex-wrap:wrap}
+.bonus-c .img{width:260px;height:170px;border-radius:22px;background:linear-gradient(135deg,#F5811E,#FDD16E);flex-shrink:0}
+.tagb{display:inline-block;padding:3px 26px;border-radius:8px;background:linear-gradient(90deg,#F5811E 0%,#FDD16E 100%);font:400 20px/28px 'Manrope';letter-spacing:5px;color:#fff}
+.bonus-c h4{font:500 29px/1.4 'Inter';color:#000;margin:12px 0 8px}.bonus-c p{font:300 19px/1.5 'Inter';color:#000;margin:0 0 12px}
+.price{width:330px;max-width:100%;border-radius:22px;border:1px solid #9E9E9E;padding:30px;text-align:center}
+.price.d{background:#1B1B1B;color:#fff}.price.l{background:#fff;color:#000}
+.price h4{font:500 30px/1.4 'Inter';margin:14px 0 6px}.price .sub{font:300 16px/1.45 'Inter'}
+.price ul{list-style:none;padding:0;margin:16px 0;text-align:left}.price li{font:300 15px/1.35 'Inter';padding:9px 0 9px 30px;border-bottom:1px dashed #555;position:relative}.price.l li{border-color:#999}
+.price li::before{content:"✓";position:absolute;left:0;top:8px;width:18px;height:18px;border-radius:4px;background:#F5811E;color:#fff;font:700 12px/18px sans-serif;text-align:center}
+.price .tipo{font:500 22px/1.5 'Inter';letter-spacing:-.7px;text-transform:uppercase;color:#F5811E}.price .val{font:600 39px/1.4 'Inter';letter-spacing:-.8px}
+.faq-i{border-bottom:1px solid #494949;padding:20px;font:500 20px/26px 'Inter';color:#fff;max-width:620px}.faq-i::before{content:"▸";margin-right:14px;font-size:14px}
+.foot{font:200 13px 'Sora';color:#fff;display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
+</style></head><body>
+
+<header><div class="wrap">
+<div style="font:600 12px system-ui;letter-spacing:.12em;text-transform:uppercase;color:#6d6b66">PageBrain · Style guide</div>
+<span class="badge">Referência externa</span><span class="badge">Página de vendas / infoproduto</span><span class="badge">WordPress + Elementor</span>
+<h1>Método Bate Metas (Jéssica Pedroso Boff)</h1>
+<div><code>https://lp.oreidalanding.com.br/construcao2/</code> · captura de 19/10/2026</div>
+<p style="max-width:900px">Página de vendas para bancários, toda em <b>preto com laranja e dourado</b>. O visual é "premium-tech": fundos pretos com brilhos laranja desfocados e grades sutis, ícones 3D vitrificados flutuando ao redor da expert, botões em pílula com gradiente radial dourado e borda que gira. Sequência: hero com foto, caixa laranja de dor, faixas de texto cruzadas, para quem é (6 cards), capas de módulos, accordion de módulos, bônus em cards brancos, prints de depoimento, dois cards de preço (escuro e claro), quem sou eu, FAQ e rodapé.</p>
+<div><span class="tag">preto</span><span class="tag">laranja #F5811E</span><span class="tag">dourado #FDD16E</span><span class="tag">glow</span><span class="tag">3D glass icons</span><span class="tag">pílula</span><span class="tag">Inter 300</span></div>
+<p><a href="extraido/index.html">abrir a página extraída</a> · <a href="print.jpg">print completo</a></p>
+</div></header>
+
+<nav><div class="wrap"><a href="#essencia">Essência</a><a href="#paleta">Paleta</a><a href="#tipografia">Tipografia</a><a href="#botoes">Botões</a><a href="#componentes">Componentes</a><a href="#raios">Bordas e sombras</a><a href="#espacos">Espaçamentos</a><a href="#estrutura">Estrutura</a><a href="#animacoes">Animações</a><a href="#imagens">Imagens</a><a href="#tokens">Tokens CSS</a><a href="#regras">Regras e cuidados</a></div></nav>
+
+<main class="wrap">
+
+<section id="essencia"><h2>Essência do visual</h2>
+<div class="two"><div><ul>
+<li><b>Fundo é sempre preto (#000).</b> Ele ocupa cerca de 60% da área. As seções não alternam claro/escuro; o ritmo vem de <b>gradientes preto→marrom</b> e de <b>faixas laranja de 30px</b> que separam os blocos.</li>
+<li><b>Um acento só, em duas temperaturas:</b> laranja <code>#F5811E</code> para destaque de palavras, ícones e checks, e dourado <code>#FDD16E</code> como luz (topo dos gradientes, brilho do botão).</li>
+<li><b>Texto leve:</b> o corpo é Inter <b>300</b>, branco. Os títulos são Inter 500/600, sem caixa alta, com uma parte do título em laranja.</li>
+<li><b>Branco só em blocos de contraste:</b> os cards de bônus e o card de preço da mentoria. Eles aparecem como "folhas" claras sobre o preto.</li>
+<li><b>Profundidade:</b> blur laranja animado, ícones 3D de vidro, grade de linhas finas no fundo e sombras pretas grandes.</li>
+<li><b>Rótulo de seção em pílula com contorno</b> (PARA QUEM É?, BÔNUS, FAQ) acima de todo título.</li>
+</ul></div>
+<div><a href="print.jpg" target="_blank"><img class="shot" src="print.jpg" alt="Print da página inteira" style="max-height:520px;object-fit:cover;object-position:top"></a></div></div>
+</section>
+
+<section id="paleta"><h2>Paleta de cores</h2>
+<p class="lead">Medida no navegador: os fundos são ponderados pela área ocupada e os textos pela quantidade de caracteres. Os nomes da coluna "papel" são sugestões para reaproveitar a paleta.</p>
+<h3>Fundos</h3><div class="grid">
+<div class="sw"><div class="chip" style="background:#000;color:#fff">#000000</div><div class="cap"><b>Preto base</b> · ~60%<br><small>fundo de quase todas as seções</small></div></div>
+<div class="sw"><div class="chip" style="background:#160A06;color:#fff">#160A06</div><div class="cap"><b>Marrom-noite</b> · hero<br><small>cor de fundo atrás da foto do hero</small></div></div>
+<div class="sw"><div class="chip" style="background:#1B1B1B;color:#fff">#1B1B1B</div><div class="cap"><b>Card escuro</b><br><small>card de preço do curso</small></div></div>
+<div class="sw"><div class="chip" style="background:#FFFFFF;color:#111">#FFFFFF</div><div class="cap"><b>Folha clara</b> · ~12%<br><small>cards de bônus, card da mentoria</small></div></div>
+<div class="sw"><div class="chip" style="background:#F5811E;color:#fff">#F5811E</div><div class="cap"><b>Laranja</b> · ~10%<br><small>moldura dos bônus, faixas, caixa da dor</small></div></div>
+<div class="sw"><div class="chip" style="background:#8F4A10;color:#fff">#8F4A10</div><div class="cap"><b>Laranja queimado</b><br><small>cor-base da caixa da dor (sob o blur)</small></div></div>
+<div class="sw"><div class="chip" style="background:rgba(255,255,255,.05);color:#111">#FFFFFF0D</div><div class="cap"><b>Vidro 5%</b><br><small>itens do accordion de módulos</small></div></div>
+</div>
+<h3>Textos</h3><div class="grid">
+<div class="sw"><div class="chip" style="background:#FFFFFF;color:#111">#FFFFFF</div><div class="cap"><b>Texto principal</b> · ~70%</div></div>
+<div class="sw"><div class="chip" style="background:#000;color:#fff">#000000</div><div class="cap"><b>Texto em folha clara</b> · ~16%</div></div>
+<div class="sw"><div class="chip" style="background:#141414;color:#fff">#141414</div><div class="cap"><b>Texto sobre laranja</b><br><small>caixa da dor</small></div></div>
+<div class="sw"><div class="chip" style="background:#BEBEBE;color:#111">#BEBEBE</div><div class="cap"><b>Texto apagado</b><br><small>accordion de módulos</small></div></div>
+<div class="sw"><div class="chip" style="background:#31170D;color:#fff">#31170D</div><div class="cap"><b>Texto do botão</b><br><small>marrom-café sobre o dourado</small></div></div>
+<div class="sw"><div class="chip" style="background:#F5811E;color:#fff">#F5811E</div><div class="cap"><b>Destaque</b><br><small>palavras-chave nos títulos</small></div></div>
+</div>
+<h3>Destaques e semânticas</h3><div class="grid">
+<div class="sw"><div class="chip" style="background:#FDD16E;color:#111">#FDD16E</div><div class="cap"><b>Dourado</b><br><small>luz dos gradientes, texto do botão escuro</small></div></div>
+<div class="sw"><div class="chip" style="background:#FCC865;color:#111">#FCC865 30%</div><div class="cap"><b>Halo do botão</b><br><small><code>#FCC86530</code></small></div></div>
+<div class="sw"><div class="chip" style="background:#723A0B;color:#fff">#723A0B</div><div class="cap"><b>Borda dos cards</b><br><small>"para quem é"</small></div></div>
+<div class="sw"><div class="chip" style="background:#5A5A5A;color:#fff">#5A5A5A</div><div class="cap"><b>Borda da pílula</b><br><small>rótulos de seção</small></div></div>
+<div class="sw"><div class="chip" style="background:#494949;color:#fff">#494949</div><div class="cap"><b>Divisória do FAQ</b></div></div>
+<div class="sw"><div class="chip" style="background:#C91A1A;color:#fff">#C91A1A</div><div class="cap"><b>Preço riscado</b><br><small>"R$97,00" nos bônus</small></div></div>
+<div class="sw"><div class="chip" style="background:#27B800;color:#fff">#27B800</div><div class="cap"><b>Preço grátis</b><br><small>"R$0,00" nos bônus</small></div></div>
+</div>
+<h3>Gradientes</h3>
+<div class="grad" style="background:radial-gradient(51.25% 80.52% at 50.14% 0%,#FDD16E 0%,#F5811E 100%)"><code>radial-gradient(51.25% 80.52% at 50.14% 0%, #FDD16E 0%, #F5811E 100%)</code></div><p class="gcap">Botão principal e faixas de 30px. A luz vem do topo central.</p>
+<div class="grad" style="background:radial-gradient(77.71% 122.08% at 50.14% 0%,#FDD16E 0%,#F5811E 58.21%)"><code>radial-gradient(77.71% 122.08% at 50.14% 0%, #FDD16E 0%, #F5811E 58.21%)</code></div><p class="gcap">Faixas de texto inclinadas (marquee). A versão original também traz a cor em <code>color(display-p3 …)</code>.</p>
+<div class="grad" style="background:linear-gradient(90deg,#F5811E 0%,#FDD16E 100%)"><code>linear-gradient(90deg, #F5811E 0%, #FDD16E 100%)</code></div><p class="gcap">Etiquetas "BÔNUS 01", "CURSO ONLINE", "MENTORIA".</p>
+<div class="grad" style="background:linear-gradient(27deg,#140A01 0%,#381B03 100%)"><code style="background:#fffd">linear-gradient(27deg, #140A01 0%, #381B03 100%)</code></div><p class="gcap">Cards "para quem é".</p>
+<div class="grad" style="background:linear-gradient(#000 0%,#201002 100%)"><code>linear-gradient(#000 0%, #201002 100%)</code></div><p class="gcap">Fundo da seção de conteúdo/módulos (preto que esquenta até o marrom).</p>
+<div class="grad" style="background:linear-gradient(#1A1A1A 0%,#000 100%)"><code>linear-gradient(#1A1A1A 0%, #000 100%)</code></div><p class="gcap">Botão secundário escuro.</p>
+<div class="grad" style="background:conic-gradient(from 0deg,transparent 0deg,transparent 60deg,#FDD16E 100deg,#fff 130deg,#FDD16E 160deg,transparent 200deg)"><code>conic-gradient(transparent 0 60deg, #FDD16E 100deg, #fff 130deg, #FDD16E 160deg, transparent 200deg)</code></div><p class="gcap">Brilho que gira na borda do botão (<code>btn-spin</code>).</p>
+</section>
+
+<section id="tipografia"><h2>Tipografia</h2>
+<div class="fam"><div class="fam-s" style="font-family:'Inter';font-weight:300">Inter · Aa Bb Cc 0123</div><small><b>~75% do texto.</b> Tudo: títulos, corpo, botões, preços. Pesos usados: 300 (corpo, dominante), 400, 500 (títulos de bloco), 600 (títulos de seção e preço), 700 (botão escuro).</small></div>
+<div class="fam"><div class="fam-s" style="font-family:'Manrope';letter-spacing:5px">MANROPE · BÔNUS 01</div><small>Só nas <b>etiquetas com gradiente</b> (BÔNUS 01, CURSO ONLINE, MENTORIA): 20px / 400 / letter-spacing 5px.</small></div>
+<div class="fam"><div class="fam-s" style="font-family:'Sora';font-weight:200">Sora 200 · Todos os direitos reservados</div><small>Só no <b>rodapé</b>: 13px / 200.</small></div>
+<div class="note"><b>Clash Display</b> está declarada no CSS das faixas de texto (marquee) mas a fonte nunca é carregada. Na prática o navegador mostra a fonte padrão. Ao recriar, use <b>Inter 400</b> nas faixas.</div>
+
+<h3>Escala por papel (desktop 1440px → mobile 390px)</h3>
+<div class="tbl"><table><tr><th>Papel</th><th>Desktop</th><th>Mobile</th><th>Peso</th><th>Altura de linha / espaçamento</th><th>Amostra</th></tr>
+<tr><td>Título hero</td><td>33px</td><td>24px</td><td>500</td><td>1.2</td><td><span style="font:500 33px/1.2 Inter">Aprenda a bater <span style="color:#F5811E">metas</span></span></td></tr>
+<tr><td>Título de seção</td><td>33px</td><td>26–28px</td><td>600</td><td>1.2</td><td><span style="font:600 33px/1.2 Inter">Este treinamento <span style="color:#F5811E">é para você</span></span></td></tr>
+<tr><td>Título grande (Quem sou eu, FAQ)</td><td>52px</td><td>39px</td><td>500</td><td>1.4</td><td><span style="font:500 52px/1.2 Inter">Quem sou eu?</span></td></tr>
+<tr><td>Frase de impacto (caixa da dor)</td><td>37px</td><td>28px</td><td>600</td><td>1.4 · −0.8px</td><td><span style="font:600 37px/1.2 Inter;letter-spacing:-.8px">É estratégia.</span></td></tr>
+<tr><td>Título de bônus / plano</td><td>29–30px</td><td>23–25px</td><td>500</td><td>1.4</td><td><span style="font:500 29px/1.3 Inter">Scripts de Abordagem</span></td></tr>
+<tr><td>Preço</td><td>39px</td><td>29px</td><td>600</td><td>1.4 · −0.8px</td><td><span style="font:600 39px/1.2 Inter;letter-spacing:-.8px">12x de R$69,70</span></td></tr>
+<tr><td>Nome do plano (ACESSO ANUAL)</td><td>22px</td><td>19.5px</td><td>500 caixa alta</td><td>1.5 · −0.7px · laranja</td><td><span style="font:500 22px Inter;letter-spacing:-.7px;color:#F5811E">ACESSO ANUAL</span></td></tr>
+<tr><td>Título de card</td><td>20px</td><td>20px</td><td>600</td><td>24px</td><td><span style="font:600 20px/24px Inter">Trabalha em banco ou cooperativa</span></td></tr>
+<tr><td>Pergunta do FAQ / item de módulo</td><td>20px</td><td>15.6px</td><td>500</td><td>26–28px</td><td><span style="font:500 20px Inter">Sou iniciante no banco?</span></td></tr>
+<tr><td>Rótulo em pílula</td><td>20px</td><td>14.8px</td><td>300 caixa alta</td><td>30px</td><td><span style="font:300 20px Inter">PARA QUEM É?</span></td></tr>
+<tr><td>Corpo / subtítulo</td><td>18–20px</td><td>14.8–16px</td><td>300</td><td>1.5</td><td><span style="font:300 18px/1.5 Inter">Descubra na prática como oferecer consórcios…</span></td></tr>
+<tr><td>Botão</td><td>20px</td><td>15.6px</td><td>500 caixa alta</td><td>20px · −0.5px</td><td><span style="font:500 20px Inter;letter-spacing:-.5px">QUERO COMEÇAR AGORA!</span></td></tr>
+<tr><td>Itens de lista (preço)</td><td>16px</td><td>15.6px</td><td>300</td><td>1.3</td><td><span style="font:300 16px Inter">Aulas gravadas ensinando estratégias</span></td></tr>
+<tr><td>Rodapé</td><td>13px</td><td>13px</td><td>Sora 200</td><td>1.3</td><td><span style="font:200 13px Sora">Todos os direitos reservados © 2026</span></td></tr>
+</table></div>
+<div class="note"><b>Como o mobile escala:</b> no desktop os tamanhos são fixos em px. No mobile (≤767px) quase todos viram <code>vw</code> (3.8vw, 4vw, 4.1vw, 6.4vw, 7.2vw, 10vw…). Por isso aparecem valores quebrados como 14.82px e 21.06px em 390px. Para recriar, <code>clamp()</code> resolve: por exemplo, título de seção <code>clamp(26px, 2.3vw + 0.5rem, 33px)</code>.</div>
+<h3>Padrões de escrita visual</h3><ul>
+<li><b>Título com trecho laranja:</b> o trecho em <code>#F5811E</code> pode vir no fim ("Este treinamento <span style="color:#F5811E">é para você que…</span>"), no meio ou no começo ("<span style="color:#F5811E">Veja como é separado</span> o treinamento:"). O destaque fica no mesmo peso do título, sem itálico e sem outra fonte.</li>
+<li><b>Sem caixa alta nos títulos.</b> Caixa alta aparece só em rótulos, botões, nome do plano e faixas.</li>
+<li><b>Contraste por peso:</b> título 500/600 contra corpo 300 (bem fino), sempre em branco.</li>
+<li>Os títulos são centralizados nas seções de lista. No hero, em Quem sou eu e no FAQ ficam alinhados à esquerda.</li>
+</ul>
+</section>
+
+<section id="botoes"><h2>Botões</h2>
+<p class="lead">Recriados com os estilos computados e o CSS original (as animações funcionam aqui).</p>
+<div class="dark mbm"><div class="demo-row">
+<span class="halo"><a class="btn-mbm" href="#botoes">Quero começar agora!</a></span>
+<a class="btn-dark" href="#botoes">Quero bater minhas metas</a>
+</div></div>
+<div class="tbl"><table><tr><th>Botão</th><th>Fundo</th><th>Texto</th><th>Forma</th><th>Efeitos</th><th>Uso</th></tr>
+<tr><td><b>Principal</b></td><td>radial #FDD16E → #F5811E (luz no topo)</td><td>Inter 500 · 20px · CAIXA ALTA · −0.5px · <code>#31170D</code></td><td>pílula, raio 104px · padding 26px 42px · 334×72px</td><td>borda de 2px com brilho cônico girando (<code>btn-spin</code> 2.2s) + halo <code>#FCC86530</code> pulsando por fora (<code>pulseGlow</code> 2.5s)</td><td>6× (hero, módulos, bônus, preços, quem sou eu)</td></tr>
+<tr><td><b>Secundário escuro</b></td><td>linear #1A1A1A → #000</td><td>Inter 700 · 20px · CAIXA ALTA · <code>#FDD16E</code></td><td>pílula 104px · padding 26px 42px · borda 1px rgba(253,209,110,.4)</td><td>mesmo brilho girando</td><td>1×, dentro da caixa laranja da dor (botão escuro sobre fundo laranja)</td></tr>
+</table></div>
+<p style="margin-top:12px"><b>Mobile:</b> o botão ocupa a largura toda (351px em 390), o texto cai para 15.6px e o padding continua 26px 42px. No card de preço o botão é largo, mas não chega à largura total do card.</p>
+<pre>/* Botão principal: pílula dourada com brilho girando na borda */
+.botao{position:relative;z-index:1;overflow:hidden;border-radius:104px;padding:26px 42px;
+  background:radial-gradient(51.25% 80.52% at 50.14% 0%,#FDD16E 0%,#F5811E 100%);
+  color:#31170D;font:500 20px/20px 'Inter';letter-spacing:-.5px;text-transform:uppercase}
+.botao::after{content:"";position:absolute;left:50%;top:50%;width:600px;height:600px;translate:-50% -50%;
+  background:conic-gradient(transparent 0deg,transparent 60deg,#FDD16E 100deg,#fff 130deg,#FDD16E 160deg,transparent 200deg,transparent 360deg);
+  animation:btn-spin 2.2s linear infinite;z-index:-2}
+.botao::before{content:"";position:absolute;inset:2px;border-radius:104px;   /* tampa interna */
+  background:radial-gradient(51.25% 80.52% at 50.14% 0%,#FDD16E 0%,#F5811E 100%);z-index:-1}
+@keyframes btn-spin{to{transform:rotate(360deg)}}
+/* Halo pulsante: no wrapper do botão */
+.halo::before{content:"";position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);
+  width:calc(100% + 20px);height:calc(100% + 20px);background:#FCC86530;border-radius:220px;
+  opacity:0;animation:pulseGlow 2.5s ease-in-out infinite}</pre>
+</section>
+
+<section id="componentes"><h2>Componentes</h2>
+
+<h3>1. Rótulo em pílula + título com destaque</h3>
+<div class="dark mbm" style="text-align:center"><span class="pill">PARA QUEM É?</span><p class="titulo">Este treinamento <span class="laranja">é para você que…</span></p></div>
+<p><code>borda 1px #5A5A5A · raio 222px · padding 5px 30px · Inter 300 20px branco · CAIXA ALTA · 14px acima do título</code></p>
+
+<h3>2. Caixa laranja de dor (com blur "líquido")</h3>
+<div class="dark mbm"><div class="box-dor">
+<p class="t1">Bater metas no banco não é sorte.</p><p class="t2">É estratégia.</p>
+<p class="p">Muitos bancários passam o dia atendendo clientes, resolvendo demandas e tentando vender, mas sem uma estratégia clara.</p>
+<span class="faixa">Sem um método claro, tudo vira tentativa e erro.</span><br>
+<a class="btn-dark" href="#componentes">Quero bater minhas metas</a></div></div>
+<p><code>raio 22px (32px no mobile) · padding 40px 80px (25px no mobile) · sombra rgba(0,0,0,.64) 10px 10px 39px · ::before radial #FDD16E→#F5811E com blur(80px) e liquidMove 3s · fica sobreposta ao fim do hero (sobe por cima da faixa)</code></p>
+<p><b>Faixa interna:</b> <code>fundo rgba(245,129,30,.49) · borda 1px rgba(255,255,255,.35) · raio 33px · padding 10px</code>. Os textos ficam em <code>#141414</code>.</p>
+
+<h3>3. Faixas de texto cruzadas (marquee)</h3>
+<div class="dark mbm" style="padding:0"><div class="marquee"><div>MÉTODO PARA BANCÁRIOS • VENDAS NA AGÊNCIA • PERFORMANCE EM METAS • MÉTODO PARA BANCÁRIOS • VENDAS NA AGÊNCIA</div></div></div>
+<p>São duas faixas em X, inclinadas cerca de ±5° e girando em sentidos opostos (<code>txt</code> / <code>txto</code>, 95s linear). A de trás fica desfocada. Fundo com o gradiente radial dourado e sombra <code>0 4px 81px #000</code>. Texto branco 20px em caixa alta, separado por " • ".</p>
+
+<h3>4. Card "Para quem é"</h3>
+<div class="dark mbm"><div class="card-pq"><div class="ico"><svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2"><path d="M3 21h18M5 21V10M9 21V10M15 21V10M19 21V10M12 3l9 5H3z"/></svg></div><h4>Trabalha em banco ou cooperativa</h4><p>Sente pressão constante para bater metas todos os meses.</p></div></div>
+<p><code>367×286px · gradiente 27deg #140A01→#381B03 · borda 1px #723A0B · raio 18px · padding 30px · grid de 3 colunas com gap 20px · ícone SVG ~86px em quadrado laranja com gradiente e halo</code></p>
+
+<h3>5. Capas de módulo</h3>
+<p>Imagens verticais de 288×396px, encostadas sem espaço entre si (carrossel de largura total). Cada uma tem "MÉTODO BATE META" no topo, um objeto 3D dourado ou a foto da expert com arco de luz laranja, a etiqueta "MÓDULO X" em pílula dourada e o nome do módulo em Inter branco. Ver <a href="#imagens">Imagens</a>.</p>
+
+<h3>6. Accordion de módulos</h3>
+<div class="dark mbm" style="background:linear-gradient(#000,#201002)"><div class="acc"><div><small>MÓDULO 02</small><b>Capitalização na Prática</b></div><span style="color:#BEBEBE">▸</span></div></div>
+<p><code>largura 798px · fundo rgba(255,255,255,.05) · raio 18px · só borda inferior 2px #F5811E · padding 20px · gap 10px entre itens · texto #BEBEBE</code></p>
+
+<h3>7. Card de bônus (folha branca dentro de moldura laranja)</h3>
+<div class="dark mbm"><div class="bonus-w"><div class="bonus-c"><div class="img"></div><div style="flex:1;min-width:240px"><span class="tagb">BÔNUS 01</span><h4>Scripts de Abordagem Bancária</h4><p>Exemplos práticos de abordagens usadas nas agências.</p><p style="font-weight:400;font-size:20px">Valor do bônus: <s style="color:#C91A1A;font-weight:700">R$97,00</s> por <span style="color:#27B800">R$0,00</span></p></div></div></div></div>
+<p>Os três cards ficam <b>empilhados</b> dentro de um bloco laranja <code>#F5811E</code> (raio 22px). Cada card: <code>1080px · branco · borda 1px #888 · raio 22px · padding 50px (30px no mobile) · sombra rgba(0,0,0,.18) 6px 6px 10px</code>. Mockup à esquerda (464px) sobre um bloco laranja com gradiente e raio grande, texto à direita. No mobile vira coluna.</p>
+
+<h3>8. Cards de preço (escuro + claro lado a lado)</h3>
+<div class="dark mbm"><div class="demo-row" style="align-items:flex-start;justify-content:center">
+<div class="price d"><span class="tagb" style="font-size:16px">CURSO ONLINE</span><h4>Método Bate Metas</h4><p class="sub">Curso online com estratégias de vendas bancárias na prática.</p><ul><li>Aulas gravadas</li><li>Abordagem de clientes</li><li>Grupo no WhatsApp</li></ul><div class="tipo">Acesso anual</div><div class="sub">Por apenas:</div><div class="val">12x de R$69,70</div><div class="sub">ou R$697 a vista</div></div>
+<div class="price l"><span class="tagb" style="font-size:16px">MENTORIA</span><h4>Mentoria Individual</h4><p class="sub">Acompanhamento direto nas estratégias de vendas.</p><ul><li>6 encontros individuais</li><li>1 hora cada encontro</li><li>Acesso direto no WhatsApp</li></ul><div class="tipo">Acompanhamento personalizado</div><div class="sub">Por apenas:</div><div class="val">12x de R$149,70</div><div class="sub">ou R$1.497 a vista</div></div>
+</div></div>
+<p><code>457px cada · gap ~20px · raio 22px · borda 1px #9E9E9E · padding 30px (25px no mobile) · curso: fundo #1B1B1B, texto branco · mentoria: fundo #FFF, texto preto</code>. A lista usa um check laranja quadrado e divisórias tracejadas finas. Abaixo do preço ficam o botão principal e o selo "Pagamento 100% seguro e liberação imediata!" com escudo laranja.</p>
+
+<h3>9. Prova social</h3>
+<ul><li><b>Avatares sobrepostos:</b> 4 fotos redondas de 42px empilhadas + "+ de 120 pessoas bateram suas metas!" (Inter 300 18px). Aparece embaixo do botão do hero e do Quem sou eu.</li>
+<li><b>Prints de WhatsApp:</b> 12 imagens 288×416px num carrossel contínuo de largura total, sem moldura.</li></ul>
+
+<h3>10. FAQ (duas colunas)</h3>
+<div class="dark mbm"><div class="faq-i">Sou iniciante no banco. Esse treinamento é para mim?</div><div class="faq-i">Qual a diferença entre o curso e a mentoria?</div></div>
+<p>Rótulo em pílula + "Perguntas Frequentes" em 52px à esquerda (cerca de 30%), perguntas à direita (723px). <code>sem fundo · só borda inferior 1px #494949 · padding 20px · Inter 500 20px · ícone ▸ branco</code></p>
+
+<h3>11. Rodapé</h3>
+<div class="dark" style="padding:18px 24px"><div class="foot"><span>Todos os direitos reservados © 2026</span><span>Termos de uso &nbsp;Ι&nbsp; Política de Privacidade</span></div></div>
+<p><code>60px de altura · Sora 200 13px · copyright à esquerda e links à direita</code></p>
+</section>
+
+<section id="raios"><h2>Bordas, raios e sombras</h2>
+<div class="rrow"><div class="rbox" style="border-radius:222px">222px</div><div class="rbox" style="border-radius:104px">104px</div><div class="rbox" style="border-radius:33px">33px</div><div class="rbox" style="border-radius:22px">22px</div><div class="rbox" style="border-radius:18px">18px</div><div class="rbox" style="border-radius:12px">12px</div><div class="rbox" style="border-radius:8px">8px</div></div>
+<ul style="margin-top:14px"><li><b>222px / 104px</b>: pílulas (rótulos, botões, halo)</li><li><b>33px</b>: faixa da frase de impacto</li><li><b>22px</b>: blocos grandes (caixa da dor, bônus, preço, foto da expert)</li><li><b>18px</b>: cards médios (para quem é, accordion)</li><li><b>8px</b>: etiquetas com gradiente</li></ul>
+<h3>Sombras</h3>
+<div class="tbl"><table><tr><th>Sombra</th><th>Onde</th></tr>
+<tr><td><code>rgba(0,0,0,.64) 10px 10px 39px</code></td><td>Caixa laranja da dor</td></tr>
+<tr><td><code>rgba(0,0,0,.18) 6px 6px 10px</code></td><td>Cards brancos de bônus</td></tr>
+<tr><td><code>0 4px 81px #000</code></td><td>Faixas marquee (a sombra preta "recorta" a faixa do fundo)</td></tr>
+<tr><td><code>filter: blur(80px)</code> / <code>blur(240px)</code></td><td>Manchas de luz laranja (dentro da caixa da dor e no fundo das seções)</td></tr>
+</table></div>
+<p>Bordas finas e escuras sobre preto: <code>#5A5A5A</code> (pílula), <code>#723A0B</code> (card marrom), <code>#9E9E9E</code> (preço), <code>#494949</code> (FAQ), <code>#888</code> (bônus).</p>
+</section>
+
+<section id="espacos"><h2>Espaçamentos e grid</h2><ul>
+<li><b>Container:</b> 1140px (o Elementor boxed padrão). Hero, faixas, capas e depoimentos ocupam a largura total.</li>
+<li><b>Padding das seções:</b> o container pai vem com 0. O respiro fica nos filhos, em torno de 80 a 100px entre blocos no desktop e 50px no mobile.</li>
+<li><b>Gap dominante:</b> 20px (36 ocorrências). Depois vêm 15px, 50px, 30px, 10px e 5px.</li>
+<li><b>Grid de cards:</b> 3 colunas de cerca de 367px com gap 20px. Cai para 1 coluna no mobile.</li>
+<li><b>Hero:</b> min-height 800px, texto à esquerda (cerca de 45%) e foto da expert recortada à direita, com fundo de imagem.</li>
+<li><b>Accordion e FAQ:</b> colunas estreitas (798px e 723px), centralizadas ou à direita.</li>
+<li><b>Altura total:</b> 9.645px no desktop e 12.279px no mobile, em 13 blocos.</li>
+<li><b>Breakpoints:</b> 1024px (tablet) e 767px (mobile).</li>
+</ul></section>
+
+<section id="estrutura"><h2>Estrutura e ritmo das seções</h2>
+<p class="lead">Cada faixa é um bloco de topo, com altura proporcional e o fundo real.</p>
+<div class="two"><div>
+<div class="strip" style="background:linear-gradient(90deg,#160A06,#4a2a10);height:83px;color:#fff"><b>1. Hero</b> Aprenda a bater metas no banco… <small>800px</small></div>
+<div class="strip" style="background:radial-gradient(51% 80% at 50% 0,#FDD16E,#F5811E);height:12px"></div>
+<div class="strip" style="background:#000;height:52px;color:#fff"><b>2. Dor</b> caixa laranja sobreposta <small>504px</small></div>
+<div class="strip" style="background:#F5811E;height:14px;color:#fff;font-size:10px"><b>3. Marquee em X</b></div>
+<div class="strip" style="background:#000;height:94px;color:#fff"><b>4. Para quem é?</b> 6 cards <small>904px</small></div>
+<div class="strip" style="background:linear-gradient(#000,#201002);height:175px;color:#fff"><b>5. O que vou aprender + Módulos</b> capas + accordion <small>1691px</small></div>
+<div class="strip" style="background:radial-gradient(51% 80% at 50% 0,#FDD16E,#F5811E);height:12px"></div>
+<div class="strip" style="background:#000;height:196px;color:#fff"><b>6. Bônus</b> 3 cards brancos em moldura laranja <small>1898px</small></div>
+<div class="strip" style="background:#0c0703;height:86px;color:#fff"><b>7. Depoimentos</b> carrossel de prints <small>833px</small></div>
+<div class="strip" style="background:#000;height:146px;color:#fff"><b>8. Investimento</b> card escuro + card claro <small>1414px</small></div>
+<div class="strip" style="background:linear-gradient(90deg,#000,#3a1d06);height:86px;color:#fff"><b>9. Quem sou eu?</b> texto + foto com arco de luz <small>829px</small></div>
+<div class="strip" style="background:#000;height:60px;color:#fff"><b>10. FAQ</b> 2 colunas <small>586px</small></div>
+<div class="strip" style="background:#000;height:12px;color:#fff;font-size:10px"><b>11. Rodapé</b></div>
+</div>
+<div><ul>
+<li><b>Ritmo:</b> preto o tempo todo. Quem separa os blocos são as <b>faixas laranja de 30px</b> (após o hero e antes dos bônus), as <b>faixas cruzadas</b> e as <b>linhas finas laranja</b> (antes de Quem sou eu).</li>
+<li><b>Sobreposição:</b> a caixa da dor sobe por cima do fim do hero e da faixa laranja. As faixas cruzadas invadem o bloco seguinte.</li>
+<li><b>CTA:</b> 7 botões ao longo da página, cerca de 1 a cada 1.400px.</li>
+<li><b>Hierarquia da oferta:</b> dois planos lado a lado, com o mais caro em card <b>branco</b> para chamar atenção sobre o preto.</li>
+</ul></div></div>
+</section>
+
+<section id="animacoes"><h2>Animações, ícones e bibliotecas</h2>
+<div class="tbl"><table><tr><th>Keyframe</th><th>O que faz</th><th>Onde</th><th>Duração</th></tr>
+<tr><td><code>btn-spin</code></td><td>gira o brilho cônico atrás do botão</td><td>todos os botões</td><td>2.2s linear ∞</td></tr>
+<tr><td><code>pulseGlow</code></td><td>halo dourado que aparece e some (opacity 0→1→0, scale 1→1.05)</td><td>wrapper <code>.botao</code></td><td>2.5s ease-in-out ∞</td></tr>
+<tr><td><code>liquidMove</code></td><td>mancha radial borrada vagando (translate 20%/−10%…)</td><td>caixa da dor, faixas laranja</td><td>3s ease-in-out ∞</td></tr>
+<tr><td><code>txt</code> / <code>txto</code></td><td>marquee para a esquerda e para a direita (translateX 0 ↔ −500%)</td><td>faixas cruzadas</td><td>95s linear ∞</td></tr>
+<tr><td><code>floatUpDown</code></td><td>flutua 18px para cima e volta</td><td>ícones 3D do hero (<code>.float1/2/3</code>)</td><td>6s / 8s / 10s</td></tr>
+<tr><td><code>moveGlow</code></td><td>elipse laranja 1500×600px, blur(240px), opacity .3, atravessa a tela</td><td>fundo das seções <code>.container</code></td><td>5s alternate ∞</td></tr>
+<tr><td><code>fadeInUp</code></td><td>entrada do Elementor (sobe 80px e aparece)</td><td>títulos e blocos</td><td>ao rolar</td></tr>
+</table></div>
+<ul style="margin-top:12px"><li><b>Ícones:</b> 32 SVGs (cards em quadrado laranja, checks, escudo) + 3 PNGs 3D vitrificados flutuando no hero (cofre/escudo, cartão, moedas).</li>
+<li><b>Scrollbar personalizada:</b> trilho <code>#111</code>, polegar branco, raio 15px.</li>
+<li><b>Bibliotecas:</b> Elementor + Happy Addons + EAE, Swiper (carrosséis), Lenis (scroll suave), Lottie, jQuery. Rastreamento: Meta Pixel, Google Ads e GA4.</li>
+<li>As classes <code>scroll-left/right/top/bottom</code> da casa aparecem no HTML.</li></ul>
+<pre>@keyframes liquidMove{0%,100%{transform:translate(0,0)}25%{transform:translate(20%,-10%)}
+  50%{transform:translate(10%,20%)}75%{transform:translate(-20%,10%)}}
+.bloco-laranja{position:relative;overflow:hidden;background:#F5811E}
+.bloco-laranja::before{content:"";position:absolute;width:250%;height:250%;top:-75%;left:-75%;
+  background:radial-gradient(circle,#FDD16E 0%,#F5811E 60%);filter:blur(80px);animation:liquidMove 3s ease-in-out infinite}
+
+@keyframes floatUpDown{0%,100%{transform:translateY(0)}50%{transform:translateY(-18px)}}
+.float1{animation:floatUpDown 6s ease-in-out infinite}
+.float2{animation:floatUpDown 8s ease-in-out infinite}
+.float3{animation:floatUpDown 10s ease-in-out infinite}</pre>
+</section>
+
+<section id="imagens"><h2>Imagens do site</h2>
+<p class="lead">A direção de arte: a expert em roupa cobre/laranja sobre fundo escuro com luz quente, objetos 3D dourados de vidro e mockups de notebook e celular sobre blocos laranja.</p>
+<div class="imgs">
+<figure><img src="extraido/assets/img/PT01-2-8c48f3b4.webp" alt=""><figcaption>Fundo do hero (PT01-2)</figcaption></figure>
+<figure><img src="extraido/assets/img/FT-ELA-bdbb8eb1.webp" alt="" style="object-position:top"><figcaption>Foto Quem sou eu (FT-ELA)</figcaption></figure>
+<figure><img src="extraido/assets/img/PTQSE-2-7ab9c1b0.webp" alt=""><figcaption>Fundo Quem sou eu (PTQSE-2)</figcaption></figure>
+<figure><img src="extraido/assets/img/ICONE1-1-4befae35.webp" alt="" style="object-fit:contain"><figcaption>Ícone 3D 1</figcaption></figure>
+<figure><img src="extraido/assets/img/ICONE2-1-fe7f46b4.webp" alt="" style="object-fit:contain"><figcaption>Ícone 3D 2</figcaption></figure>
+<figure><img src="extraido/assets/img/ICONE3-f312197f.webp" alt="" style="object-fit:contain"><figcaption>Ícone 3D 3</figcaption></figure>
+<figure><img src="extraido/assets/img/mod_1_1x-0f2f129b.webp" alt="" style="object-position:top"><figcaption>Capa módulo 1</figcaption></figure>
+<figure><img src="extraido/assets/img/mod_2_1x-28cc6896.webp" alt="" style="object-position:top"><figcaption>Capa módulo 2</figcaption></figure>
+<figure><img src="extraido/assets/img/mod_3_1x-8367b9fb.webp" alt="" style="object-position:top"><figcaption>Capa módulo 3</figcaption></figure>
+<figure><img src="extraido/assets/img/mod_4_1x-a27fc6e2.webp" alt="" style="object-position:top"><figcaption>Capa módulo 4</figcaption></figure>
+<figure><img src="extraido/assets/img/mod_5_1x-dacbaf06.webp" alt="" style="object-position:top"><figcaption>Capa módulo 5</figcaption></figure>
+<figure><img src="extraido/assets/img/mod_6_1x-f1632636.webp" alt="" style="object-position:top"><figcaption>Capa módulo 6</figcaption></figure>
+<figure><img src="extraido/assets/img/01_3_1x-3c057aec.webp" alt="" style="object-fit:contain;background:#fff"><figcaption>Mockup bônus 1</figcaption></figure>
+<figure><img src="extraido/assets/img/02_3_1x-c89f96af.webp" alt="" style="object-fit:contain;background:#fff"><figcaption>Mockup bônus 2</figcaption></figure>
+<figure><img src="extraido/assets/img/03-4deb3399.webp" alt="" style="object-fit:contain;background:#fff"><figcaption>Mockup bônus 3</figcaption></figure>
+<figure><img src="extraido/assets/img/Frame-45-768x1109-d3743ad0.png" alt="" style="object-position:top"><figcaption>Print de depoimento</figcaption></figure>
+</div></section>
+
+<section id="tokens"><h2>Tokens CSS prontos</h2>
+<pre>:root{
+  /* fundos */
+  --preto:#000000; --marrom-noite:#160A06; --card-escuro:#1B1B1B; --folha:#FFFFFF; --vidro:rgba(255,255,255,.05);
+  /* acento */
+  --laranja:#F5811E; --dourado:#FDD16E; --laranja-queimado:#8F4A10; --halo:#FCC86530;
+  /* texto */
+  --texto:#FFFFFF; --texto-escuro:#000000; --texto-sobre-laranja:#141414; --texto-apagado:#BEBEBE; --texto-botao:#31170D;
+  /* bordas */
+  --borda-pilula:#5A5A5A; --borda-card:#723A0B; --borda-preco:#9E9E9E; --borda-faq:#494949;
+  /* semânticas */
+  --preco-riscado:#C91A1A; --preco-gratis:#27B800;
+  /* gradientes */
+  --g-botao:radial-gradient(51.25% 80.52% at 50.14% 0%,#FDD16E 0%,#F5811E 100%);
+  --g-faixa:radial-gradient(77.71% 122.08% at 50.14% 0%,#FDD16E 0%,#F5811E 58.21%);
+  --g-etiqueta:linear-gradient(90deg,#F5811E 0%,#FDD16E 100%);
+  --g-card:linear-gradient(27deg,#140A01 0%,#381B03 100%);
+  --g-secao:linear-gradient(#000 0%,#201002 100%);
+  /* forma */
+  --r-pilula:104px; --r-bloco:22px; --r-card:18px; --r-tag:8px;
+  /* tipografia */
+  --fonte:'Inter',sans-serif; --fonte-tag:'Manrope',sans-serif;
+  --h-secao:600 clamp(26px,2.3vw + .5rem,33px)/1.2 var(--fonte);
+  --h-grande:500 clamp(39px,3.6vw,52px)/1.4 var(--fonte);
+  --corpo:300 clamp(15px,1.25vw,18px)/1.5 var(--fonte);
+  --container:1140px; --gap:20px;
+}</pre>
+</section>
+
+<section id="regras"><h2>Regras e cuidados ao reaproveitar</h2>
+<div class="two"><div><h3 style="margin-top:0">O que vale copiar</h3><ul>
+<li>O botão pílula dourado com borda girando e halo. É o elemento mais marcante.</li>
+<li>A caixa de dor laranja com blur animado, sobreposta ao hero.</li>
+<li>Rótulo em pílula com contorno + título com trecho laranja.</li>
+<li>Os bônus como folhas brancas empilhadas dentro de um bloco laranja (bom contraste sobre preto).</li>
+<li>Os dois planos lado a lado, um escuro e um claro.</li>
+<li>Corpo em Inter 300 branco, que deixa o preto elegante.</li>
+</ul></div><div><h3 style="margin-top:0">O que evitar ou corrigir</h3><ul>
+<li><b>Clash Display</b> não carrega. Use só Inter (e Manrope nas etiquetas, se quiser).</li>
+<li>Os títulos são todos <code>&lt;h2&gt;</code>, inclusive parágrafos, e não existe <code>&lt;h1&gt;</code>. Na recriação, use um h1 no hero e p no corpo.</li>
+<li>O mobile usa <code>vw</code> puro: em telas de 320px o corpo cai para cerca de 12px. Prefira <code>clamp()</code>.</li>
+<li>O verde <code>#27B800</code> sobre branco tem contraste baixo (≈2.6:1). Escureça para <code>#1F8A00</code>.</li>
+<li>Muitas animações infinitas ao mesmo tempo. Respeite <code>prefers-reduced-motion</code>.</li>
+<li>Há uma classe <code>.destaque1</code> (<code>#B78241</code>) declarada no CSS e não usada. Pode ignorar.</li>
+</ul></div></div>
+</section>
+</main></body></html>

@@ -1,0 +1,50 @@
+/*
+  SNIPPET: Botão com faixa de brilho passando
+  CATEGORIA: botoes
+  O QUE FAZ: Uma faixa branca inclinada atravessa o botão em loop a cada 3s. Chama atenção para o CTA sem mudar a cor do botão.
+  COMO USAR: Cole no CSS personalizado do widget Botão.
+  ONDE COLAR: CSS personalizado do widget Botão
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: coleção original da casa (botao5)
+  USADO EM: 3 página(s) da casa: negocio-inter-frios-refrigeracao, odonto-invisalign-jv-clinica, vendas-odonto-luiz-gustavo-melo
+*/
+
+selector .elementor-button{
+    overflow: hidden;
+}
+
+selector .elementor-button {
+  position: relative;
+  z-index: 0;
+}
+
+selector .elementor-button::before {
+  content: "";
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  background: #ffffff;
+  box-shadow: 0 0 30px 20px #ffffffaa;
+  transform: skewX(-30deg);
+  mix-blend-mode: plus-lighter;
+  animation: brilho 3s linear infinite;
+  z-index: -1;
+}
+
+@keyframes brilho {
+  0% {
+    opacity: 0;
+    left: 0%;
+  }
+
+  50% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+    left: 100%;
+  }
+}

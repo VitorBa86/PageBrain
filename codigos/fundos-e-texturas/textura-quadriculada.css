@@ -1,0 +1,97 @@
+/*
+  SNIPPET: Textura quadriculada com luz no topo
+  CATEGORIA: fundos-e-texturas
+  O QUE FAZ: Grade de linhas finas sobre fundo preto que some de cima para baixo, com uma luz branca desfocada no topo.
+  COMO USAR: Classe "back" no container da seção. Cole o CSS no CSS personalizado DA SEÇÃO (o trecho selector::after é a luz; apague se não quiser).
+  ONDE COLAR: CSS personalizado do container da seção
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: coleção original da casa (texturaquadriculada)
+  USADO EM: 1 página(s) da casa: vendas-scripts-consignado-jessica
+*/
+
+.back{
+  position: relative;
+  background-color: #000;
+  z-index: 0;
+  overflow: hidden;
+}
+
+.back::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(to right, rgba(255, 255, 255, 0.13) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.13) 1px, transparent 1px);
+  background-size: 80px 80px;
+  pointer-events: none;
+  z-index: 1;
+  mix-blend-mode: plus-lighter;
+
+  /* Degradê de opacidade de cima pra baixo */
+  -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0));
+  mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0));
+}
+
+@media(max-width:900px){
+    .back{
+  position: relative;
+  background-color: #000;
+  z-index: 0;
+  overflow: hidden;
+}
+
+.back::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(to right, rgba(255, 255, 255, 0.13) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.13) 1px, transparent 1px);
+  background-size: 50px 50px;
+  pointer-events: none;
+  z-index: 1;
+  mix-blend-mode: plus-lighter;
+
+  /* Degradê de opacidade de cima pra baixo */
+  -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0));
+  mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0));
+}
+}
+
+/* A partir daqui é um efeito de luz, caso queira apenas a 
+textura, pode apagar daqui pra baixo */
+
+selector::after {
+  content: '';
+  opacity: 0.3;
+  position: absolute;
+  width: 1200px;
+  height: 600px;
+  border-radius: 3370px;
+  background: white;
+  z-index: 1;
+  pointer-events: none;
+  top: -500px;
+  left: 50%;
+  transform: translateX(-50%);
+  filter: blur(200px);
+}
+  
+@media(max-width:768px){
+    selector::after {
+  content: '';
+  opacity: 0.3;
+  position: absolute;
+  width: 600px;
+  height: 700px;
+  border-radius: 3370px;
+  background: white;
+  z-index: 1;
+  pointer-events: none;
+  top: -500px;
+  left: 50%;
+  transform: translateX(-50%);
+  filter: blur(200px);
+}
+}

@@ -1,0 +1,254 @@
+{
+ "nome": "Psicólogo Rafael Magalhães · CRP · 05/78606",
+ "slug": "psi-rafael-magalhaes",
+ "pasta_original": "Psi Rafael",
+ "origem": "paginas/gerais",
+ "prioridade": "referencia",
+ "url": "https://psirafaelmagalhespinto.com.br/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Psicologia",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#0A3252",
+   "#FFFFFF",
+   "#050A30",
+   "#E4F3FF",
+   "#25D366"
+  ],
+  "textos": [
+   "#FFFFFF",
+   "#464646",
+   "#0D4F83",
+   "#606060",
+   "#E4F3FF",
+   "#3D3D3D"
+  ],
+  "destaques": [
+   "#0A3252",
+   "#E4F3FF",
+   "#0D4F83"
+  ],
+  "gradientes": [
+   "linear-gradient(rgb(10, 50, 82) 0%, rgb(13, 79, 131) 100%)",
+   "linear-gradient(rgb(5, 10, 48) 0%, rgb(10, 50, 82) 100%)",
+   "linear-gradient(120deg, rgb(10, 50, 82) 13%, rgb(13, 79, 131) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Poppins",
+   "uso_pct": 46
+  },
+  {
+   "familia": "Rubik",
+   "uso_pct": 43
+  },
+  {
+   "familia": "Lato",
+   "uso_pct": 12
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  30,
+  20,
+  19,
+  18,
+  16,
+  15
+ ],
+ "escala_tipografica_mobile_px": [
+  30,
+  26,
+  25,
+  23,
+  20,
+  20,
+  19,
+  19
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#00000000",
+  "gradiente": "linear-gradient(120deg, rgb(10, 50, 82) 13%, rgb(13, 79, 131) 100%)",
+  "texto": "#E4F3FF",
+  "raio": "10px",
+  "padding": "17px 20px",
+  "fonte": "Lato",
+  "tamanho": "18px",
+  "peso": "700",
+  "caixa": "none",
+  "exemplos": [
+   "Agendar",
+   "Comece agora",
+   "Agende uma Consulta"
+  ]
+ },
+ "raios": [
+  "10px",
+  "20px",
+  "19px",
+  "16px",
+  "17px",
+  "35px"
+ ],
+ "sombras": [
+  "rgba(0, 0, 0, 0.5) 0px 0px 10px 0px",
+  "rgba(0, 0, 0, 0.15) 4px 4px 10px 0px"
+ ],
+ "gaps": [
+  "20px",
+  "5px",
+  "15px"
+ ],
+ "largura_conteudo_px": 1240,
+ "altura_pagina_px": 5403,
+ "secoes_qtde": 12,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "",
+   "fundo": "#FFFFFF",
+   "altura_px": 125
+  },
+  {
+   "ordem": 2,
+   "tipo": "sobre",
+   "titulo": "Psicólogo online: um espaço para falar sobre o que você sente",
+   "fundo": "#0A3252",
+   "altura_px": 676
+  },
+  {
+   "ordem": 3,
+   "tipo": "",
+   "titulo": "Às vezes, a vida dói. E não existe manual que explique como lidar com tudo isso.",
+   "fundo": "transparente",
+   "altura_px": 180
+  },
+  {
+   "ordem": 4,
+   "tipo": "",
+   "titulo": "Ansiedade e exaustão emocional",
+   "fundo": "transparente",
+   "altura_px": 258
+  },
+  {
+   "ordem": 5,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 185
+  },
+  {
+   "ordem": 6,
+   "tipo": "",
+   "titulo": "Meu trabalho se sustenta em três pilares:",
+   "fundo": "#0A3252",
+   "altura_px": 659
+  },
+  {
+   "ordem": 7,
+   "tipo": "sobre",
+   "titulo": "Conheça mais sobre o meu trabalho",
+   "fundo": "transparente",
+   "altura_px": 828
+  },
+  {
+   "ordem": 8,
+   "tipo": "",
+   "titulo": "Rafael Magalhães",
+   "fundo": "transparente",
+   "altura_px": 670
+  },
+  {
+   "ordem": 9,
+   "tipo": "faq",
+   "titulo": "Dúvidas Frequentes",
+   "fundo": "transparente",
+   "altura_px": 446
+  },
+  {
+   "ordem": 10,
+   "tipo": "",
+   "titulo": "Sua vida merece ser vivida com verdade.",
+   "fundo": "transparente",
+   "altura_px": 353
+  },
+  {
+   "ordem": 11,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 534
+  },
+  {
+   "ordem": 12,
+   "tipo": "rodape",
+   "titulo": "",
+   "fundo": "gradiente",
+   "altura_px": 330
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "sobre",
+  "",
+  "",
+  "",
+  "",
+  "sobre",
+  "",
+  "faq",
+  "",
+  "",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "azul-royal",
+  "branco",
+  "simples"
+ ],
+ "tecnicas": [
+  "Vídeo de apresentação"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "fadeIn",
+   "fadeInDown",
+   "fadeInLeft",
+   "fadeInUp",
+   "jw-images-layout-load-spin",
+   "jx-spinner",
+   "pulse"
+  ],
+  "entrada_elementor": [
+   "fadeIn",
+   "fadeInDown",
+   "fadeInLeft",
+   "fadeInUp",
+   "none"
+  ],
+  "classes_scroll": []
+ },
+ "bibliotecas": [
+  "ga4",
+  "google-ads",
+  "gtm",
+  "jquery",
+  "lottie",
+  "swiper"
+ ],
+ "snippets_usados": [],
+ "relevancia": 3,
+ "resumo": "Psicólogo online em azul royal e branco: hero com foto recortada sobre forma azul, 4 cards de dor com borda azul, pilares em card sobre foto, vídeo, bio em card azul sobre foto e FAQ em fundo azul.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": null,
+  "copy_real": null,
+  "json_elementor": null,
+  "ref": "ref/"
+ }
+}

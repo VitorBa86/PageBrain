@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Exemplo de página convertível</title>
+<!--
+  EXEMPLO DE PÁGINA CONVERTÍVEL (padrão da casa)
+  Cliente fictício: psicóloga em Curitiba. Todos os dados entre colchetes são de exemplo.
+  Regras fixas do PageBrain (24/10/2026, ver SKILL.md): sem menu, logo acima da headline,
+  títulos em até 3 linhas (teto 55px), ícones via scripts/icone.sh (better-icons),
+  hero com foto de fundo e fade (codigos/fundos-e-texturas/hero-foto-de-fundo-fade.html).
+  Referência viva: paginas/nossas/psi-luana-carolina-casais/extraido/index.html
+  Segue as regras de ../regras-html-convertivel.md e converte com:
+    python3 ../scripts/html-para-elementor.py exemplo-pagina-convertivel.html saida.json
+-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Fraunces:ital,wght@0,400;1,400&display=swap" rel="stylesheet">
+<style>
+/* ===== CSS base da casa (vai para page_settings.custom_css) ===== */
+::selection { background-color: rgba(255, 255, 255, 0.125); }
+html, body { overflow-x: hidden; }
+p:last-of-type { margin-bottom: 0; }
+body::-webkit-scrollbar { width: 10px; }
+body::-webkit-scrollbar-track { background-color: #111111; }
+body::-webkit-scrollbar-thumb { background: #fff; border-radius: 15px; border: 2px solid #111111; }
+
+/* ===== tokens ===== */
+:root { --marca: #1F4E5F; --marca-escura: #173B47; --neutro: #FAF8F5; --neutro-2: #F2EEE8; --acento: #B38A3D; --texto: #2A2A2A; --texto-2: #4A4A4A; }
+body { margin: 0; font-family: Inter, sans-serif; color: var(--texto); background: var(--neutro); }
+section { padding: 80px 20px; display: flex; flex-direction: column; align-items: center; }
+.wrap { width: 100%; max-width: 1140px; display: flex; flex-direction: column; gap: 20px; }
+.linha { display: flex; flex-direction: row; gap: 40px; align-items: center; }
+.col { flex: 1; display: flex; flex-direction: column; gap: 20px; }
+.rotulo { font: 600 12px/1.4 Inter, sans-serif; letter-spacing: 1.8px; text-transform: uppercase; color: var(--acento); margin: 0; }
+h1, h2 { font-family: Fraunces, serif; font-weight: 400; margin: 0; }
+/* títulos: até 3 linhas na coluna (4 se a frase for longa), teto 55px */
+h1 { font-size: 46px; line-height: 1.1; color: var(--marca-escura); }
+h2 { font-size: 40px; line-height: 1.15; color: var(--marca-escura); }
+h3 { font: 600 20px/1.3 Inter, sans-serif; margin: 0; color: var(--texto); }
+p { font-size: 17px; line-height: 1.7; color: var(--texto-2); margin: 0; }
+em { color: var(--acento); font-style: italic; }
+.btn { display: inline-block; align-self: flex-start; padding: 18px 40px; border-radius: 999px; background: linear-gradient(180deg, #2A6478 0%, #1F4E5F 100%); color: #fff; font: 500 18px/1.4 Inter, sans-serif; text-decoration: none; }
+.btn-claro { background: #FAF8F5; color: #1F4E5F; }
+/* hero padrão: foto de fundo com fade (IMG-01 desktop, IMG-01-mobile recorte) */
+.hero { background: linear-gradient(90deg, rgba(250,248,245,.92) 0%, rgba(250,248,245,.75) 34%, rgba(250,248,245,0) 58%), url(imagens/IMG-01.webp) right center / cover no-repeat, var(--neutro); min-height: 800px; justify-content: center; }
+.hero .col { max-width: 560px; }
+.hero .logo { height: 52px; width: auto; align-self: flex-start; }
+.card .ic { width: 48px; height: 48px; border-radius: 50%; background: var(--neutro-2); color: var(--marca); display: flex; align-items: center; justify-content: center; }
+.card .ic svg { width: 22px; height: 22px; }
+.cards { display: flex; flex-direction: row; gap: 20px; flex-wrap: wrap; }
+.card { flex: 1 1 300px; background: #fff; border-radius: 12px; padding: 28px; display: flex; flex-direction: column; gap: 10px; box-shadow: 0px 12px 40px 0px rgba(31, 78, 95, 0.06); }
+.card p { font-size: 15px; }
+.alt { background: var(--neutro-2); }
+.passos { display: flex; flex-direction: row; gap: 20px; }
+.passo { flex: 1; display: flex; flex-direction: column; gap: 8px; }
+.num { font: 400 56px/1 Fraunces, serif; color: var(--marca); margin: 0; }
+details { background: #fff; border-radius: 12px; padding: 18px 22px; }
+summary { font-weight: 600; cursor: pointer; }
+.final { background: var(--marca-escura); }
+.final h2 { color: #fff; }
+.final p { color: #ffffffcc; }
+footer { padding: 30px 20px; background: #111; color: #aaa; font-size: 13px; display: flex; justify-content: center; }
+footer p { color: #aaa; font-size: 13px; }
+@media (max-width: 767px) {
+  section { padding: 50px 16px; }
+  .linha, .passos { flex-direction: column; }
+  h1 { font-size: 29px; }
+  h2 { font-size: 26px; }
+  .hero { min-height: 0; padding-top: 40vh; background: linear-gradient(180deg, rgba(250,248,245,0) 0, rgba(250,248,245,0) 38vh, rgba(250,248,245,.88) 46vh, var(--neutro) 62vh), url(imagens/IMG-01-mobile.webp) center top / 100% auto no-repeat, var(--neutro); }
+  .hero .logo { height: 28px; }
+  .hero .col { gap: 12px; }
+  .hero p { font-size: 15px; }
+  .btn { align-self: stretch; text-align: center; }
+}
+/* animação de entrada da casa */
+.scroll-bottom { opacity: 0; transition: 0.5s all; transform: translate3d(0, 80px, 0); }
+.ativo { opacity: 1; transform: translate3d(0, 0, 0); }
+</style>
+</head>
+<body>
+
+<section class="hero" id="inicio" data-bg-slot="IMG-01">
+  <div class="wrap linha">
+    <div class="col scroll-bottom">
+      <img class="logo" src="imagens/logo.png" alt="Logo [Nome da Psicóloga]">
+      <p class="rotulo">Psicologia clínica em Curitiba · Online e presencial</p>
+      <h1>A ansiedade não precisa decidir o seu dia. <em>Existe tratamento.</em></h1>
+      <p>Terapia para adultos que vivem com preocupação constante e querem voltar a ter calma na rotina. Sessões no Batel ou online.</p>
+      <a class="btn" href="https://wa.me/5541999999999?text=Ol%C3%A1!%20Vim%20pelo%20site%20e%20quero%20agendar%20uma%20primeira%20conversa." target="_blank">Agendar uma conversa</a>
+    </div>
+  </div>
+</section>
+
+<section id="dor">
+  <div class="wrap">
+    <p class="rotulo">Para quem é</p>
+    <h2>Se a sua cabeça não desliga, esta página é para você.</h2>
+    <div class="cards">
+      <div class="card scroll-bottom"><span class="ic"><svg aria-hidden="true" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6" d="M20.985 12.486a9 9 0 1 1-9.473-9.472c.405-.022.617.46.402.803a6 6 0 0 0 8.268 8.268c.344-.215.825-.004.803.401"/></svg></span><h3>A mente acelerada à noite</h3><p>Você deita cansada e o pensamento começa a correr. O sono chega tarde e o dia seguinte já começa pesado.</p></div>
+      <div class="card scroll-bottom"><span class="ic"><svg aria-hidden="true" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"><path d="M16 14v2.2l1.6 1M16 2v3m5 2.338V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h2.338M3 9h5.859M8 2v3"/><circle fill="currentColor" cx="16" cy="16" r="6"/></g></svg></span><h3>Medo do que ainda não aconteceu</h3><p>Uma conversa difícil marcada para sexta ocupa a semana inteira.</p></div>
+      <div class="card scroll-bottom"><span class="ic"><svg aria-hidden="true" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"><path d="M2 9.5a5.5 5.5 0 0 1 9.591-3.676a.56.56 0 0 0 .818 0A5.49 5.49 0 0 1 22 9.5c0 2.29-1.5 4-3 5.5l-5.492 5.313a2 2 0 0 1-3 .019L5 15c-1.5-1.5-3-3.2-3-5.5"/><path d="M3.22 13H9.5l.5-1l2 4.5l2-7l1.5 3.5h5.27"/></g></svg></span><h3>O corpo avisa antes</h3><p>Aperto no peito, tensão nos ombros, falta de ar em lugares cheios.</p></div>
+    </div>
+    <a class="btn" href="https://wa.me/5541999999999" target="_blank">Agendar uma conversa</a>
+  </div>
+</section>
+
+<section class="alt" id="sobre">
+  <div class="wrap linha">
+    <div class="col"><img src="https://placehold.co/520x560/F2EEE8/1F4E5F?text=Foto+no+consult%C3%B3rio" alt="Consultório"></div>
+    <div class="col scroll-bottom">
+      <p class="rotulo">Quem vai cuidar de você</p>
+      <h2>[Nome da Psicóloga]</h2>
+      <p>Psicóloga clínica, CRP [CONFIRMAR COM CLIENTE]. Atendo adultos com ansiedade há [X] anos, com base na Terapia Cognitivo-Comportamental.</p>
+      <ul>
+        <li>Sessões de 50 minutos, uma vez por semana</li>
+        <li>Consultório no Batel e atendimento online</li>
+        <li>Recibo para reembolso do plano de saúde</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section id="como-funciona">
+  <div class="wrap">
+    <p class="rotulo">Como funciona</p>
+    <h2>Três passos até a primeira sessão</h2>
+    <div class="passos">
+      <div class="passo"><p class="num">01</p><h3>Você chama no WhatsApp</h3><p>Conta em poucas linhas o que está vivendo.</p></div>
+      <div class="passo"><p class="num">02</p><h3>Combinamos o horário</h3><p>Online ou presencial, no horário que couber na sua semana.</p></div>
+      <div class="passo"><p class="num">03</p><h3>Primeira sessão</h3><p>Um espaço para entender o seu momento, sem pressa.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="alt" id="faq">
+  <div class="wrap">
+    <p class="rotulo">Perguntas frequentes</p>
+    <h2>Antes de começar</h2>
+    <details><summary>Atende por convênio?</summary><p>Não atendo por convênio, mas emito recibo para reembolso do plano de saúde.</p></details>
+    <details><summary>A terapia online funciona igual?</summary><p>Sim. A sessão online segue o mesmo método e tem o mesmo sigilo da presencial.</p></details>
+    <details><summary>Quanto custa a sessão?</summary><p>O valor é informado na primeira conversa pelo WhatsApp, que é sem compromisso.</p></details>
+  </div>
+</section>
+
+<section class="final" id="agendar">
+  <div class="wrap">
+    <h2>O primeiro passo é uma conversa.</h2>
+    <p>Chame no WhatsApp e conte o que está acontecendo. Respondo em horário comercial.</p>
+    <a class="btn btn-claro" href="https://wa.me/5541999999999" target="_blank">Agendar uma conversa</a>
+  </div>
+</section>
+
+<footer><p>Todos os direitos reservados © 2026 · [Nome] · CRP [CONFIRMAR] · Curitiba/PR</p></footer>
+
+<script>
+const elementos = document.querySelectorAll('.scroll-left, .scroll-right, .scroll-bottom, .scroll-top');
+const posicaoScroll = window.innerHeight * 0.8;
+function fadeScroll(){ elementos.forEach((elemento) => { const t = elemento.getBoundingClientRect().top - posicaoScroll; if (t < 120) { elemento.classList.add('ativo'); } else { elemento.classList.remove('ativo'); } }); }
+window.addEventListener('scroll', fadeScroll); fadeScroll();
+</script>
+</body>
+</html>

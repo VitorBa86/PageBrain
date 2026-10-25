@@ -1,0 +1,253 @@
+{
+ "nome": "PÁGINA BAR SANTA BOEMIA",
+ "slug": "negocio-bar-santa-boemia",
+ "pasta_original": "Bar santa boemia",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://lp.oreidalanding.com.br/pagina-bar-santa-boemia/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Negócio local / B2B",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#F5F0E1",
+   "#FFFDF7",
+   "#111010",
+   "#EAE2CC",
+   "#000000",
+   "#E6BD21"
+  ],
+  "textos": [
+   "#111010",
+   "#000000",
+   "#6E6455",
+   "#F5F0E1",
+   "#E6BD21"
+  ],
+  "destaques": [
+   "#111010",
+   "#E6BD21",
+   "#EAE2CC"
+  ],
+  "gradientes": [
+   "linear-gradient(92deg, rgb(230, 189, 33) 0%, rgb(255, 226, 116) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Archivo",
+   "uso_pct": 68
+  },
+  {
+   "familia": "Montserrat",
+   "uso_pct": 27
+  },
+  {
+   "familia": "Oswald",
+   "uso_pct": 3
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  55,
+  44,
+  41,
+  40,
+  34,
+  24,
+  21,
+  18
+ ],
+ "escala_tipografica_mobile_px": [
+  26,
+  25,
+  24,
+  24,
+  21,
+  18,
+  18,
+  18
+ ],
+ "h1_mobile": "30.81px",
+ "botao_principal": {
+  "fundo": "#111010",
+  "gradiente": null,
+  "texto": "#E6BD21",
+  "raio": "6px",
+  "padding": "14px 30px",
+  "fonte": "Oswald",
+  "tamanho": "18px",
+  "peso": "600",
+  "caixa": "uppercase",
+  "exemplos": [
+   "VER CARDÁPIO COMPLETO",
+   "NOS CHAME",
+   "COMO CHEGAR"
+  ]
+ },
+ "raios": [
+  "8px",
+  "999px",
+  "2px",
+  "6px",
+  "4px",
+  "3px"
+ ],
+ "sombras": [
+  "rgba(0, 0, 0, 0.39) 20px 20px 34px 0px"
+ ],
+ "gaps": [
+  "12px",
+  "20px",
+  "10px",
+  "26px",
+  "5px",
+  "9px"
+ ],
+ "largura_conteudo_px": 1240,
+ "altura_pagina_px": 8420,
+ "secoes_qtde": 11,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "menu",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 61
+  },
+  {
+   "ordem": 2,
+   "tipo": "hero",
+   "titulo": "DESDE 2006 · PRAÇA DE SANTA TEREZA · BH",
+   "fundo": "#111010",
+   "altura_px": 800
+  },
+  {
+   "ordem": 3,
+   "tipo": "diferenciais",
+   "titulo": "POR QUE CONHECER O SANTA BOEMIA",
+   "fundo": "#F5F0E1",
+   "altura_px": 770
+  },
+  {
+   "ordem": 4,
+   "tipo": "servicos",
+   "titulo": "O CARDÁPIO DA CASA",
+   "fundo": "#EAE2CC",
+   "altura_px": 1213
+  },
+  {
+   "ordem": 5,
+   "tipo": "sobre",
+   "titulo": "A HISTÓRIA DA CASA",
+   "fundo": "#F5F0E1",
+   "altura_px": 2158
+  },
+  {
+   "ordem": 6,
+   "tipo": "beneficios",
+   "titulo": "UMA EXPERIÊNCIA QUE VAI ALÉM DA COMIDA",
+   "fundo": "#EAE2CC",
+   "altura_px": 864
+  },
+  {
+   "ordem": 7,
+   "tipo": "servicos",
+   "titulo": "HAPPY HOUR EM SANTA TEREZA",
+   "fundo": "#F5F0E1",
+   "altura_px": 1033
+  },
+  {
+   "ordem": 8,
+   "tipo": "galeria",
+   "titulo": "GALERIA",
+   "fundo": "#EAE2CC",
+   "altura_px": 345
+  },
+  {
+   "ordem": 9,
+   "tipo": "prova-social",
+   "titulo": "AVALIAÇÕES",
+   "fundo": "#F5F0E1",
+   "altura_px": 235
+  },
+  {
+   "ordem": 10,
+   "tipo": "localizacao",
+   "titulo": "ONDE ESTAMOS",
+   "fundo": "#F5F0E1",
+   "altura_px": 607
+  },
+  {
+   "ordem": 11,
+   "tipo": "rodape",
+   "titulo": "ENDEREÇO",
+   "fundo": "#111010",
+   "altura_px": 334
+  }
+ ],
+ "tipos_de_secao": [
+  "menu",
+  "hero",
+  "diferenciais",
+  "servicos",
+  "sobre",
+  "beneficios",
+  "servicos",
+  "galeria",
+  "prova-social",
+  "localizacao",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "amarelo",
+  "creme",
+  "preto",
+  "descontraido",
+  "gastronomia"
+ ],
+ "tecnicas": [
+  "Menu drawer autocontido (snippet menu-drawer-santa-boemia)",
+  "CTAs 'Nos chame' e 'Como chegar' lado a lado"
+ ],
+ "animacoes": {
+  "keyframes": [],
+  "entrada_elementor": [],
+  "classes_scroll": [
+   "scroll-bottom",
+   "scroll-left",
+   "scroll-right",
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "google-ads",
+  "happy-addons",
+  "jquery",
+  "lenis",
+  "lottie",
+  "meta-pixel",
+  "swiper"
+ ],
+ "snippets_usados": [
+  "animacoes/animacao-scroll-reveal.html",
+  "animacoes/animacao-scroll-reveal-blur.css",
+  "cards-e-bordas/vidro-fosco.css",
+  "menus-e-headers/menu-drawer-santa-boemia.html",
+  "whatsapp-e-flutuantes/link-whatsapp-com-mensagem.html",
+  "tracking-e-pixels/meta-pixel.html",
+  "tracking-e-pixels/google-ads-gtag.html",
+  "utilitarios-css/css-base-toda-pagina.css",
+  "utilitarios-css/elemento-posicao-absoluta.css"
+ ],
+ "relevancia": 5,
+ "resumo": "Bar e restaurante em amarelo, creme e preto com palavras-chave em marca-texto amarelo. Cardápio em grid com foto, a história da casa em formato editorial longo, bloco de happy hour em amarelo e galeria. Menu com drawer próprio em HTML.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/negocio-bar-santa-boemia.md",
+  "json_elementor": null
+ }
+}

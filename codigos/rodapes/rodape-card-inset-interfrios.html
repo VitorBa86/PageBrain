@@ -1,0 +1,236 @@
+<!--
+  SNIPPET: Rodapé card inset com logo grande (Inter Frios)
+  CATEGORIA: rodapes
+  O QUE FAZ: Rodapé completo autocontido (HTML + CSS) com navegação, contatos e redes, responsivo.
+  COMO USAR: Cole em um widget HTML numa seção de largura total e sem padding. Troque logo, links e textos. Leia o comentário no topo do código quando houver.
+  ONDE COLAR: Widget HTML no fim da página
+  DEPENDÊNCIAS: Google Fonts (link no código)
+  ORIGEM: paginas/nossas/negocio-inter-frios-refrigeracao
+  USADO EM: 1 página(s) da casa: negocio-inter-frios-refrigeracao
+-->
+
+<!--
+  RODAPÉ INTERFRIO.SP: bloco autossuficiente para o widget HTML do Elementor.
+  Referência de composição: on.energy (card inset, lista de links com filete,
+  logo grande na base, barra legal com separador em ponto), traduzida para o
+  navy da marca.
+
+  ANTES DE PUBLICAR, TROQUE APENAS ISTO:
+  1. LOGO: no <img class="ifr-logo">, troque o src pela URL da logo na sua
+     Biblioteca de Mídia. A logo oficial é azul-marinho; o filtro
+     brightness(0) invert(1) já a deixa branca, se você subir uma versão
+     já branca, remova o filtro na regra .ifr-logo.
+  2. Os links de âncora (#supervisorio, #servicos, …) devem bater com os
+     _element_id das seções da sua página no Elementor.
+
+  Tudo está com prefixo .ifr- para não colidir com o CSS do tema.
+  Ícones em SVG inline (o site usa Lucide via CDN, que não vem no Elementor).
+-->
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+
+<style>
+/* ===== ESCOPO: tudo dentro de .ifr-rodape ===== */
+.ifr-rodape{
+  --ifr-navy:#05233C;
+  --ifr-navy-900:#041B2E;
+  --ifr-azul-claro:#4FA3DA;
+  --ifr-branco:#FFFFFF;
+  --ifr-ease:cubic-bezier(0.22,1,0.36,1);
+
+  padding:34px 34px;
+  background:var(--ifr-navy-900);
+  position:relative; overflow:hidden;
+  font-family:'Inter',system-ui,-apple-system,'Segoe UI',sans-serif;
+  box-sizing:border-box;
+}
+.ifr-rodape *,
+.ifr-rodape *::before,
+.ifr-rodape *::after{ box-sizing:border-box; }
+
+.ifr-rodape p{ margin:0; }
+.ifr-rodape img{ max-width:100%; display:block; }
+.ifr-rodape a{ text-decoration:none; }
+
+/* Padrão de círculos do fundo (bem discreto) */
+.ifr-rodape::before{
+  content:""; position:absolute; inset:0; pointer-events:none;
+  background-image:radial-gradient(circle at center, transparent 84px, rgba(255,255,255,0.05) 84px, rgba(255,255,255,0.05) 85px, transparent 85px);
+  background-size:170px 170px;
+}
+
+.ifr-card{
+  position:relative; z-index:1;
+  background:var(--ifr-navy);
+  border:1px solid rgba(255,255,255,0.10);
+  border-radius:22px 22px 64px 64px;
+  padding:72px 60px 34px;
+  display:flex; flex-direction:column;
+  /* 1140px de conteúdo + os 60px de padding de cada lado */
+  max-width:1900px; margin:0 auto;
+}
+
+.ifr-topo{ display:flex; flex-direction:row; gap:64px; align-items:flex-start; }
+
+/* ---- Coluna esquerda: declaração + contatos ---- */
+.ifr-declaracao{ flex:1 1 46%; display:flex; flex-direction:column; gap:28px; min-width:0; }
+.ifr-frase{
+  font-family:'Space Grotesk',system-ui,sans-serif;
+  font-size:clamp(24px,2.6vw,34px); font-weight:600;
+  line-height:1.2em; letter-spacing:-0.025em; color:var(--ifr-branco);
+  max-width:15em;
+}
+.ifr-contatos{ display:flex; flex-direction:column; gap:14px; }
+.ifr-item{
+  display:flex; flex-direction:row; align-items:flex-start; gap:11px;
+  font-size:15px; line-height:1.6em; color:rgba(255,255,255,0.78);
+  transition:color .2s ease;
+}
+.ifr-item svg{ width:17px; height:17px; flex:none; color:var(--ifr-azul-claro); margin-top:4px; }
+a.ifr-item:hover{ color:var(--ifr-azul-claro); }
+
+/* ---- Coluna direita: links em linhas com filete ---- */
+.ifr-links{ flex:1 1 54%; display:flex; flex-direction:column; min-width:0; }
+.ifr-link{
+  display:flex; flex-direction:row; align-items:center; justify-content:space-between; gap:20px;
+  padding:15px 0;
+  border-bottom:1px solid rgba(255,255,255,0.16);
+  font-family:'Space Grotesk',system-ui,sans-serif;
+  font-size:clamp(19px,2vw,26px); font-weight:500;
+  line-height:1.2em; letter-spacing:-0.02em; color:var(--ifr-branco);
+  transition:opacity .18s ease, border-color .18s ease, padding-left .25s var(--ifr-ease);
+}
+.ifr-link svg{ width:19px; height:19px; flex:none; color:var(--ifr-azul-claro); }
+/* Escurece os irmãos no hover da lista */
+.ifr-links:hover .ifr-link{ opacity:0.45; }
+.ifr-links:hover .ifr-link:hover{ opacity:1; border-color:var(--ifr-azul-claro); padding-left:8px; }
+
+/* ---- Base: logo + legal ---- */
+.ifr-base{
+  display:flex; flex-direction:row; align-items:flex-end; justify-content:space-between;
+  gap:40px; margin-top:72px;
+}
+.ifr-logo{
+  height:auto; width:min(300px,38%);
+  filter:brightness(0) invert(1); opacity:0.92;   /* remova se a logo já for branca */
+}
+.ifr-legal{
+  display:flex; flex-direction:column; align-items:flex-end; gap:10px;
+  text-align:right; max-width:640px;
+}
+.ifr-copyright{ font-size:14px; line-height:1.6em; color:rgba(255,255,255,0.45); }
+.ifr-legal-linha{
+  display:flex; flex-direction:row; align-items:center; justify-content:flex-end;
+  flex-wrap:wrap; row-gap:6px;
+}
+.ifr-legal-linha a{
+  font-size:14px; line-height:1.5em; color:rgba(255,255,255,0.62);
+  white-space:nowrap; transition:color .2s ease;
+}
+.ifr-legal-linha a:hover{ color:var(--ifr-azul-claro); }
+.ifr-legal-linha a:not(:last-child)::after{
+  content:""; display:inline-block; vertical-align:middle;
+  width:3px; height:3px; border-radius:50%;
+  background:currentColor; margin:0 10px; opacity:0.7;
+}
+
+/* ---- Responsivo ---- */
+@media (max-width:1024px){
+  .ifr-topo{ flex-direction:column; gap:44px; }
+  .ifr-declaracao,.ifr-links{ flex:1 1 auto; width:100%; }
+  .ifr-card{ padding:56px 40px 30px; border-radius:20px 20px 44px 44px; }
+}
+@media (max-width:768px){
+  .ifr-rodape{ padding:40px 20px; }
+  .ifr-card{ padding:44px 24px 26px; border-radius:18px 18px 32px 32px; }
+  .ifr-base{ flex-direction:column; align-items:flex-start; gap:28px; margin-top:52px; }
+  .ifr-logo{ width:min(220px,62%); }
+  .ifr-legal{ align-items:flex-start; text-align:left; max-width:100%; }
+  .ifr-legal-linha{ justify-content:flex-start; }
+  .ifr-link{ padding:13px 0; }
+}
+@media (prefers-reduced-motion:reduce){
+  .ifr-rodape *{ transition-duration:.001ms !important; }
+}
+</style>
+
+<footer class="ifr-rodape">
+  <div class="ifr-card">
+
+    <div class="ifr-topo">
+      <div class="ifr-declaracao">
+        <p class="ifr-frase">Refrigeração é técnica. Falar com a gente não é.</p>
+
+        <div class="ifr-contatos">
+          <a class="ifr-item" href="https://wa.me/5511915349679?text=Ol%C3%A1%2C%20vim%20pelo%20site%20e%20gostaria%20de%20solicitar%20uma%20avalia%C3%A7%C3%A3o%20t%C3%A9cnica." target="_blank" rel="noopener">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M7.9 20A9 9 0 1 0 4 16.1L2 22z"></path></svg>
+            <span>(11) 95134-9679</span>
+          </a>
+
+          <a class="ifr-item" href="mailto:contato@interfriosp.com.br">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"></rect><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"></path></svg>
+            <span>contato@interfriosp.com.br</span>
+          </a>
+
+          <span class="ifr-item">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+            <span>Seg - Sex: 08:00 às 18:00</span>
+          </span>
+
+          <span class="ifr-item">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"></path><path d="m9 12 2 2 4-4"></path></svg>
+            <span>Atendimento 24h para clientes de contrato</span>
+          </span>
+
+          <a class="ifr-item" href="https://www.google.com/maps/search/?api=1&amp;query=Rua%20Rizieri%20Negrini%2C%20245%20%E2%80%93%20Sacom%C3%A3%2C%20S%C3%A3o%20Paulo%20%E2%80%93%20SP%20%E2%80%93%20CEP%2004257-143" target="_blank" rel="noopener">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0"></path><circle cx="12" cy="10" r="3"></circle></svg>
+            <span>Rua Rizieri Negrini, 245 · Sacomã, São Paulo/SP · CEP 04257-143</span>
+          </a>
+
+          <a class="ifr-item" href="https://www.instagram.com/interfrio.sp/" target="_blank" rel="noopener">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"></circle><path d="M16 8v5a3 3 0 0 0 6 0v-1a10 10 0 1 0-4 8"></path></svg>
+            <span>@interfrio.sp</span>
+          </a>
+        </div>
+      </div>
+
+      <nav class="ifr-links" aria-label="Navegação do rodapé">
+        <a class="ifr-link" href="#supervisorio">Supervisório
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h10v10"></path><path d="M7 17 17 7"></path></svg>
+        </a>
+        <a class="ifr-link" href="#servicos">Serviços
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h10v10"></path><path d="M7 17 17 7"></path></svg>
+        </a>
+        <a class="ifr-link" href="#diferenciais">Diferenciais
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h10v10"></path><path d="M7 17 17 7"></path></svg>
+        </a>
+        <a class="ifr-link" href="#quem-somos">Quem somos
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h10v10"></path><path d="M7 17 17 7"></path></svg>
+        </a>
+        <a class="ifr-link" href="#faq">FAQ
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h10v10"></path><path d="M7 17 17 7"></path></svg>
+        </a>
+        <a class="ifr-link" href="#contato">Contato
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h10v10"></path><path d="M7 17 17 7"></path></svg>
+        </a>
+      </nav>
+    </div>
+
+    <div class="ifr-base">
+      <!-- TROQUE o src pela URL da logo na sua Biblioteca de Mídia -->
+      <img decoding="async" class="ifr-logo" src="https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/interfrio-logo.png" alt="Interfrio.SP · Ar-Condicionado e Refrigeração Comercial">
+
+      <div class="ifr-legal">
+        <p class="ifr-copyright">© 2026 Interfrio.SP · Ar-Condicionado e Refrigeração Comercial. Todos os direitos reservados.</p>
+        <div class="ifr-legal-linha">
+          <a href="https://wa.me/5511915349679?text=Ol%C3%A1%2C%20vim%20pelo%20site%20e%20gostaria%20de%20solicitar%20uma%20avalia%C3%A7%C3%A3o%20t%C3%A9cnica." target="_blank" rel="noopener">WhatsApp</a>
+          <a href="mailto:contato@interfriosp.com.br">E-mail</a>
+          <a href="https://www.instagram.com/interfrio.sp/" target="_blank" rel="noopener">Instagram</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</footer>

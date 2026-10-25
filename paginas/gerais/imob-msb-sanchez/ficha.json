@@ -1,0 +1,235 @@
+{
+ "nome": "MSB Sanchez",
+ "slug": "imob-msb-sanchez",
+ "pasta_original": "Msb Imobi",
+ "origem": "paginas/gerais",
+ "prioridade": "referencia",
+ "url": "https://msbsanchez.com.br/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Imobiliário",
+ "tipo_pagina": "institucional",
+ "paleta": {
+  "fundos": [
+   "#10324E",
+   "#173E62",
+   "#FFFFFF",
+   "#00131E",
+   "#F5F5F5",
+   "#040D47",
+   "#000000"
+  ],
+  "textos": [
+   "#66717A",
+   "#FFFFFF",
+   "#3F4448",
+   "#B6B6B6",
+   "#000000",
+   "#00FFFF"
+  ],
+  "destaques": [
+   "#10324E",
+   "#040D47",
+   "#007AFF",
+   "#767676",
+   "#173E62",
+   "#00FFFF"
+  ],
+  "gradientes": [
+   "linear-gradient(360deg, rgb(23, 62, 98) 0%, rgba(255, 255, 255, 0.58) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Roboto",
+   "uso_pct": 87
+  },
+  {
+   "familia": "Be Vietnam",
+   "uso_pct": 3
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  90,
+  60,
+  40,
+  24,
+  20,
+  18,
+  16,
+  15
+ ],
+ "escala_tipografica_mobile_px": [
+  65,
+  30,
+  24,
+  20,
+  20,
+  20,
+  18,
+  16
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#007AFF",
+  "gradiente": null,
+  "texto": "#FFFFFF",
+  "raio": "5px",
+  "padding": "0px 36px",
+  "fonte": "Roboto",
+  "tamanho": "16px",
+  "peso": "700",
+  "caixa": "none",
+  "exemplos": [
+   "Saiba mais"
+  ]
+ },
+ "raios": [
+  "3px",
+  "2px",
+  "10%",
+  "5px",
+  "10px",
+  "6px"
+ ],
+ "sombras": [
+  "rgb(235, 235, 235) 0px -1px 0px 0px inset",
+  "rgba(0, 0, 0, 0.3) 1px 1px 4px 0px"
+ ],
+ "gaps": [],
+ "largura_conteudo_px": 1290,
+ "altura_pagina_px": 4824,
+ "secoes_qtde": 9,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 720
+  },
+  {
+   "ordem": 2,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 130
+  },
+  {
+   "ordem": 3,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 124
+  },
+  {
+   "ordem": 4,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 480
+  },
+  {
+   "ordem": 5,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "imagem",
+   "altura_px": 799
+  },
+  {
+   "ordem": 6,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 70
+  },
+  {
+   "ordem": 7,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "imagem",
+   "altura_px": 538
+  },
+  {
+   "ordem": 8,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "imagem",
+   "altura_px": 1091
+  },
+  {
+   "ordem": 9,
+   "tipo": "formulario",
+   "titulo": "Quer mais informações?",
+   "fundo": "transparente",
+   "altura_px": 147
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "formulario"
+ ],
+ "tags_estilo": [
+  "azul",
+  "cinza",
+  "script",
+  "institucional"
+ ],
+ "tecnicas": [
+  "Fonte script nos títulos de seção"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "a",
+   "anim",
+   "b",
+   "blink",
+   "bounce",
+   "bounceIn",
+   "bounceInDown",
+   "bounceInLeft",
+   "bounceInRight",
+   "bounceInUp",
+   "c",
+   "clip-1",
+   "clip-2",
+   "clip-3",
+   "d",
+   "e",
+   "f",
+   "fadeIn",
+   "fadeInDown",
+   "fadeInLeft",
+   "fadeInRight"
+  ],
+  "entrada_elementor": [
+   "fadeInUp",
+   "opal-move-up"
+  ],
+  "classes_scroll": []
+ },
+ "bibliotecas": [
+  "ga4",
+  "gtm",
+  "jquery",
+  "swiper"
+ ],
+ "snippets_usados": [],
+ "relevancia": 3,
+ "resumo": "Incorporadora com títulos em script manuscrito, hero com tag 'Em construção' e miniaturas dos outros projetos, abas de projetos (em construção, entregues), história com montagem de imagens, números e diferenciais em cards de borda branca sobre foto.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": null,
+  "copy_real": null,
+  "json_elementor": null,
+  "ref": "ref/"
+ }
+}

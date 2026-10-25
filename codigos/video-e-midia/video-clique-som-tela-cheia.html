@@ -1,0 +1,30 @@
+<!--
+  SNIPPET: Vídeo que liga o som e abre em tela cheia ao clicar
+  CATEGORIA: video-e-midia
+  O QUE FAZ: Ao clicar no container do vídeo (iframe YouTube mudo em autoplay), troca para som ligado e abre em tela cheia.
+  COMO USAR: Classe "con-video" no container que tem o iframe (URL com mute=1). Cole o script num widget HTML.
+  ONDE COLAR: Widget HTML
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: paginas/nossas/negocio-hoffen-sports
+  USADO EM: 1 página(s) da casa: negocio-hoffen-sports
+-->
+
+<script>
+document.querySelector('.con-video').addEventListener('click', function() {
+  var iframe = this.querySelector('iframe');
+  
+  // Liga o som trocando a URL
+  iframe.src = iframe.src
+    .replace('mute=1', 'mute=0')
+    .replace('autoplay=0', 'autoplay=1');
+  
+  // Tela cheia
+  if (iframe.requestFullscreen) {
+    iframe.requestFullscreen();
+  } else if (iframe.webkitRequestFullscreen) {
+    iframe.webkitRequestFullscreen();
+  } else if (iframe.mozRequestFullScreen) {
+    iframe.mozRequestFullScreen();
+  }
+});
+</script>

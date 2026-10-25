@@ -1,0 +1,68 @@
+<!--
+  SNIPPET: Linha que cresce quando aparece na tela
+  CATEGORIA: animacoes
+  O QUE FAZ: Uma linha fina cresce da esquerda para a direita (no celular, de cima para baixo) quando o bloco entra na tela. Usado para ligar etapas.
+  COMO USAR: Coloque a classe "linha-anim" no container. Cole este arquivo em um widget HTML. Ajuste cor (#ADA0CC), top e larguras.
+  ONDE COLAR: Widget HTML (CSS pode ir no CSS da página)
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: paginas/nossas/psi-rosangela-munhoz-psicanalista
+  USADO EM: 1 página(s) da casa: psi-rosangela-munhoz-psicanalista
+-->
+
+<style>
+/* Elemento pai precisa de position relative pro ::before se ancorar */
+.linha-anim {
+  position: relative;
+}
+
+/* Estado inicial, linha invisível (width 0) */
+.linha-anim::before {
+  content: "";
+  position: absolute;
+  width: 0%;
+  height: 2px;
+  background-color: #ADA0CC;
+  top: 32px;
+  left: 0;
+  transition: width 2.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Estado final, linha cresce até 80% quando entra na tela */
+.linha-anim.visible::before {
+  width: 80%;
+}
+
+/* Mobile, linha vertical em vez de horizontal */
+@media (max-width: 800px) {
+  .linha-anim::before {
+    width: 2px;
+    height: 0%;
+    top: 0;
+    transition: height 1.2s cubic-bezier(0.4, 0, 0.2, 1);
+    left:9%;
+  }
+  .linha-anim.visible::before {
+    width: 2px;   /* mantém fixo, sobrescrevendo o 80% do desktop */
+    height: 82%;
+  }
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const elementos = document.querySelectorAll('.linha-anim');
+  
+  if (!elementos.length) return;
+  
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('visible');
+        observer.unobserve(entry.target); // dispara só uma vez
+      }
+    });
+  }, { threshold: 0.3 });
+  
+  elementos.forEach(el => observer.observe(el));
+});
+</script>

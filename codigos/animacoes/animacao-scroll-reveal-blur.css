@@ -1,0 +1,47 @@
+/*
+  SNIPPET: Animação de entrada no scroll com blur
+  CATEGORIA: animacoes
+  O QUE FAZ: Mesma animação de entrada, mas o elemento começa desfocado (blur 10px) e fica nítido ao entrar.
+  COMO USAR: Use NO LUGAR do CSS da animação padrão. O script continua o mesmo (animacao-scroll-reveal.html).
+  ONDE COLAR: CSS personalizado da página
+  DEPENDÊNCIAS: Script de animacao-scroll-reveal.html
+  ORIGEM: coleção original da casa (animaçãoscroll)
+  USADO EM: 12 página(s) da casa: imob-vega-costa-e-silva, imob-vistoria-alphaville, info-carol-guglielmi-imagem-pessoal, negocio-bar-santa-boemia, negocio-entre-para-trip, negocio-inter-frios-refrigeracao, psi-maria-rita-sales, psi-renan, psi-rosangela-munhoz-psicanalista, vendas-morelli-churrasco-networking, vendas-scripts-consignado-jessica, vendas-workshop-barbearia-toledo
+*/
+
+selector{
+    position: absolute;
+}
+
+.scroll-left,
+.scroll-right,
+.scroll-bottom,
+.scroll-top {
+    opacity: 0;
+    filter: blur(10px); /* aqui o blur inicial */
+    transition: 0.6s all ease;
+}
+
+/* Mantém seus transforms separados */
+.scroll-left {
+    transform: translate3d(-30px, 0, 0);
+}
+
+.scroll-right {
+    transform: translate3d(30px, 0, 0);
+}
+
+.scroll-bottom {
+    transform: translate3d(0, 80px, 0);
+}
+
+.scroll-top {
+    transform: translate3d(0, -80px, 0);
+}
+
+/* Estado ativo */
+.ativo {
+    opacity: 1;
+    filter: blur(0); /* remove o blur */
+    transform: translate3d(0, 0, 0);
+}

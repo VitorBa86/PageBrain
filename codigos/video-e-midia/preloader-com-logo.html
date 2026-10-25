@@ -1,0 +1,186 @@
+<!--
+  SNIPPET: Tela de carregamento com logo
+  CATEGORIA: video-e-midia
+  O QUE FAZ: Tela cheia escura com a logo entrando e sumindo quando a página carrega.
+  COMO USAR: Widget HTML no topo da página. Troque a logo e a cor de fundo #0d1b2a.
+  ONDE COLAR: Widget HTML
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: paginas/nossas/negocio-entre-para-trip
+  USADO EM: 1 página(s) da casa: negocio-entre-para-trip
+-->
+
+<style>
+  #epta-preloader {
+    position: fixed;
+    inset: 0;
+    z-index: 99999;
+    background: #0d1b2a;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 32px;
+    transition: opacity 0.6s ease, visibility 0.6s ease;
+  }
+
+  #epta-preloader.hide {
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+  }
+
+  #epta-preloader img {
+    width: 120px;
+    opacity: 0;
+    transform: translateY(-12px);
+    animation: logoIn 0.7s ease forwards 0.2s;
+  }
+
+  @keyframes logoIn {
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  #epta-preloader .epta-bar-wrapper {
+    width: min(320px, 80vw);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    opacity: 0;
+    animation: fadeUp 0.5s ease forwards 0.6s;
+  }
+
+  @keyframes fadeUp {
+    to { opacity: 1; }
+  }
+
+  #epta-preloader .epta-bar-track {
+    width: 100%;
+    height: 2px;
+    background: rgba(255,255,255,0.12);
+    border-radius: 2px;
+    overflow: hidden;
+  }
+
+  #epta-preloader .epta-bar-fill {
+    height: 100%;
+    width: 0%;
+    background: #ffffff;
+    border-radius: 2px;
+    transition: width 0.05s linear;
+  }
+
+  #epta-preloader .epta-percent {
+    font-family: 'interstate', 'Roboto', sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    letter-spacing: 0.15em;
+    color: rgba(255,255,255,0.45);
+    text-align: right;
+  }
+
+  #epta-preloader .epta-label {
+    font-family: 'interstate', 'Roboto', sans-serif;
+    font-size: 11px;
+    font-weight: 400;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: rgba(255,255,255,0.2);
+    text-align: center;
+  }
+</style>
+
+<div id="epta-preloader">
+  <img decoding="async" src="https://lp.oreidalanding.com.br/wp-content/uploads/2026/05/Objeto-Inteligente-de-Vetor.png" alt="Expedições">
+  <div class="epta-bar-wrapper">
+    <div class="epta-bar-track">
+      <div class="epta-bar-fill" id="epta-fill"></div>
+    </div>
+    <div class="epta-percent" id="epta-percent">0%</div>
+  </div>
+  <div class="epta-label">carregando</div>
+</div>
+
+<script>
+(function () {
+  const loader   = document.getElementById('epta-preloader');
+  const fill     = document.getElementById('epta-fill');
+  const percent  = document.getElementById('epta-percent');
+
+  let current = 0;
+  let target  = 0;
+  let done    = false;
+
+  // Avança o target conforme a página carrega
+  function setTarget(val) {
+    target = Math.max(target, Math.min(val, 99));
+  }
+
+  // Anima o número suavemente em direção ao target
+  function tick() {
+    if (current < target) {
+      current += Math.max(0.4, (target - current) * 0.06);
+      if (current > target) current = target;
+      const rounded = Math.floor(current);
+      fill.style.width    = rounded + '%';
+      percent.textContent = rounded + '%';
+    }
+
+    if (!done) {
+      requestAnimationFrame(tick);
+    }
+  }
+
+  // Simula progresso enquanto a página carrega
+  let simulTimer = 0;
+  function simulate() {
+    simulTimer++;
+    if (simulTimer < 15)       setTarget(30);
+    else if (simulTimer < 30)  setTarget(55);
+    else if (simulTimer < 50)  setTarget(75);
+    else if (simulTimer < 70)  setTarget(88);
+    else                        setTarget(92);
+
+    if (!done) setTimeout(simulate, 120);
+  }
+
+  function finish() {
+    if (done) return;
+    done = true;
+
+    // Vai rápido até 100%
+    let sprint = current;
+    function goTo100() {
+      sprint += 1.8;
+      if (sprint >= 100) sprint = 100;
+      fill.style.width    = Math.floor(sprint) + '%';
+      percent.textContent = Math.floor(sprint) + '%';
+      if (sprint < 100) {
+        requestAnimationFrame(goTo100);
+      } else {
+        // Pequena pausa e some
+        setTimeout(() => {
+          loader.classList.add('hide');
+          setTimeout(() => loader.remove(), 700);
+        }, 300);
+      }
+    }
+    requestAnimationFrame(goTo100);
+  }
+
+  // Dispara quando tudo carregou
+  if (document.readyState === 'complete') {
+    setTimeout(finish, 400);
+  } else {
+    window.addEventListener('load', () => setTimeout(finish, 400));
+  }
+
+  // Fallback: força o fim após 5 segundos
+  setTimeout(finish, 5000);
+
+  simulate();
+  requestAnimationFrame(tick);
+})();
+</script>

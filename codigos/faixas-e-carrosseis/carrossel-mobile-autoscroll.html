@@ -1,0 +1,91 @@
+<!--
+  SNIPPET: Galeria que vira carrossel automático no celular
+  CATEGORIA: faixas-e-carrosseis
+  O QUE FAZ: No celular, transforma um container de imagens em faixa horizontal que rola sozinha (pausa ao tocar). No desktop não faz nada.
+  COMO USAR: Troque .elementor-element-24260ad4 pelo seletor do seu container (ou adicione uma classe e use ela). Cole em um widget HTML.
+  ONDE COLAR: Widget HTML
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: paginas/nossas/negocio-entre-para-trip
+  USADO EM: 1 página(s) da casa: negocio-entre-para-trip
+-->
+
+<style>
+@media (max-width: 767px) {
+  .elementor-element-24260ad4 {
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    overflow-x: auto !important;
+    overflow-y: hidden !important;
+    gap: 12px;
+    padding-bottom: 12px;
+    scrollbar-width: none;
+  }
+  .elementor-element-24260ad4::-webkit-scrollbar {
+    display: none;
+  }
+  .elementor-element-24260ad4
+    .elementor-widget-image {
+    flex: 0 0 80vw !important;
+    max-width: 80vw !important;
+    width: 80vw !important;
+  }
+  .elementor-element-24260ad4
+    .elementor-widget-image img {
+    width: 100% !important;
+    height: auto !important;
+    border-radius: 8px;
+  }
+}
+</style>
+
+<script>
+(function () {
+  if (window.innerWidth > 767) return;
+
+  function initCarousel() {
+    const track = document.querySelector(
+      '.elementor-element-24260ad4'
+    );
+    if (!track) return;
+
+    let isPaused = false;
+    const speed = 1;
+
+    track.addEventListener('touchstart',
+      () => { isPaused = true; });
+    track.addEventListener('touchend', () => {
+      setTimeout(() => { isPaused = false; }, 1500);
+    });
+
+    const items = Array.from(track.children);
+    items.forEach(item => {
+      const clone = item.cloneNode(true);
+      clone.setAttribute('aria-hidden', 'true');
+      track.appendChild(clone);
+    });
+
+    const originalWidth = items.reduce((acc, item) => {
+      return acc + item.offsetWidth + 12;
+    }, 0);
+
+    track.style.scrollSnapType = 'none';
+
+    function animate() {
+      if (!isPaused) {
+        track.scrollLeft += speed;
+        if (track.scrollLeft >= originalWidth) {
+          track.scrollLeft = 0;
+        }
+      }
+      requestAnimationFrame(animate);
+    }
+    animate();
+  }
+
+  if (document.readyState === 'complete') {
+    initCarousel();
+  } else {
+    window.addEventListener('load', initCarousel);
+  }
+})();
+</script>

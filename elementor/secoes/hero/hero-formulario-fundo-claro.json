@@ -1,0 +1,358 @@
+{
+ "content": [
+  {
+   "id": "5a6688ac",
+   "settings": {
+    "flex_direction": "column",
+    "min_height": {
+     "unit": "px",
+     "size": 800,
+     "sizes": []
+    },
+    "flex_justify_content": "center",
+    "padding": {
+     "unit": "px",
+     "top": "0",
+     "right": "0",
+     "bottom": "0",
+     "left": "0",
+     "isLinked": false
+    },
+    "boxed_width": {
+     "unit": "px",
+     "size": 1280,
+     "sizes": []
+    },
+    "boxed_width_mobile": {
+     "unit": "%",
+     "size": 90,
+     "sizes": []
+    },
+    "min_height_mobile": {
+     "unit": "px",
+     "size": 0,
+     "sizes": []
+    },
+    "background_background": "classic",
+    "background_color": "#F0EFF4",
+    "padding_mobile": {
+     "unit": "%",
+     "top": "080",
+     "right": "0",
+     "bottom": "10",
+     "left": "0",
+     "isLinked": false
+    },
+    "background_image": {
+     "url": "",
+     "id": "",
+     "size": "",
+     "alt": "",
+     "source": "library"
+    },
+    "background_image_mobile": {
+     "url": "",
+     "id": "",
+     "size": "",
+     "alt": "",
+     "source": "library"
+    },
+    "background_position": "top center",
+    "background_position_mobile": "top center",
+    "background_repeat": "no-repeat",
+    "background_size_mobile": "initial",
+    "background_bg_width_mobile": {
+     "unit": "%",
+     "size": 100,
+     "sizes": []
+    },
+    "eae_slider_delay": "5000",
+    "gradient_color_list": [
+     {
+      "eae_animated_gradient_color": "#00a6d8",
+      "_id": "c68eb78"
+     },
+     {
+      "eae_animated_gradient_color": "#b800c9",
+      "_id": "36394e1"
+     },
+     {
+      "eae_animated_gradient_color": "#e57600",
+      "_id": "1c9669d"
+     }
+    ]
+   },
+   "elements": [
+    {
+     "id": "176c6263",
+     "settings": {
+      "content_width": "full",
+      "title": "Lorem Ipsum is simply dummy text of the printing and typesetting",
+      "title_color": "#2B0B3E",
+      "typography_typography": "custom",
+      "typography_font_family": "SEQUEL",
+      "typography_font_weight": "400",
+      "_element_width": "initial",
+      "_element_custom_width": {
+       "unit": "%",
+       "size": 45,
+       "sizes": []
+      },
+      "typography_font_size": {
+       "unit": "px",
+       "size": 25,
+       "sizes": []
+      },
+      "typography_font_size_mobile": {
+       "unit": "vw",
+       "size": 5.3,
+       "sizes": []
+      },
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.4,
+       "sizes": []
+      },
+      "typography_line_height_widescreen": {
+       "unit": "em",
+       "size": "",
+       "sizes": []
+      },
+      "typography_line_height_laptop": {
+       "unit": "em",
+       "size": "",
+       "sizes": []
+      },
+      "_element_width_mobile": "inherit"
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "heading",
+     "elType": "widget"
+    },
+    {
+     "id": "420e288",
+     "settings": {
+      "content_width": "full",
+      "title": "Lorem Ipsum is simply dummy text of the printing and typesettingLorem Ipsum is simply dummy text of the printing and typesetting",
+      "title_color": "#2B0B3E",
+      "typography_typography": "custom",
+      "typography_font_family": "Montserrat",
+      "typography_font_weight": "500",
+      "_element_width": "initial",
+      "_element_custom_width": {
+       "unit": "%",
+       "size": 45,
+       "sizes": []
+      },
+      "typography_font_size": {
+       "unit": "px",
+       "size": 16,
+       "sizes": []
+      },
+      "typography_font_size_mobile": {
+       "unit": "vw",
+       "size": 4,
+       "sizes": []
+      },
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.4,
+       "sizes": []
+      },
+      "typography_line_height_widescreen": {
+       "unit": "em",
+       "size": "",
+       "sizes": []
+      },
+      "typography_line_height_laptop": {
+       "unit": "em",
+       "size": "",
+       "sizes": []
+      },
+      "_margin": {
+       "unit": "px",
+       "top": "10",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "_element_width_mobile": "inherit"
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "heading",
+     "elType": "widget"
+    },
+    {
+     "id": "11ea52a3",
+     "settings": {
+      "content_width": "full",
+      "title": "Lorem Ipsum is simply dummy text of the printing ",
+      "title_color": "#2B0B3E",
+      "typography_typography": "custom",
+      "typography_font_family": "Montserrat",
+      "typography_font_weight": "600",
+      "_element_width": "initial",
+      "_element_custom_width": {
+       "unit": "%",
+       "size": 45,
+       "sizes": []
+      },
+      "typography_font_size": {
+       "unit": "px",
+       "size": 18,
+       "sizes": []
+      },
+      "typography_font_size_mobile": {
+       "unit": "vw",
+       "size": 4,
+       "sizes": []
+      },
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.4,
+       "sizes": []
+      },
+      "typography_line_height_widescreen": {
+       "unit": "em",
+       "size": "",
+       "sizes": []
+      },
+      "typography_line_height_laptop": {
+       "unit": "em",
+       "size": "",
+       "sizes": []
+      },
+      "_margin": {
+       "unit": "px",
+       "top": "10",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "_element_width_mobile": "inherit"
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "heading",
+     "elType": "widget"
+    },
+    {
+     "id": "133e7169",
+     "settings": {
+      "content_width": "full",
+      "form_name": "FORM 1",
+      "form_fields": [
+       {
+        "custom_id": "name",
+        "field_label": "Name",
+        "placeholder": "Seu Nome Completo",
+        "dynamic": {
+         "active": true
+        },
+        "_id": "e841cc2"
+       },
+       {
+        "custom_id": "email",
+        "field_type": "email",
+        "required": "true",
+        "field_label": "Email",
+        "placeholder": "Digite Seu Melhor Email",
+        "_id": "a5ead03"
+       },
+       {
+        "custom_id": "field_5038e42",
+        "field_type": "tel",
+        "required": "true",
+        "field_label": "Email",
+        "placeholder": "Digite Seu Whatsapp",
+        "_id": "5038e42"
+       }
+      ],
+      "show_labels": "",
+      "step_next_label": "Next",
+      "step_previous_label": "Previous",
+      "button_text": "Quero agendar minha reunião!",
+      "email_content": "[all-fields]",
+      "email_content_2": "[all-fields]",
+      "success_message": "Your submission was successful.",
+      "error_message": "Your submission failed because of an error.",
+      "server_message": "Your submission failed because of a server error.",
+      "invalid_message": "Your submission failed because the form is invalid.",
+      "required_field_message": "This field is required.",
+      "column_gap": {
+       "unit": "px",
+       "size": 11,
+       "sizes": []
+      },
+      "field_text_color": "#000000",
+      "field_typography_typography": "custom",
+      "field_typography_font_family": "Montserrat",
+      "field_typography_font_weight": "500",
+      "field_background_color": "#B88FDB52",
+      "field_border_color": "#B88FDB",
+      "field_border_radius": {
+       "unit": "px",
+       "top": "73",
+       "right": "73",
+       "bottom": "73",
+       "left": "73",
+       "isLinked": true
+      },
+      "button_typography_typography": "custom",
+      "button_typography_font_family": "Montserrat",
+      "button_typography_font_size": {
+       "unit": "px",
+       "size": 18,
+       "sizes": []
+      },
+      "button_typography_font_weight": "600",
+      "button_background_color": "#5E158A",
+      "button_hover_animation": "grow",
+      "button_border_radius": {
+       "unit": "px",
+       "top": "194",
+       "right": "194",
+       "bottom": "194",
+       "left": "194",
+       "isLinked": true
+      },
+      "button_text_padding": {
+       "unit": "px",
+       "top": "20",
+       "right": "20",
+       "bottom": "20",
+       "left": "20",
+       "isLinked": true
+      },
+      "_element_width": "initial",
+      "_element_width_mobile": "inherit",
+      "_element_custom_width": {
+       "unit": "%",
+       "size": 45,
+       "sizes": []
+      },
+      "button_typography_font_size_mobile": {
+       "unit": "vw",
+       "size": 4.3,
+       "sizes": []
+      }
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "form",
+     "elType": "widget"
+    }
+   ],
+   "isInner": false,
+   "elType": "container"
+  }
+ ],
+ "page_settings": [],
+ "version": "0.4",
+ "title": "inicial - dobra 17",
+ "type": "container"
+}

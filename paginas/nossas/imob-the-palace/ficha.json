@@ -1,0 +1,209 @@
+{
+ "nome": "PÁGINA DOS THE PALACE",
+ "slug": "imob-the-palace",
+ "pasta_original": "The palace",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://lp.oreidalanding.com.br/the-palace/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Imobiliário",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#F9F5F2",
+   "#E2D4C9",
+   "#4B3325",
+   "#FFFFFF",
+   "#A47154"
+  ],
+  "textos": [
+   "#4B3325",
+   "#54595F",
+   "#FFFFFF"
+  ],
+  "destaques": [
+   "#4B3325",
+   "#FFFFFF",
+   "#E2D4C9",
+   "#A47154"
+  ],
+  "gradientes": [
+   "linear-gradient(167deg, rgb(250, 230, 159) 0%, rgb(219, 152, 89) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Montserrat",
+   "uso_pct": 79
+  },
+  {
+   "familia": "Antic Didone",
+   "uso_pct": 18
+  },
+  {
+   "familia": "Sora",
+   "uso_pct": 3
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  48,
+  43,
+  40,
+  36,
+  34,
+  32,
+  22,
+  20,
+  18
+ ],
+ "escala_tipografica_mobile_px": [
+  35,
+  33,
+  28,
+  27,
+  23,
+  20,
+  18,
+  18
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#FFFFFF",
+  "gradiente": null,
+  "texto": "#54595F",
+  "raio": "44px",
+  "padding": "14px 14px",
+  "fonte": "Montserrat",
+  "tamanho": "16px",
+  "peso": "400",
+  "caixa": "none",
+  "exemplos": [
+   "Conheça mais",
+   "Plantas",
+   "Informações"
+  ]
+ },
+ "raios": [
+  "12px",
+  "44px",
+  "50px",
+  "18px",
+  "6px",
+  "42px"
+ ],
+ "sombras": [
+  "rgb(255, 255, 255) 0px 0px 3px 0px inset, rgba(0, 0, 0, 0.2) 0px 3px 8px 0px"
+ ],
+ "gaps": [
+  "20px",
+  "5px",
+  "67px",
+  "15px",
+  "10px"
+ ],
+ "largura_conteudo_px": 1140,
+ "altura_pagina_px": 5987,
+ "secoes_qtde": 6,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "menu",
+   "titulo": "Dois Endereços, Um Símbolo de Status.",
+   "fundo": "#F9F5F2",
+   "altura_px": 1000
+  },
+  {
+   "ordem": 2,
+   "tipo": "hero",
+   "titulo": "Vila Mariana, onde grandes patrimônios se enraízam.",
+   "fundo": "#E2D4C9",
+   "altura_px": 900
+  },
+  {
+   "ordem": 3,
+   "tipo": "localizacao",
+   "titulo": "Palace Royal",
+   "fundo": "#F9F5F2",
+   "altura_px": 1518
+  },
+  {
+   "ordem": 4,
+   "tipo": "produto",
+   "titulo": "Um universo de detalhes até então distante",
+   "fundo": "#E2D4C9",
+   "altura_px": 1622
+  },
+  {
+   "ordem": 5,
+   "tipo": "lazer",
+   "titulo": "Entre em contato!",
+   "fundo": "#F9F5F2",
+   "altura_px": 888
+  },
+  {
+   "ordem": 6,
+   "tipo": "sobre",
+   "titulo": "Todos os direitos reservados © 2025",
+   "fundo": "#F9F5F2",
+   "altura_px": 60
+  }
+ ],
+ "tipos_de_secao": [
+  "menu",
+  "hero",
+  "localizacao",
+  "produto",
+  "lazer",
+  "sobre",
+  "formulario",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "luxo",
+  "bege",
+  "dourado",
+  "serifa",
+  "claro"
+ ],
+ "tecnicas": [
+  "Nested tabs do Elementor",
+  "Gradiente dourado nos botões"
+ ],
+ "animacoes": {
+  "keyframes": [],
+  "entrada_elementor": [],
+  "classes_scroll": [
+   "scroll-bottom",
+   "scroll-left",
+   "scroll-right",
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "google-ads",
+  "happy-addons",
+  "jquery",
+  "lenis",
+  "lottie",
+  "meta-pixel",
+  "swiper"
+ ],
+ "snippets_usados": [
+  "animacoes/animacao-scroll-reveal.html",
+  "tracking-e-pixels/meta-pixel.html",
+  "tracking-e-pixels/google-ads-gtag.html",
+  "utilitarios-css/css-base-toda-pagina.css",
+  "utilitarios-css/elemento-posicao-absoluta.css"
+ ],
+ "relevancia": 4,
+ "resumo": "Lançamento de altíssimo padrão em bege e dourado com serifa clássica. Hero com as duas torres renderizadas, abas laterais com vídeo para cada empreendimento, cards de lazer e card do corretor.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/imob-the-palace.md",
+  "json_elementor": "../../../elementor/paginas/captacao/imob-the-palace.json"
+ }
+}

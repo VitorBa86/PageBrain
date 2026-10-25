@@ -1,0 +1,62 @@
+/*
+  SNIPPET: Texto destaque estilo iPhone
+  CATEGORIA: animacoes
+  O QUE FAZ: Palavra dentro de uma caixinha translúcida com bordas laterais, texto em gradiente e dois pontinhos nos cantos.
+  COMO USAR: No título use: <span class="highlight-box"><span class="gradient-text">PALAVRA</span></span>. Cole o CSS em qualquer CSS personalizado. Ajuste as variáveis em :root.
+  ONDE COLAR: CSS personalizado
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: coleção original da casa (textodestaqueiphone)
+  USADO EM: 1 página(s) da casa: servico-rp-vision-marketing
+*/
+
+:root {
+  --fundo-acento: rgba(0, 173, 181, 0.18);
+  --padding-x: 12px;
+  --padding-y: 3px;
+  --largura-borda: 1px;
+  --cor-acento: #00ADB5;
+  --degrade-texto: linear-gradient(90deg, #00ADB5 0%, #4EEAFF 100%);
+  --diametro-pontos: 8px;
+  --cor-pontos: #008A91;
+}
+
+.highlight-box {
+  background: var(--fundo-acento);
+  padding: var(--padding-y) var(--padding-x);
+  position: relative;
+  border-left: var(--largura-borda) solid var(--cor-acento);
+  border-right: var(--largura-borda) solid var(--cor-acento);
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.gradient-text {
+  background: var(--degrade-texto);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+  font-weight: 600;
+}
+
+.highlight-box::before,
+.highlight-box::after {
+  content: '';
+  position: absolute;
+  width: var(--diametro-pontos);
+  height: var(--diametro-pontos);
+  border-radius: 50%;
+  background-color: var(--cor-pontos);
+  pointer-events: none;
+}
+
+.highlight-box::before {
+  top: -4px;
+  left: -4px;
+}
+
+.highlight-box::after {
+  bottom: -4px;
+  right: -4px;
+}

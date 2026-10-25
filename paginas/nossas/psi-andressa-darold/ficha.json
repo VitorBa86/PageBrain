@@ -1,0 +1,181 @@
+{
+ "nome": "PÁGINA PSI [ANDRESSA DAROLD]",
+ "slug": "psi-andressa-darold",
+ "pasta_original": "Psi nova",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://lp.oreidalanding.com.br/pagina-psi-andressa-darold/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Psicologia",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#CCC0A8",
+   "#EFE8D8",
+   "#B59E7F"
+  ],
+  "textos": [
+   "#5A483A",
+   "#FFFFFF"
+  ],
+  "destaques": [
+   "#CCC0A8",
+   "#B59E7F"
+  ],
+  "gradientes": [
+   "linear-gradient(140deg, rgb(204, 192, 168) 0%, rgb(224, 216, 197) 50%, rgb(204, 192, 168) 100%)",
+   "linear-gradient(90deg, rgb(90, 72, 58) 0%, rgb(115, 96, 79) 50%, rgb(90, 72, 58) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Montserrat",
+   "uso_pct": 85
+  },
+  {
+   "familia": "Playfair Display",
+   "uso_pct": 15
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  34,
+  30,
+  28,
+  22,
+  20,
+  18,
+  16
+ ],
+ "escala_tipografica_mobile_px": [
+  33,
+  27,
+  25,
+  23,
+  20,
+  18,
+  16,
+  16
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#00000000",
+  "gradiente": "linear-gradient(90deg, rgb(90, 72, 58) 0%, rgb(115, 96, 79) 50%, rgb(90, 72, 58) 100%)",
+  "texto": "#FFFFFF",
+  "raio": "0px",
+  "padding": "20px 36px",
+  "fonte": "Montserrat",
+  "tamanho": "18px",
+  "peso": "500",
+  "caixa": "none",
+  "exemplos": [
+   "ENTRE EM CONTATO"
+  ]
+ },
+ "raios": [
+  "10%"
+ ],
+ "sombras": [
+  "rgba(0, 0, 0, 0.37) 6px 8px 8px -2px",
+  "rgba(99, 84, 63, 0.23) 8px 9px 21px 0px",
+  "rgba(0, 0, 0, 0.13) 8px 9px 10px 0px"
+ ],
+ "gaps": [
+  "20px",
+  "21px",
+  "5px"
+ ],
+ "largura_conteudo_px": 1024,
+ "altura_pagina_px": 3336,
+ "secoes_qtde": 6,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "Psicoterapia baseada em evidências, conduzida com acolhimento, afeto e responsab",
+   "fundo": "#EFE8D8",
+   "altura_px": 762
+  },
+  {
+   "ordem": 2,
+   "tipo": "para-quem-e",
+   "titulo": "Ofereço um espaço seguro para você olhar com mais cuidado para si mesmo. Atendo",
+   "fundo": "#CCC0A8",
+   "altura_px": 533
+  },
+  {
+   "ordem": 3,
+   "tipo": "sobre",
+   "titulo": "Rigor científico. Olhar humano.",
+   "fundo": "#EFE8D8",
+   "altura_px": 119
+  },
+  {
+   "ordem": 4,
+   "tipo": "como-funciona",
+   "titulo": "Andressa Darold",
+   "fundo": "#CCC0A8",
+   "altura_px": 1158
+  },
+  {
+   "ordem": 5,
+   "tipo": "faq",
+   "titulo": "Perguntas Frequentes:",
+   "fundo": "#EFE8D8",
+   "altura_px": 467
+  },
+  {
+   "ordem": 6,
+   "tipo": "rodape",
+   "titulo": "Psicóloga Andressa Darold | Psicóloga Clínica",
+   "fundo": "#CCC0A8",
+   "altura_px": 297
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "para-quem-e",
+  "sobre",
+  "como-funciona",
+  "faq",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "bege",
+  "taupe",
+  "minimalista",
+  "serifa-elegante"
+ ],
+ "tecnicas": [
+  "Hover que revela lista com script para mobile"
+ ],
+ "animacoes": {
+  "keyframes": [],
+  "entrada_elementor": [],
+  "classes_scroll": []
+ },
+ "bibliotecas": [
+  "ga4",
+  "google-ads",
+  "happy-addons",
+  "jquery",
+  "lenis",
+  "lottie",
+  "meta-pixel",
+  "swiper"
+ ],
+ "snippets_usados": [
+  "cards-e-bordas/cards-expansiveis-hover.html",
+  "tracking-e-pixels/meta-pixel.html",
+  "tracking-e-pixels/google-ads-gtag.html"
+ ],
+ "relevancia": 4,
+ "resumo": "Psicóloga TCC em bege e taupe, minimalista e curta (6 seções). Cards taupe em 5 colunas que abrem a lista de sintomas no hover, card 'sobre' branco com sombra e FAQ em pílulas taupe.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/psi-andressa-darold.md",
+  "json_elementor": "../../../elementor/paginas/captacao/psi-andressa-darold.json"
+ }
+}

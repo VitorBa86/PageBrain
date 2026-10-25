@@ -1,0 +1,73 @@
+<!--
+  SNIPPET: Menu mobile em tela cheia (script)
+  CATEGORIA: menus-e-headers
+  O QUE FAZ: Abre um container de menu por cima da página, trava a rolagem e fecha ao clicar no X ou em um link.
+  COMO USAR: Crie o menu com containers do Elementor: botão de abrir com classe "menu", container do menu com ID "menuContainer" (display none), botão de fechar com classe "fechar" e links com classe "menu-button-close". Cole este script num widget HTML.
+  ONDE COLAR: Widget HTML
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: paginas/nossas/adv-gustavo-kehl
+  USADO EM: 1 página(s) da casa: adv-gustavo-kehl
+-->
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const body = document.body;
+    const html = document.documentElement;
+    const menuContainer = document.getElementById("menuContainer");
+    const menuButton = document.querySelector(".menu");
+    const closeButton = document.querySelector(".fechar");
+    const menuActionButtons = document.querySelectorAll(".menu-button-close");
+    
+    let scrollPosition = 0;
+
+    menuButton.addEventListener("click", function() {
+        // Armazena a posição atual do scroll
+        scrollPosition = window.pageYOffset;
+        
+        // Posiciona o menu na posição atual do scroll
+        menuContainer.style.position = "absolute";
+        menuContainer.style.top = scrollPosition + "px";
+        menuContainer.style.display = "block";
+        
+        // Bloqueia o scroll de várias maneiras
+        body.style.overflow = "hidden";
+        body.style.height = "100%";
+        html.style.overflow = "hidden";
+        html.style.height = "100%";
+        
+        // Previne o comportamento de touchmove para dispositivos móveis
+        document.addEventListener("touchmove", preventScroll, { passive: false });
+    });
+
+    // Função para fechar o menu
+    function closeMenu() {
+        menuContainer.style.display = "none";
+        
+        // Restaura o scroll
+        body.style.overflow = "";
+        body.style.height = "";
+        html.style.overflow = "";
+        html.style.height = "";
+        
+        // Remove o listener de touchmove
+        document.removeEventListener("touchmove", preventScroll);
+    }
+
+    closeButton.addEventListener("click", closeMenu);
+    
+    // Adiciona evento de clique a todos os botões de ação dentro do menu
+    menuActionButtons.forEach(button => {
+        button.addEventListener("click", function(e) {
+            // Permite que o botão execute sua função original
+            // E depois fecha o menu
+            setTimeout(closeMenu, 100);
+        });
+    });
+    
+    // Função para prevenir o comportamento padrão de scroll
+    function preventScroll(e) {
+        e.preventDefault();
+    }
+});
+
+</script>

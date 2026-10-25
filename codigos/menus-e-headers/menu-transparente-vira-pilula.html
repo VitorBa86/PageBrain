@@ -1,0 +1,355 @@
+<!--
+  SNIPPET: Menu transparente que vira pílula ao rolar (Maria Rita)
+  CATEGORIA: menus-e-headers
+  O QUE FAZ: No topo é uma barra transparente com texto branco; ao rolar vira uma pílula branca flutuante. No celular abre painel de baixo para cima.
+  COMO USAR: Widget HTML antes do hero; hero com padding-top ~110px; trocar LOGO-AQUI.
+  ONDE COLAR: Widget HTML no topo da página
+  DEPENDÊNCIAS: Google Fonts (link no código)
+  ORIGEM: paginas/nossas/psi-maria-rita-sales
+  USADO EM: 1 página(s) da casa: psi-maria-rita-sales
+-->
+
+<!--
+================================================================================
+  MENU / HEADER: Maria Rita Sales
+  Para colar no widget "HTML" do Elementor.
+================================================================================
+
+COMO FUNCIONA
+  • No topo (sobre o hero): barra transparente, largura 100%, texto branco.
+  • Ao dar o primeiro scroll: vira uma "pílula" flutuante branca, redonda,
+    a 10px do topo. No desktop com 1000px de largura; no celular ocupando
+    100% (com uma folga de 20px nas laterais).
+  • No celular: um ícone (hambúrguer) abre uma área branca que sobe de baixo
+    para cima, com os links e o Instagram, e um botão X para fechar.
+
+COMO USAR NO ELEMENTOR
+  1. Cole ESTE arquivo num widget "HTML" no TOPO da página, ANTES do hero
+     (ou dentro do próprio hero, como primeiro elemento).
+  2. IMPORTANTE: este menu é fixo (position:fixed). Para ele não cobrir o
+     começo do hero, dê ao hero um padding-top de ~110px (desktop).
+     No Elementor: selecione a seção do hero → Avançado → Padding → topo 110.
+  3. Troque o logo (procure por LOGO-AQUI abaixo).
+
+  Este menu se posiciona sozinho na tela (fixed), então NÃO precisa ficar
+  numa seção de largura total nem exige mexer em overflow do tema.
+================================================================================
+-->
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Karla:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<style>
+/* ==========================================================================
+   MENU: tudo escopado em #mrs-menu / #mrs-sheet
+   ========================================================================== */
+#mrs-menu{
+  --navy-900:#1D3447;
+  --navy-800:#29476D;
+  --blue-600:#2668A8;
+  --blue-400:#6F9FC8;
+  --font-sans:'Karla',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Arial,sans-serif;
+  --ease:cubic-bezier(.22,.61,.36,1);
+
+  position:fixed;
+  top:0;left:0;right:0;
+  z-index:9000;
+  display:flex;
+  justify-content:center;
+  /* estado inicial: largura 100%, colado no topo */
+  padding:0;
+  box-sizing:border-box;
+  pointer-events:none;               /* só a barra interna recebe clique */
+  transition:padding .45s var(--ease);
+}
+#mrs-menu *,#mrs-menu *::before,#mrs-menu *::after{box-sizing:border-box}
+
+/* a barra em si, inicia ocupando 100% da largura */
+#mrs-menu .bar{
+  pointer-events:auto;
+  width:100%;
+  max-width:none;
+  display:flex;align-items:center;justify-content:space-between;gap:24px;
+  padding:18px 40px;
+  border-radius:0;
+  background:transparent;
+  box-shadow:0 0 0 rgba(0,0,0,0);
+  transition:max-width .45s var(--ease),background .45s var(--ease),
+             box-shadow .45s var(--ease),padding .45s var(--ease),
+             border-radius .45s var(--ease);
+}
+
+/* ---- estado FLUTUANTE (após o primeiro scroll): pílula branca a 10px do topo ---- */
+#mrs-menu.floating{padding:10px 20px 0}      /* 10px de distância do topo */
+#mrs-menu.floating .bar{
+  max-width:1000px;                           /* desktop: pílula de 1000px */
+  background:#fff;
+  border-radius:999px;
+  padding:12px 22px;
+  box-shadow:0 14px 40px rgba(29,52,71,.16);
+}
+
+/* logo */
+#mrs-menu .brand{display:inline-flex;align-items:center;line-height:0;flex:none}
+#mrs-menu .brand img{height:34px;width:auto;display:block;max-width:100%}
+/* .brand img abaixo tem display:block; para o toggle dos logos vencer,
+   estas regras precisam da mesma âncora (.brand img) e mesma especificidade. */
+#mrs-menu .brand img.logo-light{display:block}
+#mrs-menu .brand img.logo-dark{display:none;
+  /* logo é branca; na pílula escurecemos para o navy da marca (#29476D).
+     Se você tiver uma logo já escura, troque o src e apague este filter. */
+  filter:brightness(0) saturate(100%) invert(24%) sepia(35%) saturate(760%) hue-rotate(174deg) brightness(94%) contrast(88%);}
+#mrs-menu.floating .brand img.logo-light{display:none}
+#mrs-menu.floating .brand img.logo-dark{display:block}
+
+/* links (desktop) */
+#mrs-menu .links{display:flex;align-items:center;gap:30px}
+#mrs-menu .links a{
+  font:500 1rem/1.4em var(--font-sans);
+  color:#fff;text-decoration:none;position:relative;padding:4px 0;
+  transition:color .35s var(--ease);
+}
+#mrs-menu .links a::after{content:"";position:absolute;left:0;right:100%;bottom:-2px;
+  height:2px;background:var(--blue-400);transition:right .35s var(--ease)}
+#mrs-menu .links a:hover::after{right:0}
+#mrs-menu.floating .links a{color:var(--navy-800)}
+
+/* Instagram + CTA à direita */
+#mrs-menu .right{display:flex;align-items:center;gap:16px}
+#mrs-menu .ig{display:inline-grid;place-items:center;width:38px;height:38px;border-radius:50%;
+  color:#fff;transition:color .35s var(--ease),background .35s var(--ease)}
+#mrs-menu .ig svg{width:20px;height:20px}
+#mrs-menu.floating .ig{color:var(--navy-800)}
+#mrs-menu .ig:hover{background:rgba(127,159,200,.18)}
+
+#mrs-menu .cta{
+  font:600 .95rem/1 var(--font-sans);text-decoration:none;white-space:nowrap;
+  color:#fff;padding:11px 20px;border-radius:999px;
+  border:1px solid rgba(255,255,255,.6);
+  transition:color .35s var(--ease),background .35s var(--ease),border-color .35s var(--ease);
+}
+#mrs-menu .cta:hover{background:rgba(255,255,255,.14)}
+#mrs-menu.floating .cta{
+  color:#fff;background:var(--blue-600);border-color:var(--blue-600);
+}
+#mrs-menu.floating .cta:hover{background:var(--navy-800);border-color:var(--navy-800)}
+
+/* botão hambúrguer (só no celular) */
+#mrs-menu .burger{display:none;pointer-events:auto;flex:none;
+  width:44px;height:44px;border:0;background:transparent;cursor:pointer;
+  align-items:center;justify-content:center;padding:0}
+#mrs-menu .burger span{display:block;width:24px;height:2px;background:#fff;border-radius:2px;
+  position:relative;transition:background .35s var(--ease)}
+#mrs-menu .burger span::before,#mrs-menu .burger span::after{content:"";position:absolute;
+  left:0;width:24px;height:2px;background:#fff;border-radius:2px;transition:transform .35s var(--ease)}
+#mrs-menu .burger span::before{top:-7px}
+#mrs-menu .burger span::after{top:7px}
+#mrs-menu.floating .burger span,
+#mrs-menu.floating .burger span::before,
+#mrs-menu.floating .burger span::after{background:var(--navy-800)}
+
+/* ==========================================================================
+   CELULAR: bottom sheet branco que sobe de baixo
+   ========================================================================== */
+#mrs-sheet-overlay{
+  position:fixed;inset:0;z-index:8990;
+  background:rgba(29,52,71,.45);
+  opacity:0;visibility:hidden;
+  transition:opacity .4s var(--ease),visibility .4s var(--ease);
+}
+#mrs-sheet-overlay.open{opacity:1;visibility:visible}
+
+#mrs-sheet{
+  --font-sans:'Karla',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Arial,sans-serif;
+  --navy-800:#29476D;
+  --blue-600:#2668A8;
+  position:fixed;
+  inset:auto 0 0 0;
+  z-index:9001;
+  box-sizing:border-box;
+  background:#fff;
+  border-radius:22px 22px 0 0;
+  box-shadow:0 -18px 50px rgba(29,52,71,.22);
+  transform:translateY(100%);
+  transition:transform .55s cubic-bezier(.16,1.02,.3,1);
+}
+#mrs-sheet .sheet-content{
+  padding:14px 26px calc(30px + env(safe-area-inset-bottom));
+}
+#mrs-sheet.open{transform:none}
+#mrs-sheet *,#mrs-sheet *::before,#mrs-sheet *::after{box-sizing:border-box}
+
+/* --- entrada em cascata dos itens: cada um sobe com fade, um após o outro --- */
+#mrs-sheet .sheet-top,
+#mrs-sheet .sheet-links a,
+#mrs-sheet .sheet-foot{
+  opacity:0;transform:translateY(26px);
+  transition:opacity .5s var(--ease),transform .5s var(--ease);
+}
+/* .anim é adicionada pelo JS um instante depois de abrir */
+#mrs-sheet.anim .sheet-top,
+#mrs-sheet.anim .sheet-links a,
+#mrs-sheet.anim .sheet-foot{opacity:1;transform:none}
+/* escalonamento (delays crescentes) */
+#mrs-sheet.anim .sheet-top{transition-delay:.10s}
+#mrs-sheet.anim .sheet-links a:nth-child(1){transition-delay:.16s}
+#mrs-sheet.anim .sheet-links a:nth-child(2){transition-delay:.22s}
+#mrs-sheet.anim .sheet-links a:nth-child(3){transition-delay:.28s}
+#mrs-sheet.anim .sheet-links a:nth-child(4){transition-delay:.34s}
+#mrs-sheet.anim .sheet-links a:nth-child(5){transition-delay:.40s}
+#mrs-sheet.anim .sheet-foot{transition-delay:.46s}
+
+#mrs-sheet .sheet-top{position:relative;display:flex;align-items:center;justify-content:center;
+  min-height:34px;margin-bottom:12px}
+#mrs-sheet .grip{width:44px;height:5px;border-radius:999px;background:#DCE3EA}
+#mrs-sheet .sheet-close{position:absolute;right:-6px;top:50%;transform:translateY(-50%);
+  width:40px;height:40px;border:0;background:#F1F5F9;border-radius:50%;cursor:pointer;
+  display:grid;place-items:center;color:var(--navy-800);
+  transition:background .3s var(--ease)}
+#mrs-sheet .sheet-close:hover{background:#E2E8F0}
+#mrs-sheet .sheet-close svg{width:20px;height:20px}
+#mrs-sheet .sheet-links{display:flex;flex-direction:column}
+#mrs-sheet .sheet-links a{
+  font:600 1.15rem/1 var(--font-sans);color:var(--navy-800);text-decoration:none;
+  padding:16px 4px;border-bottom:1px solid #EEF1F4;
+}
+#mrs-sheet .sheet-links a:last-child{border-bottom:0}
+#mrs-sheet .sheet-foot{display:flex;align-items:center;gap:14px;margin-top:22px}
+#mrs-sheet .sheet-ig{display:inline-grid;place-items:center;width:46px;height:46px;
+  border-radius:50%;background:#F1F5F9;color:var(--navy-800)}
+#mrs-sheet .sheet-ig svg{width:22px;height:22px}
+#mrs-sheet .sheet-cta{
+  flex:1;text-align:center;font:600 1rem/1 var(--font-sans);text-decoration:none;
+  color:#fff;background:var(--blue-600);border-radius:999px;padding:15px 18px;
+}
+
+/* alterna desktop x celular */
+@media(max-width:860px){
+  #mrs-menu .links,#mrs-menu .right{display:none}
+  #mrs-menu .burger{display:inline-flex}
+  #mrs-menu .bar{padding:16px 20px}
+  /* celular: pílula flutuante ocupa 100% (com a folga de 20px das laterais) */
+  #mrs-menu.floating .bar{max-width:none}
+}
+@media(min-width:861px){
+  #mrs-sheet,#mrs-sheet-overlay{display:none}
+}
+
+@media (prefers-reduced-motion: reduce){
+  #mrs-menu,#mrs-menu .bar,#mrs-sheet,#mrs-sheet-overlay{transition:none}
+  /* sem cascata: itens já visíveis, sem depender da classe .anim */
+  #mrs-sheet .sheet-top,
+  #mrs-sheet .sheet-links a,
+  #mrs-sheet .sheet-foot{opacity:1;transform:none;transition:none}
+}
+</style>
+
+<!-- ===================== BARRA / HEADER ===================== -->
+<header id="mrs-menu">
+  <div class="bar">
+
+    <!-- Logo branca da Maria Rita. Sobre o hero aparece branca; na pílula
+         (fundo branco) um filtro a escurece para o navy, já que só há a
+         versão branca. Se um dia houver uma versão escura, troque o src
+         do .logo-dark por ela e remova o filtro (ver CSS: #mrs-menu .logo-dark). -->
+    <a class="brand" href="#topo" aria-label="Maria Rita Sales , início">
+      <img decoding="async" class="logo-light" src="https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/2_2_1_1_1x.webp" alt="Maria Rita Sales">
+      <img decoding="async" class="logo-dark" src="https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/2_2_1_1_1x.webp" alt="Maria Rita Sales">
+    </a>
+
+    <nav class="links">
+      <a href="#sobre">Sobre Mim</a>
+      <a href="#servicos">Serviços</a>
+      <a href="https://mariaritasales.com.br/blog/" target="_blank" rel="noopener">Blog</a>
+      <a href="#perguntas">Perguntas</a>
+      <a href="#contato">Contato</a>
+    </nav>
+
+    <div class="right">
+      <a class="ig" href="https://www.instagram.com/mariarita_sales/" target="_blank" rel="noopener" aria-label="Instagram">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="5"></rect><circle cx="12" cy="12" r="4"></circle><circle cx="17.5" cy="6.5" r="1.2" fill="currentColor" stroke="none"></circle></svg>
+      </a>
+      <a class="cta" href="https://wa.me/5527999227919" target="_blank" rel="noopener">Entrar em contato</a>
+    </div>
+
+    <button class="burger" id="mrsBurger" aria-label="Abrir menu" aria-expanded="false" aria-controls="mrs-sheet">
+      <span></span>
+    </button>
+  </div>
+</header>
+
+<!-- ===================== BOTTOM SHEET (celular) ===================== -->
+<div id="mrs-sheet-overlay"></div>
+<div id="mrs-sheet" role="dialog" aria-modal="true" aria-label="Menu">
+  <div class="sheet-content">
+  <div class="sheet-top">
+    <div class="grip"></div>
+    <button class="sheet-close" id="mrsSheetClose" aria-label="Fechar menu">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"></path></svg>
+    </button>
+  </div>
+  <nav class="sheet-links">
+    <a href="#sobre">Sobre Mim</a>
+    <a href="#servicos">Serviços</a>
+    <a href="https://mariaritasales.com.br/blog/" target="_blank" rel="noopener">Blog</a>
+    <a href="#perguntas">Perguntas</a>
+    <a href="#contato">Contato</a>
+  </nav>
+  <div class="sheet-foot">
+    <a class="sheet-ig" href="https://www.instagram.com/mariarita_sales/" target="_blank" rel="noopener" aria-label="Instagram">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="5"></rect><circle cx="12" cy="12" r="4"></circle><circle cx="17.5" cy="6.5" r="1.2" fill="currentColor" stroke="none"></circle></svg>
+    </a>
+    <a class="sheet-cta" href="https://wa.me/5527999227919" target="_blank" rel="noopener">Entrar em contato</a>
+  </div>
+  </div>
+</div>
+
+<script>
+(function(){
+  var menu    = document.getElementById('mrs-menu');
+  var burger  = document.getElementById('mrsBurger');
+  var sheet   = document.getElementById('mrs-sheet');
+  var overlay = document.getElementById('mrs-sheet-overlay');
+  if(!menu) return;
+
+  /* ---- vira pílula flutuante no primeiro scroll ---- */
+  function onScroll(){
+    /* 8px já conta como "primeiro scroll" */
+    if(window.pageYOffset > 8) menu.classList.add('floating');
+    else menu.classList.remove('floating');
+  }
+  window.addEventListener('scroll', onScroll, {passive:true});
+  onScroll();
+
+  /* ---- bottom sheet (celular) ---- */
+  function openSheet(){
+    overlay.classList.add('open');
+    sheet.classList.add('open');
+    burger.setAttribute('aria-expanded','true');
+    document.body.style.overflow='hidden';   /* trava o fundo */
+    /* dispara a cascata só no PRÓXIMO frame: assim o navegador registra o
+       estado inicial (itens abaixados) e a transição realmente acontece,
+       em vez de pular direto para o final. */
+    requestAnimationFrame(function(){
+      requestAnimationFrame(function(){ sheet.classList.add('anim'); });
+    });
+  }
+  function closeSheet(){
+    sheet.classList.remove('open');
+    sheet.classList.remove('anim');
+    overlay.classList.remove('open');
+    burger.setAttribute('aria-expanded','false');
+    document.body.style.overflow='';
+  }
+  if(burger) burger.addEventListener('click', function(){
+    sheet.classList.contains('open') ? closeSheet() : openSheet();
+  });
+  if(overlay) overlay.addEventListener('click', closeSheet);
+  var closeBtn=document.getElementById('mrsSheetClose');
+  if(closeBtn) closeBtn.addEventListener('click', closeSheet);
+  /* fecha ao clicar num link ou apertar Esc */
+  sheet.querySelectorAll('a').forEach(function(a){ a.addEventListener('click', closeSheet); });
+  document.addEventListener('keydown', function(e){ if(e.key==='Escape') closeSheet(); });
+})();
+</script>

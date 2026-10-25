@@ -1,0 +1,221 @@
+{
+ "nome": "PÁGINA BARROS E CARVALHO",
+ "slug": "adv-barros-e-carvalho",
+ "pasta_original": "Barros e Carvalho Adv",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://lp.oreidalanding.com.br/barrosecarvalho/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Advocacia",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#F2F2F2",
+   "#203F35",
+   "#E9E9E9",
+   "#5C726B",
+   "#FFFFFF",
+   "#398C71"
+  ],
+  "textos": [
+   "#0E231C",
+   "#FFFFFF",
+   "#A2A2A2"
+  ],
+  "destaques": [
+   "#203F35",
+   "#398C71"
+  ],
+  "gradientes": [
+   "linear-gradient(131deg, rgb(57, 140, 113) 0%, rgb(97, 163, 141) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Roboto",
+   "uso_pct": 69
+  },
+  {
+   "familia": "Roboto Serif",
+   "uso_pct": 28
+  },
+  {
+   "familia": "Sora",
+   "uso_pct": 3
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  42,
+  35,
+  30,
+  28,
+  22,
+  19,
+  18
+ ],
+ "escala_tipografica_mobile_px": [
+  39,
+  25,
+  25,
+  23,
+  22,
+  21,
+  20,
+  20
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#00000000",
+  "gradiente": "linear-gradient(131deg, rgb(57, 140, 113) 0%, rgb(97, 163, 141) 100%)",
+  "texto": "#FFFFFF",
+  "raio": "6px",
+  "padding": "18px 25px",
+  "fonte": "Roboto",
+  "tamanho": "18px",
+  "peso": "500",
+  "caixa": "none",
+  "exemplos": [
+   "Falar com um Advogado(a)",
+   "Consultar Especialista"
+  ]
+ },
+ "raios": [
+  "8px",
+  "6px"
+ ],
+ "sombras": [],
+ "gaps": [
+  "20px",
+  "18px",
+  "13px",
+  "23px"
+ ],
+ "largura_conteudo_px": 1140,
+ "altura_pagina_px": 4762,
+ "secoes_qtde": 9,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "",
+   "fundo": "#398C71",
+   "altura_px": 74
+  },
+  {
+   "ordem": 2,
+   "tipo": "situacoes",
+   "titulo": "Aposentado ou Pensionista? Você pode estar pagando Imposto de Renda indevidament",
+   "fundo": "#203F35",
+   "altura_px": 675
+  },
+  {
+   "ordem": 3,
+   "tipo": "diferenciais",
+   "titulo": "Como saber se eu tenho direito a Isenção de Imposto de Renda?",
+   "fundo": "#F2F2F2",
+   "altura_px": 783
+  },
+  {
+   "ordem": 4,
+   "tipo": "sobre",
+   "titulo": "Por que escolher a Barros e Carvalho Advocacia?",
+   "fundo": "#5C726B",
+   "altura_px": 584
+  },
+  {
+   "ordem": 5,
+   "tipo": "cta-final",
+   "titulo": "Quem somos?",
+   "fundo": "#F2F2F2",
+   "altura_px": 835
+  },
+  {
+   "ordem": 6,
+   "tipo": "faq",
+   "titulo": "ATENDIMENTO ONLINE",
+   "fundo": "#203F35",
+   "altura_px": 455
+  },
+  {
+   "ordem": 7,
+   "tipo": "contato",
+   "titulo": "Perguntas Frequentes",
+   "fundo": "#F2F2F2",
+   "altura_px": 700
+  },
+  {
+   "ordem": 8,
+   "tipo": "rodape",
+   "titulo": "Entre em Contato:",
+   "fundo": "#E9E9E9",
+   "altura_px": 597
+  },
+  {
+   "ordem": 9,
+   "tipo": null,
+   "titulo": "Todos os direitos reservados © 2025",
+   "fundo": "#F2F2F2",
+   "altura_px": 60
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "situacoes",
+  "diferenciais",
+  "sobre",
+  "cta-final",
+  "faq",
+  "contato",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "corporativo",
+  "verde-escuro",
+  "claro",
+  "serifa-nos-titulos"
+ ],
+ "tecnicas": [
+  "Overlay colorido sobre foto de fundo",
+  "Botões com ícone de WhatsApp",
+  "Animação scroll-reveal"
+ ],
+ "animacoes": {
+  "keyframes": [],
+  "entrada_elementor": [],
+  "classes_scroll": [
+   "scroll-bottom",
+   "scroll-left",
+   "scroll-right",
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "google-ads",
+  "happy-addons",
+  "jquery",
+  "lenis",
+  "lottie",
+  "meta-pixel",
+  "swiper"
+ ],
+ "snippets_usados": [
+  "animacoes/animacao-scroll-reveal.html",
+  "cards-e-bordas/vidro-fosco.css",
+  "whatsapp-e-flutuantes/link-whatsapp-com-mensagem.html",
+  "tracking-e-pixels/meta-pixel.html",
+  "tracking-e-pixels/google-ads-gtag.html",
+  "utilitarios-css/css-base-toda-pagina.css",
+  "utilitarios-css/botao-icone-tamanho.css"
+ ],
+ "relevancia": 4,
+ "resumo": "LP de captação de advocacia tributária com identidade verde-escura sóbria. Hero com foto dos dois sócios recortada sobre fundo verde, cards brancos com ícone verde para as situações de direito e seção de diferenciais com 4 cards brancos sobre foto escurecida em verde.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/adv-barros-e-carvalho.md",
+  "json_elementor": "../../../elementor/paginas/captacao/adv-barros-e-carvalho.json"
+ }
+}

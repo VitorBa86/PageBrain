@@ -1,0 +1,309 @@
+{
+ "nome": "Dr. Rogerio Capobianco · Cirurgia Plástica",
+ "slug": "saude-rogerio-capobianco-cirurgia-plastica",
+ "pasta_original": "Dr Rogerio",
+ "origem": "paginas/gerais",
+ "prioridade": "referencia",
+ "url": "https://rogeriocapobianco.com.br/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Saúde / medicina",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#0E0700",
+   "#191919",
+   "#E7E7E7",
+   "#FFFFFF"
+  ],
+  "textos": [
+   "#FFFFFF",
+   "#333333",
+   "#0E0700",
+   "#7A7A7A",
+   "#8A8888",
+   "#F6F6F6"
+  ],
+  "destaques": [
+   "#0E0700",
+   "#FFFFFF"
+  ],
+  "gradientes": [
+   "linear-gradient(rgba(255, 255, 255, 0.03) 0%, rgba(0, 0, 0, 0.65) 100%)",
+   "linear-gradient(rgba(255, 255, 255, 0.02) 0%, rgba(0, 0, 0, 0.51) 100%)",
+   "linear-gradient(90deg, rgb(14, 7, 0) 0%, rgba(255, 255, 255, 0) 60%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Karla",
+   "uso_pct": 80
+  },
+  {
+   "familia": "El Messiri",
+   "uso_pct": 13
+  },
+  {
+   "familia": "Montserrat",
+   "uso_pct": 3
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  74,
+  52,
+  42,
+  39,
+  28,
+  24,
+  20,
+  18
+ ],
+ "escala_tipografica_mobile_px": [
+  40,
+  28,
+  28,
+  24,
+  20,
+  18,
+  16,
+  16
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#02010100",
+  "gradiente": null,
+  "texto": "#FFFFFF",
+  "raio": "0px",
+  "padding": "20px 0px",
+  "fonte": "El Messiri",
+  "tamanho": "20px",
+  "peso": "600",
+  "caixa": "none",
+  "exemplos": [
+   "Quais procedimentos o Dr. Rogério Capobianco realiza?",
+   "O que é Lipo HD e como ela difere de outras técnicas de lipo",
+   "Como é o processo de marcação de consultas e cirurgias?"
+  ]
+ },
+ "raios": [
+  "20px",
+  "50px",
+  "100px",
+  "0px 20px 20px 0px",
+  "10%"
+ ],
+ "sombras": [
+  "rgba(0, 0, 0, 0.16) 0px 3px 15px 0px"
+ ],
+ "gaps": [
+  "20px"
+ ],
+ "largura_conteudo_px": 1140,
+ "altura_pagina_px": 10676,
+ "secoes_qtde": 18,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 85
+  },
+  {
+   "ordem": 2,
+   "tipo": "sobre",
+   "titulo": "Dr. Rogério Capobianco",
+   "fundo": "imagem",
+   "altura_px": 931
+  },
+  {
+   "ordem": 3,
+   "tipo": "servicos",
+   "titulo": "Procedimentos Realizados",
+   "fundo": "transparente",
+   "altura_px": 152
+  },
+  {
+   "ordem": 4,
+   "tipo": "",
+   "titulo": "Mastopexia",
+   "fundo": "transparente",
+   "altura_px": 1027
+  },
+  {
+   "ordem": 5,
+   "tipo": "",
+   "titulo": "Lipoescultura HD",
+   "fundo": "transparente",
+   "altura_px": 849
+  },
+  {
+   "ordem": 6,
+   "tipo": "sobre",
+   "titulo": "Dr. Capobianco",
+   "fundo": "#FFFFFF91",
+   "altura_px": 984
+  },
+  {
+   "ordem": 7,
+   "tipo": "sobre",
+   "titulo": "Fale agora mesmo com a nossa equipe e descubra o procedimento perfeito para a su",
+   "fundo": "#0E0700",
+   "altura_px": 1947
+  },
+  {
+   "ordem": 8,
+   "tipo": "",
+   "titulo": "A melhor experiência em cirurgia plástica para o seu corpo dos sonhos",
+   "fundo": "transparente",
+   "altura_px": 683
+  },
+  {
+   "ordem": 9,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "#040404",
+   "altura_px": 410
+  },
+  {
+   "ordem": 10,
+   "tipo": "",
+   "titulo": "Conquiste resultados incomparáveis com tecnologias avançadas de Cirurgia Plástic",
+   "fundo": "transparente",
+   "altura_px": 554
+  },
+  {
+   "ordem": 11,
+   "tipo": "",
+   "titulo": "Referência Nacional em Cirurgia Plástica Corporal",
+   "fundo": "transparente",
+   "altura_px": 940
+  },
+  {
+   "ordem": 12,
+   "tipo": "sobre",
+   "titulo": "DR. ROGÉRIO CAPOBIANCO NA MÍDIA",
+   "fundo": "#FFFFFF",
+   "altura_px": 374
+  },
+  {
+   "ordem": 13,
+   "tipo": "formulario",
+   "titulo": "FORMULÁRIO",
+   "fundo": "#030303",
+   "altura_px": 301
+  },
+  {
+   "ordem": 14,
+   "tipo": "sobre",
+   "titulo": "Eleve sua beleza com Dr. Rogério Capobianco",
+   "fundo": "#030303",
+   "altura_px": 617
+  },
+  {
+   "ordem": 15,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "#030303",
+   "altura_px": 211
+  },
+  {
+   "ordem": 16,
+   "tipo": "localizacao",
+   "titulo": "Endereço:",
+   "fundo": "#ECECEC",
+   "altura_px": 292
+  },
+  {
+   "ordem": 17,
+   "tipo": "cta-final",
+   "titulo": "Contato",
+   "fundo": "#000000",
+   "altura_px": 352
+  },
+  {
+   "ordem": 18,
+   "tipo": "rodape",
+   "titulo": "© Todos os direitos reservados - 2025",
+   "fundo": "#000000",
+   "altura_px": 51
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "sobre",
+  "servicos",
+  "",
+  "",
+  "sobre",
+  "sobre",
+  "",
+  "",
+  "",
+  "",
+  "sobre",
+  "formulario",
+  "sobre",
+  "",
+  "localizacao",
+  "cta-final",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "preto",
+  "branco",
+  "luxo",
+  "p-e-b"
+ ],
+ "tecnicas": [
+  "Masonry de cards",
+  "Alto contraste P&B"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "aniFade",
+   "aniUp",
+   "blink",
+   "bounce",
+   "bounceIn",
+   "bounceInDown",
+   "bounceInLeft",
+   "bounceInRight",
+   "bounceInUp",
+   "card-animation-left",
+   "card-animation-right",
+   "fade",
+   "fadeIn",
+   "fadeInDown",
+   "fadeInLeft",
+   "fadeInRight",
+   "fadeInUp",
+   "flash",
+   "headShake",
+   "jello"
+  ],
+  "entrada_elementor": [
+   "fadeIn",
+   "fadeInRight"
+  ],
+  "classes_scroll": []
+ },
+ "bibliotecas": [
+  "ga4",
+  "google-ads",
+  "gtm",
+  "jquery",
+  "swiper"
+ ],
+ "snippets_usados": [],
+ "relevancia": 4,
+ "resumo": "Cirurgião de alto padrão em preto e branco: hero com foto P&B dramática, grade masonry de procedimentos com foto e seta, bio com credenciais e ícones, faixa de abas de categorias, depoimentos escuros, números e mosaico final.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": null,
+  "copy_real": null,
+  "json_elementor": null,
+  "ref": "ref/"
+ }
+}

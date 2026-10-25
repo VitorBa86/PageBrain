@@ -1,0 +1,18 @@
+<!--
+  SNIPPET: Container inteiro clicável
+  CATEGORIA: interacoes
+  O QUE FAZ: Faz qualquer elemento com a classe "link-site" abrir um link em nova aba.
+  COMO USAR: Classe "link-site" no container. Troque a URL. Script num widget HTML.
+  ONDE COLAR: Widget HTML
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: paginas/nossas/negocio-hoffen-sports
+  USADO EM: 1 página(s) da casa: negocio-hoffen-sports
+-->
+
+<script>
+document.querySelectorAll(".link-site").forEach(function(el) {
+    el.addEventListener("click", function() {
+        window.open("https://grupohoffen.com.br/", "_blank");
+    });
+});
+</script>

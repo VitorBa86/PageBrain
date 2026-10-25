@@ -1,0 +1,233 @@
+{
+ "nome": "PÁGINA [Psicanalista Rosangela Munhoz]",
+ "slug": "psi-rosangela-munhoz-psicanalista",
+ "pasta_original": "Captura Adv",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://lp.oreidalanding.com.br/munh/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Psicologia",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#FFFFFF",
+   "#2A2540",
+   "#F4F1FF",
+   "#F2F8EF",
+   "#EAE5FA",
+   "#B09FCF",
+   "#C0DCB5"
+  ],
+  "textos": [
+   "#2A2540",
+   "#FFFFFF",
+   "#B09FCF"
+  ],
+  "destaques": [
+   "#B09FCF",
+   "#2A2540"
+  ],
+  "gradientes": []
+ },
+ "fontes": [
+  {
+   "familia": "DM Sans",
+   "uso_pct": 88
+  },
+  {
+   "familia": "Gelasio",
+   "uso_pct": 11
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  120,
+  56,
+  49,
+  40,
+  24,
+  21,
+  20,
+  19,
+  18
+ ],
+ "escala_tipografica_mobile_px": [
+  48,
+  39,
+  34,
+  28,
+  22,
+  18,
+  18,
+  17
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#B09FCF",
+  "gradiente": null,
+  "texto": "#FFFFFF",
+  "raio": "252px",
+  "padding": "20px 50px",
+  "fonte": "Gelasio",
+  "tamanho": "20px",
+  "peso": "500",
+  "caixa": "none",
+  "exemplos": [
+   "AGENDE SESSÃO"
+  ]
+ },
+ "raios": [
+  "6px",
+  "252px",
+  "4px",
+  "228px",
+  "26px"
+ ],
+ "sombras": [
+  "rgba(0, 0, 0, 0.5) 3px 7px 10px 0px"
+ ],
+ "gaps": [
+  "20px",
+  "5px",
+  "10px",
+  "15px",
+  "30px",
+  "34px"
+ ],
+ "largura_conteudo_px": 1240,
+ "altura_pagina_px": 6102,
+ "secoes_qtde": 9,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "menu",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 96
+  },
+  {
+   "ordem": 2,
+   "tipo": "hero",
+   "titulo": "Um espaço de escuta para mulheres atravessando transformações na maternidade.",
+   "fundo": "#2A2540",
+   "altura_px": 800
+  },
+  {
+   "ordem": 3,
+   "tipo": "para-quem-e",
+   "titulo": "A maternidade tem muitas fases,",
+   "fundo": "#FFFFFF",
+   "altura_px": 1215
+  },
+  {
+   "ordem": 4,
+   "tipo": "video",
+   "titulo": "Clique em assistir",
+   "fundo": "#F2F8EF",
+   "altura_px": 550
+  },
+  {
+   "ordem": 5,
+   "tipo": "beneficios",
+   "titulo": "O que esperar da Análise:",
+   "fundo": "#FFFFFF",
+   "altura_px": 795
+  },
+  {
+   "ordem": 6,
+   "tipo": "sobre",
+   "titulo": "Quem vai estar com você nesse processo?",
+   "fundo": "#2B2542",
+   "altura_px": 861
+  },
+  {
+   "ordem": 7,
+   "tipo": "prova-social",
+   "titulo": "O que outras mulheres dizem:",
+   "fundo": "#F4F1FF",
+   "altura_px": 708
+  },
+  {
+   "ordem": 8,
+   "tipo": "faq",
+   "titulo": "FAQ",
+   "fundo": "#FFFFFF",
+   "altura_px": 675
+  },
+  {
+   "ordem": 9,
+   "tipo": "rodape",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 499
+  }
+ ],
+ "tipos_de_secao": [
+  "menu",
+  "hero",
+  "para-quem-e",
+  "video",
+  "beneficios",
+  "sobre",
+  "prova-social",
+  "faq",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "roxo",
+  "lavanda",
+  "salvia",
+  "serifa-italica",
+  "feminino"
+ ],
+ "tecnicas": [
+  "Texto destacado (.destaque)",
+  "IntersectionObserver"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "fadeIn",
+   "fadeInDown"
+  ],
+  "entrada_elementor": [
+   "fadeIn",
+   "fadeInDown"
+  ],
+  "classes_scroll": [
+   "scroll-bottom",
+   "scroll-left",
+   "scroll-right",
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "google-ads",
+  "happy-addons",
+  "jquery",
+  "lenis",
+  "lottie",
+  "meta-pixel",
+  "swiper"
+ ],
+ "snippets_usados": [
+  "animacoes/animacao-scroll-reveal.html",
+  "animacoes/animacao-scroll-reveal-blur.css",
+  "animacoes/linha-que-cresce-ao-aparecer.html",
+  "rodapes/rodape-marca-dagua-rosangela.html",
+  "whatsapp-e-flutuantes/link-whatsapp-com-mensagem.html",
+  "tracking-e-pixels/meta-pixel.html",
+  "tracking-e-pixels/google-ads-gtag.html",
+  "utilitarios-css/css-base-toda-pagina.css",
+  "utilitarios-css/faq-toggle-arredondado.css"
+ ],
+ "relevancia": 5,
+ "resumo": "Psicanálise para mães, em roxo profundo, lavanda e sálvia. Cards de fase da maternidade com foto, vídeo, 4 etapas com número em círculo ligadas por linha animada, 'sobre' com duas fotos e depoimentos com aspas.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/psi-rosangela-munhoz-psicanalista.md",
+  "json_elementor": "../../../elementor/paginas/captacao/psi-rosangela-munhoz-psicanalista.json"
+ }
+}

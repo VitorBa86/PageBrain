@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>PageBrain · Style guide · psi-graziela-ferraz-braz</title>
+
+<style>
+:root{--bg:#f5f4f0;--fg:#1b1b1a;--mut:#6d6b66;--card:#fff;--line:#e2dfd7}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+header{padding:28px 20px 18px;border-bottom:1px solid var(--line);background:#fff}header h1{margin:0 0 6px;font-size:26px}
+.wrap{max-width:1200px;margin:auto;padding:0 20px}
+nav{position:sticky;top:0;background:#fffe;backdrop-filter:blur(6px);border-bottom:1px solid var(--line);z-index:5}nav .wrap{display:flex;gap:14px;overflow-x:auto;padding:10px 20px}nav a{color:var(--fg);font-size:13px;white-space:nowrap;text-decoration:none}
+section{padding:30px 0;border-bottom:1px solid var(--line)}h2{font-size:20px;margin:0 0 14px}code{font-size:12px;color:var(--mut);word-break:break-word}
+.badge{display:inline-block;font-size:12px;border:1px solid var(--line);border-radius:99px;padding:2px 10px;margin-right:6px}.badge.hi{border-color:#1f7a4d;color:#1f7a4d;font-weight:600}.tag{display:inline-block;font-size:12px;background:#eceae3;border-radius:6px;padding:2px 8px;margin:2px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px}.sw .chip{height:84px;border-radius:10px;display:flex;align-items:flex-end;padding:8px;font:600 13px ui-monospace,monospace;border:1px solid #0001}.sw .cap{font-size:12px;margin-top:4px}
+.grad{height:70px;border-radius:10px;margin-bottom:8px;display:flex;align-items:flex-end;padding:6px}.grad code{background:#fffc;border-radius:4px;padding:2px 4px}
+.fam{background:#fff;border:1px solid var(--line);border-radius:10px;padding:14px;margin-bottom:10px}.fam-s{font-size:28px}
+table{width:100%;border-collapse:collapse;background:#fff;border-radius:10px;overflow:hidden}td,th{border-bottom:1px solid var(--line);padding:8px;text-align:left;vertical-align:middle;font-size:13px}
+.btnrow{display:flex;flex-wrap:wrap;gap:14px;align-items:center;background:#fff;border:1px solid var(--line);border-radius:10px;padding:18px;margin-bottom:10px}.btnrow:nth-child(even){background:#2a2a2a}.btnrow:nth-child(even) code{color:#bbb}.demo-btn{text-decoration:none;cursor:pointer}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px;background:#e9e7e1;padding:18px;border-radius:12px}.card-demo p{margin:6px 0;font-size:13px}.card-demo code{color:inherit;opacity:.7}
+.rbox{width:110px;height:80px;background:#fff;border:2px solid #333;display:flex;align-items:center;justify-content:center;font:12px monospace}.rrow{display:flex;gap:12px;flex-wrap:wrap}
+.sbox{background:#fff;border-radius:12px;padding:18px;min-height:90px;margin:0 0 18px}
+.strip{display:flex;align-items:center;gap:8px;padding:0 12px;font-size:12px;border-bottom:1px solid #0002;overflow:hidden;white-space:nowrap}.strip small{opacity:.75;margin-left:auto}
+.imgs{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px}figure{margin:0;background:#fff;border-radius:8px;overflow:hidden;border:1px solid var(--line)}figure img{width:100%;height:120px;object-fit:cover;display:block}figcaption{font-size:11px;padding:4px 6px;color:var(--mut)}
+.shot{width:100%;max-width:520px;border:1px solid var(--line);border-radius:8px;display:block}.two{display:grid;grid-template-columns:1fr 1fr;gap:24px}@media(max-width:800px){.two{grid-template-columns:1fr}}
+ul{margin:0;padding-left:18px}
+</style></head><body>
+<header><div class="wrap"><div style="font:600 12px system-ui;letter-spacing:.12em;text-transform:uppercase;color:#6d6b66;margin-bottom:8px">PageBrain · Style guide</div><span class="badge">Referência externa</span><span class="badge">Psicologia</span>
+<h1>psi-graziela-ferraz-braz</h1>
+<div><code>https://psigrazielaferrazbraz.com.br/</code> · pasta original: <code>Psi Graziele</code></div>
+<p>Psicóloga junguiana minimalista em verde sálvia: serifa com itálico sublinhado, foto em card arredondado, bio com foto ambiente, cards de especialidade, lista do que se transforma, 4 passos e formulário de contato que envia para o WhatsApp.</p><div><span class="tag">verde-salvia</span><span class="tag">off-white</span><span class="tag">serifa-italica</span><span class="tag">minimalista</span></div>
+<p><a href="como-usar.md">como-usar.md</a> · <a href="ficha.json">ficha.json</a> · <a href="https://psigrazielaferrazbraz.com.br/" target="_blank" rel="noopener">abrir o site original</a> · <a href="print.jpg">print completo</a></p></div></header>
+<nav><div class="wrap"><a href="#paleta">Paleta</a><a href="#tipografia">Tipografia</a><a href="#botoes">Botões</a><a href="#cards">Cards</a><a href="#raios">Bordas e sombras</a><a href="#espacos">Espaçamentos</a><a href="#estrutura">Estrutura</a><a href="#animacoes">Animações e ícones</a><a href="#imagens">Imagens</a></div></nav>
+<main class="wrap">
+<section id="paleta"><h2>Paleta de cores</h2><p><small>Medida no navegador: fundos ponderados pela área ocupada, textos pela quantidade de caracteres. Destaques reúnem cores saturadas e fundos de botão.</small></p>
+<h3>Fundos</h3><div class="grid"></div><h3>Textos</h3><div class="grid"></div><h3>Destaques</h3><div class="grid"></div>
+</section>
+<section id="tipografia"><h2>Tipografia</h2>
+<h3>Escala usada (desktop 1440px)</h3><table><tr><th>Tamanho</th><th>Peso</th><th>Família</th><th>Amostra</th></tr></table>
+<p><b>Mobile (390px):</b>  · H1 no mobile: sem h1 semântico</p>
+<h3>Tags</h3><table><tr><th>Tag</th><th>Família</th><th>Tamanho</th><th>Peso</th><th>Altura de linha</th><th>Espaçamento</th><th>Caixa</th><th>Cor</th></tr></table></section>
+<section id="botoes"><h2>Botões</h2><p><small>Recriados com os estilos computados reais. Efeitos de hover e animação não aparecem aqui; veja a seção de animações.</small></p><p>Nenhum botão identificado.</p></section>
+<section id="cards"><h2>Cards e containers</h2><div class="cards"><p>Nenhum card identificado.</p></div></section>
+<section id="raios"><h2>Bordas, raios e sombras</h2><div class="rrow"></div><h3>Sombras</h3><p>Sem sombras relevantes.</p></section>
+<section id="espacos"><h2>Espaçamentos</h2><ul><li>Largura do conteúdo mais comum: <b>-px</b></li><li>Padding vertical das seções (topo/base): </li><li>Gaps mais usados (flex/grid): -</li><li>Altura total da página: 900px em 0 seções</li></ul></section>
+<section id="estrutura"><h2>Estrutura e ritmo de cores das seções</h2><p><small>Cada faixa é uma seção de topo, com altura proporcional e a cor ou imagem de fundo real.</small></p><div class="two"><div></div><div><a href="print.jpg" target="_blank"><img class="shot" src="print.jpg" alt="Print da página inteira"></a></div></div></section>
+<section id="animacoes"><h2>Animações, ícones e bibliotecas</h2><ul><li>Keyframes próprios: accordion-down, accordion-up, enter, exit, pulse, spin</li><li>Animações de entrada do Elementor: nenhuma</li><li>Classes de scroll reveal da casa: nenhuma</li><li>Ícones: 0 SVG, 0 ícones de fonte</li><li>Bibliotecas e tags detectadas: google-ads</li></ul>
+<h3>Snippets da biblioteca presentes nesta página</h3><ul><li>Nenhum snippet da biblioteca identificado.</li></ul></section>
+<section id="imagens"><h2>Imagens do site</h2><div class="imgs"><p>Sem imagens locais identificadas.</p></div></section>
+</main></body></html>

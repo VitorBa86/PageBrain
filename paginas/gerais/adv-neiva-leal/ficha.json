@@ -1,0 +1,337 @@
+{
+ "nome": "Advogado BH, Escritório de Advocacia BH | Neiva Leal",
+ "slug": "adv-neiva-leal",
+ "pasta_original": "Neiva Adv",
+ "origem": "paginas/gerais",
+ "prioridade": "referencia",
+ "url": "https://neivaleal.com.br/",
+ "plataforma": "WordPress",
+ "nicho": "Advocacia",
+ "tipo_pagina": "institucional",
+ "paleta": {
+  "fundos": [
+   "#2D415C",
+   "#F2F2F2",
+   "#FFFFFF",
+   "#EDE5DA",
+   "#000000",
+   "#333333",
+   "#121212"
+  ],
+  "textos": [
+   "#141414",
+   "#FFFFFF",
+   "#212529",
+   "#F2F2F2",
+   "#2D415C",
+   "#EDE5DA"
+  ],
+  "destaques": [
+   "#FFFFFF",
+   "#2D415C",
+   "#5FA533"
+  ],
+  "gradientes": []
+ },
+ "fontes": [
+  {
+   "familia": "Outfit",
+   "uso_pct": 100
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  48,
+  36,
+  35,
+  24,
+  20,
+  18,
+  16,
+  15
+ ],
+ "escala_tipografica_mobile_px": [
+  35,
+  25,
+  24,
+  18,
+  16,
+  16,
+  15,
+  14
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#00000000",
+  "gradiente": null,
+  "texto": "#777777",
+  "raio": "100px",
+  "padding": "10px 20px",
+  "fonte": "Outfit",
+  "tamanho": "16px",
+  "peso": "400",
+  "caixa": "none",
+  "exemplos": [
+   "Saiba mais",
+   "Ver todas",
+   "Contato"
+  ]
+ },
+ "raios": [
+  "100px",
+  "10px 10px 0px 0px",
+  "6px",
+  "0px 0px 5px 5px",
+  "5px",
+  "15px"
+ ],
+ "sombras": [
+  "rgba(37, 211, 102, 0.35) 0px 4px 16px 0px"
+ ],
+ "gaps": [],
+ "largura_conteudo_px": null,
+ "altura_pagina_px": 17844,
+ "secoes_qtde": 22,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "Soluções Jurídicas",
+   "fundo": "transparente",
+   "altura_px": 785
+  },
+  {
+   "ordem": 2,
+   "tipo": "sobre",
+   "titulo": "POR QUE ESCOLHER O NEIVA & LEAL ADVOGADOS?",
+   "fundo": "#EDE5DA",
+   "altura_px": 968
+  },
+  {
+   "ordem": 3,
+   "tipo": "sobre",
+   "titulo": "Nossos advogados",
+   "fundo": "transparente",
+   "altura_px": 987
+  },
+  {
+   "ordem": 4,
+   "tipo": "cta-final",
+   "titulo": "Precisa de orientação jurídica agora mesmo?",
+   "fundo": "imagem",
+   "altura_px": 634
+  },
+  {
+   "ordem": 5,
+   "tipo": "blog",
+   "titulo": "Fique por dentro",
+   "fundo": "transparente",
+   "altura_px": 795
+  },
+  {
+   "ordem": 6,
+   "tipo": "faq",
+   "titulo": "Perguntas frequentes",
+   "fundo": "#F8F9FA",
+   "altura_px": 681
+  },
+  {
+   "ordem": 7,
+   "tipo": "sobre",
+   "titulo": "Advogado BH: Neiva & Leal Advogados em Belo Horizonte",
+   "fundo": "#2D415C",
+   "altura_px": 618
+  },
+  {
+   "ordem": 8,
+   "tipo": "",
+   "titulo": "Escritório de advocacia em Belo Horizonte",
+   "fundo": "#F2F2F2",
+   "altura_px": 610
+  },
+  {
+   "ordem": 9,
+   "tipo": "sobre",
+   "titulo": "Áreas de atuação da Neiva & Leal Advogados",
+   "fundo": "#2D415C",
+   "altura_px": 698
+  },
+  {
+   "ordem": 10,
+   "tipo": "sobre",
+   "titulo": "Advogado contencioso empresarial",
+   "fundo": "#F2F2F2",
+   "altura_px": 743
+  },
+  {
+   "ordem": 11,
+   "tipo": "",
+   "titulo": "Direito Imobiliário em Belo Horizonte",
+   "fundo": "#2D415C",
+   "altura_px": 752
+  },
+  {
+   "ordem": 12,
+   "tipo": "",
+   "titulo": "Direito do Trabalho empresarial",
+   "fundo": "#F2F2F2",
+   "altura_px": 736
+  },
+  {
+   "ordem": 13,
+   "tipo": "",
+   "titulo": "Direito Tributário",
+   "fundo": "#2D415C",
+   "altura_px": 647
+  },
+  {
+   "ordem": 14,
+   "tipo": "",
+   "titulo": "Planejamento tributário",
+   "fundo": "#F2F2F2",
+   "altura_px": 929
+  },
+  {
+   "ordem": 15,
+   "tipo": "",
+   "titulo": "Contratos empresariais",
+   "fundo": "#2D415C",
+   "altura_px": 1065
+  },
+  {
+   "ordem": 16,
+   "tipo": "",
+   "titulo": "Advocacia consultiva",
+   "fundo": "#F2F2F2",
+   "altura_px": 721
+  },
+  {
+   "ordem": 17,
+   "tipo": "",
+   "titulo": "A importância da análise jurídica nas decisões empresariais",
+   "fundo": "#2D415C",
+   "altura_px": 596
+  },
+  {
+   "ordem": 18,
+   "tipo": "sobre",
+   "titulo": "Advogado BH para questões empresariais e patrimoniais",
+   "fundo": "#F2F2F2",
+   "altura_px": 596
+  },
+  {
+   "ordem": 19,
+   "tipo": "servicos",
+   "titulo": "Atuação jurídica em Belo Horizonte",
+   "fundo": "#2D415C",
+   "altura_px": 769
+  },
+  {
+   "ordem": 20,
+   "tipo": "faq",
+   "titulo": "Dúvidas frequentes sobre Advogado BH e advocacia empresarial",
+   "fundo": "#F2F2F2",
+   "altura_px": 740
+  },
+  {
+   "ordem": 21,
+   "tipo": "sobre",
+   "titulo": "Neiva & Leal Advogados em Belo Horizonte",
+   "fundo": "#2D415C",
+   "altura_px": 626
+  },
+  {
+   "ordem": 22,
+   "tipo": "rodape",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 450
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "sobre",
+  "sobre",
+  "cta-final",
+  "blog",
+  "faq",
+  "sobre",
+  "",
+  "sobre",
+  "sobre",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "sobre",
+  "servicos",
+  "faq",
+  "sobre",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "navy",
+  "bege",
+  "institucional",
+  "seo"
+ ],
+ "tecnicas": [
+  "Conteúdo SEO longo"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "cfCaptchaFadeIn",
+   "cfCaptchaShine",
+   "cia-pulse",
+   "cia-spin",
+   "ciaSlideUp",
+   "f-classicInNext",
+   "f-classicInPrev",
+   "f-classicOutNext",
+   "f-classicOutPrev",
+   "f-crossfadeIn",
+   "f-crossfadeOut",
+   "f-fadeFastIn",
+   "f-fadeFastOut",
+   "f-fadeIn",
+   "f-fadeOut",
+   "f-fadeSlowIn",
+   "f-fadeSlowOut",
+   "f-slideInNext",
+   "f-slideInPrev",
+   "f-slideOutNext",
+   "f-slideOutPrev",
+   "f-spinner-dash",
+   "f-spinner-rotate",
+   "f-throwOutDown",
+   "f-throwOutUp",
+   "f-zoomInUp",
+   "f-zoomOutDown",
+   "icofont-spin"
+  ],
+  "entrada_elementor": [],
+  "classes_scroll": []
+ },
+ "bibliotecas": [
+  "ga4",
+  "google-ads",
+  "gtm",
+  "jquery",
+  "meta-pixel",
+  "swiper"
+ ],
+ "snippets_usados": [],
+ "relevancia": 2,
+ "resumo": "Escritório de BH com site institucional e muito texto de SEO no fim. Bloco 'por que escolher' sobre foto com 6 ícones, cards de sócios e blog.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": null,
+  "copy_real": null,
+  "json_elementor": null,
+  "ref": "ref/"
+ }
+}

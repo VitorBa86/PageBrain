@@ -1,0 +1,1435 @@
+{
+  "sourceUrl": "https://hoffensports.com.br/",
+  "finalUrl": "https://hoffensports.com.br/",
+  "mode": "static",
+  "platform": "WordPress + Elementor",
+  "durationMs": 4884,
+  "fileCount": 203,
+  "totalBytes": 6138432,
+  "counts": {
+    "css": 33,
+    "js": 19,
+    "img": 105,
+    "font": 45,
+    "media": 0,
+    "other": 0,
+    "failed": 0
+  },
+  "warnings": [],
+  "assets": [
+    {
+      "url": "https://hoffensports.com.br/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.6.3",
+      "kind": "css",
+      "localPath": "assets/css/frontend-d181ddc5.css",
+      "status": "ok",
+      "bytes": 50177
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.9",
+      "kind": "css",
+      "localPath": "assets/css/reset-30a012c2.css",
+      "status": "ok",
+      "bytes": 5496
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.9",
+      "kind": "css",
+      "localPath": "assets/css/theme-f12c47a1.css",
+      "status": "ok",
+      "bytes": 5097
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.9",
+      "kind": "css",
+      "localPath": "assets/css/header-footer-cafd3ff3.css",
+      "status": "ok",
+      "bytes": 7182
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/elementor/css/custom-frontend.min.css?ver=1791315956",
+      "kind": "css",
+      "localPath": "assets/css/custom-frontend.min-eab6ce53.css",
+      "status": "ok",
+      "bytes": 54838
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/elementor/css/post-6.css?ver=1791315956",
+      "kind": "css",
+      "localPath": "assets/css/post-6-5cb40977.css",
+      "status": "ok",
+      "bytes": 1433
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.1.4",
+      "kind": "css",
+      "localPath": "assets/css/widget-image.min-544a12d6.css",
+      "status": "ok",
+      "bytes": 214
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/elementor/css/custom-pro-widget-nav-menu.min.css?ver=1791315956",
+      "kind": "css",
+      "localPath": "assets/css/custom-pro-widget-nav-menu.min-36dbec60.css",
+      "status": "ok",
+      "bytes": 27321
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInDown.min.css?ver=4.1.4",
+      "kind": "css",
+      "localPath": "assets/css/fadeInDown.min-d00b3857.css",
+      "status": "ok",
+      "bytes": 137
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.1.4",
+      "kind": "css",
+      "localPath": "assets/css/widget-heading.min-0ae09a12.css",
+      "status": "ok",
+      "bytes": 560
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/fadeIn.min.css?ver=4.1.4",
+      "kind": "css",
+      "localPath": "assets/css/fadeIn.min-176bb15c.css",
+      "status": "ok",
+      "bytes": 77
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css?ver=4.1.4",
+      "kind": "css",
+      "localPath": "assets/css/fadeInUp.min-2acd7255.css",
+      "status": "ok",
+      "bytes": 130
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/elementor/css/custom-widget-image-box.min.css?ver=1791315956",
+      "kind": "css",
+      "localPath": "assets/css/custom-widget-image-box.min-60781038.css",
+      "status": "ok",
+      "bytes": 1657
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/plugins/elementor/assets/css/widget-google_maps.min.css?ver=4.1.4",
+      "kind": "css",
+      "localPath": "assets/css/widget-google_maps.min-fa923423.css",
+      "status": "ok",
+      "bytes": 261
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/elementor/css/custom-widget-icon-list.min.css?ver=1791315956",
+      "kind": "css",
+      "localPath": "assets/css/custom-widget-icon-list.min-37d33c5a.css",
+      "status": "ok",
+      "bytes": 10282
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/plugins/pro-elements/assets/css/modules/sticky.min.css?ver=4.1.0",
+      "kind": "css",
+      "localPath": "assets/css/sticky.min-c53048b1.css",
+      "status": "ok",
+      "bytes": 163
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/plugins/pro-elements/assets/css/widget-lottie.min.css?ver=4.1.0",
+      "kind": "css",
+      "localPath": "assets/css/widget-lottie.min-b0cc53ff.css",
+      "status": "ok",
+      "bytes": 545
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/elementor/css/post-39.css?ver=1791327752",
+      "kind": "css",
+      "localPath": "assets/css/post-39-e7a24b06.css",
+      "status": "ok",
+      "bytes": 92095
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/elementor/css/post-90.css?ver=1791315957",
+      "kind": "css",
+      "localPath": "assets/css/post-90-7ee7d014.css",
+      "status": "ok",
+      "bytes": 5103
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/elementor/css/base-desktop.css?ver=6ac54ff52c472",
+      "kind": "css",
+      "localPath": "assets/css/base-desktop-3cfe88b0.css",
+      "status": "ok",
+      "bytes": 5422
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "kind": "css",
+      "localPath": "assets/css/css-85c5c2b0.css",
+      "status": "ok",
+      "bytes": 98073
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Roboto+Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "kind": "css",
+      "localPath": "assets/css/css-ec7864c0.css",
+      "status": "ok",
+      "bytes": 21168
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Exo+2:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "kind": "css",
+      "localPath": "assets/css/css-9102e35f.css",
+      "status": "ok",
+      "bytes": 31383
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "kind": "css",
+      "localPath": "assets/css/css-40d2b044.css",
+      "status": "ok",
+      "bytes": 32427
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/cropped-Novo-Projeto-1-32x32.png",
+      "kind": "img",
+      "localPath": "assets/img/cropped-Novo-Projeto-1-32x32-97cc6702.png",
+      "status": "ok",
+      "bytes": 793
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/cropped-Novo-Projeto-1-192x192.png",
+      "kind": "img",
+      "localPath": "assets/img/cropped-Novo-Projeto-1-192x192-a88912b0.png",
+      "status": "ok",
+      "bytes": 5365
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/cropped-Novo-Projeto-1-180x180.png",
+      "kind": "img",
+      "localPath": "assets/img/cropped-Novo-Projeto-1-180x180-be2272cf.png",
+      "status": "ok",
+      "bytes": 4947
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/elementor/css/post-82.css?ver=1791353113",
+      "kind": "css",
+      "localPath": "assets/css/post-82-cfe35285.css",
+      "status": "ok",
+      "bytes": 5160
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5",
+      "kind": "css",
+      "localPath": "assets/css/swiper.min-bbb1df56.css",
+      "status": "ok",
+      "bytes": 16471
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=4.1.4",
+      "kind": "css",
+      "localPath": "assets/css/e-swiper.min-aa7153dd.css",
+      "status": "ok",
+      "bytes": 5486
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css?ver=4.1.4",
+      "kind": "css",
+      "localPath": "assets/css/widget-image-carousel.min-a21ba364.css",
+      "status": "ok",
+      "bytes": 342
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/plugins/pro-elements/assets/css/conditionals/popup.min.css?ver=4.1.0",
+      "kind": "css",
+      "localPath": "assets/css/popup.min-8a25bf36.css",
+      "status": "ok",
+      "bytes": 996
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/elementor/css/post-205.css?ver=1791353113",
+      "kind": "css",
+      "localPath": "assets/css/post-205-dc12bfd1.css",
+      "status": "ok",
+      "bytes": 5189
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/elementor/css/post-207.css?ver=1791353113",
+      "kind": "css",
+      "localPath": "assets/css/post-207-33015aa4.css",
+      "status": "ok",
+      "bytes": 5187
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/elementor/css/post-209.css?ver=1791353113",
+      "kind": "css",
+      "localPath": "assets/css/post-209-7f551b25.css",
+      "status": "ok",
+      "bytes": 5194
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/elementor/css/post-99.css?ver=1791315958",
+      "kind": "css",
+      "localPath": "assets/css/post-99-a19586c5.css",
+      "status": "ok",
+      "bytes": 3668
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/logo-hoffen-sports-claro.png",
+      "kind": "img",
+      "localPath": "assets/img/logo-hoffen-sports-claro-8a69b656.png",
+      "status": "ok",
+      "bytes": 27305
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/logo-hoffen-sports-claro-300x193.png",
+      "kind": "img",
+      "localPath": "assets/img/logo-hoffen-sports-claro-300x193-3517447d.png",
+      "status": "ok",
+      "bytes": 17175
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/image_1-sports.webp",
+      "kind": "img",
+      "localPath": "assets/img/image_1-sports-ff19d00a.webp",
+      "status": "ok",
+      "bytes": 214122
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/image_1-sports-300x141.webp",
+      "kind": "img",
+      "localPath": "assets/img/image_1-sports-300x141-4fa52f28.webp",
+      "status": "ok",
+      "bytes": 9846
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/image_1-sports-1024x480.webp",
+      "kind": "img",
+      "localPath": "assets/img/image_1-sports-1024x480-77d5efcc.webp",
+      "status": "ok",
+      "bytes": 57234
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/image_1-sports-768x360.webp",
+      "kind": "img",
+      "localPath": "assets/img/image_1-sports-768x360-569db955.webp",
+      "status": "ok",
+      "bytes": 38658
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/image_1-sports-1536x720.webp",
+      "kind": "img",
+      "localPath": "assets/img/image_1-sports-1536x720-92f6e5b6.webp",
+      "status": "ok",
+      "bytes": 99224
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/hoffen-sports-logo_Prancheta-1-copia-5.webp",
+      "kind": "img",
+      "localPath": "assets/img/hoffen-sports-logo_Prancheta-1-copia-5-43ace949.webp",
+      "status": "ok",
+      "bytes": 12466
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/hoffen-sports-logo_Prancheta-1-copia-5-300x193.webp",
+      "kind": "img",
+      "localPath": "assets/img/hoffen-sports-logo_Prancheta-1-copia-5-300x193-d5914c4b.webp",
+      "status": "ok",
+      "bytes": 11176
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/camada_7_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/camada_7_1_1x-9be755fd.webp",
+      "status": "ok",
+      "bytes": 14074
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/camada_8_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/camada_8_1_1x-bb1ceb8f.webp",
+      "status": "ok",
+      "bytes": 13656
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/camada_9_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/camada_9_1_1x-b89bd4e8.webp",
+      "status": "ok",
+      "bytes": 7752
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/camada_10_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/camada_10_1_1x-7466a666.webp",
+      "status": "ok",
+      "bytes": 10364
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/camada_11_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/camada_11_1_1x-ddfa0d5a.webp",
+      "status": "ok",
+      "bytes": 9656
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/camada_12_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/camada_12_1_1x-0d86da06.webp",
+      "status": "ok",
+      "bytes": 10502
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/torre_de_barra1_1_1x-1024x1024.webp",
+      "kind": "img",
+      "localPath": "assets/img/torre_de_barra1_1_1x-1024x1024-b36369eb.webp",
+      "status": "ok",
+      "bytes": 30968
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/torre_de_barra1_1_1x-300x300.webp",
+      "kind": "img",
+      "localPath": "assets/img/torre_de_barra1_1_1x-300x300-3736c5d6.webp",
+      "status": "ok",
+      "bytes": 6906
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/torre_de_barra1_1_1x-150x150.webp",
+      "kind": "img",
+      "localPath": "assets/img/torre_de_barra1_1_1x-150x150-eac7d31a.webp",
+      "status": "ok",
+      "bytes": 3342
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/torre_de_barra1_1_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/torre_de_barra1_1_1x-768x768-af3bbc78.webp",
+      "status": "ok",
+      "bytes": 21752
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/torre_de_barra1_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/torre_de_barra1_1_1x-56b82d58.webp",
+      "status": "ok",
+      "bytes": 42616
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/triceps_france_s_articulado1_1_1x-1024x1024.webp",
+      "kind": "img",
+      "localPath": "assets/img/triceps_france_s_articulado1_1_1x-1024x1024-0c70043b.webp",
+      "status": "ok",
+      "bytes": 27592
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/triceps_france_s_articulado1_1_1x-300x300.webp",
+      "kind": "img",
+      "localPath": "assets/img/triceps_france_s_articulado1_1_1x-300x300-9dc104a4.webp",
+      "status": "ok",
+      "bytes": 6370
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/triceps_france_s_articulado1_1_1x-150x150.webp",
+      "kind": "img",
+      "localPath": "assets/img/triceps_france_s_articulado1_1_1x-150x150-640b593a.webp",
+      "status": "ok",
+      "bytes": 2966
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/triceps_france_s_articulado1_1_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/triceps_france_s_articulado1_1_1x-768x768-55e9e31e.webp",
+      "status": "ok",
+      "bytes": 19862
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/triceps_france_s_articulado1_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/triceps_france_s_articulado1_1_1x-bed905ed.webp",
+      "status": "ok",
+      "bytes": 41242
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/remada_articulada2_1_1x-1024x1024.webp",
+      "kind": "img",
+      "localPath": "assets/img/remada_articulada2_1_1x-1024x1024-bdfc17f8.webp",
+      "status": "ok",
+      "bytes": 32836
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/remada_articulada2_1_1x-300x300.webp",
+      "kind": "img",
+      "localPath": "assets/img/remada_articulada2_1_1x-300x300-7c39f3d5.webp",
+      "status": "ok",
+      "bytes": 7780
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/remada_articulada2_1_1x-150x150.webp",
+      "kind": "img",
+      "localPath": "assets/img/remada_articulada2_1_1x-150x150-74ea1d21.webp",
+      "status": "ok",
+      "bytes": 3602
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/remada_articulada2_1_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/remada_articulada2_1_1x-768x768-e0c81f16.webp",
+      "status": "ok",
+      "bytes": 23382
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/remada_articulada2_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/remada_articulada2_1_1x-2811d4d6.webp",
+      "status": "ok",
+      "bytes": 48042
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/banco_articulado1_1_1x-1024x1024.webp",
+      "kind": "img",
+      "localPath": "assets/img/banco_articulado1_1_1x-1024x1024-472f8317.webp",
+      "status": "ok",
+      "bytes": 19752
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/banco_articulado1_1_1x-300x300.webp",
+      "kind": "img",
+      "localPath": "assets/img/banco_articulado1_1_1x-300x300-7a93c97c.webp",
+      "status": "ok",
+      "bytes": 4448
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/banco_articulado1_1_1x-150x150.webp",
+      "kind": "img",
+      "localPath": "assets/img/banco_articulado1_1_1x-150x150-00d4c48f.webp",
+      "status": "ok",
+      "bytes": 2174
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/banco_articulado1_1_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/banco_articulado1_1_1x-768x768-fc0e0c13.webp",
+      "status": "ok",
+      "bytes": 13830
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/banco_articulado1_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/banco_articulado1_1_1x-eea6306c.webp",
+      "status": "ok",
+      "bytes": 29044
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/elevac_a_o_pelvica2_1_1x-1024x1024.webp",
+      "kind": "img",
+      "localPath": "assets/img/elevac_a_o_pelvica2_1_1x-1024x1024-86aa6b1b.webp",
+      "status": "ok",
+      "bytes": 28436
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/elevac_a_o_pelvica2_1_1x-300x300.webp",
+      "kind": "img",
+      "localPath": "assets/img/elevac_a_o_pelvica2_1_1x-300x300-ede18583.webp",
+      "status": "ok",
+      "bytes": 5878
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/elevac_a_o_pelvica2_1_1x-150x150.webp",
+      "kind": "img",
+      "localPath": "assets/img/elevac_a_o_pelvica2_1_1x-150x150-706bca99.webp",
+      "status": "ok",
+      "bytes": 2694
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/elevac_a_o_pelvica2_1_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/elevac_a_o_pelvica2_1_1x-768x768-3a8a4286.webp",
+      "status": "ok",
+      "bytes": 19470
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/elevac_a_o_pelvica2_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/elevac_a_o_pelvica2_1_1x-7908b8d5.webp",
+      "status": "ok",
+      "bytes": 43134
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/banco_panturilha_sentado2_1_1x-1024x1024.webp",
+      "kind": "img",
+      "localPath": "assets/img/banco_panturilha_sentado2_1_1x-1024x1024-af6d1e4a.webp",
+      "status": "ok",
+      "bytes": 21940
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/banco_panturilha_sentado2_1_1x-300x300.webp",
+      "kind": "img",
+      "localPath": "assets/img/banco_panturilha_sentado2_1_1x-300x300-104974c3.webp",
+      "status": "ok",
+      "bytes": 5770
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/banco_panturilha_sentado2_1_1x-150x150.webp",
+      "kind": "img",
+      "localPath": "assets/img/banco_panturilha_sentado2_1_1x-150x150-bfeb5729.webp",
+      "status": "ok",
+      "bytes": 2972
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/banco_panturilha_sentado2_1_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/banco_panturilha_sentado2_1_1x-768x768-a55427b4.webp",
+      "status": "ok",
+      "bytes": 15870
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/banco_panturilha_sentado2_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/banco_panturilha_sentado2_1_1x-00263274.webp",
+      "status": "ok",
+      "bytes": 30448
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/extensora_maquina4_1_1x-1024x1024.webp",
+      "kind": "img",
+      "localPath": "assets/img/extensora_maquina4_1_1x-1024x1024-2ded2990.webp",
+      "status": "ok",
+      "bytes": 24724
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/extensora_maquina4_1_1x-300x300.webp",
+      "kind": "img",
+      "localPath": "assets/img/extensora_maquina4_1_1x-300x300-afccf707.webp",
+      "status": "ok",
+      "bytes": 5772
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/extensora_maquina4_1_1x-150x150.webp",
+      "kind": "img",
+      "localPath": "assets/img/extensora_maquina4_1_1x-150x150-c35792ec.webp",
+      "status": "ok",
+      "bytes": 2784
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/extensora_maquina4_1_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/extensora_maquina4_1_1x-768x768-423cf569.webp",
+      "status": "ok",
+      "bytes": 17644
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/extensora_maquina4_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/extensora_maquina4_1_1x-b713b15d.webp",
+      "status": "ok",
+      "bytes": 37154
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/flexora_maquina4_1_1x-1024x1024.webp",
+      "kind": "img",
+      "localPath": "assets/img/flexora_maquina4_1_1x-1024x1024-ca60380a.webp",
+      "status": "ok",
+      "bytes": 25194
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/flexora_maquina4_1_1x-300x300.webp",
+      "kind": "img",
+      "localPath": "assets/img/flexora_maquina4_1_1x-300x300-a2c410e2.webp",
+      "status": "ok",
+      "bytes": 5684
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/flexora_maquina4_1_1x-150x150.webp",
+      "kind": "img",
+      "localPath": "assets/img/flexora_maquina4_1_1x-150x150-e582d2b6.webp",
+      "status": "ok",
+      "bytes": 2644
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/flexora_maquina4_1_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/flexora_maquina4_1_1x-768x768-154052a0.webp",
+      "status": "ok",
+      "bytes": 18200
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/flexora_maquina4_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/flexora_maquina4_1_1x-4fadd63d.webp",
+      "status": "ok",
+      "bytes": 39496
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/supino_articulado_inclinado2_1_1x-1024x1024.webp",
+      "kind": "img",
+      "localPath": "assets/img/supino_articulado_inclinado2_1_1x-1024x1024-d4d1afa3.webp",
+      "status": "ok",
+      "bytes": 30066
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/supino_articulado_inclinado2_1_1x-300x300.webp",
+      "kind": "img",
+      "localPath": "assets/img/supino_articulado_inclinado2_1_1x-300x300-8194af52.webp",
+      "status": "ok",
+      "bytes": 6994
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/supino_articulado_inclinado2_1_1x-150x150.webp",
+      "kind": "img",
+      "localPath": "assets/img/supino_articulado_inclinado2_1_1x-150x150-05641653.webp",
+      "status": "ok",
+      "bytes": 3250
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/supino_articulado_inclinado2_1_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/supino_articulado_inclinado2_1_1x-768x768-c4f72957.webp",
+      "status": "ok",
+      "bytes": 21368
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/supino_articulado_inclinado2_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/supino_articulado_inclinado2_1_1x-708c0f9b.webp",
+      "status": "ok",
+      "bytes": 45766
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/supino_articulado_reto2_1_1x-1024x1024.webp",
+      "kind": "img",
+      "localPath": "assets/img/supino_articulado_reto2_1_1x-1024x1024-afe490e3.webp",
+      "status": "ok",
+      "bytes": 35844
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/supino_articulado_reto2_1_1x-300x300.webp",
+      "kind": "img",
+      "localPath": "assets/img/supino_articulado_reto2_1_1x-300x300-72a59500.webp",
+      "status": "ok",
+      "bytes": 7782
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/supino_articulado_reto2_1_1x-150x150.webp",
+      "kind": "img",
+      "localPath": "assets/img/supino_articulado_reto2_1_1x-150x150-933861cc.webp",
+      "status": "ok",
+      "bytes": 3572
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/supino_articulado_reto2_1_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/supino_articulado_reto2_1_1x-768x768-de024cbc.webp",
+      "status": "ok",
+      "bytes": 25120
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/supino_articulado_reto2_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/supino_articulado_reto2_1_1x-87606b22.webp",
+      "status": "ok",
+      "bytes": 53176
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/agachamento_hack2_1_1x-1024x1024.webp",
+      "kind": "img",
+      "localPath": "assets/img/agachamento_hack2_1_1x-1024x1024-1cbb7bd9.webp",
+      "status": "ok",
+      "bytes": 42058
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/agachamento_hack2_1_1x-300x300.webp",
+      "kind": "img",
+      "localPath": "assets/img/agachamento_hack2_1_1x-300x300-98b27393.webp",
+      "status": "ok",
+      "bytes": 8878
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/agachamento_hack2_1_1x-150x150.webp",
+      "kind": "img",
+      "localPath": "assets/img/agachamento_hack2_1_1x-150x150-8d7fb978.webp",
+      "status": "ok",
+      "bytes": 3934
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/agachamento_hack2_1_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/agachamento_hack2_1_1x-768x768-1fb0c5ee.webp",
+      "status": "ok",
+      "bytes": 29108
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/agachamento_hack2_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/agachamento_hack2_1_1x-87bbfe06.webp",
+      "status": "ok",
+      "bytes": 63120
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/leg_press2_1_1x-1024x1024.webp",
+      "kind": "img",
+      "localPath": "assets/img/leg_press2_1_1x-1024x1024-b285163a.webp",
+      "status": "ok",
+      "bytes": 45568
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/leg_press2_1_1x-300x300.webp",
+      "kind": "img",
+      "localPath": "assets/img/leg_press2_1_1x-300x300-2895770d.webp",
+      "status": "ok",
+      "bytes": 9826
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/leg_press2_1_1x-150x150.webp",
+      "kind": "img",
+      "localPath": "assets/img/leg_press2_1_1x-150x150-73891402.webp",
+      "status": "ok",
+      "bytes": 4164
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/leg_press2_1_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/leg_press2_1_1x-768x768-7c6d71bf.webp",
+      "status": "ok",
+      "bytes": 31540
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/leg_press2_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/leg_press2_1_1x-3d6cb4ea.webp",
+      "status": "ok",
+      "bytes": 70258
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/agachamento_sumo_1_1_1x-1024x1024.webp",
+      "kind": "img",
+      "localPath": "assets/img/agachamento_sumo_1_1_1x-1024x1024-347b226e.webp",
+      "status": "ok",
+      "bytes": 45508
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/agachamento_sumo_1_1_1x-300x300.webp",
+      "kind": "img",
+      "localPath": "assets/img/agachamento_sumo_1_1_1x-300x300-4fe0a21c.webp",
+      "status": "ok",
+      "bytes": 9570
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/agachamento_sumo_1_1_1x-150x150.webp",
+      "kind": "img",
+      "localPath": "assets/img/agachamento_sumo_1_1_1x-150x150-61e4ec1a.webp",
+      "status": "ok",
+      "bytes": 3980
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/agachamento_sumo_1_1_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/agachamento_sumo_1_1_1x-768x768-b5646d6c.webp",
+      "status": "ok",
+      "bytes": 31610
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/agachamento_sumo_1_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/agachamento_sumo_1_1_1x-69d9063c.webp",
+      "status": "ok",
+      "bytes": 68988
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/logo-grupo-hoffen-claro.png",
+      "kind": "img",
+      "localPath": "assets/img/logo-grupo-hoffen-claro-6ddd9925.png",
+      "status": "ok",
+      "bytes": 18969
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/logo-grupo-hoffen-claro-300x94.png",
+      "kind": "img",
+      "localPath": "assets/img/logo-grupo-hoffen-claro-300x94-a5da20f3.png",
+      "status": "ok",
+      "bytes": 9958
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/academia1_1_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/academia1_1_1x-768x768-a19cbcf2.webp",
+      "status": "ok",
+      "bytes": 43120
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/academia3_1_1x-768x769.webp",
+      "kind": "img",
+      "localPath": "assets/img/academia3_1_1x-768x769-69f0245f.webp",
+      "status": "ok",
+      "bytes": 40378
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/funcional2_1_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/funcional2_1_1x-768x768-67d05058.webp",
+      "status": "ok",
+      "bytes": 70706
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/funcional3_1_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/funcional3_1_1x-768x768-dfff9db5.webp",
+      "status": "ok",
+      "bytes": 32660
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/centros2_1_1x-768x769.webp",
+      "kind": "img",
+      "localPath": "assets/img/centros2_1_1x-768x769-c68df56d.webp",
+      "status": "ok",
+      "bytes": 43522
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/centros1_1_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/centros1_1_1x-768x768-ca9bc85f.webp",
+      "status": "ok",
+      "bytes": 47260
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/personalizados2_1_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/personalizados2_1_1x-768x768-2dd10440.webp",
+      "status": "ok",
+      "bytes": 45524
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/personalizados3_1_1x-768x769.webp",
+      "kind": "img",
+      "localPath": "assets/img/personalizados3_1_1x-768x769-37f7c761.webp",
+      "status": "ok",
+      "bytes": 46966
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "kind": "js",
+      "localPath": "assets/js/jquery.min-85f98b47.js",
+      "status": "ok",
+      "bytes": 87553
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "kind": "js",
+      "localPath": "assets/js/jquery-migrate.min-4cdf18c3.js",
+      "status": "ok",
+      "bytes": 13577
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.4.9",
+      "kind": "js",
+      "localPath": "assets/js/hello-frontend-f80c2592.js",
+      "status": "ok",
+      "bytes": 1830
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.1.4",
+      "kind": "js",
+      "localPath": "assets/js/webpack.runtime.min-a4f72107.js",
+      "status": "ok",
+      "bytes": 5819
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.1.4",
+      "kind": "js",
+      "localPath": "assets/js/frontend-modules.min-3f6f80a9.js",
+      "status": "ok",
+      "bytes": 50602
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3",
+      "kind": "js",
+      "localPath": "assets/js/core.min-23a51c78.js",
+      "status": "ok",
+      "bytes": 21464
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.1.4",
+      "kind": "js",
+      "localPath": "assets/js/frontend.min-1795c396.js",
+      "status": "ok",
+      "bytes": 32098
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/plugins/pro-elements/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1",
+      "kind": "js",
+      "localPath": "assets/js/jquery.smartmenus.min-c2f5e642.js",
+      "status": "ok",
+      "bytes": 24109
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/plugins/pro-elements/assets/lib/sticky/jquery.sticky.min.js?ver=4.1.0",
+      "kind": "js",
+      "localPath": "assets/js/jquery.sticky.min-7e51ee36.js",
+      "status": "ok",
+      "bytes": 3721
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/plugins/pro-elements/assets/lib/lottie/lottie.min.js?ver=5.6.6",
+      "kind": "js",
+      "localPath": "assets/js/lottie.min-90434e4b.js",
+      "status": "ok",
+      "bytes": 252588
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/plugins/jet-engine/assets/lib/slick/slick.min.js?ver=1.8.1",
+      "kind": "js",
+      "localPath": "assets/js/slick.min-2336b00a.js",
+      "status": "ok",
+      "bytes": 43897
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/plugins/jet-engine/assets/lib/jet-plugins/jet-plugins.js?ver=1.1.0",
+      "kind": "js",
+      "localPath": "assets/js/jet-plugins-0f1bb830.js",
+      "status": "ok",
+      "bytes": 6534
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/plugins/jet-engine/assets/js/frontend.js?ver=3.6.3",
+      "kind": "js",
+      "localPath": "assets/js/frontend-7e39e10f.js",
+      "status": "ok",
+      "bytes": 67945
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5",
+      "kind": "js",
+      "localPath": "assets/js/swiper.min-383243fb.js",
+      "status": "ok",
+      "bytes": 143709
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/plugins/pro-elements/assets/js/webpack-pro.runtime.min.js?ver=4.1.0",
+      "kind": "js",
+      "localPath": "assets/js/webpack-pro.runtime.min-6b08a9f9.js",
+      "status": "ok",
+      "bytes": 6241
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1",
+      "kind": "js",
+      "localPath": "assets/js/hooks.min-f9a7b4eb.js",
+      "status": "ok",
+      "bytes": 5661
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375",
+      "kind": "js",
+      "localPath": "assets/js/i18n.min-65d38f49.js",
+      "status": "ok",
+      "bytes": 5314
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/plugins/pro-elements/assets/js/frontend.min.js?ver=4.1.0",
+      "kind": "js",
+      "localPath": "assets/js/frontend.min-0f5e9224.js",
+      "status": "ok",
+      "bytes": 23938
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/plugins/pro-elements/assets/js/elements-handlers.min.js?ver=4.1.0",
+      "kind": "js",
+      "localPath": "assets/js/elements-handlers.min-178af9ab.js",
+      "status": "ok",
+      "bytes": 43921
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkC3kaSTbQWt4N.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkC3kaSTbQWt4N-b209c2f4.woff2",
+      "status": "ok",
+      "bytes": 35396
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkAnkaSTbQWt4N.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkAnkaSTbQWt4N-7fd5ebcd.woff2",
+      "status": "ok",
+      "bytes": 21576
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCnkaSTbQWt4N.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCnkaSTbQWt4N-1270f35c.woff2",
+      "status": "ok",
+      "bytes": 1720
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBXkaSTbQWt4N.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBXkaSTbQWt4N-13c6db9b.woff2",
+      "status": "ok",
+      "bytes": 15108
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkenkaSTbQWt4N.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkenkaSTbQWt4N-3adc18cb.woff2",
+      "status": "ok",
+      "bytes": 40192
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkaHkaSTbQWt4N.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkaHkaSTbQWt4N-e785ebff.woff2",
+      "status": "ok",
+      "bytes": 18484
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCXkaSTbQWt4N.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCXkaSTbQWt4N-4a2b179a.woff2",
+      "status": "ok",
+      "bytes": 11604
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCHkaSTbQWt4N.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCHkaSTbQWt4N-f7cf7531.woff2",
+      "status": "ok",
+      "bytes": 26784
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBnkaSTbQWg.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBnkaSTbQWg-4bf6ecc6.woff2",
+      "status": "ok",
+      "bytes": 41748
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBHMdazTgWw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBHMdazTgWw-37dedbe4.woff2",
+      "status": "ok",
+      "bytes": 31472
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBHMdazTgWw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBHMdazTgWw-48e8e7de.woff2",
+      "status": "ok",
+      "bytes": 19624
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBHMdazTgWw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBHMdazTgWw-d2348e8b.woff2",
+      "status": "ok",
+      "bytes": 1632
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBHMdazTgWw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBHMdazTgWw-e9e1f234.woff2",
+      "status": "ok",
+      "bytes": 13984
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBHMdazTgWw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBHMdazTgWw-01f2dc6a.woff2",
+      "status": "ok",
+      "bytes": 36292
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBHMdazTgWw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBHMdazTgWw-b5043adb.woff2",
+      "status": "ok",
+      "bytes": 16692
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBHMdazTgWw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBHMdazTgWw-45146ac9.woff2",
+      "status": "ok",
+      "bytes": 10572
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBHMdazTgWw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBHMdazTgWw-6ddde433.woff2",
+      "status": "ok",
+      "bytes": 24444
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ-973a21a5.woff2",
+      "status": "ok",
+      "bytes": 37520
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufA5qWr4xCCQ_k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/BngMUXZYTXPIvIBgJJSb6ufA5qWr4xCCQ_k-dc0d7935.woff2",
+      "status": "ok",
+      "bytes": 32316
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufJ5qWr4xCCQ_k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/BngMUXZYTXPIvIBgJJSb6ufJ5qWr4xCCQ_k-cfc59f61.woff2",
+      "status": "ok",
+      "bytes": 21336
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufB5qWr4xCCQ_k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/BngMUXZYTXPIvIBgJJSb6ufB5qWr4xCCQ_k-f4a8f364.woff2",
+      "status": "ok",
+      "bytes": 2172
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufO5qWr4xCCQ_k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/BngMUXZYTXPIvIBgJJSb6ufO5qWr4xCCQ_k-9160ede2.woff2",
+      "status": "ok",
+      "bytes": 14884
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufC5qWr4xCCQ_k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/BngMUXZYTXPIvIBgJJSb6ufC5qWr4xCCQ_k-cb6a2898.woff2",
+      "status": "ok",
+      "bytes": 9848
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufD5qWr4xCCQ_k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/BngMUXZYTXPIvIBgJJSb6ufD5qWr4xCCQ_k-a60aeb08.woff2",
+      "status": "ok",
+      "bytes": 21156
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufN5qWr4xCC.woff2",
+      "kind": "font",
+      "localPath": "assets/font/BngMUXZYTXPIvIBgJJSb6ufN5qWr4xCC-8b8750ee.woff2",
+      "status": "ok",
+      "bytes": 34160
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxC7m0dR9pBOi.woff2",
+      "kind": "font",
+      "localPath": "assets/font/JTUQjIg1_i6t8kCHKm459WxRxC7m0dR9pBOi-583be20a.woff2",
+      "status": "ok",
+      "bytes": 24412
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRzS7m0dR9pBOi.woff2",
+      "kind": "font",
+      "localPath": "assets/font/JTUQjIg1_i6t8kCHKm459WxRzS7m0dR9pBOi-69c41988.woff2",
+      "status": "ok",
+      "bytes": 22224
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxi7m0dR9pBOi.woff2",
+      "kind": "font",
+      "localPath": "assets/font/JTUQjIg1_i6t8kCHKm459WxRxi7m0dR9pBOi-20d5697b.woff2",
+      "status": "ok",
+      "bytes": 11472
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxy7m0dR9pBOi.woff2",
+      "kind": "font",
+      "localPath": "assets/font/JTUQjIg1_i6t8kCHKm459WxRxy7m0dR9pBOi-40bf3367.woff2",
+      "status": "ok",
+      "bytes": 72452
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRyS7m0dR9pA.woff2",
+      "kind": "font",
+      "localPath": "assets/font/JTUQjIg1_i6t8kCHKm459WxRyS7m0dR9pA-fb5e2b38.woff2",
+      "status": "ok",
+      "bytes": 37120
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WRhyyTh89ZNpQ.woff2",
+      "kind": "font",
+      "localPath": "assets/font/JTUSjIg1_i6t8kCHKm459WRhyyTh89ZNpQ-bf4aa17d.woff2",
+      "status": "ok",
+      "bytes": 24072
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459W1hyyTh89ZNpQ.woff2",
+      "kind": "font",
+      "localPath": "assets/font/JTUSjIg1_i6t8kCHKm459W1hyyTh89ZNpQ-b4678036.woff2",
+      "status": "ok",
+      "bytes": 21492
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WZhyyTh89ZNpQ.woff2",
+      "kind": "font",
+      "localPath": "assets/font/JTUSjIg1_i6t8kCHKm459WZhyyTh89ZNpQ-8a37c075.woff2",
+      "status": "ok",
+      "bytes": 10620
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WdhyyTh89ZNpQ.woff2",
+      "kind": "font",
+      "localPath": "assets/font/JTUSjIg1_i6t8kCHKm459WdhyyTh89ZNpQ-a93986ac.woff2",
+      "status": "ok",
+      "bytes": 68224
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2",
+      "kind": "font",
+      "localPath": "assets/font/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y-83a31c81.woff2",
+      "status": "ok",
+      "bytes": 35508
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/exo2/v26/7cHov4okm5zmbtYtG-Ec5VArlT8bdw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/7cHov4okm5zmbtYtG-Ec5VArlT8bdw-45f66ec2.woff2",
+      "status": "ok",
+      "bytes": 25568
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/exo2/v26/7cHov4okm5zmbtYtG-gc5VArlT8bdw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/7cHov4okm5zmbtYtG-gc5VArlT8bdw-fc1f9e87.woff2",
+      "status": "ok",
+      "bytes": 22444
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/exo2/v26/7cHov4okm5zmbtYtG-Mc5VArlT8bdw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/7cHov4okm5zmbtYtG-Mc5VArlT8bdw-0154db36.woff2",
+      "status": "ok",
+      "bytes": 9332
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/exo2/v26/7cHov4okm5zmbtYtG-Ic5VArlT8bdw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/7cHov4okm5zmbtYtG-Ic5VArlT8bdw-31a81d3d.woff2",
+      "status": "ok",
+      "bytes": 30864
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/exo2/v26/7cHov4okm5zmbtYtG-wc5VArlT8.woff2",
+      "kind": "font",
+      "localPath": "assets/font/7cHov4okm5zmbtYtG-wc5VArlT8-a3785d0d.woff2",
+      "status": "ok",
+      "bytes": 42856
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/exo2/v26/7cHmv4okm5zmbtYlK-4W4nIppT4.woff2",
+      "kind": "font",
+      "localPath": "assets/font/7cHmv4okm5zmbtYlK-4W4nIppT4-768761a2.woff2",
+      "status": "ok",
+      "bytes": 25404
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/exo2/v26/7cHmv4okm5zmbtYsK-4W4nIppT4.woff2",
+      "kind": "font",
+      "localPath": "assets/font/7cHmv4okm5zmbtYsK-4W4nIppT4-8d570288.woff2",
+      "status": "ok",
+      "bytes": 19580
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/exo2/v26/7cHmv4okm5zmbtYnK-4W4nIppT4.woff2",
+      "kind": "font",
+      "localPath": "assets/font/7cHmv4okm5zmbtYnK-4W4nIppT4-93cc2e28.woff2",
+      "status": "ok",
+      "bytes": 9564
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/exo2/v26/7cHmv4okm5zmbtYmK-4W4nIppT4.woff2",
+      "kind": "font",
+      "localPath": "assets/font/7cHmv4okm5zmbtYmK-4W4nIppT4-bc24a900.woff2",
+      "status": "ok",
+      "bytes": 30876
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/exo2/v26/7cHmv4okm5zmbtYoK-4W4nIp.woff2",
+      "kind": "font",
+      "localPath": "assets/font/7cHmv4okm5zmbtYoK-4W4nIp-f77704ca.woff2",
+      "status": "ok",
+      "bytes": 40932
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/hero-hoff.webp",
+      "kind": "img",
+      "localPath": "assets/img/hero-hoff-68467a30.webp",
+      "status": "ok",
+      "bytes": 139866
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/1_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/1_1_1x-6ea7aa64.webp",
+      "status": "ok",
+      "bytes": 131970
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/2_2_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/2_2_1_1x-09b79e67.webp",
+      "status": "ok",
+      "bytes": 92562
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/3_3_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/3_3_1_1x-59bd90d8.webp",
+      "status": "ok",
+      "bytes": 110922
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/4_4_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/4_4_1_1x-5d680242.webp",
+      "status": "ok",
+      "bytes": 100874
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/camada_6_1-1-scaled-1.webp",
+      "kind": "img",
+      "localPath": "assets/img/camada_6_1-1-scaled-1-88c44794.webp",
+      "status": "ok",
+      "bytes": 87398
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/hero-hoffen-mb2.webp",
+      "kind": "img",
+      "localPath": "assets/img/hero-hoffen-mb2-490b7e55.webp",
+      "status": "ok",
+      "bytes": 73478
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/mb2-2.webp",
+      "kind": "img",
+      "localPath": "assets/img/mb2-2-e6b7de52.webp",
+      "status": "ok",
+      "bytes": 46542
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/academia2_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/academia2_1_1x-1f66235c.webp",
+      "status": "ok",
+      "bytes": 78326
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/funcional1_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/funcional1_1_1x-8c06cd20.webp",
+      "status": "ok",
+      "bytes": 48974
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/centros3_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/centros3_1_1x-5e6d8c6b.webp",
+      "status": "ok",
+      "bytes": 106790
+    },
+    {
+      "url": "https://hoffensports.com.br/wp-content/uploads/2026/07/personalizados1_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/personalizados1_1_1x-ec5eadc0.webp",
+      "status": "ok",
+      "bytes": 78706
+    }
+  ]
+}

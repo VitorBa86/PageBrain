@@ -1,0 +1,203 @@
+{
+ "nome": "Dr. Vinícius Prieto · Cirurgia Plástica & Estilo de Vida",
+ "slug": "saude-vinicius-prieto-cirurgia-plastica",
+ "pasta_original": "Dr Vinicius",
+ "origem": "paginas/gerais",
+ "prioridade": "referencia",
+ "url": "https://drviniciusprieto.com.br/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Saúde / medicina",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#F8F8F8",
+   "#272727"
+  ],
+  "textos": [
+   "#CFCFCF",
+   "#313131",
+   "#525252",
+   "#272727",
+   "#FFFFFF",
+   "#7A7A7A"
+  ],
+  "destaques": [
+   "#BD4A14"
+  ],
+  "gradientes": [
+   "linear-gradient(283deg, rgb(39, 39, 39) 42%, rgb(36, 36, 36) 87%)",
+   "linear-gradient(156deg, rgb(189, 74, 20) 25%, rgb(189, 74, 20) 69%)",
+   "linear-gradient(90deg, rgb(189, 74, 20) 0%, rgb(189, 74, 20) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Apparat",
+   "uso_pct": 100
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  48,
+  40,
+  25,
+  24,
+  22,
+  21,
+  19,
+  18
+ ],
+ "escala_tipografica_mobile_px": [
+  34,
+  34,
+  32,
+  30,
+  22,
+  21,
+  19,
+  18
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#00000000",
+  "gradiente": "linear-gradient(156deg, rgb(189, 74, 20) 25%, rgb(189, 74, 20) 69%)",
+  "texto": "#FFFFFF",
+  "raio": "14px",
+  "padding": "19.2px 16px",
+  "fonte": "Apparat",
+  "tamanho": "16px",
+  "peso": "600",
+  "caixa": "none",
+  "exemplos": [
+   "QUERO AGENDAR MINHA AVALIAÇÃO",
+   "AGENDAR MINHA AVALIAÇÃO"
+  ]
+ },
+ "raios": [
+  "11px",
+  "20px",
+  "14px",
+  "0px 0px 30px 30px",
+  "16px",
+  "20px 20px 0px 0px"
+ ],
+ "sombras": [
+  "rgba(189, 74, 20, 0.176) 0px 0px 3.67986px 19.5678px"
+ ],
+ "gaps": [
+  "20px",
+  "0px 10px",
+  "10px 0px",
+  "10px",
+  "5px 0px",
+  "18px"
+ ],
+ "largura_conteudo_px": 1250,
+ "altura_pagina_px": 5223,
+ "secoes_qtde": 8,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "Um olhar individualizado para transformar sua relação com o próprio corpo.",
+   "fundo": "#272727",
+   "altura_px": 682
+  },
+  {
+   "ordem": 2,
+   "tipo": "",
+   "titulo": "Quando a cirurgia não é apenas estética",
+   "fundo": "transparente",
+   "altura_px": 674
+  },
+  {
+   "ordem": 3,
+   "tipo": "servicos",
+   "titulo": "PROCEDIMENTOS",
+   "fundo": "#F8F8F8",
+   "altura_px": 1053
+  },
+  {
+   "ordem": 4,
+   "tipo": "prova-social",
+   "titulo": "DEPOIMENTOS",
+   "fundo": "#FFFFFF",
+   "altura_px": 370
+  },
+  {
+   "ordem": 5,
+   "tipo": "sobre",
+   "titulo": "Dr. Vinícius Cruz Prieto Silva",
+   "fundo": "gradiente",
+   "altura_px": 656
+  },
+  {
+   "ordem": 6,
+   "tipo": "prova-social",
+   "titulo": "Seu caso merece uma avaliação individual",
+   "fundo": "transparente",
+   "altura_px": 800
+  },
+  {
+   "ordem": 7,
+   "tipo": "faq",
+   "titulo": "FAQ",
+   "fundo": "#FDFDFD",
+   "altura_px": 759
+  },
+  {
+   "ordem": 8,
+   "tipo": "rodape",
+   "titulo": "Acesso rápido",
+   "fundo": "#272727",
+   "altura_px": 228
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "",
+  "servicos",
+  "prova-social",
+  "sobre",
+  "prova-social",
+  "faq",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "grafite",
+  "laranja-queimado",
+  "claro-e-escuro",
+  "ilustrado"
+ ],
+ "tecnicas": [
+  "Ilustração de linha"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "pisca",
+   "showFromBottom"
+  ],
+  "entrada_elementor": [],
+  "classes_scroll": []
+ },
+ "bibliotecas": [
+  "ga4",
+  "google-ads",
+  "gsap",
+  "gtm",
+  "jquery",
+  "lottie",
+  "swiper"
+ ],
+ "snippets_usados": [],
+ "relevancia": 4,
+ "resumo": "Cirurgião plástico reparador em grafite e laranja queimado: hero escuro com palavras em laranja, ilustração em traço de corpo, cards de procedimento com foto, Google, bio escura com checks de formação e card de etapas numeradas ao lado do contato.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": null,
+  "copy_real": null,
+  "json_elementor": null,
+  "ref": "ref/"
+ }
+}

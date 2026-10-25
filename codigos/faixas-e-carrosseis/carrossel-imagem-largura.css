@@ -1,0 +1,21 @@
+/*
+  SNIPPET: Largura fixa das imagens do carrossel
+  CATEGORIA: faixas-e-carrosseis
+  O QUE FAZ: Força a largura da imagem dentro de cada slide do Carrossel de Imagens.
+  COMO USAR: Cole no CSS personalizado do widget Carrossel de Imagens. Ajuste 350px.
+  ONDE COLAR: CSS personalizado do widget Carrossel de Imagens
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: 6 páginas
+  USADO EM: 8 página(s) da casa: negocio-harmony-estudio-tatuagem, negocio-inter-frios-refrigeracao, odonto-rubiane-vitali, saude-luciano-grisotto-mommy-makeover, saude-pedro-camargo-psiquiatra, vendas-mentoria-bancario-jessica, vendas-morelli-churrasco-networking, vendas-scripts-consignado-jessica
+*/
+
+selector .swiper-slide-image{
+    width:350px !important;
+}
+
+/* variação usada em odonto-rubiane-vitali: só no desktop e em % */
+@media(min-width:1024px){
+    selector .swiper-slide-image{
+        width:75% !important;
+    }
+}

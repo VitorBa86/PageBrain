@@ -1,0 +1,352 @@
+{
+ "content": [
+  {
+   "id": "46f159c7",
+   "settings": {
+    "flex_direction": "column",
+    "min_height": {
+     "unit": "px",
+     "size": 730,
+     "sizes": []
+    },
+    "flex_justify_content": "flex-start",
+    "flex_align_items": "center",
+    "background_background": "classic",
+    "background_color": "#222122",
+    "margin": {
+     "unit": "px",
+     "top": "0",
+     "right": "0",
+     "bottom": "0",
+     "left": "0",
+     "isLinked": false
+    },
+    "padding": {
+     "unit": "px",
+     "top": "80",
+     "right": "0",
+     "bottom": "80",
+     "left": "0",
+     "isLinked": false
+    },
+    "boxed_width_mobile": {
+     "unit": "%",
+     "size": 90,
+     "sizes": []
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "80",
+     "right": "0",
+     "bottom": "0",
+     "left": "0",
+     "isLinked": false
+    },
+    "eae_slider_delay": "5000",
+    "gradient_color_list": [
+     {
+      "eae_animated_gradient_color": "#00a6d8",
+      "_id": "6244738"
+     },
+     {
+      "eae_animated_gradient_color": "#b800c9",
+      "_id": "5c20262"
+     },
+     {
+      "eae_animated_gradient_color": "#e57600",
+      "_id": "68055ca"
+     }
+    ]
+   },
+   "elements": [
+    {
+     "id": "49b5f8eb",
+     "settings": {
+      "title": "Conheça a Nossa Equipe ",
+      "align": "center",
+      "title_color": "#E4BD54",
+      "typography_typography": "custom",
+      "typography_font_family": "Poppins",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 27,
+       "sizes": []
+      },
+      "typography_font_weight": "600",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.3,
+       "sizes": []
+      },
+      "typography_line_height_widescreen": {
+       "unit": "em",
+       "size": "",
+       "sizes": []
+      },
+      "typography_line_height_laptop": {
+       "unit": "em",
+       "size": "",
+       "sizes": []
+      },
+      "_margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "_padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "_element_width": "initial",
+      "_element_custom_width": {
+       "unit": "%",
+       "size": 50,
+       "sizes": []
+      },
+      "typography_font_size_mobile": {
+       "unit": "vw",
+       "size": 6.2,
+       "sizes": []
+      },
+      "_element_width_mobile": "inherit",
+      "_css_classes": "scroll-bottom"
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "heading",
+     "elType": "widget"
+    },
+    {
+     "id": "514cda6e",
+     "settings": {
+      "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+      "align": "center",
+      "title_color": "#FFFFFF",
+      "typography_typography": "custom",
+      "typography_font_family": "Poppins",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 16,
+       "sizes": []
+      },
+      "typography_font_weight": "200",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.4,
+       "sizes": []
+      },
+      "typography_line_height_widescreen": {
+       "unit": "em",
+       "size": "",
+       "sizes": []
+      },
+      "typography_line_height_laptop": {
+       "unit": "em",
+       "size": "",
+       "sizes": []
+      },
+      "_margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "_padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "_element_width": "initial",
+      "_element_custom_width": {
+       "unit": "%",
+       "size": 39,
+       "sizes": []
+      },
+      "typography_font_size_mobile": {
+       "unit": "vw",
+       "size": 3.6,
+       "sizes": []
+      },
+      "_element_width_mobile": "inherit",
+      "_css_classes": "scroll-bottom"
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "heading",
+     "elType": "widget"
+    },
+    {
+     "id": "37f447e4",
+     "settings": {
+      "slides": [
+       {
+        "content": "John Doe",
+        "name": "Especialidade",
+        "title": "",
+        "image": {
+         "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/06/ADVS-1.png",
+         "id": 4313,
+         "alt": "",
+         "source": "library",
+         "size": ""
+        },
+        "_id": "e11aecc"
+       },
+       {
+        "content": "John Doe",
+        "name": "Especialidade",
+        "title": "",
+        "image": {
+         "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/06/ADVS-1.png",
+         "id": 4313,
+         "alt": "",
+         "source": "library",
+         "size": ""
+        },
+        "_id": "d40b50c"
+       },
+       {
+        "content": "John Doe",
+        "name": "Especialidade",
+        "title": "",
+        "image": {
+         "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/06/ADVS-1.png",
+         "id": 4313,
+         "alt": "",
+         "source": "library",
+         "size": ""
+        },
+        "_id": "9da77cd"
+       }
+      ],
+      "layout": "image_above",
+      "slides_per_view": "3",
+      "width": {
+       "unit": "%",
+       "size": 100,
+       "sizes": []
+      },
+      "space_between": {
+       "unit": "px",
+       "size": 26,
+       "sizes": []
+      },
+      "slide_border_radius": {
+       "unit": "px",
+       "size": 0,
+       "sizes": []
+      },
+      "content_gap": {
+       "unit": "px",
+       "size": 30,
+       "sizes": []
+      },
+      "content_color": "#FFFFFF",
+      "content_typography_typography": "custom",
+      "content_typography_font_family": "Poppins",
+      "content_typography_font_size": {
+       "unit": "px",
+       "size": 20,
+       "sizes": []
+      },
+      "content_typography_font_weight": "400",
+      "content_typography_font_style": "normal",
+      "name_color": "#FFFFFF",
+      "name_typography_typography": "custom",
+      "name_typography_font_family": "Poppins",
+      "name_typography_font_size": {
+       "unit": "px",
+       "size": 16,
+       "sizes": []
+      },
+      "name_typography_font_weight": "200",
+      "name_typography_font_style": "normal",
+      "image_size": {
+       "unit": "px",
+       "size": 400,
+       "sizes": []
+      },
+      "image_size_widescreen": {
+       "unit": "em",
+       "size": "",
+       "sizes": []
+      },
+      "image_size_laptop": {
+       "unit": "em",
+       "size": "",
+       "sizes": []
+      },
+      "image_size_tablet": {
+       "unit": "em",
+       "size": "",
+       "sizes": []
+      },
+      "image_size_mobile": {
+       "unit": "em",
+       "size": "",
+       "sizes": []
+      },
+      "image_border_radius": {
+       "unit": "px",
+       "size": 0,
+       "sizes": []
+      },
+      "arrows_size": {
+       "unit": "px",
+       "size": 16,
+       "sizes": []
+      },
+      "arrows_color": "#FFFFFF",
+      "pagination_size": {
+       "unit": "px",
+       "size": 7,
+       "sizes": []
+      },
+      "pagination_color_inactive": "#464646",
+      "pagination_color": "#FFFFFF",
+      "_margin": {
+       "unit": "px",
+       "top": "30",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "image_size_custom_dimension": {
+       "width": "330",
+       "height": "421"
+      },
+      "image_gap": {
+       "unit": "px",
+       "size": 0,
+       "sizes": []
+      },
+      "_css_classes": "scroll-bottom"
+     },
+     "elements": [],
+     "isInner": false,
+     "widgetType": "testimonial-carousel",
+     "elType": "widget"
+    }
+   ],
+   "isInner": false,
+   "elType": "container"
+  }
+ ],
+ "page_settings": [],
+ "version": "0.4",
+ "title": "equipe 02",
+ "type": "container"
+}

@@ -1,0 +1,25 @@
+<!--
+  SNIPPET: Pixel da Meta (Facebook)
+  CATEGORIA: tracking-e-pixels
+  O QUE FAZ: Código base do Pixel com PageView. Presente em 27 das 37 páginas.
+  COMO USAR: Troque SEU_PIXEL_ID. Em WordPress normalmente vai no head via plugin (Pixel Cat / Conversions API) ou num widget HTML. Eventos de clique no WhatsApp podem ser enviados com fbq("track","Contact").
+  ONDE COLAR: Head do site ou widget HTML
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: 27 páginas
+  USADO EM: 27 página(s) da casa: adv-barros-e-carvalho, adv-gustavo-kehl, adv-luisa, adv-souza-santos, imob-the-palace, imob-vega-costa-e-silva, info-carol-guglielmi-imagem-pessoal, info-victor-leao-aromaterapia, negocio-bar-santa-boemia, negocio-harmony-estudio-tatuagem, negocio-inter-frios-refrigeracao, odonto-invisalign-jv-clinica, odonto-rubiane-vitali, psi-andressa-darold, psi-maria-rita-sales, psi-renan, psi-rosangela-munhoz-psicanalista, psi-vivian-widuch, saude-cecilia-borges-cirurgia-plastica, servico-goncont-contador, servico-rp-vision-marketing, vendas-mentoria-bancario-jessica, vendas-morelli-churrasco-networking, vendas-odonto-luiz-gustavo-melo, vendas-scripts-consignado-jessica, vendas-templates-arquiteto-jardel, vendas-workshop-barbearia-toledo
+-->
+
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', 'SEU_PIXEL_ID');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=SEU_PIXEL_ID&ev=PageView&noscript=1"/></noscript>

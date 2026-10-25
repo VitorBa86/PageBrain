@@ -1,0 +1,203 @@
+{
+ "nome": "PÁGINA ADV LUISA",
+ "slug": "adv-luisa",
+ "pasta_original": "Luiza Advogada",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://lp.oreidalanding.com.br/luisa/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Advocacia",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#F0F0F0",
+   "#0A0E1A",
+   "#13192C",
+   "#181F3A",
+   "#2AA716"
+  ],
+  "textos": [
+   "#FFFFFF",
+   "#C5C5C5",
+   "#E4BD54",
+   "#000000"
+  ],
+  "destaques": [
+   "#2AA716",
+   "#13192C",
+   "#181F3A",
+   "#E4BD54"
+  ],
+  "gradientes": [
+   "linear-gradient(70deg, rgb(24, 33, 66) 0%, rgb(39, 51, 94) 100%)",
+   "linear-gradient(22deg, rgba(255, 255, 255, 0.05) 0%, rgba(255, 255, 255, 0) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Sora",
+   "uso_pct": 97
+  },
+  {
+   "familia": "AROLSE",
+   "uso_pct": 3
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  40,
+  32,
+  30,
+  28,
+  22,
+  16,
+  13
+ ],
+ "escala_tipografica_mobile_px": [
+  39,
+  31,
+  28,
+  25,
+  22,
+  17,
+  16,
+  16
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#2AA716",
+  "gradiente": null,
+  "texto": "#FFFFFF",
+  "raio": "127px",
+  "padding": "20px 28px",
+  "fonte": "Sora",
+  "tamanho": "16px",
+  "peso": "500",
+  "caixa": "none",
+  "exemplos": [
+   "Fale comigo no Whatsapp"
+  ]
+ },
+ "raios": [
+  "8px",
+  "127px",
+  "483px",
+  "182px"
+ ],
+ "sombras": [],
+ "gaps": [
+  "20px",
+  "15px",
+  "19px"
+ ],
+ "largura_conteudo_px": 1140,
+ "altura_pagina_px": 5305,
+ "secoes_qtde": 7,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "Sofreu algum problema no seu voo? Receba indenizações por isso!",
+   "fundo": "#0A0E1A",
+   "altura_px": 790
+  },
+  {
+   "ordem": 2,
+   "tipo": "servicos",
+   "titulo": "Conheça seus direitos",
+   "fundo": "#F0F0F0",
+   "altura_px": 968
+  },
+  {
+   "ordem": 3,
+   "tipo": "como-funciona",
+   "titulo": "Passo a passo",
+   "fundo": "#F0F0F0",
+   "altura_px": 1483
+  },
+  {
+   "ordem": 4,
+   "tipo": "sobre",
+   "titulo": "Quem sou eu?",
+   "fundo": "#0A0E1A",
+   "altura_px": 725
+  },
+  {
+   "ordem": 5,
+   "tipo": "diferenciais",
+   "titulo": "Diferenciais do meu Serviço:",
+   "fundo": "#13192C",
+   "altura_px": 725
+  },
+  {
+   "ordem": 6,
+   "tipo": "contato",
+   "titulo": "Entre em Contato Comigo!",
+   "fundo": "#13192C",
+   "altura_px": 553
+  },
+  {
+   "ordem": 7,
+   "tipo": "rodape",
+   "titulo": "Todos os direitos reservados © 2024",
+   "fundo": "#090C16",
+   "altura_px": 60
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "servicos",
+  "como-funciona",
+  "sobre",
+  "diferenciais",
+  "contato",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "escuro",
+  "azul-marinho",
+  "dourado",
+  "feminino"
+ ],
+ "tecnicas": [
+  "Scroll suave com Lenis",
+  "Animação scroll-reveal"
+ ],
+ "animacoes": {
+  "keyframes": [],
+  "entrada_elementor": [],
+  "classes_scroll": [
+   "scroll-bottom",
+   "scroll-left",
+   "scroll-right",
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "google-ads",
+  "happy-addons",
+  "jquery",
+  "lenis",
+  "lottie",
+  "meta-pixel",
+  "swiper"
+ ],
+ "snippets_usados": [
+  "animacoes/animacao-scroll-reveal.html",
+  "efeitos-de-scroll/lenis-scroll-suave.html",
+  "tracking-e-pixels/meta-pixel.html",
+  "tracking-e-pixels/google-ads-gtag.html",
+  "utilitarios-css/css-base-toda-pagina.css",
+  "utilitarios-css/botao-icone-tamanho.css"
+ ],
+ "relevancia": 3,
+ "resumo": "Advogada de passageiros aéreos com navy profundo e dourado. Cards navy 3x2 com ícones dourados para cada problema de voo, passo a passo em zigue-zague e seção de diferenciais com mockup de notebook e celular.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/adv-luisa.md",
+  "json_elementor": "../../../elementor/paginas/captacao/adv-luisa.json"
+ }
+}

@@ -1,0 +1,1085 @@
+{
+  "sourceUrl": "https://construtoravitta.com.br/",
+  "finalUrl": "https://construtoravitta.com.br/",
+  "mode": "static",
+  "platform": "WordPress + Elementor",
+  "durationMs": 4162,
+  "fileCount": 153,
+  "totalBytes": 7731312,
+  "counts": {
+    "css": 21,
+    "js": 14,
+    "img": 38,
+    "font": 79,
+    "media": 0,
+    "other": 0,
+    "failed": 0
+  },
+  "warnings": [],
+  "assets": [
+    {
+      "url": "https://construtoravitta.com.br/wp-content/themes/hello-elementor/style.min.css?ver=3.1.1",
+      "kind": "css",
+      "localPath": "assets/css/style.min-f9e3d453.css",
+      "status": "ok",
+      "bytes": 5501
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/themes/hello-elementor/theme.min.css?ver=3.1.1",
+      "kind": "css",
+      "localPath": "assets/css/theme.min-ad3b7cf7.css",
+      "status": "ok",
+      "bytes": 5146
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/themes/hello-elementor/header-footer.min.css?ver=3.1.1",
+      "kind": "css",
+      "localPath": "assets/css/header-footer.min-3bef04ea.css",
+      "status": "ok",
+      "bytes": 7212
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.1.1",
+      "kind": "css",
+      "localPath": "assets/css/frontend.min-9d137b8c.css",
+      "status": "ok",
+      "bytes": 54666
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/css/post-5.css?ver=1788471368",
+      "kind": "css",
+      "localPath": "assets/css/post-5-b395fcc2.css",
+      "status": "ok",
+      "bytes": 1429
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/plugins/pro-elements/assets/css/frontend.min.css?ver=3.23.3",
+      "kind": "css",
+      "localPath": "assets/css/frontend.min-b5af2c5a.css",
+      "status": "ok",
+      "bytes": 470843
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.1.1",
+      "kind": "css",
+      "localPath": "assets/css/widget-image.min-09f1164f.css",
+      "status": "ok",
+      "bytes": 214
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.1.1",
+      "kind": "css",
+      "localPath": "assets/css/widget-heading.min-42423967.css",
+      "status": "ok",
+      "bytes": 560
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=4.1.1",
+      "kind": "css",
+      "localPath": "assets/css/e-animation-grow.min-0833df89.css",
+      "status": "ok",
+      "bytes": 198
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5",
+      "kind": "css",
+      "localPath": "assets/css/swiper.min-d7537803.css",
+      "status": "ok",
+      "bytes": 16471
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=4.1.1",
+      "kind": "css",
+      "localPath": "assets/css/e-swiper.min-e3133a2f.css",
+      "status": "ok",
+      "bytes": 5486
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css?ver=4.1.1",
+      "kind": "css",
+      "localPath": "assets/css/widget-image-carousel.min-155beb2c.css",
+      "status": "ok",
+      "bytes": 342
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=4.1.1",
+      "kind": "css",
+      "localPath": "assets/css/widget-icon-list.min-eee9540f.css",
+      "status": "ok",
+      "bytes": 10255
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=4.1.1",
+      "kind": "css",
+      "localPath": "assets/css/widget-divider.min-87425e18.css",
+      "status": "ok",
+      "bytes": 4258
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/plugins/elementor/assets/css/widget-toggle.min.css?ver=4.1.1",
+      "kind": "css",
+      "localPath": "assets/css/widget-toggle.min-92bad306.css",
+      "status": "ok",
+      "bytes": 1547
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=4.1.1",
+      "kind": "css",
+      "localPath": "assets/css/widget-social-icons.min-730190a0.css",
+      "status": "ok",
+      "bytes": 5110
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.1.1",
+      "kind": "css",
+      "localPath": "assets/css/apple-webkit.min-f375f3ce.css",
+      "status": "ok",
+      "bytes": 6713
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/css/post-150.css?ver=1788471368",
+      "kind": "css",
+      "localPath": "assets/css/post-150-16191e40.css",
+      "status": "ok",
+      "bytes": 71522
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1750435335",
+      "kind": "css",
+      "localPath": "assets/css/roboto-6f8485ae.css",
+      "status": "ok",
+      "bytes": 98514
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1750435339",
+      "kind": "css",
+      "localPath": "assets/css/robotoslab-4938c546.css",
+      "status": "ok",
+      "bytes": 21546
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1750435343",
+      "kind": "css",
+      "localPath": "assets/css/poppins-0af741c1.css",
+      "status": "ok",
+      "bytes": 20957
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/09/Design-sem-nome-2-150x150.png",
+      "kind": "img",
+      "localPath": "assets/img/Design-sem-nome-2-150x150-0dcc0151.png",
+      "status": "ok",
+      "bytes": 5017
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/09/Design-sem-nome-2-300x300.png",
+      "kind": "img",
+      "localPath": "assets/img/Design-sem-nome-2-300x300-9c780cbd.png",
+      "status": "ok",
+      "bytes": 10887
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/09/LOGO.png",
+      "kind": "img",
+      "localPath": "assets/img/LOGO-b743211f.png",
+      "status": "ok",
+      "bytes": 4838
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/09/1-SALA-AP010.jpg",
+      "kind": "img",
+      "localPath": "assets/img/1-SALA-AP010-04e1ef47.jpg",
+      "status": "ok",
+      "bytes": 76352
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/09/2-SALA-AP011.jpg",
+      "kind": "img",
+      "localPath": "assets/img/2-SALA-AP011-e6f73749.jpg",
+      "status": "ok",
+      "bytes": 89932
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/09/3-SALA-AP012.jpg",
+      "kind": "img",
+      "localPath": "assets/img/3-SALA-AP012-282f812a.jpg",
+      "status": "ok",
+      "bytes": 83774
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/09/4-VARANDA-AP010-1.jpg",
+      "kind": "img",
+      "localPath": "assets/img/4-VARANDA-AP010-1-1bc4d734.jpg",
+      "status": "ok",
+      "bytes": 83645
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/09/5-BANHEIRO-AP010.jpg",
+      "kind": "img",
+      "localPath": "assets/img/5-BANHEIRO-AP010-a6513904.jpg",
+      "status": "ok",
+      "bytes": 62526
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/09/6-QUARTO-AP010.jpg",
+      "kind": "img",
+      "localPath": "assets/img/6-QUARTO-AP010-737ed6bb.jpg",
+      "status": "ok",
+      "bytes": 56596
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/09/7-SALA-AP020.jpg",
+      "kind": "img",
+      "localPath": "assets/img/7-SALA-AP020-ca23d430.jpg",
+      "status": "ok",
+      "bytes": 76297
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/09/8-SALA-AP021.jpg",
+      "kind": "img",
+      "localPath": "assets/img/8-SALA-AP021-7631a8f9.jpg",
+      "status": "ok",
+      "bytes": 69872
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/09/9-SALA-AP022.jpg",
+      "kind": "img",
+      "localPath": "assets/img/9-SALA-AP022-0778c9b9.jpg",
+      "status": "ok",
+      "bytes": 83028
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/09/10-VARANDA-AP02.jpg",
+      "kind": "img",
+      "localPath": "assets/img/10-VARANDA-AP02-f5b32619.jpg",
+      "status": "ok",
+      "bytes": 85922
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/09/11-SALA-AP03.jpg",
+      "kind": "img",
+      "localPath": "assets/img/11-SALA-AP03-bc791446.jpg",
+      "status": "ok",
+      "bytes": 63131
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/09/12-SALA-AP031.jpg",
+      "kind": "img",
+      "localPath": "assets/img/12-SALA-AP031-5c48e6f9.jpg",
+      "status": "ok",
+      "bytes": 64135
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/09/13-VARANDA-AP03.jpg",
+      "kind": "img",
+      "localPath": "assets/img/13-VARANDA-AP03-ba61da46.jpg",
+      "status": "ok",
+      "bytes": 71442
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/09/FACHADA-01.jpg",
+      "kind": "img",
+      "localPath": "assets/img/FACHADA-01-f15d5435.jpg",
+      "status": "ok",
+      "bytes": 78921
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/09/10-VARANDA-AP02-768x768.png",
+      "kind": "img",
+      "localPath": "assets/img/10-VARANDA-AP02-768x768-608aaa1b.png",
+      "status": "ok",
+      "bytes": 777021
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/09/FACHADA-06.jpg",
+      "kind": "img",
+      "localPath": "assets/img/FACHADA-06-ad926e2f.jpg",
+      "status": "ok",
+      "bytes": 64426
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/09/4-VARANDA-AP010.jpg",
+      "kind": "img",
+      "localPath": "assets/img/4-VARANDA-AP010-50fcf1ff.jpg",
+      "status": "ok",
+      "bytes": 75347
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/09/FOTO-PARTE-5.png",
+      "kind": "img",
+      "localPath": "assets/img/FOTO-PARTE-5-43a769b6.png",
+      "status": "ok",
+      "bytes": 118048
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/09/FOTO-PARTE-5-300x240.png",
+      "kind": "img",
+      "localPath": "assets/img/FOTO-PARTE-5-300x240-367d820b.png",
+      "status": "ok",
+      "bytes": 88932
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/09/FOTO-PARTE-4.png",
+      "kind": "img",
+      "localPath": "assets/img/FOTO-PARTE-4-1282d83e.png",
+      "status": "ok",
+      "bytes": 29718
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/09/FOTO-PARTE-4-300x187.png",
+      "kind": "img",
+      "localPath": "assets/img/FOTO-PARTE-4-300x187-10f24260.png",
+      "status": "ok",
+      "bytes": 37492
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/10/03ab14d3-ab2a-4700-a99b-b5f9c5792e81-1024x764.jpg",
+      "kind": "img",
+      "localPath": "assets/img/03ab14d3-ab2a-4700-a99b-b5f9c5792e81-1024x764-b108b721.jpg",
+      "status": "ok",
+      "bytes": 205152
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/10/03ab14d3-ab2a-4700-a99b-b5f9c5792e81-300x224.jpg",
+      "kind": "img",
+      "localPath": "assets/img/03ab14d3-ab2a-4700-a99b-b5f9c5792e81-300x224-8cd32ccc.jpg",
+      "status": "ok",
+      "bytes": 21804
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/10/03ab14d3-ab2a-4700-a99b-b5f9c5792e81-768x573.jpg",
+      "kind": "img",
+      "localPath": "assets/img/03ab14d3-ab2a-4700-a99b-b5f9c5792e81-768x573-2cd4fb9d.jpg",
+      "status": "ok",
+      "bytes": 123217
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/10/03ab14d3-ab2a-4700-a99b-b5f9c5792e81-1536x1145.jpg",
+      "kind": "img",
+      "localPath": "assets/img/03ab14d3-ab2a-4700-a99b-b5f9c5792e81-1536x1145-530abd06.jpg",
+      "status": "ok",
+      "bytes": 402937
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/10/03ab14d3-ab2a-4700-a99b-b5f9c5792e81-2048x1527.jpg",
+      "kind": "img",
+      "localPath": "assets/img/03ab14d3-ab2a-4700-a99b-b5f9c5792e81-2048x1527-16934b94.jpg",
+      "status": "ok",
+      "bytes": 464674
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/09/LOGO-BRANCA.png",
+      "kind": "img",
+      "localPath": "assets/img/LOGO-BRANCA-a36cd15e.png",
+      "status": "ok",
+      "bytes": 4826
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/09/RESIDENCIAL-PERES-2.jpg",
+      "kind": "img",
+      "localPath": "assets/img/RESIDENCIAL-PERES-2-66d51c4d.jpg",
+      "status": "ok",
+      "bytes": 129790
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/09/RESIDENCIAL-PINHEIRO.jpg",
+      "kind": "img",
+      "localPath": "assets/img/RESIDENCIAL-PINHEIRO-d391b1c8.jpg",
+      "status": "ok",
+      "bytes": 143602
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/09/TERRACO-DAS-AGUAS-4.jpg",
+      "kind": "img",
+      "localPath": "assets/img/TERRACO-DAS-AGUAS-4-be7deba4.jpg",
+      "status": "ok",
+      "bytes": 178146
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/09/TOPAZIO-6.jpg",
+      "kind": "img",
+      "localPath": "assets/img/TOPAZIO-6-4db38c51.jpg",
+      "status": "ok",
+      "bytes": 184698
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/09/VIVENDA-DAS-AGUAS-1.jpg",
+      "kind": "img",
+      "localPath": "assets/img/VIVENDA-DAS-AGUAS-1-1a9cd5a3.jpg",
+      "status": "ok",
+      "bytes": 172161
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "kind": "js",
+      "localPath": "assets/js/jquery.min-9732532e.js",
+      "status": "ok",
+      "bytes": 87553
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "kind": "js",
+      "localPath": "assets/js/jquery-migrate.min-9d9d759a.js",
+      "status": "ok",
+      "bytes": 13577
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/studio-freight/lenis@1.0.22/bundled/lenis.min.js",
+      "kind": "js",
+      "localPath": "assets/js/lenis.min-e1e1bf54.js",
+      "status": "ok",
+      "bytes": 12024
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=3.1.1",
+      "kind": "js",
+      "localPath": "assets/js/hello-frontend.min-4e06bf97.js",
+      "status": "ok",
+      "bytes": 2749
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.1.1",
+      "kind": "js",
+      "localPath": "assets/js/webpack.runtime.min-25526e94.js",
+      "status": "ok",
+      "bytes": 5819
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.1.1",
+      "kind": "js",
+      "localPath": "assets/js/frontend-modules.min-d2e83ee2.js",
+      "status": "ok",
+      "bytes": 50602
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3",
+      "kind": "js",
+      "localPath": "assets/js/core.min-d4572469.js",
+      "status": "ok",
+      "bytes": 21464
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.1.1",
+      "kind": "js",
+      "localPath": "assets/js/frontend.min-8819bb20.js",
+      "status": "ok",
+      "bytes": 32098
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5",
+      "kind": "js",
+      "localPath": "assets/js/swiper.min-5433ea98.js",
+      "status": "ok",
+      "bytes": 143709
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/plugins/pro-elements/assets/js/webpack-pro.runtime.min.js?ver=3.23.3",
+      "kind": "js",
+      "localPath": "assets/js/webpack-pro.runtime.min-701d6315.js",
+      "status": "ok",
+      "bytes": 6059
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18",
+      "kind": "js",
+      "localPath": "assets/js/hooks.min-ea6e81ab.js",
+      "status": "ok",
+      "bytes": 4307
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6",
+      "kind": "js",
+      "localPath": "assets/js/i18n.min-2359d660.js",
+      "status": "ok",
+      "bytes": 9141
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/plugins/pro-elements/assets/js/frontend.min.js?ver=3.23.3",
+      "kind": "js",
+      "localPath": "assets/js/frontend.min-1649afb3.js",
+      "status": "ok",
+      "bytes": 25049
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/plugins/pro-elements/assets/js/elements-handlers.min.js?ver=3.23.3",
+      "kind": "js",
+      "localPath": "assets/js/elements-handlers.min-c043d569.js",
+      "status": "ok",
+      "bytes": 42584
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/09/PARTE-01-3.webp",
+      "kind": "img",
+      "localPath": "assets/img/PARTE-01-3-cbacf829.webp",
+      "status": "ok",
+      "bytes": 216406
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/09/PARTE-FINAL.webp",
+      "kind": "img",
+      "localPath": "assets/img/PARTE-FINAL-f8b6d354.webp",
+      "status": "ok",
+      "bytes": 212650
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/2024/09/PARTE-01-MB-copiar-scaled.webp",
+      "kind": "img",
+      "localPath": "assets/img/PARTE-01-MB-copiar-scaled-3d9e8918.webp",
+      "status": "ok",
+      "bytes": 47450
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a-be2aaaaa.woff2",
+      "status": "ok",
+      "bytes": 32340
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufj5qw54a.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-bngmuxzytxpivibgjjsb6ufj5qw54a-65eade63.woff2",
+      "status": "ok",
+      "bytes": 21364
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufb5qw54a.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-bngmuxzytxpivibgjjsb6ufb5qw54a-39c773d9.woff2",
+      "status": "ok",
+      "bytes": 2220
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufo5qw54a.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-bngmuxzytxpivibgjjsb6ufo5qw54a-39956b09.woff2",
+      "status": "ok",
+      "bytes": 14868
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufc5qw54a.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-bngmuxzytxpivibgjjsb6ufc5qw54a-929955c9.woff2",
+      "status": "ok",
+      "bytes": 9980
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufd5qw54a.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-bngmuxzytxpivibgjjsb6ufd5qw54a-fe018514.woff2",
+      "status": "ok",
+      "bytes": 21200
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufn5qu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-bngmuxzytxpivibgjjsb6ufn5qu-d152bb82.woff2",
+      "status": "ok",
+      "bytes": 34236
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkc3kawzu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkc3kaw-44a5ef71.woff2",
+      "status": "ok",
+      "bytes": 39456
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkankawzu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkankaw-24d18fce.woff2",
+      "status": "ok",
+      "bytes": 24576
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcnkawzu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcnkaw-5cb96bd7.woff2",
+      "status": "ok",
+      "bytes": 4468
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbxkawzu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbxkaw-0a458946.woff2",
+      "status": "ok",
+      "bytes": 18800
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkenkawzu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkenkaw-9eaac392.woff2",
+      "status": "ok",
+      "bytes": 44336
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkahkawzu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkahkaw-7ac44de3.woff2",
+      "status": "ok",
+      "bytes": 22288
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcxkawzu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcxkaw-31909b8a.woff2",
+      "status": "ok",
+      "bytes": 13888
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkchkawzu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkchkaw-bdf49c82.woff2",
+      "status": "ok",
+      "bytes": 28536
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbnka.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbnka-5a970f7a.woff2",
+      "status": "ok",
+      "bytes": 44192
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3gubgee.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3gubgee-00bf886f.woff2",
+      "status": "ok",
+      "bytes": 35568
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3iubgee.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3iubgee-44dc1fb5.woff2",
+      "status": "ok",
+      "bytes": 22796
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3cubgee.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3cubgee-145cf15d.woff2",
+      "status": "ok",
+      "bytes": 4340
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3-ubgee.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3-ubgee-018384c9.woff2",
+      "status": "ok",
+      "bytes": 17628
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamawcubgee.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamawcubgee-4c373b4b.woff2",
+      "status": "ok",
+      "bytes": 40572
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamaxkubgee.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamaxkubgee-3b6645fe.woff2",
+      "status": "ok",
+      "bytes": 20408
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3oubgee.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3oubgee-0476c653.woff2",
+      "status": "ok",
+      "bytes": 13004
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3kubgee.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3kubgee-da1e0320.woff2",
+      "status": "ok",
+      "bytes": 26428
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba-8b78f2d3.woff2",
+      "status": "ok",
+      "bytes": 40128
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxiayp8kv8jhgfvrjjlme0tdmpkzsq.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxiayp8kv8jhgfvrjjlme0tdmpkzsq-9bf7a174.woff2",
+      "status": "ok",
+      "bytes": 41984
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxiayp8kv8jhgfvrjjlme0tmmpkzsq.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxiayp8kv8jhgfvrjjlme0tmmpkzsq-c8c36379.woff2",
+      "status": "ok",
+      "bytes": 5720
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxiayp8kv8jhgfvrjjlme0tcmpi.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxiayp8kv8jhgfvrjjlme0tcmpi-596a8a09.woff2",
+      "status": "ok",
+      "bytes": 8404
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmv1pvfteoceg.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxidyp8kv8jhgfvrjjlmv1pvfteoceg-f0c83110.woff2",
+      "status": "ok",
+      "bytes": 45300
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmv1pvgdeoceg.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxidyp8kv8jhgfvrjjlmv1pvgdeoceg-dac46a68.woff2",
+      "status": "ok",
+      "bytes": 5980
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmv1pvf9eo.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxidyp8kv8jhgfvrjjlmv1pvf9eo-7f884244.woff2",
+      "status": "ok",
+      "bytes": 8720
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlm21lvfteoceg.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxidyp8kv8jhgfvrjjlm21lvfteoceg-bb6bd841.woff2",
+      "status": "ok",
+      "bytes": 45772
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlm21lvgdeoceg.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxidyp8kv8jhgfvrjjlm21lvgdeoceg-42479f81.woff2",
+      "status": "ok",
+      "bytes": 5956
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlm21lvf9eo.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxidyp8kv8jhgfvrjjlm21lvf9eo-563ce82e.woff2",
+      "status": "ok",
+      "bytes": 8712
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxigyp8kv8jhgfvrjjlucxtakpy.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxigyp8kv8jhgfvrjjlucxtakpy-58d90088.woff2",
+      "status": "ok",
+      "bytes": 45968
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxigyp8kv8jhgfvrjjlufntakpy.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxigyp8kv8jhgfvrjjlufntakpy-02b1504a.woff2",
+      "status": "ok",
+      "bytes": 5964
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxigyp8kv8jhgfvrjjluchta.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxigyp8kv8jhgfvrjjluchta-0fbfe3e2.woff2",
+      "status": "ok",
+      "bytes": 8668
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmg1hvfteoceg.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxidyp8kv8jhgfvrjjlmg1hvfteoceg-b8915345.woff2",
+      "status": "ok",
+      "bytes": 44976
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmg1hvgdeoceg.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxidyp8kv8jhgfvrjjlmg1hvgdeoceg-f644a1de.woff2",
+      "status": "ok",
+      "bytes": 5856
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmg1hvf9eo.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxidyp8kv8jhgfvrjjlmg1hvf9eo-e93a18ec.woff2",
+      "status": "ok",
+      "bytes": 8504
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmr19vfteoceg.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxidyp8kv8jhgfvrjjlmr19vfteoceg-9098a8ae.woff2",
+      "status": "ok",
+      "bytes": 45596
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmr19vgdeoceg.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxidyp8kv8jhgfvrjjlmr19vgdeoceg-55810ba5.woff2",
+      "status": "ok",
+      "bytes": 6012
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmr19vf9eo.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxidyp8kv8jhgfvrjjlmr19vf9eo-25f355d9.woff2",
+      "status": "ok",
+      "bytes": 8724
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmy15vfteoceg.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxidyp8kv8jhgfvrjjlmy15vfteoceg-fd7e4925.woff2",
+      "status": "ok",
+      "bytes": 45060
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmy15vgdeoceg.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxidyp8kv8jhgfvrjjlmy15vgdeoceg-f1844dde.woff2",
+      "status": "ok",
+      "bytes": 5860
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmy15vf9eo.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxidyp8kv8jhgfvrjjlmy15vf9eo-b5bec778.woff2",
+      "status": "ok",
+      "bytes": 8596
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlm111vfteoceg.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxidyp8kv8jhgfvrjjlm111vfteoceg-847ffd5b.woff2",
+      "status": "ok",
+      "bytes": 44692
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlm111vgdeoceg.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxidyp8kv8jhgfvrjjlm111vgdeoceg-8640fc92.woff2",
+      "status": "ok",
+      "bytes": 5932
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlm111vf9eo.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxidyp8kv8jhgfvrjjlm111vf9eo-61ff3e9b.woff2",
+      "status": "ok",
+      "bytes": 8680
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlm81xvfteoceg.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxidyp8kv8jhgfvrjjlm81xvfteoceg-cd1f6507.woff2",
+      "status": "ok",
+      "bytes": 41944
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlm81xvgdeoceg.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxidyp8kv8jhgfvrjjlm81xvgdeoceg-a7442706.woff2",
+      "status": "ok",
+      "bytes": 5812
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlm81xvf9eo.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxidyp8kv8jhgfvrjjlm81xvf9eo-cc8fbfc2.woff2",
+      "status": "ok",
+      "bytes": 8488
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxigyp8kv8jhgfvrlptucxtakpy.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxigyp8kv8jhgfvrlptucxtakpy-807d5597.woff2",
+      "status": "ok",
+      "bytes": 36136
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxigyp8kv8jhgfvrlptufntakpy.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxigyp8kv8jhgfvrlptufntakpy-ec835bfb.woff2",
+      "status": "ok",
+      "bytes": 5364
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxigyp8kv8jhgfvrlptuchta.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxigyp8kv8jhgfvrlptuchta-7dacc4e1.woff2",
+      "status": "ok",
+      "bytes": 7484
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlfj_z11lfc-k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxibyp8kv8jhgfvrlfj_z11lfc-k-f3bd6989.woff2",
+      "status": "ok",
+      "bytes": 39192
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlfj_z1jlfc-k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxibyp8kv8jhgfvrlfj_z1jlfc-k-034c941d.woff2",
+      "status": "ok",
+      "bytes": 5508
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlfj_z1xlfq.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxibyp8kv8jhgfvrlfj_z1xlfq-ef316345.woff2",
+      "status": "ok",
+      "bytes": 7932
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrldz8z11lfc-k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxibyp8kv8jhgfvrldz8z11lfc-k-ec6575cf.woff2",
+      "status": "ok",
+      "bytes": 39412
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrldz8z1jlfc-k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxibyp8kv8jhgfvrldz8z1jlfc-k-a4048525.woff2",
+      "status": "ok",
+      "bytes": 5524
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrldz8z1xlfq.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxibyp8kv8jhgfvrldz8z1xlfq-fdea0649.woff2",
+      "status": "ok",
+      "bytes": 7840
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxieyp8kv8jhgfvrjjbecmne.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxieyp8kv8jhgfvrjjbecmne-45741c1a.woff2",
+      "status": "ok",
+      "bytes": 39660
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxieyp8kv8jhgfvrjjnecmne.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxieyp8kv8jhgfvrjjnecmne-68acb222.woff2",
+      "status": "ok",
+      "bytes": 5644
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxieyp8kv8jhgfvrjjfecg.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxieyp8kv8jhgfvrjjfecg-aaa6fd07.woff2",
+      "status": "ok",
+      "bytes": 7884
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlgt9z11lfc-k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxibyp8kv8jhgfvrlgt9z11lfc-k-4f70d14c.woff2",
+      "status": "ok",
+      "bytes": 39084
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlgt9z1jlfc-k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxibyp8kv8jhgfvrlgt9z1jlfc-k-b1cc3e56.woff2",
+      "status": "ok",
+      "bytes": 5484
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlgt9z1xlfq.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxibyp8kv8jhgfvrlgt9z1xlfq-40bf427a.woff2",
+      "status": "ok",
+      "bytes": 7748
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlej6z11lfc-k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxibyp8kv8jhgfvrlej6z11lfc-k-01f28b8c.woff2",
+      "status": "ok",
+      "bytes": 39292
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlej6z1jlfc-k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxibyp8kv8jhgfvrlej6z1jlfc-k-1d5a9c96.woff2",
+      "status": "ok",
+      "bytes": 5524
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlej6z1xlfq.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxibyp8kv8jhgfvrlej6z1xlfq-74f0fe94.woff2",
+      "status": "ok",
+      "bytes": 8000
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlcz7z11lfc-k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxibyp8kv8jhgfvrlcz7z11lfc-k-43880cf5.woff2",
+      "status": "ok",
+      "bytes": 39252
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlcz7z1jlfc-k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxibyp8kv8jhgfvrlcz7z1jlfc-k-6a621132.woff2",
+      "status": "ok",
+      "bytes": 5432
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlcz7z1xlfq.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxibyp8kv8jhgfvrlcz7z1xlfq-31bbf24d.woff2",
+      "status": "ok",
+      "bytes": 7816
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrldd4z11lfc-k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxibyp8kv8jhgfvrldd4z11lfc-k-61168dcd.woff2",
+      "status": "ok",
+      "bytes": 38940
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrldd4z1jlfc-k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxibyp8kv8jhgfvrldd4z1jlfc-k-f47e0e14.woff2",
+      "status": "ok",
+      "bytes": 5492
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrldd4z1xlfq.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxibyp8kv8jhgfvrldd4z1xlfq-e1fd1356.woff2",
+      "status": "ok",
+      "bytes": 7824
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlbt5z11lfc-k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxibyp8kv8jhgfvrlbt5z11lfc-k-128e820a.woff2",
+      "status": "ok",
+      "bytes": 38192
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlbt5z1jlfc-k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxibyp8kv8jhgfvrlbt5z1jlfc-k-2d759f52.woff2",
+      "status": "ok",
+      "bytes": 5380
+    },
+    {
+      "url": "https://construtoravitta.com.br/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlbt5z1xlfq.woff2",
+      "kind": "font",
+      "localPath": "assets/font/poppins-pxibyp8kv8jhgfvrlbt5z1xlfq-1a2d86da.woff2",
+      "status": "ok",
+      "bytes": 7632
+    }
+  ]
+}

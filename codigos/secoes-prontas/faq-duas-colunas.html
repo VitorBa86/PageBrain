@@ -1,0 +1,212 @@
+<!--
+  SNIPPET: FAQ em duas colunas (acordeão próprio)
+  CATEGORIA: secoes-prontas
+  O QUE FAZ: Perguntas frequentes em duas colunas com abrir/fechar animado, sem depender do widget Acordeão.
+  COMO USAR: Cole em um widget HTML e edite perguntas e respostas no HTML.
+  ONDE COLAR: Widget HTML
+  DEPENDÊNCIAS: Poppins
+  ORIGEM: paginas/nossas/negocio-entre-para-trip
+  USADO EM: 1 página(s) da casa: negocio-entre-para-trip
+-->
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+
+
+<style>
+  .faq-container {
+    max-width: 1400px;
+    width: 100%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px 30px;
+    align-items: start;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+  }
+
+  .faq-column {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    min-width: 0; /* evita overflow em grid */
+  }
+
+  .faq-item {
+    background: #ffffff;
+    border: 1px solid #e3e6ec;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: background 0.3s ease, border-color 0.3s ease;
+    box-sizing: border-box;
+    width: 100%;
+  }
+
+  .faq-item.active {
+    background: #dadde3;
+    border-color: #dadde3;
+  }
+
+  .faq-item:hover {
+    background: #dadde3;
+    border-color: #dadde3;
+  }
+
+  .faq-question {
+    width: 100%;
+    background: transparent;
+    border: none;
+    padding: clamp(14px, 3vw, 24px) clamp(16px, 4vw, 28px);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    font-size: clamp(13px, 2.5vw, 15px);
+    font-weight: 400;
+    color: #0d1b2a;
+    text-align: left;
+    transition: background 0.3s ease;
+    box-sizing: border-box;
+    gap: 12px;
+  }
+
+  .faq-question span:first-child {
+    flex: 1;
+    min-width: 0;
+    word-break: break-word;
+  }
+
+  .faq-item:hover .faq-question,
+  .faq-question:hover,
+  .faq-question:focus,
+  .faq-question:active {
+    background: #dadde3;
+    outline: none;
+  }
+
+  .faq-item.active:hover,
+  .faq-item.active .faq-question:hover {
+    background: #dadde3;
+  }
+
+  .faq-icon {
+    font-size: clamp(18px, 3vw, 22px);
+    font-weight: 400;
+    color: #0d1b2a;
+    flex-shrink: 0;
+    line-height: 1;
+  }
+
+  .faq-answer {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.35s ease, padding 0.35s ease;
+    padding: 0 clamp(16px, 4vw, 28px);
+    box-sizing: border-box;
+  }
+
+  .faq-item.active .faq-answer {
+    max-height: 400px;
+    padding: 0 clamp(16px, 4vw, 28px) clamp(14px, 3vw, 24px);
+  }
+
+  .faq-answer p {
+    font-size: clamp(13px, 2.5vw, 15px);
+    font-weight: 400;
+    color: #2c3a4b;
+    line-height: 1.55;
+    margin: 0;
+    word-break: break-word;
+  }
+
+  @media (max-width: 768px) {
+    .faq-container {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
+<div class="faq-container">
+  <div class="faq-column">
+    <div class="faq-item active">
+      <button class="faq-question" aria-expanded="true">
+        <span>Preciso ter experiência nos esportes?</span>
+        <span class="faq-icon">−</span>
+      </button>
+      <div class="faq-answer">
+        <p>Não. A maioria chega sem experiência. Instrutores certificados em cada atividade. Ritmo adaptado ao grupo.</p>
+      </div>
+    </div>
+
+    <div class="faq-item">
+      <button class="faq-question" aria-expanded="false">
+        <span>Quem são as pessoas do grupo?</span>
+        <span class="faq-icon">+</span>
+      </button>
+      <div class="faq-answer">
+        <p>Pessoas com perfil parecido com o seu, em busca de aventura, conexão e novas experiências. Grupos pequenos para garantir proximidade.</p>
+      </div>
+    </div>
+
+    <div class="faq-item">
+      <button class="faq-question" aria-expanded="false">
+        <span>O que está incluso no investimento?</span>
+        <span class="faq-icon">+</span>
+      </button>
+      <div class="faq-answer">
+        <p>Hospedagem, todas as atividades guiadas, instrutores certificados, equipamentos de segurança e refeições previstas no roteiro.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="faq-column">
+    <div class="faq-item">
+      <button class="faq-question" aria-expanded="false">
+        <span>É seguro?</span>
+        <span class="faq-icon">+</span>
+      </button>
+      <div class="faq-answer">
+        <p>Sim. Trabalhamos apenas com instrutores certificados, equipamentos revisados e protocolos rigorosos de segurança em todas as atividades.</p>
+      </div>
+    </div>
+
+    <div class="faq-item">
+      <button class="faq-question" aria-expanded="false">
+        <span>Posso ir sozinho(a)?</span>
+        <span class="faq-icon">+</span>
+      </button>
+      <div class="faq-answer">
+        <p>Com certeza. A maioria dos participantes vai sozinha. O formato em grupo facilita as conexões desde o primeiro dia.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  (function() {
+    const items = document.querySelectorAll('.faq-item');
+
+    items.forEach(item => {
+      const question = item.querySelector('.faq-question');
+      const icon = item.querySelector('.faq-icon');
+
+      question.addEventListener('click', () => {
+        const isActive = item.classList.contains('active');
+
+        items.forEach(other => {
+          other.classList.remove('active');
+          other.querySelector('.faq-icon').textContent = '+';
+          other.querySelector('.faq-question').setAttribute('aria-expanded', 'false');
+        });
+
+        if (!isActive) {
+          item.classList.add('active');
+          icon.textContent = '−';
+          question.setAttribute('aria-expanded', 'true');
+        }
+      });
+    });
+  })();
+</script>

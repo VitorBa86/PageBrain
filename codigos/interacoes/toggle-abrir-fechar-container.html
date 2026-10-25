@@ -1,0 +1,32 @@
+<!--
+  SNIPPET: Botão que abre e fecha um container
+  CATEGORIA: interacoes
+  O QUE FAZ: Função makeToggle: botões alternam a classe "ativo" num container (ex.: "ver mais" de um card). Estilize .ativo no CSS.
+  COMO USAR: Defina classes no container (container-bottom) e nos botões (btn-toggle). Cole o script num widget HTML no fim da página e adapte as chamadas makeToggle.
+  ONDE COLAR: Widget HTML no fim da página
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: paginas/nossas/negocio-hoffen-sports
+  USADO EM: 1 página(s) da casa: negocio-hoffen-sports
+-->
+
+<script>function makeToggle(containerSelector, ...btnSelectors) {
+    const container = document.querySelector(containerSelector);
+    const btns = btnSelectors.map(s => document.querySelector(s));
+
+    function toggle() {
+        if (container.classList.contains('ativo')) {
+            container.classList.remove('ativo');
+            btns.forEach(b => b.classList.remove('ativo'));
+        } else {
+            container.classList.add('ativo');
+            btns.forEach(b => b.classList.add('ativo'));
+        }
+    }
+
+    btns.forEach(b => b.addEventListener('click', toggle));
+}
+
+makeToggle('.container-bottom',  '.btn-toggle',   '.btn-toggle-2');
+makeToggle('.container-bottom2', '.btn-toggle-3', '.btn-toggle-4');
+makeToggle('.container-bottom3', '.btn-toggle-5', '.btn-toggle-6');
+</script>

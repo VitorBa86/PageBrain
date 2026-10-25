@@ -1,0 +1,595 @@
+GUIA DE COPY E UX/UI — ZARION / O REI DA LANDING
+Documento de referência para criação de páginas de captação, páginas institucionais e páginas de vendas
+
+IMPORTANTE SOBRE ESTA VERSÃO
+Este arquivo reúne o padrão editorial identificado e transcrições organizadas das páginas cujo conteúdo textual foi recuperado com clareza nesta etapa. Alguns links retornaram erro, timeout ou conteúdo parcial no acesso automatizado. Para não inventar copy nem atribuir textos incorretos a clientes, esses casos estão listados no fim como fontes a conferir. Portanto, esta é uma base de trabalho inicial, não uma transcrição integral de todos os links enviados.
+
+==================================================
+1. PADRÃO DE COPY IDENTIFICADO
+==================================================
+
+OBJETIVO
+Escrever textos que já nasçam prontos para a construção visual da página. A copy deve orientar a hierarquia da dobra, o tamanho dos blocos, a escolha de imagens, os cards, os ícones, os formulários e os CTAs.
+
+TOM DE VOZ
+- Direto, claro e comercial, sem parecer robótico.
+- Linguagem simples, natural e específica para o público daquela página.
+- Foco na dor, no desejo ou na necessidade que leva a pessoa a procurar o serviço.
+- Benefícios e diferenciais concretos, sem exageros genéricos.
+- Credibilidade demonstrada por experiência, especialização, dados, estrutura ou processo.
+- Conversa profissional, sem formalidade excessiva.
+- Não usar travessões como recurso recorrente de escrita.
+- Evitar frases que soem como fórmulas prontas de IA, como “em um mundo cada vez mais…”, “não se trata apenas de…, mas sim de…” ou sequências artificiais de adjetivos.
+
+TAMANHO E RITMO
+- Headline: uma ideia principal, clara e específica.
+- Subheadline: complementa a promessa em uma ou duas frases curtas.
+- Cards: título curto + explicação objetiva, normalmente de uma a três frases.
+- Listas: usar quando facilitarem a leitura ou a comparação.
+- Evitar parágrafos longos, blocos com várias ideias e repetição da mesma promessa em diferentes palavras.
+- Não dividir um texto curto em vários parágrafos sem necessidade.
+- Cada dobra deve ter uma função clara. Não preencher espaço apenas para deixar a página maior.
+- Se a informação puder ser comunicada com um título, uma frase e três benefícios, não transformar isso em um texto longo.
+
+ESTRUTURA DE UMA LANDING PAGE DE CAPTAÇÃO
+A sequência varia conforme o nicho e a oferta. Usar apenas as seções que ajudam a pessoa a decidir ou entrar em contato.
+
+1. Hero: headline orientada à dor, desejo ou resultado; subheadline que explica o serviço; CTA principal; prova ou informação essencial, se houver.
+2. Identificação do problema ou das situações atendidas: organizar em cards ou tópicos escaneáveis.
+3. Como o serviço ajuda ou quais soluções oferece: explicar sem excesso de jargão.
+4. Diferenciais: experiência, especialização, atendimento, abrangência, processo ou estrutura.
+5. Sobre o profissional ou empresa: credenciais relevantes, em texto enxuto.
+6. Como funciona: etapas curtas e sequenciais, apenas quando isso reduz dúvidas.
+7. Prova social: depoimentos ou evidências reais, quando disponíveis.
+8. Perguntas frequentes: responder objeções reais com respostas diretas.
+9. CTA final e contato: repetir a ação desejada de forma clara.
+
+REGRAS DE UX/UI QUE A COPY DEVE RESPEITAR
+- Pensar em blocos visuais desde a escrita: título, apoio, cards, bullets, formulário e CTA.
+- Escrever títulos que possam ser entendidos em uma leitura rápida.
+- Não criar parágrafos que precisem ocupar grande parte da tela sem uma boa razão.
+- Em cards, manter comprimentos semelhantes para preservar equilíbrio visual.
+- Usar listas para dados, etapas, benefícios e características comparáveis.
+- Um CTA principal por contexto. O texto do botão deve dizer o que acontece ao clicar: “Falar com um advogado”, “Quero avaliar meu caso”, “Receber uma simulação”.
+- Não usar chamadas vagas como “Saiba mais” quando uma ação específica for possível.
+- Formulários devem pedir apenas os dados necessários para o primeiro contato.
+- Não inventar depoimentos, números, certificações, resultados garantidos, prazos ou estatísticas.
+- Em nichos regulados, evitar promessas absolutas e afirmações que possam induzir o usuário ao erro.
+- Não reescrever a mesma informação em headline, subtítulo, seção e CTA sem uma função distinta.
+
+CHECKLIST ANTES DE ENTREGAR
+[ ] A headline deixa claro para quem é a página e qual problema/objetivo aborda?
+[ ] A subheadline explica a oferta sem repetir a headline?
+[ ] Cada dobra tem uma função específica?
+[ ] Os textos cabem em componentes visuais sem virar blocos extensos?
+[ ] Há frases repetidas ou adjetivos desnecessários?
+[ ] O CTA indica uma ação concreta?
+[ ] As informações factuais foram fornecidas pelo cliente ou confirmadas?
+[ ] A copy evita travessões e construções com aparência de texto genérico de IA?
+[ ] O texto está pronto para virar layout, cards, ícones, formulário ou seção?
+
+==================================================
+2. TRANSCRIÇÕES ORGANIZADAS
+==================================================
+
+--------------------------------------------------
+ADVOCACIA — LUISA BASTOS
+Fonte: https://lp.oreidalanding.com.br/luisa/
+--------------------------------------------------
+
+HERO
+Headline: Sofreu algum problema no seu voo? Receba indenizações por isso!
+Subheadline: Sou advogada especialista em direitos dos passageiros aéreos. Transformo o seu transtorno em compensação financeira sem complicação.
+CTA: Fale comigo no Whatsapp
+
+SEÇÃO: CONHEÇA SEUS DIREITOS
+Título: Conheça seus direitos
+Texto de apoio: Fique por dentro dos seus direitos como passageiro aéreo e saiba como proceder em caso de problemas com seu voo.
+
+Cards:
+Voo Cancelado
+Se o seu voo foi cancelado, você tem direito a uma indenização. Verificamos as condições do seu caso e garantimos que você receba a compensação justa.
+
+Voo Atrasado
+Atrasos de voo podem causar grandes transtornos. Se o seu voo atrasou mais do que 4 horas, você pode ter direito a uma indenização. Estamos aqui para assegurar que você seja compensado.
+
+Overbooking
+A Cia Aérea vendeu mais assentos que a capacidade do avião e você foi impedido de embarcar devido à overbooking? Esse é um problema comum e você tem direitos a serem protegidos.
+
+Bagagem Extraviada
+Sua bagagem foi extraviada ou chegou com atraso? Além do estresse e transtorno, você pode ter direito a uma indenização. Ajudamos a reivindicar seus direitos.
+
+Bagagem Danificada
+Se sua bagagem foi danificada durante o voo, você tem direito a reparação ou indenização. Cuidamos de todo o processo para que você receba o que é devido.
+
+Conexão Perdida
+Perder uma conexão pode arruinar seus planos de viagem. Se a companhia aérea é responsável, você tem direito a uma indenização. Seja compensado pelo transtorno.
+
+SEÇÃO: PASSO A PASSO
+Título recuperado: Passo a passo
+Observação: os quatro itens desta seção aparecem como “Lorem Ipsum” no conteúdo recuperado. Não substituir por copy inventada.
+
+SEÇÃO: QUEM SOU EU?
+Título: Quem sou eu?
+Subtítulo: Luisa Bastos | Advogada dos Passageiros Aéreos
+Texto: Advogada há 4 anos pela UFRJ, pós graduanda pela UERJ, já trabalhou em um dos maiores escritórios de advocacia do Brasil.
+Texto complementar: Apaixonada por viajar e conhecer novos lugares, decidi me tornar advogada dos passageiros aéreos porque, como alguém que ama viajar e entendo as emoções e expectativas envolvidas em cada viagem.
+Nada é mais frustrante do que lidar com atrasos, cancelamentos ou problemas de bagagem durante uma viagem que deveria ser emocionante e tranquila.
+Quero usar as ferramentas do direito para assegurar os direitos dos passageiros aéreos, ajudando a garantir que eles recebam a compensação adequada quando enfrentarem problemas e frustrações durante suas viagens.
+
+SEÇÃO: DIFERENCIAIS DO MEU SERVIÇO
+Texto de apoio: Descubra o que torna nosso atendimento único e como garantimos a melhor experiência na defesa dos seus direitos.
+Diferenciais:
+- Atendimento online em todo o Brasil
+- Atendimento Personalizado
+- Transparência e Ética
+
+CTA: Fale comigo no Whatsapp
+SEÇÃO FINAL: Entre em Contato Comigo!
+Observação: o texto e os dados de contato exibidos nesta seção incluem conteúdo demonstrativo (“Lorem Ipsum”, telefone e e-mail fictícios). Não usar como conteúdo final.
+
+--------------------------------------------------
+ADVOCACIA — BARROS E CARVALHO
+Fonte: https://lp.oreidalanding.com.br/barrosecarvalho/
+--------------------------------------------------
+
+HERO
+Headline: Aposentado ou Pensionista?
+Complemento: Você pode estar pagando Imposto de Renda indevidamente!
+Subheadline: Se você possui uma doença grave, a lei pode garantir sua isenção e restituição do Imposto de Renda. Descubra agora se tem direito e recupere valores pagos indevidamente.
+CTA: Falar com um Advogado(a)
+
+SEÇÃO: COMO SABER SE EU TENHO DIREITO À ISENÇÃO DE IMPOSTO DE RENDA?
+Texto de apoio: Você pode ter direito à isenção se enquadrar nestas situações:
+
+Card 1 — É aposentado ou pensionista
+Se você recebe aposentadoria ou pensão, pode ter direito a benefícios fiscais que reduzem ou isentam o pagamento do Imposto de Renda.
+
+Card 2 — Possui alguma doença grave prevista em lei
+Pessoas com doenças graves, como câncer, cardiopatia grave, esclerose múltipla, entre outras, podem solicitar isenção do Imposto de Renda sobre a aposentadoria.
+
+Card 3 — Está pagando Imposto de Renda sobre sua aposentadoria ou pensão
+Se você já paga Imposto de Renda sobre sua aposentadoria ou pensão, pode verificar se tem direito à isenção e reduzir sua carga tributária.
+
+CTA: Consultar Especialista
+
+SEÇÃO: POR QUE ESCOLHER A BARROS E CARVALHO ADVOCACIA?
+Diferenciais:
+- Equipe especialista em Direito Tributário
+- Atendimento rápido e personalizado
+- + de 7 anos de experiência
+- Atendemos em todo o Brasil
+
+SEÇÃO: QUEM SOMOS?
+Título: Barros e Carvalho Advocacia
+Texto: Somos um escritório especializado na recuperação de tributos pagos indevidamente, oferecendo suporte jurídico a empresários de todo o Brasil.
+À frente do escritório, os advogados Barros e Carvalho possuem mais de 7 anos de experiência e já atenderam centenas de clientes, sempre com compromisso, ética e segurança jurídica.
+Nosso propósito é garantir sua isenção e restituição de impostos pagos indevidamente e conduzir processos com transparência e atendimento humanizado.
+CTA: Falar com um Advogado(a)
+
+SEÇÃO: ATENDIMENTO ONLINE
+Título: Fale com um Advogado especialista em isenção e imposto de renda
+Texto de apoio: Clique no botão abaixo e fala com nossa equipe de advogados.
+CTA: Falar com um Advogado(a)
+
+SEÇÃO: PERGUNTAS FREQUENTES
+Pergunta: Como saber se tenho direito à isenção do Imposto de Renda?
+Resposta: Se você é aposentado ou pensionista e possui uma das doenças graves previstas em lei, pode ter direito à isenção. Nossa equipe faz uma análise gratuita para confirmar.
+
+Pergunta: Quais doenças dão direito à isenção?
+Resposta: Algumas das principais doenças são: câncer, cardiopatia grave, esclerose múltipla, Mal de Parkinson, hanseníase, HIV/AIDS, entre outras.
+
+Pergunta: Como é feito o pedido de isenção?
+Resposta: O pedido pode ser feito administrativamente junto à Receita Federal ou por meio de uma ação judicial, dependendo do caso. Nós cuidamos de tudo para você.
+
+Pergunta: Posso recuperar o que já paguei de imposto?
+Resposta: Sim! Se você pagou imposto indevidamente nos últimos anos, podemos entrar com um pedido de restituição para recuperar os valores retroativos.
+
+Pergunta: O atendimento é online?
+Resposta: Sim! O atendimento pode ser tanto presencialmente em Goiânia, como online de forma totalmente personalizada sem burocracia.
+
+SEÇÃO DE CONTATO
+Título: Entre em Contato
+Texto de apoio: Confira nossas informações de contato para saber mais sobre isenção de Imposto de Renda para aposentados e pensionistas.
+Endereço: Edifício Terra Office, Sala 405-B, Jardim América, Goiânia-GO.
+Telefone: (62) 99384-4174.
+
+--------------------------------------------------
+ADVOCACIA — CALGAROTTO
+Fonte: https://calgarottoadv.com.br/
+--------------------------------------------------
+
+HERO
+Headline: Advocacia com experiência em Direito da Saúde, benefícios do INSS e isenção de impostos
+Subheadline: Em nosso escritório, transformamos a lei no seu melhor apoio. Atuação ágil e especializada para garantir seus benefícios previdenciários, acesso a tratamentos e isenções tributárias no momento em que você mais precisa.
+CTA: Fale agora pelo WhatsApp
+
+INDICADORES / DIFERENCIAIS
+- Atendimento em todo o Brasil
+- Soluções personalizadas
+- Atendimento humanizado
+- 5 estrelas Google
+
+SEÇÃO: CONHEÇA OS DIREITOS
+Título: Conheça os direitos
+Texto: Você sabia que a lei protege o seu patrimônio e garante o seu sustento em casos de doenças graves ou incapacitantes?
+Complemento: Seja contra o INSS, a Receita Federal, Planos de Saúde ou SUS, veja alguns direitos garantidos por lei:
+
+Home Care (internação domiciliar)
+Atuação rápida para obrigar planos de saúde e o SUS a custearem toda a estrutura e equipe de cuidados médicos na sua residência.
+
+Tratamentos e Medicamentos
+Garantia de acesso a remédios de alto custo, cirurgias e terapias urgentes contra negativas abusivas de planos de saúde e do SUS.
+
+Isenção de Imposto de Renda
+Aposentados e pensionistas com doenças graves têm o direito de parar de pagar o Imposto de Renda, podendo recuperar valores cobrado nos últimos 5 anos.
+
+Auxílio Doença e Aposentadoria por Invalidez
+Enfrentamos a burocracia do INSS para garantir o seu benefício ou aposentadoria, permitindo que você tenha paz para focar na recuperação.
+
+BPC / LOAS
+Atuação para garantir o pagamento de um salário mínimo mensal para pessoas com deficiência ou idosos em situação de vulnerabilidade.
+
+Quitação de Financiamento
+Se você foi diagnosticado com uma doença incapacitante, buscamos o seu direito de quitar o financiamento da casa própria (seguro prestamista).
+
+CTA: Fale agora pelo WhatsApp
+
+SEÇÃO: SOBRE O ESCRITÓRIO
+Texto: Com sólida experiência em Direito da Saúde, Previdenciário e Isenções Tributárias, atuo na defesa de pacientes e trabalhadores que enfrentam a burocracia estatal e privada em seus momentos de maior vulnerabilidade.
+No Calgarotto Advocacia, transformamos negativas abusivas de planos de saúde, do SUS e do INSS em decisões favoráveis. Nosso objetivo é garantir acesso rápido a tratamentos e proteger o seu patrimônio através da concessão de benefícios, tratamentos e isenções de impostos.
+Somos conhecidos por uma atuação ágil, ética e humanizada. Entendemos que quem luta pela própria saúde e pelo sustento da sua família não pode esperar, por isso buscamos resolver cada caso com a máxima urgência.
+CTA: Quero falar com o advogado agora
+
+SEÇÃO: COMO FUNCIONA NOSSA ATUAÇÃO?
+Texto de apoio: Veja a seguir, as etapas enumeradas passo a passo:
+
+1. Entre em contato
+Envie sua situação no WhatsApp. Vamos analisar seu caso com atenção e cuidado.
+
+2. Análise de Viabilidade
+Avaliamos seus laudos médicos, negativas e demais documentos para traçar a melhor estratégia jurídica para o seu caso.
+
+3. Ação Judicial com Pedido de Urgência
+Entramos com processo rapidamente, utilizando pedidos de liminar (urgência) para garantir o início do tratamento ou benefício o quanto antes.
+
+4. Receba o que é seu por direito
+Após decisão favorável, você conquista a sua isenção de impostos, a liberação do seu tratamento ou o seu benefício previdenciário.
+
+SEÇÃO DE FORMULÁRIO
+Título: Preencha o formulário
+Texto: Preencha o formulário abaixo e entraremos em contato o quanto antes.
+Campos identificados: Nome, e-mail, número de WhatsApp e mensagem.
+Botão: Enviar
+
+--------------------------------------------------
+ADVOCACIA — SOUZA SANTOS / FELIPPE AUGUSTO
+Fonte: https://lp.oreidalanding.com.br/souza-santos/
+--------------------------------------------------
+
+IDENTIFICAÇÃO
+Dr. Felippe Augusto — CEO
+Advogado Trabalhista dos Bancários
+
+HERO
+Headline: Bancário, com certeza você tem valores a receber do Banco, só precisa saber quanto.
+CTA: Quero avaliar meu caso
+
+SEÇÃO DE CONTEXTO
+Título: Quando o bancário precisa enfrentar um banco, não basta apenas um advogado. Ele precisa de alguém que já conhece esse caminho e sabe conduzi-lo com segurança.
+Texto: Se você é bancário e está considerando entrar com uma ação trabalhista, a escolha do advogado não é um detalhe. Ela pode definir todo o rumo da sua jornada.
+Enfrentar uma instituição financeira exige mais do que conhecimento da lei. Exige experiência prática, estratégia e uma estrutura preparada para agir com segurança desde o início.
+É isso que o Dr. Felippe Augusto e o Souza Santos Advogados construíram ao longo de quase 20 anos de atuação: uma advocacia especializada, estruturada e voltada exclusivamente para defender bancários com inteligência estratégica.
+Ao longo dessa trajetória, o escritório se consolidou entre os mais respeitados do país na área trabalhista bancária, não apenas pelo conhecimento técnico, mas pela forma como ele é aplicado na prática.
+
+Lista:
+- Metas cada vez maiores.
+- Cobranças constantes.
+- Pressão diária.
+- E, muitas vezes, direitos deixados em segundo plano.
+
+Frase de transição: É nesse cenário que a experiência faz diferença.
+
+SEÇÃO DE DIFERENCIAIS
+Texto: No Souza Santos Advogados, cada caso é analisado com profundidade técnica e visão estratégica, para que o bancário não apenas entre com uma ação, mas seja conduzido com segurança por quem conhece o sistema.
+Introdução: Com uma mentalidade estratégica aplicada à advocacia, o cliente encontra:
+- Experiência consolidada no universo bancário
+- Estratégia jurídica pensada para resultados reais
+- Estrutura sólida e preparada para atuar contra grandes bancos
+- Atendimento sério, humano e transparente
+
+Frases de impacto:
+Aqui, não existe improviso.
+Existe método.
+Existe direção.
+
+Texto complementar recuperado: E existe o compromisso de usar toda essa experiência para proteger quem dedicou anos de sua vida ao sistema financeiro. Porque, quando chega o momento de buscar justiça, o bancário não precisa apenas de um advogado. Ele precisa de alguém que já conhece o caminho e sabe exatamente como conduzi-lo em sua defesa. Esse é o compromisso. Não apenas representar. Mas conduzir. Não apenas atuar. Mas defender com estratégia.
+
+CTA / TRANSIÇÃO
+Headline: Converse com quem já conhece o caminho e saiba como defender seus direitos com estratégia.
+CTA: Falar com quem entende bancários
+Texto: Seu caso será analisado com seriedade, estratégia e respeito à sua história.
+
+SEÇÃO: SOBRE O PROFISSIONAL
+Título: Dr. Felippe Augusto
+Subtítulo: CEO – Souza Santos Advogados
+Texto: Advogado com quase 20 anos de experiência, construiu uma trajetória sólida na advocacia estratégica com foco exclusivo na defesa de bancários. No Direito Trabalhista Bancário, consolidou-se como referência nacional, figurando entre os Top 3 do Brasil na defesa técnica e estratégica em demandas contra grandes instituições financeiras.
+Sua atuação é marcada por profundidade técnica, visão estratégica e domínio das particularidades que envolvem a rotina e os direitos dos profissionais do setor bancário.
+Com uma mentalidade de liderança aplicada à advocacia, desenvolveu um modelo de atuação baseado em três pilares fundamentais:
+- Estratégia antes de ação
+- Análise profunda antes de decisão
+- Direção clara durante todo o processo
+Fechamento: Mais do que representar clientes, o escritório conduz cada caso com estratégia, segurança e propósito.
+
+SEÇÃO: IDENTIFICAÇÃO COM A ROTINA DO BANCÁRIO
+Título: Bancário, o que eu vou te contar agora parece com a sua rotina?
+Texto: Durante anos, você cumpriu metas, lidou com pressão e ajudou a construir os resultados do banco.
+Mas no momento da demissão, muitas vezes o bancário recebe propostas de acordo apresentadas como a melhor solução para encerrar a situação rapidamente.
+O que muitos profissionais não sabem é que essas propostas podem ser feitas sem uma análise jurídica independente, e os valores apresentados nem sempre refletem todos os direitos que podem existir.
+Por isso, antes de tomar qualquer decisão, é importante contar com a orientação de um advogado que conheça a rotina do setor bancário.
+O Souza Santos Advogados atua há quase 15 anos em ações trabalhistas envolvendo instituições financeiras, acompanhando bancários na análise de seus direitos e na avaliação segura de cada caso.
+Fechamento: Você dedicou anos da sua vida ao banco. Antes de tomar qualquer decisão, vale a pena entender com clareza o que a legislação pode garantir a você. Uma análise jurídica pode ajudar você a avaliar sua situação com mais segurança e tranquilidade.
+CTA: Falar com um especialista
+
+SEÇÃO DE PERGUNTAS FREQUENTES
+Pergunta: Tenho receio de processar o banco. Isso é normal?
+Resposta: Sim, e esse é um sentimento muito comum entre bancários. Muitos profissionais dedicaram anos da sua vida ao banco e, por isso, sentem insegurança ao pensar em uma ação trabalhista. O primeiro passo não é processar: é entender seus direitos com clareza, estratégia e segurança, para decidir com tranquilidade.
+
+Pergunta: Mesmo trabalhando há muitos anos no banco, ainda posso buscar meus direitos?
+Resposta: Sim, muitos bancários descobrem direitos trabalhistas justamente após anos de dedicação ao banco. No entanto, é importante saber que a lei estabelece prazos para o ajuizamento das ações. Quando esse prazo é ultrapassado, alguns direitos podem deixar de ser exigidos judicialmente. Por isso, quanto antes o seu caso for analisado, maior a segurança para avaliar suas possibilidades e evitar perdas.
+
+Pergunta: Se eu não buscar orientação agora, posso estar deixando direitos para trás?
+Resposta: Essa é uma dúvida muito comum. Muitos bancários só descobrem que tinham direitos após receber orientação especializada. Por isso, buscar informação não significa tomar uma decisão imediata, significa entender suas possibilidades com segurança.
+
+Pergunta: Conversar com o escritório significa que eu já preciso entrar com uma ação?
+Resposta: Não. O primeiro contato serve apenas para entender sua situação, esclarecer dúvidas e avaliar se existe viabilidade jurídica no seu caso. A decisão sobre qualquer medida é sempre tomada com calma e estratégia.
+
+Pergunta: Como saber se o meu caso realmente tem chance?
+Resposta: A resposta vem através da análise estratégica do seu histórico profissional e da sua rotina de trabalho. Nem todo caso deve virar processo, e é justamente por isso que a avaliação inicial é tão importante.
+
+Pergunta: Tenho medo de não ter provas suficientes. Ainda assim posso conversar com o escritório?
+Resposta: Sim. Em muitos casos, as provas podem ser construídas a partir de documentos, testemunhas e informações técnicas do próprio contexto de trabalho bancário. A análise inicial serve justamente para identificar isso.
+
+Pergunta: O escritório atende somente em São Paulo ou em todo o Brasil?
+Resposta: O Souza Santos Advogados atende bancários em todo o Brasil. Atualmente, atendimentos e muitas audiências são realizados por videoconferência, permitindo acompanhamento completo independentemente da localização do cliente.
+
+Pergunta: Preciso morar perto do escritório para ser atendido?
+Resposta: Não. O atendimento pode ser realizado de forma totalmente online, com a mesma segurança, estratégia e acompanhamento jurídico.
+
+Pergunta: Onde estão localizadas as unidades do escritório?
+Resposta: O escritório possui unidades físicas em Barra Funda/SP, Alphaville/SP e Mogi das Cruzes/SP.
+
+==================================================
+3. OUTRAS PÁGINAS COM TEXTO RECUPERADO
+==================================================
+
+--------------------------------------------------
+IMOBILIÁRIO — CONSTRUTORA VITTA / VILLAGIO DAS ÁGUAS
+Fonte: https://construtoravitta.com.br/
+--------------------------------------------------
+
+HERO
+Headline: Apartamentos na planta a partir de R$199.000,00 no interior paulista
+Subheadline: Varanda Gourmet em todos os apartamentos, garagem coberta e pagamento facilitado pela incorporadora!
+CTA: Quero conhecer o Villágio das águas
+
+SEÇÃO: OPÇÕES DE APARTAMENTOS
+Título: 3 opções de apartamentos
+
+Opção 1 — 2 quartos (1 suíte)
+- 70,20 m²
+- 1 suíte
+- Sala
+- Cozinha
+- Banheiro
+- Varanda gourmet
+CTA: Saber mais
+
+Opção 2 — 2 quartos
+- 57,62 m²
+- 2 quartos
+- Sala
+- Cozinha
+- Banheiro
+- Varanda gourmet
+CTA: Saber mais
+
+Opção 3 — Loft
+- 42,64 m²
+- 1 quarto
+- Sala
+- Cozinha
+- Banheiro
+- Varanda gourmet
+CTA: Saber mais
+
+SEÇÃO: BENEFÍCIOS
+Headline: Paz e tranquilidade com sofisticação e conforto
+Texto: O Villagio das Águas é a combinação perfeita entre natureza e conforto. Com apartamentos de excelente padrão, oferecendo opções de 1 ou 2 dormitórios, todos equipados com varanda gourmet, churrasqueira e vagas de garagem cobertas, você terá um lar elegante em frente ao laguinho. Além disso, o condomínio oferece um excelente custo-benefício, com taxas condominiais baixas, garantindo a você todo o conforto sem pesar no bolso.
+CTA: Quero conhecer o Villágio das águas
+
+SEÇÃO: PAGAMENTO
+Headline: Pagamento facilitado pela incorporadora
+Destaque: Parcelas a partir de R$1.592,00
+Texto: Com entrada de 10% e parcelas mensais a partir de R$1.592.
+Complemento: O sonho do seu novo lar está mais próximo do que você imagina. Financie durante a obra e finalize com o banco.
+CTA: Quero comprar um apartamento na planta
+
+SEÇÃO: POR QUE COMPRAR UM APARTAMENTO NA PLANTA?
+Texto editorial reproduzido na página: “A compra antecipada pode resultar em valorização significativa do imóvel, planejamento financeiro sólido e descontos oferecidos por construtoras, e torna-se uma opção atrativa para aqueles que desejam otimizar retornos de investimento. Uma das principais vantagens desse método é a valorização potencial do imóvel. De acordo com dados do Sindicato da Indústria da Construção Civil (Sinduscon), o imóvel comprado na planta pode valorizar entre 20% e 50% após a conclusão da construção. De acordo com Mariana Ribeiro, supervisora comercial da Perplan, este fenômeno é impulsionado, em parte, pela personalização que os compradores têm à disposição.”
+Crédito exibido: Notícia pelo G1. Por Perplan, 26/12/2023 08h29.
+CTA: Quero comprar um apartamento na planta
+
+SEÇÃO DE FORMULÁRIO
+Título: Preencha o formulário para um de nossos consultores entrar em contato
+Campos identificados: primeiro nome, e-mail, telefone com DDD/WhatsApp.
+CTA: Quero conhecer o Villágio das águas
+
+SEÇÃO: A VITTA INCORPORADORA
+Texto: A Vitta Incorporadora está no mercado desde 2012, atuando no Circuito das Águas e Sul de Minas, com mais de 300 unidades entregues. Em Lindóia, o Villagio das Águas será o quinto empreendimento da empresa, consolidando sua presença na região. Com dois empreendimentos já executados em Águas de Lindóia e outro em andamento em Monte Sião, a Vitta também possui um grande projeto em Hortolândia.
+
+SEÇÃO: FAQ
+Pergunta: Quando será entregue o empreendimento?
+Resposta: A entrega está prevista para agosto de 2027, com as obras já em andamento.
+Pergunta: O que está incluído na área de lazer?
+Resposta: O condomínio oferece um salão de festas ideal para suas comemorações.
+Pergunta: Como é o financiamento?
+Resposta: Parcelas a partir de R$ 1.592, com financiamento direto com a construtora durante a obra e finalização com o banco após a entrega.
+
+--------------------------------------------------
+IMOBILIÁRIO — VEGA COSTA E SILVA
+Fonte: https://lp.oreidalanding.com.br/pagina-vega-costa-e-silva/
+--------------------------------------------------
+
+HERO
+Headline: Seu novo lar no bairro que mais cresce em Joinville
+Subheadline: Apartamentos de 2 quartos, de 46 a 92 m², com sacada churrasqueira ou Giardino privativo. 5 torres, lazer completo e a segurança de quem compra com a Minatto Imóveis.
+CTA: Fale com um consultor
+
+DADOS RÁPIDOS
+- A partir de 46 m²
+- 2 quartos
+- 1 vaga
+- Lazer completo
+CTA: Mais detalhes
+
+SEÇÃO: DETALHES DO EMPREENDIMENTO
+Título: Conheça os detalhes do seu mais novo lar
+Texto: Um empreendimento completo, pensado para famílias que buscam conforto, praticidade e valorização. Cada detalhe do Vega foi projetado para transformar o dia a dia em uma experiência de morar bem.
+- Tamanho: 46 a 92 m²
+- Quartos: 2 quartos
+- Vagas: 1 vaga
+- Lazer: completo
+- Torres: 5 torres, 8 pavimentos
+- Localização: Costa e Silva, Joinville/SC
+CTA: Fale com um consultor
+
+SEÇÃO: VALORIZAÇÃO DO IMÓVEL
+Título: A cidade com a maior valorização imobiliária de Santa Catarina
+Subtítulo: Valorização 2024–2026
+Texto de apoio: Preço médio do m² em Joinville, acumulado desde janeiro de 2024.
+Dados exibidos na página:
+- 2024: +15,3%; R$ 7.615/m²
+- 2025: +23,4%; R$ 8.125/m²
+- 2026 (jan–jun): +25,3%; R$ 8.272/m²
+Fonte indicada: FipeZAP. A página também informa que rentabilidade passada não garante retorno futuro.
+Texto: Enquanto investimentos tradicionais entregam retornos modestos, Joinville registrou uma valorização de 15,31% em 2024, a maior entre todas as cidades catarinenses, segundo o índice FipeZap. E o bairro Costa e Silva é o 2º em volume de vendas da cidade.
+CTA: Quero investir nessa valorização
+
+SEÇÃO DE SIMULAÇÃO
+Título: Faça sua simulação grátis aqui
+Campos: nome, e-mail, telefone/WhatsApp, faixa de renda bruta familiar e pergunta sobre o que mais dificulta a compra do imóvel.
+CTA: Receber simulação grátis aqui
+
+SEÇÃO: DETALHES DO IMÓVEL
+Título: Explore cada detalhe do Vega Costa e Silva
+Recursos indicados: vídeo, tour 360°, plantas e imagens.
+Ficha técnica:
+- Metragens: 46 a 92 m²
+- Tipologia: 2 quartos
+- Sacada com churrasqueira ou Giardino privativo
+- Vagas: 1 por unidade
+- Torres: 5
+- Pavimentos: 8 por torre
+- Total: 320 apartamentos
+- Entrega prevista: 2º semestre de 2028
+CTA: Fale com um consultor
+
+SEÇÃO: DIFERENCIAIS
+Título: Área de lazer completa
+Texto: Tudo o que sua família precisa, dentro do condomínio. O Vega Costa e Silva foi projetado para que cada momento, do lazer ao descanso, aconteça a poucos passos de casa.
+Itens: piscina, salão de festas, playground, quiosque, mini soccer infantil, quadra de areia, pet square, family garden e market share.
+CTA: Fale com um consultor
+
+SEÇÃO: LOCALIZAÇÃO
+Título: Localização privilegiada
+Endereço: Rua Pavão, 1401, Costa e Silva, Joinville/SC.
+Texto: No coração de uma das regiões mais estratégicas de Joinville, o Vega Costa e Silva conecta você às principais vias da cidade, BR-101, Av. Santos Dumont e Rua Benjamin Constant, com tudo o que você precisa a minutos de distância.
+Proximidades exibidas:
+- IFSC: 1 min
+- Associação Desportiva Embraco: 5 min
+- Expoville: 7 min
+- Shopping Garten: 9 min
+- Centro de Joinville: 13 min
+CTA: Fale com um consultor
+
+SEÇÃO: OBRA EM ANDAMENTO
+Título: Seu futuro já está sendo construído
+Texto: O Vega Costa e Silva saiu do papel e avança no ritmo certo. Com obras iniciadas em janeiro de 2026 e previsão de entrega para o 2º semestre de 2028, o empreendimento já alcançou uma etapa importante e você pode acompanhar cada fase de perto.
+CTA: Fale com um consultor
+
+SEÇÃO FINAL DE SIMULAÇÃO
+Título: Faça sua simulação grátis aqui
+Texto: Preencha o formulário e receba o contato de um dos nossos consultores com todas as condições, plantas e disponibilidade de unidades.
+Campos: nome, e-mail, telefone/WhatsApp, faixa de renda bruta familiar e pergunta sobre o que mais dificulta a compra do imóvel.
+CTA: Receber simulação grátis aqui
+
+FECHAMENTO
+Título: Seu novo lar está a um passo de distância.
+CTA: Fale com um consultor
+
+--------------------------------------------------
+IMOBILIÁRIO — THE PALACE
+Fonte: https://lp.oreidalanding.com.br/the-palace/
+--------------------------------------------------
+
+HERO
+Headline: Dois Endereços, Um Símbolo de Status.
+Subheadline: Conheça os lançamentos The Palace Oasis e The Palace Royal, dois projetos independentes, com identidade única, localizados no eixo mais valorizado de São Paulo, Vila Mariana.
+CTA: Quero mais informações
+
+SEÇÃO SEGUINTE
+Título: Vila Mariana, onde grandes patrimônios se enraízam.
+Observação: a captura textual desta página ficou parcial; não completar as demais seções por suposição.
+
+==================================================
+4. ÍNDICE DE TODAS AS REFERÊNCIAS ENVIADAS
+==================================================
+
+ADVOCACIA
+1. https://lp.oreidalanding.com.br/luisa/
+2. https://lp.oreidalanding.com.br/barrosecarvalho/
+3. https://pereirasampaioadvogados.com.br/bpc-loas/ — acesso retornou erro 502 nesta etapa
+4. https://calgarottoadv.com.br/
+5. https://lp.oreidalanding.com.br/souza-santos/
+6. https://lp.oreidalanding.com.br/gustavokehl/ — texto não incluído nesta versão
+PSICÓLOGOS
+7. https://lp.oreidalanding.com.br/vivian/
+8. https://psicologajuliavaldetaro.com.br/
+9. https://lp.oreidalanding.com.br/pagina-renan/
+10. https://lp.oreidalanding.com.br/maria-rita-sales/
+CLÍNICA / DOUTORES
+11. https://drpedrocamargo.com.br/
+12. https://lucianogrisotto.com.br/mastopexia/
+13. https://lucianogrisotto.com.br/mommy-makeover/
+ODONTO
+14. https://lp.oreidalanding.com.br/pagina-invisalign-jv-clinica/
+AGÊNCIA / CONSULTORIA
+15. https://lp.oreidalanding.com.br/rpvision/
+16. https://victorleaogotaconsciencia.com/consultoria-gratuita/
+17. https://harmonymidia.com/tatuadores/
+IMOBILIÁRIA / CORRETORES
+18. http://altopadraosp.com/thepalace/ — acesso retornou erro 502 nesta etapa
+19. https://construtoravitta.com.br/
+20. https://lp.oreidalanding.com.br/pagina-vega-costa-e-silva/
+21. https://mb2incorporacoes.com.br/ — timeout nesta etapa
+22. https://lp.oreidalanding.com.br/the-palace/
+23. https://vistoriaalphaville.com.br/
+EMPRESAS GERAIS
+24. https://hoffensports.com.br/
+25. https://entreparatrip.com.br/
+26. https://lp.oreidalanding.com.br/pagina-bar-santa-boemia/
+27. https://lp.oreidalanding.com.br/pagina-inter-frios/
+VENDAS / INFOPRODUTOS
+28. https://lp.oreidalanding.com.br/pagina-workshop-setembro-toledo/
+29. https://lp.oreidalanding.com.br/pagina-jessica-script/
+30. https://lp.oreidalanding.com.br/pagina-morelli-churrasco-networking/
+31. https://lp.oreidalanding.com.br/carol-guglielmi/
+32. https://lp.oreidalanding.com.br/pagina-mentoria-bancario-jessica/
+33. https://lp.oreidalanding.com.br/templates-jardel/
+
+==================================================
+5. INSTRUÇÃO SUGERIDA PARA A SKILL
+==================================================
+
+Ao escrever copy para as páginas da Zarion, use este documento como referência de estilo. Escreva em português brasileiro natural, sem travessões e sem construções genéricas com aparência de IA. Priorize objetividade, clareza e escaneabilidade. Pense em cada seção como uma dobra que será desenhada e desenvolvida: crie headlines curtas, subheadlines que complementem a ideia, cards com títulos e textos compactos, listas quando facilitarem a leitura e CTAs específicos. Não escreva textões nem quebre artificialmente um mesmo pensamento em vários blocos. Adapte a estrutura ao nicho, à oferta e ao objetivo de conversão. Não invente fatos, credenciais, depoimentos, números ou garantias. Antes de entregar, revise repetição, tamanho dos textos, clareza da hierarquia e adequação visual.

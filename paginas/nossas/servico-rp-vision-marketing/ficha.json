@@ -1,0 +1,232 @@
+{
+ "nome": "PÁGINA RP VISION",
+ "slug": "servico-rp-vision-marketing",
+ "pasta_original": "Rp Vision",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "url": "https://lp.oreidalanding.com.br/rpvision/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Serviço B2B",
+ "tipo_pagina": "aplicacao",
+ "paleta": {
+  "fundos": [
+   "#322747",
+   "#0A0A0B",
+   "#FFFFFF",
+   "#F1F1F1",
+   "#A77CFF"
+  ],
+  "textos": [
+   "#FFFFFF",
+   "#271E39",
+   "#320046",
+   "#2A2A2A",
+   "#442C75",
+   "#6A4AAC"
+  ],
+  "destaques": [
+   "#322747",
+   "#271E39",
+   "#320046",
+   "#442C75",
+   "#6A4AAC",
+   "#A77CFF"
+  ],
+  "gradientes": [
+   "linear-gradient(220deg, rgb(65, 50, 94) 0%, rgb(26, 20, 39) 100%)",
+   "linear-gradient(323deg, rgb(10, 10, 11) 0%, rgb(60, 46, 88) 100%)",
+   "linear-gradient(220deg, rgb(10, 10, 11) 0%, rgb(39, 30, 57) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Inter",
+   "uso_pct": 100
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  53,
+  51,
+  40,
+  36,
+  34,
+  25,
+  24,
+  22,
+  20
+ ],
+ "escala_tipografica_mobile_px": [
+  32,
+  29,
+  27,
+  25,
+  22,
+  20,
+  20,
+  19
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#00000000",
+  "gradiente": "linear-gradient(90deg, rgb(167, 124, 255) 0%, rgb(190, 159, 252) 50%, rgb(167, 124, 255) 100%)",
+  "texto": "#FFFFFF",
+  "raio": "9px",
+  "padding": "20px 40px",
+  "fonte": "Inter",
+  "tamanho": "20px",
+  "peso": "500",
+  "caixa": "none",
+  "exemplos": [
+   "Fazer aplicação em menos 2 minutos",
+   "Fazer aplicação gratuita!"
+  ]
+ },
+ "raios": [
+  "12px",
+  "10%",
+  "6px",
+  "4px",
+  "9px",
+  "10px"
+ ],
+ "sombras": [],
+ "gaps": [
+  "20px",
+  "22px",
+  "5px",
+  "36px",
+  "50px",
+  "8px"
+ ],
+ "largura_conteudo_px": 1140,
+ "altura_pagina_px": 8412,
+ "secoes_qtde": 9,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "Tenha um fluxo constante de clientes prontos para comprar todos os dias.",
+   "fundo": "#0A0A0B",
+   "altura_px": 800
+  },
+  {
+   "ordem": 2,
+   "tipo": "prova-social",
+   "titulo": "Confira os depoimentos de alguns de nossos clientes",
+   "fundo": "#F1F1F1",
+   "altura_px": 870
+  },
+  {
+   "ordem": 3,
+   "tipo": "dor",
+   "titulo": "Por que a maioria das empresas não consegue faturar mais?",
+   "fundo": "gradiente",
+   "altura_px": 1138
+  },
+  {
+   "ordem": 4,
+   "tipo": "metodo",
+   "titulo": "Foi por isso que criamos o Método V.I.S.A.O",
+   "fundo": "gradiente",
+   "altura_px": 1223
+  },
+  {
+   "ordem": 5,
+   "tipo": "prova-resultados",
+   "titulo": "Resultados Reais",
+   "fundo": "#FFFFFF",
+   "altura_px": 1065
+  },
+  {
+   "ordem": 6,
+   "tipo": "beneficios",
+   "titulo": "O que sua empresa passa a ter com a RP Vision",
+   "fundo": "#0A0A0B",
+   "altura_px": 1026
+  },
+  {
+   "ordem": 7,
+   "tipo": "sobre",
+   "titulo": "Sobre a RP Vision",
+   "fundo": "gradiente",
+   "altura_px": 1143
+  },
+  {
+   "ordem": 8,
+   "tipo": "cta-final",
+   "titulo": "Agende sua Análise Estratégica",
+   "fundo": "#FFFFFF",
+   "altura_px": 960
+  },
+  {
+   "ordem": 9,
+   "tipo": "faq",
+   "titulo": "Todos os direitos reservados © 2025",
+   "fundo": "gradiente",
+   "altura_px": 188
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "prova-social",
+  "dor",
+  "metodo",
+  "prova-resultados",
+  "beneficios",
+  "sobre",
+  "cta-final",
+  "faq",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "roxo-escuro",
+  "lilas",
+  "agencia",
+  "digital"
+ ],
+ "tecnicas": [
+  "Texto destaque estilo iPhone (snippet texto-destaque-iphone)"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "pulseGlow"
+  ],
+  "entrada_elementor": [],
+  "classes_scroll": [
+   "scroll-bottom",
+   "scroll-left",
+   "scroll-right",
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "google-ads",
+  "happy-addons",
+  "jquery",
+  "lenis",
+  "lottie",
+  "meta-pixel",
+  "swiper"
+ ],
+ "snippets_usados": [
+  "animacoes/animacao-scroll-reveal.html",
+  "animacoes/texto-destaque-iphone.css",
+  "cards-e-bordas/hover-escala.css",
+  "tracking-e-pixels/meta-pixel.html",
+  "tracking-e-pixels/google-ads-gtag.html",
+  "utilitarios-css/css-base-toda-pagina.css",
+  "utilitarios-css/botao-icone-tamanho.css",
+  "utilitarios-css/elemento-posicao-absoluta.css"
+ ],
+ "relevancia": 3,
+ "resumo": "Agência de tráfego em roxo escuro e lilás, mesmo esqueleto da Harmony com visual mais limpo. Marca-texto lilás nas palavras, vídeos de depoimento, cards de dor, diagrama circular do método V.I.S.A.O e lista de benefícios em barras.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": "extraido/index.html",
+  "copy_real": "../../../copy/copys-reais/servico-rp-vision-marketing.md",
+  "json_elementor": null
+ }
+}

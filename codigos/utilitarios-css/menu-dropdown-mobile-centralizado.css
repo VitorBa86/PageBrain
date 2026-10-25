@@ -1,0 +1,17 @@
+/*
+  SNIPPET: Dropdown do Menu de Navegação centralizado no celular
+  CATEGORIA: utilitarios-css
+  O QUE FAZ: Faz o menu suspenso do widget Menu de Navegação ocupar 90% da tela e ficar centralizado.
+  COMO USAR: Cole no CSS personalizado do widget Menu de Navegação.
+  ONDE COLAR: CSS personalizado do widget Menu
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: PÁGINAS NOSSAS/psi-vivian-widuch
+  USADO EM: 1 página(s) da casa: psi-vivian-widuch
+*/
+
+.elementor-nav-menu--dropdown {
+    width: 90vw !important;
+    position: fixed !important;
+    left: 50% !important;
+    transform: translateX(-50%) !important;
+}

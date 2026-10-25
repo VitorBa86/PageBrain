@@ -1,0 +1,61 @@
+<!--
+  SNIPPET: Animação de entrada no scroll (scroll-left/right/top/bottom)
+  CATEGORIA: animacoes
+  O QUE FAZ: Elementos aparecem deslizando e com fade quando entram na tela. É o efeito padrão de todas as páginas da casa.
+  COMO USAR: 1) Cole o bloco <style> no CSS da página (ou deixe aqui). 2) Coloque este widget HTML no rodapé da página. 3) No widget/container que deve animar, em Classes CSS, use scroll-left, scroll-right, scroll-bottom ou scroll-top.
+  ONDE COLAR: CSS: CSS personalizado da página. Script: widget HTML no fim da página.
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: coleção original da casa (animaçãoscroll)
+  USADO EM: 34 página(s) da casa: adv-barros-e-carvalho, adv-gustavo-kehl, adv-luisa, adv-souza-santos, imob-construtora-vitta, imob-the-palace, imob-vega-costa-e-silva, imob-vistoria-alphaville, info-carol-guglielmi-imagem-pessoal, info-victor-leao-aromaterapia, negocio-bar-santa-boemia, negocio-entre-para-trip, negocio-harmony-estudio-tatuagem, negocio-hoffen-sports, negocio-inter-frios-refrigeracao, odonto-invisalign-jv-clinica, odonto-rubiane-vitali, psi-julia-valdetaro, psi-maria-rita-sales, psi-renan, psi-rosangela-munhoz-psicanalista, psi-vivian-widuch, saude-cecilia-borges-cirurgia-plastica, saude-luciano-grisotto-mastopexia, saude-luciano-grisotto-mommy-makeover, saude-pedro-camargo-psiquiatra, servico-goncont-contador, servico-rp-vision-marketing, vendas-mentoria-bancario-jessica, vendas-morelli-churrasco-networking, vendas-odonto-luiz-gustavo-melo, vendas-scripts-consignado-jessica, vendas-templates-arquiteto-jardel, vendas-workshop-barbearia-toledo
+-->
+
+<style>
+.scroll-left{
+    opacity: 0;
+    transition: 0.5s all;
+    transform: translate3d(-30px, 0, 0);
+}
+
+.scroll-right{
+    opacity: 0;
+    transition: 0.5s all;
+    transform: translate3d(30px, 0, 0);
+}
+
+.scroll-bottom{
+    opacity: 0;
+    transition: 0.5s all;
+    transform: translate3d(0, 80px, 0);
+}
+
+.scroll-top{
+    opacity: 0;
+    transition: 0.5s all;
+    transform: translate3d(0, -80px, 0);
+}
+
+.ativo{
+		opacity: 1;
+    transition: 0.5s all;
+    transform: translate3d(0, 0, 0);
+}
+</style>
+
+<script>
+    const elementos = document.querySelectorAll('.scroll-left, .scroll-right, .scroll-bottom, .scroll-top');
+    const posicaoScroll = window.innerHeight * 0.8;
+    
+    function fadeScroll(){
+        elementos.forEach((elemento) => {
+            const elementoTop = elemento.getBoundingClientRect().top - posicaoScroll;
+        if(elementoTop < 120) {
+            elemento.classList.add('ativo');
+        }
+        else {
+            elemento.classList.remove('ativo');
+        }
+        })
+    }
+    
+    window.addEventListener('scroll', fadeScroll);
+</script>

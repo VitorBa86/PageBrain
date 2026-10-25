@@ -1,0 +1,214 @@
+{
+ "nome": "Tide Residencial | Recreio dos Bandeirantes",
+ "slug": "imob-tide-residencial",
+ "pasta_original": "TIderesidencial Imob",
+ "origem": "paginas/gerais",
+ "prioridade": "referencia",
+ "url": "https://tideresidencial.com.br/",
+ "plataforma": "SPA (React/Vue)",
+ "nicho": "Imobiliário",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#172331",
+   "#FFFFFF",
+   "#987F69",
+   "#E6E6E6",
+   "#808080"
+  ],
+  "textos": [
+   "#987F65",
+   "#21485E",
+   "#FFFFFF",
+   "#172331"
+  ],
+  "destaques": [
+   "#172331",
+   "#987F69",
+   "#21485E"
+  ],
+  "gradientes": []
+ },
+ "fontes": [
+  {
+   "familia": "Times",
+   "uso_pct": 81
+  },
+  {
+   "familia": "Condor",
+   "uso_pct": 16
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  27,
+  22,
+  17,
+  16,
+  14,
+  13,
+  10
+ ],
+ "escala_tipografica_mobile_px": [
+  27,
+  17,
+  16,
+  14,
+  14,
+  10
+ ],
+ "h1_mobile": null,
+ "botao_principal": {
+  "fundo": "#00000000",
+  "gradiente": null,
+  "texto": "#987F69",
+  "raio": "0px",
+  "padding": "0px 0px",
+  "fonte": "Times",
+  "tamanho": "16px",
+  "peso": "400",
+  "caixa": "none",
+  "exemplos": [
+   "Brazil +55 +55"
+  ]
+ },
+ "raios": [
+  "100%",
+  "3px",
+  "1px",
+  "5px"
+ ],
+ "sombras": [
+  "rgb(136, 136, 136) 0px 0px 1px 0px"
+ ],
+ "gaps": [
+  "30px",
+  "10px"
+ ],
+ "largura_conteudo_px": null,
+ "altura_pagina_px": 4861,
+ "secoes_qtde": 11,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "",
+   "fundo": "imagem",
+   "altura_px": 531
+  },
+  {
+   "ordem": 2,
+   "tipo": "formulario",
+   "titulo": "PREENCHA E SAIBA MAIS",
+   "fundo": "#172331",
+   "altura_px": 420
+  },
+  {
+   "ordem": 3,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 796
+  },
+  {
+   "ordem": 4,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "#172331",
+   "altura_px": 657
+  },
+  {
+   "ordem": 5,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 720
+  },
+  {
+   "ordem": 6,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "#172331",
+   "altura_px": 299
+  },
+  {
+   "ordem": 7,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 350
+  },
+  {
+   "ordem": 8,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "#FFFFFF",
+   "altura_px": 212
+  },
+  {
+   "ordem": 9,
+   "tipo": "formulario",
+   "titulo": "PREENCHA E SAIBA MAIS",
+   "fundo": "#172331",
+   "altura_px": 300
+  },
+  {
+   "ordem": 10,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "#172331",
+   "altura_px": 318
+  },
+  {
+   "ordem": 11,
+   "tipo": "rodape",
+   "titulo": "",
+   "fundo": "#172331",
+   "altura_px": 257
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "formulario",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "formulario",
+  "",
+  "rodape"
+ ],
+ "tags_estilo": [
+  "navy",
+  "bronze",
+  "praia",
+  "imobiliario"
+ ],
+ "tecnicas": [
+  "Botões para tour virtual por tipologia"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "pswp-clockwise"
+  ],
+  "entrada_elementor": [],
+  "classes_scroll": []
+ },
+ "bibliotecas": [
+  "ga4",
+  "gtm"
+ ],
+ "snippets_usados": [],
+ "relevancia": 3,
+ "resumo": "Lançamento no Recreio em navy e bronze: hero com foto de praia e slogan 'A maré a seu favor', formulário logo abaixo, carrossel de renders, grade de 12 ícones de lazer, plantas com tabela de áreas, distâncias e formulário final.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": null,
+  "copy_real": null,
+  "json_elementor": null,
+  "ref": "ref/"
+ }
+}

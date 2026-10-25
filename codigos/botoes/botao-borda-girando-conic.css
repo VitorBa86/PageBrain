@@ -1,0 +1,74 @@
+/*
+  SNIPPET: Botão com borda de luz girando (conic)
+  CATEGORIA: botoes
+  O QUE FAZ: Botão pílula azul com uma luz que percorre a borda continuamente; no hover acelera e sobe 2px.
+  COMO USAR: No container ou widget do botão coloque a classe "bot". Cole o CSS no CSS personalizado da página. Troque #0071A2 e #00d4ff pelas cores da marca.
+  ONDE COLAR: CSS personalizado da página
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: PÁGINAS NOSSAS/vendas-templates-arquiteto-jardel (CSS custom)
+  USADO EM: 2 página(s) da casa: vendas-scripts-consignado-jessica, vendas-templates-arquiteto-jardel
+*/
+
+.bot .elementor-button {
+  position: relative;
+  border-radius: 104px;
+  background: #0071A2;
+  box-shadow:
+    0 0 16px 4px rgba(0, 160, 220, 0.5),
+    0 0 9.7px 4px rgba(255, 255, 255, 0.18) inset;
+  z-index: 1;
+  overflow: hidden;
+  transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+.bot .elementor-button::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 600px;   /* sempre maior que qualquer tamanho do botão */
+  height: 600px;
+  translate: -50% -50%;
+  background: conic-gradient(
+    transparent 0deg,
+    transparent 60deg,
+    #00d4ff 100deg,
+    #ffffff 130deg,
+    #00d4ff 160deg,
+    transparent 200deg,
+    transparent 360deg
+  );
+  animation: btn-spin 2.2s linear infinite;
+  z-index: -1;
+}
+
+/* Tampa interna, cria o efeito de borda */
+.bot .elementor-button::after {
+  content: "";
+  position: absolute;
+  inset: 3px;
+  border-radius: 104px;
+  background: #0071A2;
+  z-index: -1;
+  transition: background 0.3s ease;
+}
+
+.bot .elementor-button:hover {
+  transform: translateY(-2px);
+  filter: brightness(1.15);
+  box-shadow:
+    0 0 28px 8px rgba(0, 160, 220, 0.7),
+    0 0 9.7px 4px rgba(255, 255, 255, 0.25) inset;
+}
+
+.bot .elementor-button:hover::before {
+  animation-duration: 0.9s;
+}
+
+.bot .elementor-button:hover::after {
+  background: #0082bb;
+}
+
+@keyframes btn-spin {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }

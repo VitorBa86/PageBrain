@@ -1,0 +1,556 @@
+{
+ "content": [
+  {
+   "id": "6ba87da8",
+   "settings": {
+    "flex_direction": "column",
+    "boxed_width_mobile": {
+     "unit": "%",
+     "size": 90,
+     "sizes": []
+    },
+    "min_height": {
+     "unit": "px",
+     "size": 0,
+     "sizes": []
+    },
+    "flex_justify_content": "flex-start",
+    "background_background": "classic",
+    "background_color": "#FFF5E8",
+    "padding": {
+     "unit": "px",
+     "top": "0",
+     "right": "0",
+     "bottom": "30",
+     "left": "0",
+     "isLinked": false
+    },
+    "boxed_width": {
+     "unit": "px",
+     "size": 1320,
+     "sizes": []
+    },
+    "flex_align_items": "center",
+    "border_border": "solid",
+    "border_width": {
+     "unit": "px",
+     "top": "04",
+     "right": "0",
+     "bottom": "0",
+     "left": "0",
+     "isLinked": false
+    },
+    "border_color": "#734930",
+    "border_radius": {
+     "unit": "px",
+     "top": "0",
+     "right": "0",
+     "bottom": "0",
+     "left": "0",
+     "isLinked": false
+    },
+    "eae_slider_delay": "5000",
+    "gradient_color_list": [
+     {
+      "eae_animated_gradient_color": "#00a6d8",
+      "_id": "632c619"
+     },
+     {
+      "eae_animated_gradient_color": "#b800c9",
+      "_id": "183127c"
+     },
+     {
+      "eae_animated_gradient_color": "#e57600",
+      "_id": "40b19a7"
+     }
+    ]
+   },
+   "elements": [
+    {
+     "id": "7a4fd62b",
+     "settings": {
+      "width": {
+       "unit": "px",
+       "size": 1140,
+       "sizes": []
+      },
+      "flex_align_items": "center",
+      "background_background": "classic",
+      "background_color": "#FFF5E8",
+      "border_radius": {
+       "unit": "px",
+       "top": "20",
+       "right": "20",
+       "bottom": "20",
+       "left": "20",
+       "isLinked": true
+      },
+      "margin": {
+       "unit": "px",
+       "top": "-120",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "padding": {
+       "unit": "px",
+       "top": "50",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "css_classes": "scroll-bottom",
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+       {
+        "eae_animated_gradient_color": "#00a6d8",
+        "_id": "5bc69a4"
+       },
+       {
+        "eae_animated_gradient_color": "#b800c9",
+        "_id": "3591fd0"
+       },
+       {
+        "eae_animated_gradient_color": "#e57600",
+        "_id": "9f1ef1e"
+       }
+      ]
+     },
+     "elements": [
+      {
+       "id": "3f678917",
+       "settings": {
+        "content_width": "full",
+        "title": "Onde estamos?",
+        "align_mobile": "center",
+        "title_color": "#5A3824",
+        "typography_typography": "custom",
+        "typography_font_family": "Poppins",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 24,
+         "sizes": []
+        },
+        "typography_font_size_mobile": {
+         "unit": "vw",
+         "size": 6.7,
+         "sizes": []
+        },
+        "typography_font_weight": "600",
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.3,
+         "sizes": []
+        },
+        "typography_line_height_widescreen": {
+         "unit": "em",
+         "size": "",
+         "sizes": []
+        },
+        "typography_line_height_laptop": {
+         "unit": "em",
+         "size": "",
+         "sizes": []
+        },
+        "_element_width": "initial",
+        "_element_width_mobile": "inherit",
+        "_element_custom_width": {
+         "unit": "%",
+         "size": 38,
+         "sizes": []
+        },
+        "align": "center"
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "heading",
+       "elType": "widget"
+      },
+      {
+       "id": "10b096af",
+       "settings": {
+        "content_width": "full",
+        "width": {
+         "unit": "px",
+         "size": 232,
+         "sizes": []
+        },
+        "width_tablet": {
+         "unit": "px",
+         "size": "",
+         "sizes": []
+        },
+        "width_mobile": {
+         "unit": "px",
+         "size": "",
+         "sizes": []
+        },
+        "align": "center",
+        "text": "Divisória",
+        "color": "#5A3824",
+        "gap": {
+         "unit": "px",
+         "size": 10,
+         "sizes": []
+        },
+        "custom_css": "selector::after{\n    content:\"\";\n    position: absolute;\n    top:50%;\n    right:50%;\n    width:80px;\n    height:4px;\n    border-radius:5px;\n    background:#5A3824;\n    transform: translate(50%,-50%);\n}"
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "divider",
+       "elType": "widget"
+      },
+      {
+       "id": "7e1b4578",
+       "settings": {
+        "content_width": "full",
+        "flex_direction": "row",
+        "flex_gap": {
+         "column": "40",
+         "row": "40",
+         "isLinked": true,
+         "unit": "px",
+         "size": 40
+        },
+        "padding": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": false
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 86,
+         "sizes": []
+        },
+        "flex_direction_mobile": "column",
+        "eae_slider_delay": "5000",
+        "gradient_color_list": [
+         {
+          "eae_animated_gradient_color": "#00a6d8",
+          "_id": "39fac5d"
+         },
+         {
+          "eae_animated_gradient_color": "#b800c9",
+          "_id": "9374dd9"
+         },
+         {
+          "eae_animated_gradient_color": "#e57600",
+          "_id": "ea639a8"
+         }
+        ]
+       },
+       "elements": [
+        {
+         "id": "395f41e9",
+         "settings": {
+          "content_width": "full",
+          "selected_icon": {
+           "value": {
+            "url": "https://lp.oreidalanding.com.br/wp-content/uploads/2024/08/11fee23b.svg",
+            "id": 6962
+           },
+           "library": "svg"
+          },
+          "shape": "square",
+          "title_text": "Atendimento Online",
+          "description_text": "Whatsapp: (XX)XXXX-XXXX<br>Instagram: @loremipsum",
+          "icon_space": {
+           "unit": "px",
+           "size": 20,
+           "sizes": []
+          },
+          "title_bottom_space": {
+           "unit": "px",
+           "size": 19,
+           "sizes": []
+          },
+          "primary_color": "#734930",
+          "secondary_color": "#734930",
+          "icon_size": {
+           "unit": "px",
+           "size": 60,
+           "sizes": []
+          },
+          "icon_padding": {
+           "unit": "px",
+           "size": 16,
+           "sizes": []
+          },
+          "border_radius": {
+           "unit": "px",
+           "top": "12",
+           "right": "12",
+           "bottom": "12",
+           "left": "12",
+           "isLinked": true
+          },
+          "title_color": "#3F3638",
+          "title_typography_typography": "custom",
+          "title_typography_font_family": "Poppins",
+          "title_typography_font_size": {
+           "unit": "px",
+           "size": 20,
+           "sizes": []
+          },
+          "title_typography_font_weight": "600",
+          "title_typography_line_height": {
+           "unit": "em",
+           "size": 1.3,
+           "sizes": []
+          },
+          "title_typography_line_height_widescreen": {
+           "unit": "em",
+           "size": "",
+           "sizes": []
+          },
+          "title_typography_line_height_laptop": {
+           "unit": "em",
+           "size": "",
+           "sizes": []
+          },
+          "description_color": "#553724",
+          "description_typography_typography": "custom",
+          "description_typography_font_family": "Poppins",
+          "description_typography_font_size": {
+           "unit": "px",
+           "size": 16,
+           "sizes": []
+          },
+          "description_typography_font_weight": "300",
+          "_padding": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": false
+          },
+          "_element_width": "initial",
+          "_element_custom_width": {
+           "unit": "%",
+           "size": 33,
+           "sizes": []
+          },
+          "_element_width_mobile": "inherit",
+          "_css_classes": "scroll-bottom"
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "icon-box",
+         "elType": "widget"
+        },
+        {
+         "id": "47201074",
+         "settings": {
+          "content_width": "full",
+          "selected_icon": {
+           "value": "hm hm-map-pointer2",
+           "library": "happy-icons"
+          },
+          "shape": "square",
+          "title_text": "Unidade 1",
+          "description_text": "Contrary to popular belief, Lorem Ipsum i",
+          "icon_space": {
+           "unit": "px",
+           "size": 20,
+           "sizes": []
+          },
+          "title_bottom_space": {
+           "unit": "px",
+           "size": 19,
+           "sizes": []
+          },
+          "primary_color": "#734930",
+          "secondary_color": "#734930",
+          "icon_size": {
+           "unit": "px",
+           "size": 60,
+           "sizes": []
+          },
+          "icon_padding": {
+           "unit": "px",
+           "size": 16,
+           "sizes": []
+          },
+          "border_radius": {
+           "unit": "px",
+           "top": "12",
+           "right": "12",
+           "bottom": "12",
+           "left": "12",
+           "isLinked": true
+          },
+          "title_color": "#3F3638",
+          "title_typography_typography": "custom",
+          "title_typography_font_family": "Poppins",
+          "title_typography_font_size": {
+           "unit": "px",
+           "size": 20,
+           "sizes": []
+          },
+          "title_typography_font_weight": "600",
+          "title_typography_line_height": {
+           "unit": "em",
+           "size": 1.3,
+           "sizes": []
+          },
+          "title_typography_line_height_widescreen": {
+           "unit": "em",
+           "size": "",
+           "sizes": []
+          },
+          "title_typography_line_height_laptop": {
+           "unit": "em",
+           "size": "",
+           "sizes": []
+          },
+          "description_color": "#553724",
+          "description_typography_typography": "custom",
+          "description_typography_font_family": "Poppins",
+          "description_typography_font_size": {
+           "unit": "px",
+           "size": 16,
+           "sizes": []
+          },
+          "description_typography_font_weight": "300",
+          "_padding": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": false
+          },
+          "_element_width": "initial",
+          "_element_custom_width": {
+           "unit": "%",
+           "size": 33,
+           "sizes": []
+          },
+          "_element_width_mobile": "inherit",
+          "_css_classes": "scroll-bottom"
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "icon-box",
+         "elType": "widget"
+        },
+        {
+         "id": "7bfd7424",
+         "settings": {
+          "content_width": "full",
+          "selected_icon": {
+           "value": "hm hm-map-pointer2",
+           "library": "happy-icons"
+          },
+          "shape": "square",
+          "title_text": "Unidade 2",
+          "description_text": "Contrary to popular belief, Lorem Ipsum i",
+          "icon_space": {
+           "unit": "px",
+           "size": 20,
+           "sizes": []
+          },
+          "title_bottom_space": {
+           "unit": "px",
+           "size": 19,
+           "sizes": []
+          },
+          "primary_color": "#734930",
+          "secondary_color": "#734930",
+          "icon_size": {
+           "unit": "px",
+           "size": 60,
+           "sizes": []
+          },
+          "icon_padding": {
+           "unit": "px",
+           "size": 16,
+           "sizes": []
+          },
+          "border_radius": {
+           "unit": "px",
+           "top": "12",
+           "right": "12",
+           "bottom": "12",
+           "left": "12",
+           "isLinked": true
+          },
+          "title_color": "#3F3638",
+          "title_typography_typography": "custom",
+          "title_typography_font_family": "Poppins",
+          "title_typography_font_size": {
+           "unit": "px",
+           "size": 20,
+           "sizes": []
+          },
+          "title_typography_font_weight": "600",
+          "title_typography_line_height": {
+           "unit": "em",
+           "size": 1.3,
+           "sizes": []
+          },
+          "title_typography_line_height_widescreen": {
+           "unit": "em",
+           "size": "",
+           "sizes": []
+          },
+          "title_typography_line_height_laptop": {
+           "unit": "em",
+           "size": "",
+           "sizes": []
+          },
+          "description_color": "#553724",
+          "description_typography_typography": "custom",
+          "description_typography_font_family": "Poppins",
+          "description_typography_font_size": {
+           "unit": "px",
+           "size": 16,
+           "sizes": []
+          },
+          "description_typography_font_weight": "300",
+          "_padding": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "0",
+           "left": "0",
+           "isLinked": false
+          },
+          "_element_width": "initial",
+          "_element_custom_width": {
+           "unit": "%",
+           "size": 33,
+           "sizes": []
+          },
+          "_element_width_mobile": "inherit",
+          "_css_classes": "scroll-bottom"
+         },
+         "elements": [],
+         "isInner": false,
+         "widgetType": "icon-box",
+         "elType": "widget"
+        }
+       ],
+       "isInner": true,
+       "elType": "container"
+      }
+     ],
+     "isInner": true,
+     "elType": "container"
+    }
+   ],
+   "isInner": false,
+   "elType": "container"
+  }
+ ],
+ "page_settings": [],
+ "version": "0.4",
+ "title": "loc 05",
+ "type": "container"
+}

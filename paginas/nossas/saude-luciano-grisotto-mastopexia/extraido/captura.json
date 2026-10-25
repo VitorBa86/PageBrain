@@ -1,0 +1,693 @@
+{
+  "sourceUrl": "https://lucianogrisotto.com.br/mastopexia/",
+  "finalUrl": "https://lucianogrisotto.com.br/mastopexia/",
+  "mode": "static",
+  "platform": "WordPress + Elementor",
+  "durationMs": 2986,
+  "fileCount": 97,
+  "totalBytes": 2984614,
+  "counts": {
+    "css": 19,
+    "js": 14,
+    "img": 22,
+    "font": 41,
+    "media": 0,
+    "other": 0,
+    "failed": 0
+  },
+  "warnings": [],
+  "assets": [
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/themes/hello-elementor/style.min.css?ver=3.3.0",
+      "kind": "css",
+      "localPath": "assets/css/style.min-b7275d0b.css",
+      "status": "ok",
+      "bytes": 5501
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/themes/hello-elementor/theme.min.css?ver=3.3.0",
+      "kind": "css",
+      "localPath": "assets/css/theme.min-fcc7ae4d.css",
+      "status": "ok",
+      "bytes": 5069
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/themes/hello-elementor/header-footer.min.css?ver=3.3.0",
+      "kind": "css",
+      "localPath": "assets/css/header-footer.min-7cbd29e2.css",
+      "status": "ok",
+      "bytes": 7212
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/css/custom-frontend.min.css?ver=1790275060",
+      "kind": "css",
+      "localPath": "assets/css/custom-frontend.min-01ed4395.css",
+      "status": "ok",
+      "bytes": 53499
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/css/post-6.css?ver=1790275060",
+      "kind": "css",
+      "localPath": "assets/css/post-6-16d8296f.css",
+      "status": "ok",
+      "bytes": 1433
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/plugins/pro-elements/assets/css/conditionals/popup.min.css?ver=3.25.2",
+      "kind": "css",
+      "localPath": "assets/css/popup.min-7f2aa43f.css",
+      "status": "ok",
+      "bytes": 974
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.29.1",
+      "kind": "css",
+      "localPath": "assets/css/widget-image.min-7bc0a67a.css",
+      "status": "ok",
+      "bytes": 254
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.29.1",
+      "kind": "css",
+      "localPath": "assets/css/widget-heading.min-5f13bc4b.css",
+      "status": "ok",
+      "bytes": 600
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5",
+      "kind": "css",
+      "localPath": "assets/css/swiper.min-ad8c46dd.css",
+      "status": "ok",
+      "bytes": 16471
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.29.1",
+      "kind": "css",
+      "localPath": "assets/css/e-swiper.min-93a97683.css",
+      "status": "ok",
+      "bytes": 5486
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css?ver=3.29.1",
+      "kind": "css",
+      "localPath": "assets/css/widget-image-carousel.min-e2c604df.css",
+      "status": "ok",
+      "bytes": 382
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/css/custom-widget-icon-list.min.css?ver=1790275060",
+      "kind": "css",
+      "localPath": "assets/css/custom-widget-icon-list.min-fa92c318.css",
+      "status": "ok",
+      "bytes": 10297
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/css/custom-widget-icon-box.min.css?ver=1790275060",
+      "kind": "css",
+      "localPath": "assets/css/custom-widget-icon-box.min-0d1e7128.css",
+      "status": "ok",
+      "bytes": 10058
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/plugins/elementor/assets/css/widget-google_maps.min.css?ver=3.29.1",
+      "kind": "css",
+      "localPath": "assets/css/widget-google_maps.min-179745e4.css",
+      "status": "ok",
+      "bytes": 301
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/css/post-89.css?ver=1790348648",
+      "kind": "css",
+      "localPath": "assets/css/post-89-907cbe3b.css",
+      "status": "ok",
+      "bytes": 94708
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1773646260",
+      "kind": "css",
+      "localPath": "assets/css/roboto-5f015a9e.css",
+      "status": "ok",
+      "bytes": 98514
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1773646295",
+      "kind": "css",
+      "localPath": "assets/css/robotoslab-86050fa9.css",
+      "status": "ok",
+      "bytes": 21546
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/css/inter.css?ver=1773658623",
+      "kind": "css",
+      "localPath": "assets/css/inter-176c9b7f.css",
+      "status": "ok",
+      "bytes": 43029
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/css/sora.css?ver=1773658632",
+      "kind": "css",
+      "localPath": "assets/css/sora-b764722d.css",
+      "status": "ok",
+      "bytes": 6336
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/2025/03/logo-dr-luciano-150x65.webp",
+      "kind": "img",
+      "localPath": "assets/img/logo-dr-luciano-150x65-69864508.webp",
+      "status": "ok",
+      "bytes": 1966
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/2025/03/logo-dr-luciano.webp",
+      "kind": "img",
+      "localPath": "assets/img/logo-dr-luciano-5445331d.webp",
+      "status": "ok",
+      "bytes": 5062
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/2026/01/LOGO-HORI-1.svg",
+      "kind": "img",
+      "localPath": "assets/img/LOGO-HORI-1-006863db.svg",
+      "status": "ok",
+      "bytes": 18658
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/2026/01/masto_01_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/masto_01_1x-768x768-98aac811.webp",
+      "status": "ok",
+      "bytes": 30214
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/2026/01/masto_2_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/masto_2_1x-768x768-5342382e.webp",
+      "status": "ok",
+      "bytes": 21840
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/2026/01/masto_3_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/masto_3_1x-768x768-eb200735.webp",
+      "status": "ok",
+      "bytes": 23906
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/2026/01/masto_4_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/masto_4_1x-768x768-7283791c.webp",
+      "status": "ok",
+      "bytes": 22338
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/2026/01/masto_5_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/masto_5_1x-768x768-55293d3d.webp",
+      "status": "ok",
+      "bytes": 24808
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/2026/01/masto_6_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/masto_6_1x-768x768-5fcb144f.webp",
+      "status": "ok",
+      "bytes": 17706
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/2026/01/masto_7_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/masto_7_1x-768x768-90733b16.webp",
+      "status": "ok",
+      "bytes": 28052
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/2026/01/masto_8_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/masto_8_1x-768x768-9ea8d390.webp",
+      "status": "ok",
+      "bytes": 30188
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/2026/01/masto_9_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/masto_9_1x-768x768-9ac228a6.webp",
+      "status": "ok",
+      "bytes": 34108
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/2026/01/masto_10_1x-768x768.webp",
+      "kind": "img",
+      "localPath": "assets/img/masto_10_1x-768x768-b548a3a1.webp",
+      "status": "ok",
+      "bytes": 35534
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/2026/01/img5_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/img5_1_1x-465537a9.webp",
+      "status": "ok",
+      "bytes": 40000
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/2026/01/img5_1_1x-264x300.webp",
+      "kind": "img",
+      "localPath": "assets/img/img5_1_1x-264x300-58a0cc2a.webp",
+      "status": "ok",
+      "bytes": 4720
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/2026/01/img_qse_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/img_qse_1_1x-d1878fb2.webp",
+      "status": "ok",
+      "bytes": 41196
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/2026/01/img_qse_1_1x-254x300.webp",
+      "kind": "img",
+      "localPath": "assets/img/img_qse_1_1x-254x300-bdc4e0c5.webp",
+      "status": "ok",
+      "bytes": 7656
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "kind": "js",
+      "localPath": "assets/js/jquery.min-7a92256b.js",
+      "status": "ok",
+      "bytes": 87553
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "kind": "js",
+      "localPath": "assets/js/jquery-migrate.min-d5fe37ee.js",
+      "status": "ok",
+      "bytes": 13577
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=3.3.0",
+      "kind": "js",
+      "localPath": "assets/js/hello-frontend.min-14911a68.js",
+      "status": "ok",
+      "bytes": 1936
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.29.1",
+      "kind": "js",
+      "localPath": "assets/js/webpack.runtime.min-9b585c93.js",
+      "status": "ok",
+      "bytes": 5700
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.29.1",
+      "kind": "js",
+      "localPath": "assets/js/frontend-modules.min-df920d72.js",
+      "status": "ok",
+      "bytes": 48393
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+      "kind": "js",
+      "localPath": "assets/js/core.min-90bc8939.js",
+      "status": "ok",
+      "bytes": 18674
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.29.1",
+      "kind": "js",
+      "localPath": "assets/js/frontend.min-9d7abe14.js",
+      "status": "ok",
+      "bytes": 32876
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5",
+      "kind": "js",
+      "localPath": "assets/js/swiper.min-dc062933.js",
+      "status": "ok",
+      "bytes": 143709
+    },
+    {
+      "url": "https://cdn.trustindex.io/loader.js?ver=1",
+      "kind": "js",
+      "localPath": "assets/js/loader-8855d035.js",
+      "status": "ok",
+      "bytes": 99014
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/plugins/pro-elements/assets/js/webpack-pro.runtime.min.js?ver=3.25.2",
+      "kind": "js",
+      "localPath": "assets/js/webpack-pro.runtime.min-80d9adab.js",
+      "status": "ok",
+      "bytes": 6262
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+      "kind": "js",
+      "localPath": "assets/js/hooks.min-34d7d72a.js",
+      "status": "ok",
+      "bytes": 5107
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+      "kind": "js",
+      "localPath": "assets/js/i18n.min-6dee01b6.js",
+      "status": "ok",
+      "bytes": 5791
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/plugins/pro-elements/assets/js/frontend.min.js?ver=3.25.2",
+      "kind": "js",
+      "localPath": "assets/js/frontend.min-b4b925f6.js",
+      "status": "ok",
+      "bytes": 24913
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/plugins/pro-elements/assets/js/elements-handlers.min.js?ver=3.25.2",
+      "kind": "js",
+      "localPath": "assets/js/elements-handlers.min-d00912f4.js",
+      "status": "ok",
+      "bytes": 42907
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a-ed916c6e.woff2",
+      "status": "ok",
+      "bytes": 32340
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufj5qw54a.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-bngmuxzytxpivibgjjsb6ufj5qw54a-577f2348.woff2",
+      "status": "ok",
+      "bytes": 21420
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufb5qw54a.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-bngmuxzytxpivibgjjsb6ufb5qw54a-2cbb55cb.woff2",
+      "status": "ok",
+      "bytes": 2224
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufo5qw54a.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-bngmuxzytxpivibgjjsb6ufo5qw54a-7e270671.woff2",
+      "status": "ok",
+      "bytes": 14856
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufc5qw54a.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-bngmuxzytxpivibgjjsb6ufc5qw54a-eda64047.woff2",
+      "status": "ok",
+      "bytes": 9980
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufd5qw54a.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-bngmuxzytxpivibgjjsb6ufd5qw54a-7c54a7d5.woff2",
+      "status": "ok",
+      "bytes": 21188
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufn5qu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/robotoslab-bngmuxzytxpivibgjjsb6ufn5qu-c008a671.woff2",
+      "status": "ok",
+      "bytes": 34236
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l0uumjng.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l0uumjng-5ce0630b.woff2",
+      "status": "ok",
+      "bytes": 27380
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l9uumjng.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l9uumjng-305c675b.woff2",
+      "status": "ok",
+      "bytes": 19980
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l1uumjng.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l1uumjng-c22b03aa.woff2",
+      "status": "ok",
+      "bytes": 12096
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l6uumjng.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l6uumjng-915768b6.woff2",
+      "status": "ok",
+      "bytes": 20484
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l2uumjng.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l2uumjng-50bef82b.woff2",
+      "status": "ok",
+      "bytes": 10596
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l3uumjng.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l3uumjng-94c784c1.woff2",
+      "status": "ok",
+      "bytes": 91900
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l5uum.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-ucc53fwrk3iltcvneqg7ca725jhhknnqk6l5uum-f168ee10.woff2",
+      "status": "ok",
+      "bytes": 51832
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia2jl7suc.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia2jl7suc-281d1f3e.woff2",
+      "status": "ok",
+      "bytes": 25960
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia0zl7suc.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia0zl7suc-9c9a9e3e.woff2",
+      "status": "ok",
+      "bytes": 18748
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia2zl7suc.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia2zl7suc-b94c6568.woff2",
+      "status": "ok",
+      "bytes": 11232
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia1pl7suc.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia1pl7suc-df213740.woff2",
+      "status": "ok",
+      "bytes": 18996
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia2pl7suc.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia2pl7suc-a96afba9.woff2",
+      "status": "ok",
+      "bytes": 10252
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia25l7suc.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia25l7suc-e896a37c.woff2",
+      "status": "ok",
+      "bytes": 85068
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia1zl7.woff2",
+      "kind": "font",
+      "localPath": "assets/font/inter-ucc73fwrk3iltehus_nvmrmxcp50sjia1zl7-e0d6bb98.woff2",
+      "status": "ok",
+      "bytes": 48256
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/sora-xmqbuffyt72xzqspdre2.woff2",
+      "kind": "font",
+      "localPath": "assets/font/sora-xmqbuffyt72xzqspdre2-37357cf7.woff2",
+      "status": "ok",
+      "bytes": 15548
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/sora-xmqbuffyt72xzqupdg.woff2",
+      "kind": "font",
+      "localPath": "assets/font/sora-xmqbuffyt72xzqupdg-8cfc210c.woff2",
+      "status": "ok",
+      "bytes": 33652
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/2026/01/pt01_2_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/pt01_2_1x-1d325665.webp",
+      "status": "ok",
+      "bytes": 52566
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/2026/01/pt03_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/pt03_1_1x-ef83428b.webp",
+      "status": "ok",
+      "bytes": 3616
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/2026/01/ptfinal_1_1x.webp",
+      "kind": "img",
+      "localPath": "assets/img/ptfinal_1_1x-1eab497e.webp",
+      "status": "ok",
+      "bytes": 216208
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/2026/01/MOBILEPT-01.webp",
+      "kind": "img",
+      "localPath": "assets/img/MOBILEPT-01-b1077946.webp",
+      "status": "ok",
+      "bytes": 32540
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/2026/01/MOBILEPT-FINAL.webp",
+      "kind": "img",
+      "localPath": "assets/img/MOBILEPT-FINAL-99eeddee.webp",
+      "status": "ok",
+      "bytes": 105570
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkc3kawzu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkc3kaw-de5ac894.woff2",
+      "status": "ok",
+      "bytes": 40480
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkankawzu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkankaw-14d7aada.woff2",
+      "status": "ok",
+      "bytes": 25464
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcnkawzu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcnkaw-373cce4e.woff2",
+      "status": "ok",
+      "bytes": 4452
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbxkawzu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbxkaw-43c10a76.woff2",
+      "status": "ok",
+      "bytes": 18780
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkenkawzu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkenkaw-e44e38c7.woff2",
+      "status": "ok",
+      "bytes": 45184
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkahkawzu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkahkaw-48b786a1.woff2",
+      "status": "ok",
+      "bytes": 22440
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcxkawzu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcxkaw-85344de9.woff2",
+      "status": "ok",
+      "bytes": 15344
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkchkawzu.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkchkaw-031c6686.woff2",
+      "status": "ok",
+      "bytes": 31820
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbnka.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbnka-8f5bfc1a.woff2",
+      "status": "ok",
+      "bytes": 47208
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3gubgee.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3gubgee-c97b4790.woff2",
+      "status": "ok",
+      "bytes": 36652
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3iubgee.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3iubgee-0a34b394.woff2",
+      "status": "ok",
+      "bytes": 23664
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3cubgee.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3cubgee-f4a7d272.woff2",
+      "status": "ok",
+      "bytes": 4348
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3-ubgee.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3-ubgee-0a86199d.woff2",
+      "status": "ok",
+      "bytes": 17624
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamawcubgee.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamawcubgee-e68c1a41.woff2",
+      "status": "ok",
+      "bytes": 41348
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamaxkubgee.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamaxkubgee-2c335b2a.woff2",
+      "status": "ok",
+      "bytes": 20556
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3oubgee.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3oubgee-3895e179.woff2",
+      "status": "ok",
+      "bytes": 14340
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3kubgee.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3kubgee-0d77dd07.woff2",
+      "status": "ok",
+      "bytes": 29392
+    },
+    {
+      "url": "https://lucianogrisotto.com.br/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2",
+      "kind": "font",
+      "localPath": "assets/font/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba-617d5b46.woff2",
+      "status": "ok",
+      "bytes": 43136
+    }
+  ]
+}

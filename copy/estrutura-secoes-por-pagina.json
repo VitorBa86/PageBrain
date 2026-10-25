@@ -1,0 +1,585 @@
+{
+ "tipos": {
+  "hero": "Primeira dobra: H1, subheadline, CTA",
+  "menu": "Menu/header fixo",
+  "faixa": "Faixa (marquee) com palavras-chave",
+  "numeros": "Barra de números ou specs",
+  "dor": "Dor/problema/identificação",
+  "situacoes": "Situações em que a pessoa tem direito",
+  "para-quem-e": "Para quem é",
+  "solucao": "Solução/apresentação do método ou produto",
+  "servicos": "Serviços/especialidades em cards",
+  "beneficios": "Benefícios",
+  "diferenciais": "Diferenciais/por que escolher",
+  "como-funciona": "Como funciona/passo a passo/etapas",
+  "sobre": "Sobre o profissional ou empresa (autoridade)",
+  "prova-social": "Depoimentos/avaliações",
+  "prova-resultados": "Antes e depois/resultados/cases",
+  "prova-dados": "Dados de fonte pública (valorização)",
+  "oferta": "Oferta/preço/planos/ingressos",
+  "bonus": "Bônus",
+  "garantia": "Garantia",
+  "conteudo": "Módulos/conteúdo do produto",
+  "entregaveis": "O que você recebe",
+  "metodo": "Método próprio com pilares",
+  "faq": "Perguntas frequentes",
+  "cta-final": "CTA final de fechamento",
+  "contato": "Contato",
+  "localizacao": "Localização/endereço/mapa",
+  "formulario": "Formulário",
+  "rodape": "Rodapé",
+  "video": "Vídeo",
+  "galeria": "Galeria",
+  "escassez": "Escassez/urgência (vagas, lote, contador)",
+  "lazer": "Lazer (imobiliário)",
+  "produto": "Detalhes do produto/empreendimento (abas, plantas)",
+  "andamento": "Andamento da obra",
+  "catalogo": "Catálogo/listagem",
+  "logos": "Logos de clientes"
+ },
+ "paginas": {
+  "adv-barros-e-carvalho": {
+   "tipo_pagina": "captacao",
+   "secoes": [
+    "hero",
+    "situacoes",
+    "diferenciais",
+    "sobre",
+    "cta-final",
+    "faq",
+    "contato",
+    "rodape"
+   ]
+  },
+  "adv-calgarotto": {
+   "tipo_pagina": "captacao",
+   "secoes": [
+    "hero",
+    "faixa",
+    "servicos",
+    "sobre",
+    "prova-social",
+    "como-funciona",
+    "formulario",
+    "contato",
+    "rodape"
+   ]
+  },
+  "adv-gustavo-kehl": {
+   "tipo_pagina": "captacao",
+   "secoes": [
+    "menu",
+    "hero",
+    "situacoes",
+    "como-funciona",
+    "prova-social",
+    "sobre",
+    "faq",
+    "contato",
+    "rodape"
+   ]
+  },
+  "adv-luisa": {
+   "tipo_pagina": "captacao",
+   "secoes": [
+    "hero",
+    "servicos",
+    "como-funciona",
+    "sobre",
+    "diferenciais",
+    "contato",
+    "rodape"
+   ]
+  },
+  "adv-souza-santos": {
+   "tipo_pagina": "captacao",
+   "secoes": [
+    "hero",
+    "dor",
+    "diferenciais",
+    "sobre",
+    "dor",
+    "faq",
+    "prova-social",
+    "localizacao",
+    "rodape"
+   ]
+  },
+  "imob-construtora-vitta": {
+   "tipo_pagina": "captacao",
+   "secoes": [
+    "hero",
+    "oferta",
+    "beneficios",
+    "oferta",
+    "prova-dados",
+    "formulario",
+    "sobre",
+    "faq",
+    "rodape"
+   ]
+  },
+  "imob-mb2-incorporacoes": {
+   "tipo_pagina": "institucional",
+   "secoes": [
+    "hero",
+    "catalogo",
+    "catalogo",
+    "catalogo",
+    "servicos",
+    "sobre",
+    "contato"
+   ]
+  },
+  "imob-the-palace": {
+   "tipo_pagina": "captacao",
+   "secoes": [
+    "menu",
+    "hero",
+    "localizacao",
+    "produto",
+    "lazer",
+    "sobre",
+    "formulario",
+    "rodape"
+   ]
+  },
+  "imob-vega-costa-e-silva": {
+   "tipo_pagina": "captacao",
+   "secoes": [
+    "hero",
+    "numeros",
+    "produto",
+    "prova-dados",
+    "formulario",
+    "produto",
+    "lazer",
+    "localizacao",
+    "andamento",
+    "formulario"
+   ]
+  },
+  "imob-vistoria-alphaville": {
+   "tipo_pagina": "captacao",
+   "secoes": [
+    "hero",
+    "numeros",
+    "solucao",
+    "servicos",
+    "como-funciona",
+    "como-funciona",
+    "para-quem-e",
+    "diferenciais",
+    "dor",
+    "prova-social",
+    "faq",
+    "cta-final",
+    "contato",
+    "rodape"
+   ]
+  },
+  "info-carol-guglielmi-imagem-pessoal": {
+   "tipo_pagina": "aplicacao",
+   "secoes": [
+    "hero",
+    "escassez",
+    "sobre",
+    "metodo",
+    "entregaveis",
+    "prova-resultados",
+    "sobre",
+    "rodape"
+   ]
+  },
+  "info-victor-leao-aromaterapia": {
+   "tipo_pagina": "aplicacao",
+   "secoes": [
+    "hero",
+    "metodo",
+    "cta-final",
+    "para-quem-e",
+    "como-funciona",
+    "como-funciona",
+    "prova-social",
+    "sobre",
+    "rodape"
+   ]
+  },
+  "negocio-bar-santa-boemia": {
+   "tipo_pagina": "captacao",
+   "secoes": [
+    "menu",
+    "hero",
+    "diferenciais",
+    "servicos",
+    "sobre",
+    "beneficios",
+    "servicos",
+    "galeria",
+    "prova-social",
+    "localizacao",
+    "rodape"
+   ]
+  },
+  "negocio-entre-para-trip": {
+   "tipo_pagina": "captacao",
+   "secoes": [
+    "hero",
+    "para-quem-e",
+    "beneficios",
+    "sobre",
+    "oferta",
+    "numeros",
+    "galeria",
+    "escassez",
+    "oferta",
+    "faq",
+    "cta-final"
+   ]
+  },
+  "negocio-harmony-estudio-tatuagem": {
+   "tipo_pagina": "aplicacao",
+   "secoes": [
+    "hero",
+    "faixa",
+    "prova-social",
+    "dor",
+    "metodo",
+    "metodo",
+    "servicos",
+    "prova-resultados",
+    "sobre",
+    "faq"
+   ]
+  },
+  "negocio-hoffen-sports": {
+   "tipo_pagina": "institucional",
+   "secoes": [
+    "hero",
+    "sobre",
+    "sobre",
+    "diferenciais",
+    "catalogo",
+    "cta-final",
+    "rodape"
+   ]
+  },
+  "negocio-inter-frios-refrigeracao": {
+   "tipo_pagina": "captacao",
+   "secoes": [
+    "menu",
+    "hero",
+    "servicos",
+    "numeros",
+    "dor",
+    "solucao",
+    "servicos",
+    "diferenciais",
+    "sobre",
+    "como-funciona",
+    "logos",
+    "formulario",
+    "faq",
+    "cta-final",
+    "rodape"
+   ]
+  },
+  "odonto-invisalign-jv-clinica": {
+   "tipo_pagina": "captacao",
+   "secoes": [
+    "hero",
+    "beneficios",
+    "como-funciona",
+    "sobre",
+    "contato",
+    "rodape"
+   ]
+  },
+  "odonto-rubiane-vitali": {
+   "tipo_pagina": "captacao",
+   "secoes": [
+    "hero",
+    "numeros",
+    "solucao",
+    "beneficios",
+    "prova-resultados",
+    "dor",
+    "prova-social",
+    "sobre",
+    "prova-social",
+    "localizacao",
+    "diferenciais",
+    "faq",
+    "contato",
+    "rodape"
+   ]
+  },
+  "psi-andressa-darold": {
+   "tipo_pagina": "captacao",
+   "secoes": [
+    "hero",
+    "para-quem-e",
+    "sobre",
+    "como-funciona",
+    "faq",
+    "rodape"
+   ]
+  },
+  "psi-julia-valdetaro": {
+   "tipo_pagina": "captacao",
+   "secoes": [
+    "hero",
+    "servicos",
+    "como-funciona",
+    "sobre",
+    "prova-social",
+    "localizacao",
+    "faq",
+    "rodape"
+   ]
+  },
+  "psi-maria-rita-sales": {
+   "tipo_pagina": "captacao",
+   "secoes": [
+    "menu",
+    "hero",
+    "para-quem-e",
+    "sobre",
+    "servicos",
+    "metodo",
+    "prova-social",
+    "conteudo",
+    "conteudo",
+    "localizacao",
+    "faq",
+    "rodape"
+   ]
+  },
+  "psi-renan": {
+   "tipo_pagina": "captacao",
+   "secoes": [
+    "hero",
+    "faixa",
+    "servicos",
+    "como-funciona",
+    "antes-depois",
+    "prova-social",
+    "sobre",
+    "faixa",
+    "localizacao",
+    "faq",
+    "cta-final",
+    "rodape"
+   ]
+  },
+  "psi-rosangela-munhoz-psicanalista": {
+   "tipo_pagina": "captacao",
+   "secoes": [
+    "menu",
+    "hero",
+    "para-quem-e",
+    "video",
+    "beneficios",
+    "sobre",
+    "prova-social",
+    "faq",
+    "rodape"
+   ]
+  },
+  "psi-vivian-widuch": {
+   "tipo_pagina": "captacao",
+   "secoes": [
+    "hero",
+    "video",
+    "sobre",
+    "prova-social",
+    "servicos",
+    "faq",
+    "contato",
+    "rodape"
+   ]
+  },
+  "saude-cecilia-borges-cirurgia-plastica": {
+   "tipo_pagina": "captacao",
+   "secoes": [
+    "hero",
+    "prova-resultados",
+    "servicos",
+    "para-quem-e",
+    "sobre",
+    "localizacao",
+    "rodape"
+   ]
+  },
+  "saude-luciano-grisotto-mastopexia": {
+   "tipo_pagina": "captacao",
+   "secoes": [
+    "hero",
+    "prova-resultados",
+    "beneficios",
+    "como-funciona",
+    "prova-social",
+    "sobre",
+    "localizacao",
+    "cta-final",
+    "rodape"
+   ]
+  },
+  "saude-luciano-grisotto-mommy-makeover": {
+   "tipo_pagina": "captacao",
+   "secoes": [
+    "hero",
+    "prova-resultados",
+    "beneficios",
+    "como-funciona",
+    "sobre",
+    "prova-social",
+    "localizacao",
+    "cta-final",
+    "rodape"
+   ]
+  },
+  "saude-pedro-camargo-psiquiatra": {
+   "tipo_pagina": "captacao",
+   "secoes": [
+    "menu",
+    "hero",
+    "sobre",
+    "para-quem-e",
+    "prova-social",
+    "como-funciona",
+    "localizacao",
+    "faq",
+    "rodape"
+   ]
+  },
+  "servico-goncont-contador": {
+   "tipo_pagina": "captacao",
+   "secoes": [
+    "hero",
+    "servicos",
+    "para-quem-e",
+    "sobre",
+    "como-funciona",
+    "prova-social",
+    "faq",
+    "contato",
+    "rodape"
+   ]
+  },
+  "servico-rp-vision-marketing": {
+   "tipo_pagina": "aplicacao",
+   "secoes": [
+    "hero",
+    "prova-social",
+    "dor",
+    "metodo",
+    "prova-resultados",
+    "beneficios",
+    "sobre",
+    "cta-final",
+    "faq",
+    "rodape"
+   ]
+  },
+  "vendas-mentoria-bancario-jessica": {
+   "tipo_pagina": "vendas",
+   "secoes": [
+    "hero",
+    "dor",
+    "para-quem-e",
+    "solucao",
+    "conteudo",
+    "bonus",
+    "prova-social",
+    "oferta",
+    "sobre",
+    "faq",
+    "rodape"
+   ]
+  },
+  "vendas-morelli-churrasco-networking": {
+   "tipo_pagina": "vendas",
+   "secoes": [
+    "hero",
+    "video",
+    "como-funciona",
+    "prova-social",
+    "oferta",
+    "localizacao",
+    "faq",
+    "rodape"
+   ]
+  },
+  "vendas-odonto-luiz-gustavo-melo": {
+   "tipo_pagina": "vendas",
+   "secoes": [
+    "hero",
+    "beneficios",
+    "sobre",
+    "beneficios",
+    "para-quem-e",
+    "conteudo",
+    "bonus",
+    "oferta",
+    "garantia",
+    "faq",
+    "rodape"
+   ]
+  },
+  "vendas-scripts-consignado-jessica": {
+   "tipo_pagina": "vendas",
+   "secoes": [
+    "hero",
+    "faixa",
+    "prova-social",
+    "dor",
+    "solucao",
+    "como-funciona",
+    "conteudo",
+    "bonus",
+    "oferta",
+    "garantia",
+    "sobre",
+    "faixa",
+    "faq",
+    "rodape"
+   ]
+  },
+  "vendas-templates-arquiteto-jardel": {
+   "tipo_pagina": "vendas",
+   "secoes": [
+    "hero",
+    "faixa",
+    "beneficios",
+    "produto",
+    "para-quem-e",
+    "entregaveis",
+    "faixa",
+    "prova-social",
+    "oferta",
+    "garantia",
+    "sobre",
+    "faq",
+    "rodape"
+   ]
+  },
+  "vendas-workshop-barbearia-toledo": {
+   "tipo_pagina": "vendas",
+   "secoes": [
+    "escassez",
+    "hero",
+    "dor",
+    "prova-resultados",
+    "prova-resultados",
+    "solucao",
+    "prova-social",
+    "oferta",
+    "garantia",
+    "escassez",
+    "cta-final",
+    "rodape"
+   ]
+  }
+ }
+}

@@ -1,0 +1,595 @@
+{
+  "sourceUrl": "https://harmonymidia.com/tatuadores/",
+  "finalUrl": "https://harmonymidia.com/tatuadores/",
+  "mode": "static",
+  "platform": "WordPress + Elementor",
+  "durationMs": 2745,
+  "fileCount": 83,
+  "totalBytes": 3637616,
+  "counts": {
+    "css": 3,
+    "js": 6,
+    "img": 38,
+    "font": 35,
+    "media": 0,
+    "other": 0,
+    "failed": 0
+  },
+  "warnings": [],
+  "assets": [
+    {
+      "url": "https://fonts.googleapis.com/css?family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "kind": "css",
+      "localPath": "assets/css/css-85c5c2b0.css",
+      "status": "ok",
+      "bytes": 98073
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Roboto+Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "kind": "css",
+      "localPath": "assets/css/css-ec7864c0.css",
+      "status": "ok",
+      "bytes": 21168
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Nunito+Sans:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "kind": "css",
+      "localPath": "assets/css/css-59191e55.css",
+      "status": "ok",
+      "bytes": 31744
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/uploads/2025/01/cropped-favicon-32x32.png",
+      "kind": "img",
+      "localPath": "assets/img/cropped-favicon-32x32-92efdf60.png",
+      "status": "ok",
+      "bytes": 1047
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/uploads/2025/01/cropped-favicon-192x192.png",
+      "kind": "img",
+      "localPath": "assets/img/cropped-favicon-192x192-ce97aa9e.png",
+      "status": "ok",
+      "bytes": 11979
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/uploads/2025/01/cropped-favicon-180x180.png",
+      "kind": "img",
+      "localPath": "assets/img/cropped-favicon-180x180-3be3c234.png",
+      "status": "ok",
+      "bytes": 10786
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/uploads/2025/01/LOGO-PNG-1024x187.png",
+      "kind": "img",
+      "localPath": "assets/img/LOGO-PNG-1024x187-5f03923d.png",
+      "status": "ok",
+      "bytes": 77378
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/uploads/2025/01/LOGO-PNG-300x55.png",
+      "kind": "img",
+      "localPath": "assets/img/LOGO-PNG-300x55-b7d9a4e0.png",
+      "status": "ok",
+      "bytes": 14358
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/uploads/2025/01/LOGO-PNG-768x140.png",
+      "kind": "img",
+      "localPath": "assets/img/LOGO-PNG-768x140-50bfe872.png",
+      "status": "ok",
+      "bytes": 51988
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/uploads/2025/01/LOGO-PNG.png",
+      "kind": "img",
+      "localPath": "assets/img/LOGO-PNG-e1f736da.png",
+      "status": "ok",
+      "bytes": 99426
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/uploads/2025/01/GOOGLE-ADS.png",
+      "kind": "img",
+      "localPath": "assets/img/GOOGLE-ADS-9ad4dee6.png",
+      "status": "ok",
+      "bytes": 15400
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/uploads/2025/01/ELIPSE-META.png",
+      "kind": "img",
+      "localPath": "assets/img/ELIPSE-META-a4152ca1.png",
+      "status": "ok",
+      "bytes": 27810
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/uploads/2025/01/ELIPSE-META-150x150.png",
+      "kind": "img",
+      "localPath": "assets/img/ELIPSE-META-150x150-a2aa8096.png",
+      "status": "ok",
+      "bytes": 20060
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/uploads/2025/01/studio.png.webp",
+      "kind": "img",
+      "localPath": "assets/img/studio.png-91e218bd.webp",
+      "status": "ok",
+      "bytes": 28218
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/uploads/2025/01/site.jpeg.webp",
+      "kind": "img",
+      "localPath": "assets/img/site.jpeg-14b6d257.webp",
+      "status": "ok",
+      "bytes": 25972
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/uploads/2025/01/site-3.jpeg.webp",
+      "kind": "img",
+      "localPath": "assets/img/site-3.jpeg-f7ba1f4d.webp",
+      "status": "ok",
+      "bytes": 52796
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/uploads/2025/01/Sem-titulo.png.webp",
+      "kind": "img",
+      "localPath": "assets/img/Sem-titulo.png-2b1fc9d3.webp",
+      "status": "ok",
+      "bytes": 35150
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/webp-express/webp-images/uploads/2025/01/IPHONE222-1.png.webp",
+      "kind": "img",
+      "localPath": "assets/img/IPHONE222-1.png-052fd48c.webp",
+      "status": "ok",
+      "bytes": 121118
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/uploads/2025/01/Ellipse-1-1.svg",
+      "kind": "img",
+      "localPath": "assets/img/Ellipse-1-1-a650d04c.svg",
+      "status": "ok",
+      "bytes": 436
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/webp-express/webp-images/uploads/2025/01/MAPA-MB.png.webp",
+      "kind": "img",
+      "localPath": "assets/img/MAPA-MB.png-e8bc6992.webp",
+      "status": "ok",
+      "bytes": 25728
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/webp-express/webp-images/uploads/2025/01/MAPA.png.webp",
+      "kind": "img",
+      "localPath": "assets/img/MAPA.png-70a7ca26.webp",
+      "status": "ok",
+      "bytes": 32204
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/webp-express/webp-images/uploads/2025/01/IMAGEM-01-1.png.webp",
+      "kind": "img",
+      "localPath": "assets/img/IMAGEM-01-1.png-974c4d63.webp",
+      "status": "ok",
+      "bytes": 12200
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/webp-express/webp-images/uploads/2025/01/IMAGEM-02-1.png.webp",
+      "kind": "img",
+      "localPath": "assets/img/IMAGEM-02-1.png-90e70f37.webp",
+      "status": "ok",
+      "bytes": 27472
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/webp-express/webp-images/uploads/2025/01/WhatsApp-Image-2025-01-14-at-11.41.35.jpeg.webp",
+      "kind": "img",
+      "localPath": "assets/img/WhatsApp-Image-2025-01-14-at-11.41.35.jpeg-6102fe95.webp",
+      "status": "ok",
+      "bytes": 70074
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/webp-express/webp-images/uploads/2025/01/IMAGEM-04-1.png.webp",
+      "kind": "img",
+      "localPath": "assets/img/IMAGEM-04-1.png-74c34e37.webp",
+      "status": "ok",
+      "bytes": 24598
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/webp-express/webp-images/uploads/2025/01/IMAGEM-05-1-1.png.webp",
+      "kind": "img",
+      "localPath": "assets/img/IMAGEM-05-1-1.png-761ef45c.webp",
+      "status": "ok",
+      "bytes": 24758
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/webp-express/webp-images/uploads/2025/01/IMAGEM-06-1.png.webp",
+      "kind": "img",
+      "localPath": "assets/img/IMAGEM-06-1.png-4289a77d.webp",
+      "status": "ok",
+      "bytes": 27840
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/webp-express/webp-images/uploads/2025/01/IMAGEM-7-2.png.webp",
+      "kind": "img",
+      "localPath": "assets/img/IMAGEM-7-2.png-49360531.webp",
+      "status": "ok",
+      "bytes": 43538
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/uploads/2025/01/FOTO-QUEM-SOU-EU.png",
+      "kind": "img",
+      "localPath": "assets/img/FOTO-QUEM-SOU-EU-a2a5b1eb.png",
+      "status": "ok",
+      "bytes": 121196
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/uploads/2025/01/FOTO-QUEM-SOU-EU-249x300.png",
+      "kind": "img",
+      "localPath": "assets/img/FOTO-QUEM-SOU-EU-249x300-5bd86a38.png",
+      "status": "ok",
+      "bytes": 144778
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/plugins/burst-statistics/helpers/timeme/timeme.min.js?ver=1.7.5",
+      "kind": "js",
+      "localPath": "assets/js/timeme.min-4a818760.js",
+      "status": "ok",
+      "bytes": 6448
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/plugins/burst-statistics/assets/js/build/burst.min.js?ver=1.7.5",
+      "kind": "js",
+      "localPath": "assets/js/burst.min-3153cbc9.js",
+      "status": "ok",
+      "bytes": 7652
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/plugins/pixelyoursite/dist/scripts/jquery.bind-first-0.2.3.min.js?ver=0.2.3",
+      "kind": "js",
+      "localPath": "assets/js/jquery.bind-first-0.2.3.min-73424d51.js",
+      "status": "ok",
+      "bytes": 1317
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/plugins/pixelyoursite/dist/scripts/js.cookie-2.1.3.min.js?ver=2.1.3",
+      "kind": "js",
+      "localPath": "assets/js/js.cookie-2.1.3.min-2480737e.js",
+      "status": "ok",
+      "bytes": 1709
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/plugins/pixelyoursite/dist/scripts/tld.min.js?ver=2.3.1",
+      "kind": "js",
+      "localPath": "assets/js/tld.min-0c310f85.js",
+      "status": "ok",
+      "bytes": 141079
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/plugins/pixelyoursite/dist/scripts/public.js?ver=11.2.0.1",
+      "kind": "js",
+      "localPath": "assets/js/public-1be1ddad.js",
+      "status": "ok",
+      "bytes": 160454
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/uploads/2025/01/PT-01.2.webp",
+      "kind": "img",
+      "localPath": "assets/img/PT-01.2-18ddc005.webp",
+      "status": "ok",
+      "bytes": 202958
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/uploads/2025/01/PT-02.webp",
+      "kind": "img",
+      "localPath": "assets/img/PT-02-e9aea4ad.webp",
+      "status": "ok",
+      "bytes": 22060
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/uploads/2025/01/PT-QSE.webp",
+      "kind": "img",
+      "localPath": "assets/img/PT-QSE-6886a26b.webp",
+      "status": "ok",
+      "bytes": 51578
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/uploads/2025/01/PT-01.2-MB.webp",
+      "kind": "img",
+      "localPath": "assets/img/PT-01.2-MB-fb553720.webp",
+      "status": "ok",
+      "bytes": 133878
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/uploads/2025/01/PT-QSE-MB.webp",
+      "kind": "img",
+      "localPath": "assets/img/PT-QSE-MB-5fc41290.webp",
+      "status": "ok",
+      "bytes": 22802
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/webp-express/webp-images/uploads/2025/01/OScpJfTehGA-HD.jpg.webp",
+      "kind": "img",
+      "localPath": "assets/img/OScpJfTehGA-HD.jpg-8fd97251.webp",
+      "status": "ok",
+      "bytes": 30220
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/webp-express/webp-images/uploads/2025/01/wBKtbdWzisw-HD.jpg.webp",
+      "kind": "img",
+      "localPath": "assets/img/wBKtbdWzisw-HD.jpg-8e9b2de4.webp",
+      "status": "ok",
+      "bytes": 27058
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/webp-express/webp-images/uploads/2025/01/6QM1QWvEVWI-HD.jpg.webp",
+      "kind": "img",
+      "localPath": "assets/img/6QM1QWvEVWI-HD.jpg-62b1bffe.webp",
+      "status": "ok",
+      "bytes": 24208
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/webp-express/webp-images/uploads/2025/01/1.jpg.webp",
+      "kind": "img",
+      "localPath": "assets/img/1.jpg-10c669ab.webp",
+      "status": "ok",
+      "bytes": 90176
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/webp-express/webp-images/uploads/2025/01/2.jpg.webp",
+      "kind": "img",
+      "localPath": "assets/img/2.jpg-ca2f1d76.webp",
+      "status": "ok",
+      "bytes": 84362
+    },
+    {
+      "url": "https://harmonymidia.com/wp-content/webp-express/webp-images/uploads/2025/01/3.jpg.webp",
+      "kind": "img",
+      "localPath": "assets/img/3.jpg-68566724.webp",
+      "status": "ok",
+      "bytes": 79708
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufA5qWr4xCCQ_k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/BngMUXZYTXPIvIBgJJSb6ufA5qWr4xCCQ_k-dc0d7935.woff2",
+      "status": "ok",
+      "bytes": 32316
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufJ5qWr4xCCQ_k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/BngMUXZYTXPIvIBgJJSb6ufJ5qWr4xCCQ_k-cfc59f61.woff2",
+      "status": "ok",
+      "bytes": 21336
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufB5qWr4xCCQ_k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/BngMUXZYTXPIvIBgJJSb6ufB5qWr4xCCQ_k-f4a8f364.woff2",
+      "status": "ok",
+      "bytes": 2172
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufO5qWr4xCCQ_k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/BngMUXZYTXPIvIBgJJSb6ufO5qWr4xCCQ_k-9160ede2.woff2",
+      "status": "ok",
+      "bytes": 14884
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufC5qWr4xCCQ_k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/BngMUXZYTXPIvIBgJJSb6ufC5qWr4xCCQ_k-cb6a2898.woff2",
+      "status": "ok",
+      "bytes": 9848
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufD5qWr4xCCQ_k.woff2",
+      "kind": "font",
+      "localPath": "assets/font/BngMUXZYTXPIvIBgJJSb6ufD5qWr4xCCQ_k-a60aeb08.woff2",
+      "status": "ok",
+      "bytes": 21156
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufN5qWr4xCC.woff2",
+      "kind": "font",
+      "localPath": "assets/font/BngMUXZYTXPIvIBgJJSb6ufN5qWr4xCC-8b8750ee.woff2",
+      "status": "ok",
+      "bytes": 34160
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkC3kaSTbQWt4N.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkC3kaSTbQWt4N-b209c2f4.woff2",
+      "status": "ok",
+      "bytes": 35396
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkAnkaSTbQWt4N.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkAnkaSTbQWt4N-7fd5ebcd.woff2",
+      "status": "ok",
+      "bytes": 21576
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCnkaSTbQWt4N.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCnkaSTbQWt4N-1270f35c.woff2",
+      "status": "ok",
+      "bytes": 1720
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBXkaSTbQWt4N.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBXkaSTbQWt4N-13c6db9b.woff2",
+      "status": "ok",
+      "bytes": 15108
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkenkaSTbQWt4N.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkenkaSTbQWt4N-3adc18cb.woff2",
+      "status": "ok",
+      "bytes": 40192
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkaHkaSTbQWt4N.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkaHkaSTbQWt4N-e785ebff.woff2",
+      "status": "ok",
+      "bytes": 18484
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCXkaSTbQWt4N.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCXkaSTbQWt4N-4a2b179a.woff2",
+      "status": "ok",
+      "bytes": 11604
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCHkaSTbQWt4N.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCHkaSTbQWt4N-f7cf7531.woff2",
+      "status": "ok",
+      "bytes": 26784
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBnkaSTbQWg.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBnkaSTbQWg-4bf6ecc6.woff2",
+      "status": "ok",
+      "bytes": 41748
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBHMdazTgWw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBHMdazTgWw-37dedbe4.woff2",
+      "status": "ok",
+      "bytes": 31472
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBHMdazTgWw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBHMdazTgWw-48e8e7de.woff2",
+      "status": "ok",
+      "bytes": 19624
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBHMdazTgWw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBHMdazTgWw-d2348e8b.woff2",
+      "status": "ok",
+      "bytes": 1632
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBHMdazTgWw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBHMdazTgWw-e9e1f234.woff2",
+      "status": "ok",
+      "bytes": 13984
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBHMdazTgWw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBHMdazTgWw-01f2dc6a.woff2",
+      "status": "ok",
+      "bytes": 36292
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBHMdazTgWw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBHMdazTgWw-b5043adb.woff2",
+      "status": "ok",
+      "bytes": 16692
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBHMdazTgWw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBHMdazTgWw-45146ac9.woff2",
+      "status": "ok",
+      "bytes": 10572
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBHMdazTgWw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBHMdazTgWw-6ddde433.woff2",
+      "status": "ok",
+      "bytes": 24444
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
+      "kind": "font",
+      "localPath": "assets/font/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ-973a21a5.woff2",
+      "status": "ok",
+      "bytes": 37520
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/nunitosans/v19/pe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwd-RaLZx3lE4-Hw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQ-9039767d.woff2",
+      "status": "ok",
+      "bytes": 22884
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/nunitosans/v19/pe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwd-1aLZx3lE4-Hw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQ-94a2139e.woff2",
+      "status": "ok",
+      "bytes": 17340
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/nunitosans/v19/pe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwd-ZaLZx3lE4-Hw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQ-9af05129.woff2",
+      "status": "ok",
+      "bytes": 11532
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/nunitosans/v19/pe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwd-daLZx3lE4-Hw.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQ-af2ba70b.woff2",
+      "status": "ok",
+      "bytes": 30372
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/nunitosans/v19/pe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwd-laLZx3lE4.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQ-2270246f.woff2",
+      "status": "ok",
+      "bytes": 32924
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/nunitosans/v19/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t4R-tQKr51pE8.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpN-860b378b.woff2",
+      "status": "ok",
+      "bytes": 21708
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/nunitosans/v19/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7txR-tQKr51pE8.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpN-42dc4941.woff2",
+      "status": "ok",
+      "bytes": 16408
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/nunitosans/v19/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t6R-tQKr51pE8.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpN-4bed1ebe.woff2",
+      "status": "ok",
+      "bytes": 10340
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/nunitosans/v19/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t7R-tQKr51pE8.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpN-1697907d.woff2",
+      "status": "ok",
+      "bytes": 27880
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/nunitosans/v19/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t1R-tQKr51.woff2",
+      "kind": "font",
+      "localPath": "assets/font/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpN-a0f2b136.woff2",
+      "status": "ok",
+      "bytes": 30948
+    }
+  ]
+}

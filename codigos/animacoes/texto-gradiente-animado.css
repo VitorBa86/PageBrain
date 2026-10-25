@@ -1,0 +1,32 @@
+/*
+  SNIPPET: Texto com gradiente animado (destaque / brilho)
+  CATEGORIA: animacoes
+  O QUE FAZ: Palavras com gradiente de cor que corre em loop. Usado para destacar a palavra-chave da headline.
+  COMO USAR: No texto do título envolva a palavra: <span class="destaque">palavra</span>. Cole o CSS em qualquer CSS personalizado. Em algumas páginas a mesma regra aparece com o nome .brilho.
+  ONDE COLAR: CSS personalizado (página ou widget)
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: coleção original da casa (textoanimado)
+  USADO EM: 1 página(s) da casa: negocio-harmony-estudio-tatuagem
+*/
+
+.destaque{
+    animation: 3.4s linear infinite brilho;
+    background-image: linear-gradient(45deg, #FFC818, #FF7B00, #FFC818, #FF7B00); /*troque as cores aqui, repetindo conforme indicado*/
+    background-size: 400% 100%;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent !important;
+    -webkit-text-fill-color: transparent;
+    transition: all .8s;
+    font-weight: 700;
+}
+
+@keyframes brilho{
+    0% {
+        background-position: 0 0;
+    }  
+
+    100% {
+        background-position: 100% 0;
+    }
+}

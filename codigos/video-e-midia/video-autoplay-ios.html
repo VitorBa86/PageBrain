@@ -1,0 +1,59 @@
+<!--
+  SNIPPET: Forçar autoplay de vídeo no iPhone
+  CATEGORIA: video-e-midia
+  O QUE FAZ: Garante que vídeos de fundo do Elementor toquem no iOS (muted, playsinline) e, se bloqueado, toca no primeiro toque.
+  COMO USAR: Cole em um widget HTML em qualquer lugar da página.
+  ONDE COLAR: Widget HTML
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: paginas/nossas/negocio-entre-para-trip
+  USADO EM: 1 página(s) da casa: negocio-entre-para-trip
+-->
+
+<script>
+(function() {
+  function forceAutoplay() {
+    var videos = document.querySelectorAll('.elementor-background-video-hosted, video');
+    
+    videos.forEach(function(video) {
+      // Força os atributos que o iOS exige
+      video.muted = true;
+      video.defaultMuted = true;
+      video.playsInline = true;
+      video.setAttribute('muted', '');
+      video.setAttribute('playsinline', '');
+      video.setAttribute('webkit-playsinline', '');
+      video.setAttribute('autoplay', '');
+      video.removeAttribute('controls');
+      
+      // Tenta dar play imediatamente
+      var playPromise = video.play();
+      
+      if (playPromise !== undefined) {
+        playPromise.catch(function(error) {
+          // Se o iOS bloquear, espera o primeiro toque na tela
+          var startOnTouch = function() {
+            video.play();
+            document.removeEventListener('touchstart', startOnTouch);
+            document.removeEventListener('click', startOnTouch);
+          };
+          document.addEventListener('touchstart', startOnTouch, { once: true });
+          document.addEventListener('click', startOnTouch, { once: true });
+        });
+      }
+    });
+  }
+
+  // Executa em vários momentos pra garantir que pega os vídeos
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', forceAutoplay);
+  } else {
+    forceAutoplay();
+  }
+  
+  window.addEventListener('load', forceAutoplay);
+  
+  // Reexecuta após 1 segundo pra pegar vídeos que o Elementor injeta com delay
+  setTimeout(forceAutoplay, 1000);
+  setTimeout(forceAutoplay, 2500);
+})();
+</script>

@@ -1,0 +1,38 @@
+/*
+  SNIPPET: Botão 3D inclinado
+  CATEGORIA: botoes
+  O QUE FAZ: Botão azul inclinado em perspectiva que "afunda" no hover e no clique.
+  COMO USAR: Cole no CSS personalizado do próprio widget Botão (a palavra selector já aponta para ele).
+  ONDE COLAR: CSS personalizado do widget Botão
+  DEPENDÊNCIAS: Nenhuma
+  ORIGEM: coleção original da casa (botao4-3d)
+  USADO EM: nenhuma página publicada encontrada (só na biblioteca)
+*/
+
+selector {
+  font-size: 16px;
+  padding: 1em 3.3em;
+  cursor: pointer;
+  transform: perspective(200px) rotateX(15deg);
+  color: white;
+  font-weight: 900;
+  border: none;
+  border-radius: 5px;
+  background: linear-gradient(
+    0deg,
+    rgba(63, 94, 251, 1) 0%,
+    rgba(70, 135, 252, 1) 100%
+  );
+  box-shadow: rgba(63, 94, 251, 0.2) 0px 40px 29px 0px;
+  will-change: transform;
+  transition: all 0.3s;
+  border-bottom: 2px solid rgba(70, 135, 252, 1);
+}
+
+selector:hover {
+  transform: perspective(180px) rotateX(30deg) translateY(2px);
+}
+
+selector:active {
+  transform: perspective(170px) rotateX(36deg) translateY(5px);
+}

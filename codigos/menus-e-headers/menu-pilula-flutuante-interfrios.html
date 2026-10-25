@@ -1,0 +1,277 @@
+<!--
+  SNIPPET: Menu pílula flutuante (Inter Frios)
+  CATEGORIA: menus-e-headers
+  O QUE FAZ: Menu em formato de pílula fixa no topo, logo dentro do menu e CTA escuro na ponta. Painel próprio no celular.
+  COMO USAR: Leia o comentário no topo do código: trocar logo nos dois <img> e as âncoras. Dê ~110px de padding-top na primeira seção.
+  ONDE COLAR: Widget HTML no topo da página
+  DEPENDÊNCIAS: Google Fonts (link no código)
+  ORIGEM: paginas/nossas/negocio-inter-frios-refrigeracao
+  USADO EM: 1 página(s) da casa: negocio-inter-frios-refrigeracao
+-->
+
+<!--
+  MENU INTERFRIO.SP: bloco autossuficiente para o widget HTML do Elementor.
+  Referência de composição: ohhmydesign (pill flutuante única, logo dentro do
+  próprio menu, CTA escuro na ponta), traduzida para o navy da marca.
+  Fica visível 100% do tempo (não esconde ao rolar).
+
+  ONDE COLOCAR: em um container no TOPO da página, antes de todas as seções.
+  A pill é position:fixed, então não ocupa espaço no fluxo, deixe a primeira
+  seção da página com ~110px de padding-top no desktop para o conteúdo não
+  passar por baixo dela.
+
+  ANTES DE PUBLICAR, TROQUE APENAS ISTO:
+  1. LOGO: nos DOIS <img> (a da pill e a do painel mobile), troque o src pela
+     URL da logo na sua Biblioteca de Mídia. A logo oficial é azul-marinho;
+     no mobile o filtro brightness(0) invert(1) já a deixa branca sobre o hero.
+  2. Os links de âncora (#supervisorio, #servicos, …) devem bater com os
+     _element_id das seções da sua página no Elementor.
+
+  Tudo está com prefixo .ifm- para não colidir com o CSS do tema.
+  Ícones em SVG inline (o site usa Lucide via CDN, que não vem no Elementor).
+-->
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+
+<style>
+/* ===== ESCOPO: prefixo .ifm- em tudo ===== */
+.ifm-nav,.ifm-menu,.ifm-overlay{
+  --ifm-navy:#05233C;
+  --ifm-azul:#0065A9;
+  --ifm-azul-suave:#E8F1F8;
+  --ifm-branco:#FFFFFF;
+  --ifm-linha:rgba(5,35,60,0.10);
+  font-family:'Inter',system-ui,-apple-system,'Segoe UI',sans-serif;
+  box-sizing:border-box;
+}
+.ifm-nav *,.ifm-nav *::before,.ifm-nav *::after,
+.ifm-menu *,.ifm-menu *::before,.ifm-menu *::after{ box-sizing:border-box; }
+.ifm-nav a,.ifm-menu a{ text-decoration:none; }
+.ifm-nav img,.ifm-menu img{ max-width:100%; display:block; }
+
+/* ---- Barra fixa ---- */
+.ifm-nav{
+  position:fixed; top:22px; left:0; right:0; z-index:100;
+  display:flex; align-items:center; justify-content:center;
+  gap:20px; padding:0 26px;
+  pointer-events:none;            /* só a pill captura clique */
+}
+.ifm-nav > *{ pointer-events:auto; }
+
+.ifm-pill{
+  display:flex; flex-direction:row; align-items:center;
+  background:var(--ifm-branco);
+  border:1px solid var(--ifm-linha);
+  border-radius:999px;
+  box-shadow:0 12px 32px -18px rgba(5,35,60,0.40);
+  padding:6px 6px 6px 16px; gap:3px;
+  transition:opacity .3s ease, transform .3s ease;
+}
+
+/* ---- Logo dentro da pill ----
+   >>> TAMANHO DA LOGO NO DESKTOP: altere height e width abaixo (mantenha a
+   proporção ~1:4, a logo é 1024x306). Ex.: 28/112, 34/136, 40/160. <<< */
+.ifm-logo{
+  display:block; height:34px; width:136px; flex:none;
+  margin-right:10px; padding-right:16px;
+  border-right:1px solid var(--ifm-linha);
+  box-sizing:content-box;
+}
+.ifm-logo img{ width:100%; height:100%; object-fit:contain; object-position:left center; }
+.ifm-pill a.ifm-logo::after{ content:none; }   /* logo não tem efeito deslizante */
+
+/* ---- Links ---- */
+.ifm-pill a{
+  position:relative; overflow:hidden;
+  padding:9px 14px; border-radius:999px;
+  font-size:14px; font-weight:500; letter-spacing:0.01em;
+  line-height:1.4em; color:var(--ifm-navy); white-space:nowrap;
+  transition:background .18s ease, color .18s ease;
+}
+.ifm-pill a:not(.ifm-cta):not(.ifm-logo):hover{
+  background:var(--ifm-azul-suave); color:var(--ifm-azul);
+}
+/* Troca de rótulo deslizante no hover */
+.ifm-pill a .ifm-txt{
+  display:inline-block;
+  transition:transform .34s cubic-bezier(.5,0,.12,1);
+}
+.ifm-pill a[data-t]::after{
+  content:attr(data-t);
+  position:absolute; inset:0;
+  display:flex; align-items:center; justify-content:center;
+  transform:translateY(118%);
+  transition:transform .34s cubic-bezier(.5,0,.12,1);
+  font:inherit; color:inherit; pointer-events:none;
+}
+.ifm-pill a[data-t]:hover .ifm-txt{ transform:translateY(-128%); }
+.ifm-pill a[data-t]:hover::after{ transform:translateY(0); }
+
+/* ---- CTA escuro (prefixado para vencer a cor dos irmãos) ---- */
+.ifm-pill a.ifm-cta{
+  background:var(--ifm-navy); color:#FFF;
+  padding:10px 18px; font-weight:600;
+  border:0; border-radius:999px;
+}
+.ifm-pill a.ifm-cta:hover{ background:var(--ifm-azul); color:#FFF; }
+
+/* ---- Hambúrguer ---- */
+.ifm-burger{
+  display:none; width:42px; height:42px; flex:none;
+  align-items:center; justify-content:center;
+  background:var(--ifm-branco); border:1px solid var(--ifm-linha);
+  border-radius:999px; color:var(--ifm-navy); cursor:pointer;
+  box-shadow:0 12px 32px -18px rgba(5,35,60,0.40);
+  padding:0;
+}
+.ifm-burger svg{ width:20px; height:20px; }
+
+/* ---- Painel lateral ---- */
+.ifm-menu{
+  position:fixed; top:0; right:0; bottom:0; z-index:110;
+  width:min(340px,86vw);
+  background:var(--ifm-branco);
+  display:flex; flex-direction:column;
+  padding:20px 24px 32px;
+  transform:translateX(100%);
+  transition:transform .32s ease;
+  overflow-y:auto;
+  box-shadow:-14px 0 40px rgba(5,35,60,0.14);
+}
+.ifm-menu.is-aberto{ transform:translateX(0); }
+.ifm-menu-topo{
+  display:flex; flex-direction:row; align-items:center; justify-content:space-between;
+  gap:16px; margin-bottom:12px;
+}
+/* >>> TAMANHO DA LOGO DENTRO DO PAINEL LATERAL: altere o height. <<< */
+.ifm-menu-topo img{ height:44px; width:auto; }
+.ifm-fechar{
+  width:44px; height:44px; flex:none;
+  display:flex; align-items:center; justify-content:center;
+  background:transparent; border:1px solid var(--ifm-linha); border-radius:10px;
+  color:var(--ifm-navy); cursor:pointer; padding:0;
+}
+.ifm-fechar svg{ width:20px; height:20px; }
+.ifm-menu-links{ display:flex; flex-direction:column; gap:2px; }
+.ifm-menu-links a{
+  display:block; padding:15px 0;
+  font-size:17px; font-weight:500; color:var(--ifm-navy);
+  border-bottom:1px solid var(--ifm-linha);
+}
+.ifm-menu-cta{
+  margin-top:22px; width:100%;
+  display:inline-flex; align-items:center; justify-content:center;
+  padding:15px 24px; border-radius:12px;
+  background:var(--ifm-azul); color:#FFF;
+  font-size:16px; font-weight:600; line-height:1.4em;
+}
+.ifm-overlay{
+  position:fixed; inset:0; z-index:105;
+  background:rgba(4,27,46,0.5);
+  opacity:0; visibility:hidden;
+  transition:opacity .3s ease, visibility .3s ease;
+}
+.ifm-overlay.is-ativo{ opacity:1; visibility:visible; }
+
+/* ---- Responsivo: logo branca solta + só o ícone ao rolar ---- */
+@media (max-width:1024px){
+  .ifm-nav{ top:14px; padding:0 16px; justify-content:space-between; }
+  .ifm-pill{
+    padding:0; gap:0;
+    background:transparent; border:0; box-shadow:none; border-radius:0;
+  }
+  .ifm-pill a:not(.ifm-logo){ display:none; }
+  /* >>> TAMANHO DA LOGO NO MOBILE/TABLET: altere height e width aqui.
+     Ex.: 34/136, 42/168, 50/200. <<< */
+  .ifm-logo{
+    margin-right:0; padding-right:0; border-right:0;
+    height:50px; width:200px;
+  }
+  .ifm-logo img{ filter:brightness(0) invert(1); }   /* logo branca sobre o hero */
+  .ifm-burger{ display:flex; }
+  /* Ao rolar, some a logo e fica só o ícone do menu */
+  .ifm-nav.is-rolado .ifm-pill{
+    opacity:0; visibility:hidden; transform:translateY(-6px); pointer-events:none;
+  }
+}
+@media (prefers-reduced-motion:reduce){
+  .ifm-nav *,.ifm-menu,.ifm-overlay{ transition-duration:.001ms !important; }
+}
+</style>
+
+<header class="ifm-nav" id="ifmNav">
+  <nav class="ifm-pill" aria-label="Navegação principal">
+    <a href="#topo" class="ifm-logo" aria-label="Interfrio.SP , início">
+      <!-- TROQUE o src pela URL da logo na sua Biblioteca de Mídia -->
+      <img decoding="async" src="https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/interfrio-logo.png" alt="Interfrio.SP">
+    </a>
+    <a href="#supervisorio" data-t="Supervisório"><span class="ifm-txt">Supervisório</span></a>
+    <a href="#servicos" data-t="Serviços"><span class="ifm-txt">Serviços</span></a>
+    <a href="#diferenciais" data-t="Diferenciais"><span class="ifm-txt">Diferenciais</span></a>
+    <a href="#quem-somos" data-t="Quem somos"><span class="ifm-txt">Quem somos</span></a>
+    <a href="#faq" data-t="FAQ"><span class="ifm-txt">FAQ</span></a>
+    <a href="#contato" class="ifm-cta">Solicitar avaliação técnica</a>
+  </nav>
+
+  <button class="ifm-burger" id="ifmBurger" aria-label="Abrir menu" aria-expanded="false" aria-controls="ifmMenu">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M4 6h16M4 12h16M4 18h16"></path></svg>
+  </button>
+</header>
+
+<div class="ifm-overlay" id="ifmOverlay"></div>
+
+<aside class="ifm-menu" id="ifmMenu" aria-label="Menu de navegação">
+  <div class="ifm-menu-topo">
+    <!-- TROQUE o src pela URL da logo na sua Biblioteca de Mídia -->
+    <img decoding="async" src="https://lp.oreidalanding.com.br/wp-content/uploads/2026/08/interfrio-logo.png" alt="Interfrio.SP">
+    <button class="ifm-fechar" id="ifmFechar" aria-label="Fechar menu">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M18 6 6 18M6 6l12 12"></path></svg>
+    </button>
+  </div>
+  <nav class="ifm-menu-links">
+    <a href="#supervisorio">Supervisório</a>
+    <a href="#servicos">Serviços</a>
+    <a href="#diferenciais">Diferenciais</a>
+    <a href="#quem-somos">Quem somos</a>
+    <a href="#faq">FAQ</a>
+    <a href="#contato">Contato</a>
+  </nav>
+  <a href="#contato" class="ifm-menu-cta">Solicitar avaliação técnica</a>
+</aside>
+
+<script>
+(function(){
+  'use strict';
+  var nav     = document.getElementById('ifmNav');
+  var menu    = document.getElementById('ifmMenu');
+  var overlay = document.getElementById('ifmOverlay');
+  var burger  = document.getElementById('ifmBurger');
+  var fechar  = document.getElementById('ifmFechar');
+  if(!nav || !menu) return;
+
+  // Ao rolar: no mobile some a logo, ficando só o ícone do menu.
+  function aoRolar(){
+    nav.classList.toggle('is-rolado', window.scrollY > 40);
+  }
+  aoRolar();
+  window.addEventListener('scroll', aoRolar, {passive:true});
+
+  function alterna(aberto){
+    menu.classList.toggle('is-aberto', aberto);
+    overlay.classList.toggle('is-ativo', aberto);
+    burger.setAttribute('aria-expanded', String(aberto));
+    document.body.style.overflow = aberto ? 'hidden' : '';
+  }
+  burger.addEventListener('click', function(){ alterna(true); });
+  fechar.addEventListener('click', function(){ alterna(false); });
+  overlay.addEventListener('click', function(){ alterna(false); });
+  Array.prototype.forEach.call(menu.querySelectorAll('a'), function(a){
+    a.addEventListener('click', function(){ alterna(false); });
+  });
+  document.addEventListener('keydown', function(e){
+    if(e.key === 'Escape') alterna(false);
+  });
+})();
+</script>

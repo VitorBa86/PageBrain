@@ -1,0 +1,125 @@
+{
+ "nome": "PÁGINA PSI [LUANA CAROLINA · CASAIS]",
+ "slug": "psi-luana-carolina-casais",
+ "pasta_original": "página de teste do PageBrain, aprovada",
+ "origem": "paginas/nossas",
+ "prioridade": "alta",
+ "referencia_de_padrao": true,
+ "aprovada_em": "2026-10-24",
+ "dados_ficticios": true,
+ "url": null,
+ "plataforma": "HTML estático (Vercel)",
+ "nicho": "Psicologia",
+ "tipo_pagina": "captacao",
+ "relevancia": 5,
+ "regras_que_exemplifica": [
+  "sem menu",
+  "logo acima da headline",
+  "títulos em até 3 linhas (4 se a frase for longa), teto 55px",
+  "ícones da skill better-icons (lucide)",
+  "hero com foto de fundo e fade, recorte próprio no mobile, botão visível sem rolar"
+ ],
+ "paleta": {
+  "fundos": [
+   "#FBF7F1",
+   "#F4ECE2",
+   "#3A2A22",
+   "#2C1F19"
+  ],
+  "textos": [
+   "#3A2A22",
+   "#6F5D51"
+  ],
+  "destaques": [
+   "#7A2320",
+   "#9E6644",
+   "#C49A78"
+  ],
+  "gradientes": [
+   "linear-gradient(120deg, #87533A 0%, #B98663 45%, #D2AE8D 55%, #9E6644 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Inter",
+   "uso_pct": 100
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  48,
+  46,
+  36,
+  20,
+  18,
+  17,
+  13,
+  12
+ ],
+ "escala_tipografica_mobile_px": [
+  30,
+  29,
+  26,
+  18,
+  16,
+  14.5,
+  12,
+  11
+ ],
+ "h1": {
+  "desktop_px": 46,
+  "mobile_px": 29,
+  "peso": 600,
+  "line_height": "1.08em",
+  "letter_spacing": "-0.035em"
+ },
+ "botao_principal": {
+  "gradiente": "linear-gradient(120deg, #87533A 0%, #B98663 45%, #D2AE8D 55%, #9E6644 100%)",
+  "texto": "#FFFFFF",
+  "raio": "4px",
+  "padding": "20px 34px",
+  "fonte": "Inter",
+  "tamanho": "13px",
+  "peso": "600",
+  "caixa": "uppercase",
+  "exemplos": [
+   "Quero agendar uma conversa",
+   "Quero conversar com a Luana"
+  ]
+ },
+ "icones": {
+  "fonte": "better-icons (lucide)",
+  "ids": [
+   "lucide:messages-square",
+   "lucide:heart-crack",
+   "lucide:house-heart",
+   "lucide:flame",
+   "lucide:signpost",
+   "lucide:gem"
+  ],
+  "traco": 1.6,
+  "estilo": "círculo 48px creme, ícone 22px vinho; no hover do card o círculo fica vinho e o ícone claro"
+ },
+ "hero": {
+  "desktop": "foto 16:9 cover ancorada à direita + gradiente 90° creme (92% → 75% em 34% → 0 em 58%), min-height min(100vh, 860px)",
+  "mobile": "recorte ~1:1 da foto em 100% de largura no topo, padding-top 44svh, gradiente 180° (0 até 38svh, 88% em 46svh, sólido em 62svh)",
+  "snippet": "codigos/fundos-e-texturas/hero-foto-de-fundo-fade.html"
+ },
+ "secoes": [
+  "hero",
+  "dor",
+  "para-quem-e",
+  "como-funciona",
+  "diferenciais",
+  "frase-destaque",
+  "faixa",
+  "sobre",
+  "faq",
+  "cta-final",
+  "rodape"
+ ],
+ "largura_conteudo_px": 1160,
+ "padding_secao_px": {
+  "desktop": 110,
+  "mobile": 84
+ }
+}

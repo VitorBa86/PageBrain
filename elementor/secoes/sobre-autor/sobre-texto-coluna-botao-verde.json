@@ -1,0 +1,359 @@
+{
+ "content": [
+  {
+   "id": "3c950272",
+   "settings": {
+    "flex_direction": "row",
+    "min_height": {
+     "unit": "px",
+     "size": 720,
+     "sizes": []
+    },
+    "flex_justify_content": "flex-start",
+    "flex_align_items": "center",
+    "flex_gap": {
+     "column": "40",
+     "row": "40",
+     "isLinked": true,
+     "unit": "px",
+     "size": 40
+    },
+    "background_background": "classic",
+    "background_color": "#FFFFFF",
+    "boxed_width_tablet": {
+     "unit": "%",
+     "size": 90,
+     "sizes": []
+    },
+    "boxed_width_mobile": {
+     "unit": "%",
+     "size": 90,
+     "sizes": []
+    },
+    "background_image": {
+     "url": "",
+     "id": "",
+     "size": "",
+     "alt": "",
+     "source": "library"
+    },
+    "background_position": "top center",
+    "background_repeat": "no-repeat",
+    "background_size_mobile": "initial",
+    "background_bg_width_mobile": {
+     "unit": "px",
+     "size": 0,
+     "sizes": []
+    },
+    "border_border": "solid",
+    "border_width": {
+     "unit": "px",
+     "top": "0",
+     "right": "0",
+     "bottom": "1",
+     "left": "0",
+     "isLinked": false
+    },
+    "border_color": "#F56B72",
+    "padding_mobile": {
+     "unit": "px",
+     "top": "80",
+     "right": "0",
+     "bottom": "80",
+     "left": "0",
+     "isLinked": false
+    },
+    "padding": {
+     "unit": "px",
+     "top": "80",
+     "right": "0",
+     "bottom": "50",
+     "left": "0",
+     "isLinked": false
+    },
+    "eae_slider_delay": "5000",
+    "gradient_color_list": [
+     {
+      "eae_animated_gradient_color": "#00a6d8",
+      "_id": "c52a6a9"
+     },
+     {
+      "eae_animated_gradient_color": "#b800c9",
+      "_id": "7f97dc6"
+     },
+     {
+      "eae_animated_gradient_color": "#e57600",
+      "_id": "bb4f360"
+     }
+    ]
+   },
+   "elements": [
+    {
+     "id": "696f42f6",
+     "settings": {
+      "content_width": "full",
+      "width": {
+       "unit": "%",
+       "size": 45,
+       "sizes": []
+      },
+      "padding": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "0",
+       "left": "0",
+       "isLinked": false
+      },
+      "width_tablet": {
+       "unit": "%",
+       "size": 100,
+       "sizes": []
+      },
+      "width_mobile": {
+       "unit": "%",
+       "size": "",
+       "sizes": []
+      },
+      "eae_slider_delay": "5000",
+      "gradient_color_list": [
+       {
+        "eae_animated_gradient_color": "#00a6d8",
+        "_id": "d4803b0"
+       },
+       {
+        "eae_animated_gradient_color": "#b800c9",
+        "_id": "0499375"
+       },
+       {
+        "eae_animated_gradient_color": "#e57600",
+        "_id": "8aec5eb"
+       }
+      ]
+     },
+     "elements": [
+      {
+       "id": "237fce9c",
+       "settings": {
+        "title": "Dra. Gabriela Fulana",
+        "title_color": "#3F3638",
+        "typography_typography": "custom",
+        "typography_font_family": "Poppins",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 43,
+         "sizes": []
+        },
+        "typography_font_weight": "700",
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.4,
+         "sizes": []
+        },
+        "_element_width": "inherit",
+        "_element_custom_width": {
+         "unit": "%",
+         "size": 45,
+         "sizes": []
+        },
+        "align_mobile": "center",
+        "typography_font_size_mobile": {
+         "unit": "vw",
+         "size": 9,
+         "sizes": []
+        },
+        "_css_classes": "scroll-left"
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "heading",
+       "elType": "widget"
+      },
+      {
+       "id": "53416b1f",
+       "settings": {
+        "width": {
+         "unit": "%",
+         "size": 57,
+         "sizes": []
+        },
+        "text": "Divisória",
+        "color": "#F56B72",
+        "weight": {
+         "unit": "px",
+         "size": 2,
+         "sizes": []
+        },
+        "gap": {
+         "unit": "px",
+         "size": 2,
+         "sizes": []
+        },
+        "align_mobile": "center",
+        "_css_classes": "scroll-left"
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "divider",
+       "elType": "widget"
+      },
+      {
+       "id": "6796dd5a",
+       "settings": {
+        "image": {
+         "url": "",
+         "id": "",
+         "size": "",
+         "alt": "",
+         "source": "library"
+        },
+        "_margin_mobile": {
+         "unit": "px",
+         "top": "0",
+         "right": "-28",
+         "bottom": "20",
+         "left": "-28",
+         "isLinked": false
+        },
+        "_padding_mobile": {
+         "unit": "px",
+         "top": "0",
+         "right": "0",
+         "bottom": "0",
+         "left": "0",
+         "isLinked": false
+        },
+        "_css_classes": "scroll-left",
+        "hide_desktop": "hidden-desktop"
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "image",
+       "elType": "widget"
+      },
+      {
+       "id": "22d0d712",
+       "settings": {
+        "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,.\n.<br><br>\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book <br><br>\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\n\n\n",
+        "title_color": "#3F3638",
+        "typography_typography": "custom",
+        "typography_font_family": "Poppins",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 16,
+         "sizes": []
+        },
+        "typography_font_weight": "300",
+        "typography_line_height": {
+         "unit": "em",
+         "size": 1.4,
+         "sizes": []
+        },
+        "_margin": {
+         "unit": "px",
+         "top": "5",
+         "right": "0",
+         "bottom": "10",
+         "left": "0",
+         "isLinked": false
+        },
+        "_element_width": "inherit",
+        "_element_custom_width": {
+         "unit": "%",
+         "size": 45,
+         "sizes": []
+        },
+        "_css_classes": "scroll-left"
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "heading",
+       "elType": "widget"
+      },
+      {
+       "id": "7f0b29e9",
+       "settings": {
+        "text": "Agendar minha Avaliação",
+        "typography_typography": "custom",
+        "typography_font_family": "Poppins",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 16,
+         "sizes": []
+        },
+        "typography_font_weight": "500",
+        "background_color": "#55BB63",
+        "background_color_b": "#F56B72",
+        "background_gradient_angle": {
+         "unit": "deg",
+         "size": 151,
+         "sizes": []
+        },
+        "hover_animation": "grow",
+        "border_radius": {
+         "unit": "px",
+         "top": "5",
+         "right": "5",
+         "bottom": "5",
+         "left": "5",
+         "isLinked": true
+        },
+        "text_padding": {
+         "unit": "px",
+         "top": "22",
+         "right": "70",
+         "bottom": "22",
+         "left": "70",
+         "isLinked": false
+        },
+        "_element_width": "inherit",
+        "_element_custom_width": {
+         "unit": "%",
+         "size": 45,
+         "sizes": []
+        },
+        "align_mobile": "justify",
+        "text_padding_mobile": {
+         "unit": "px",
+         "top": "22",
+         "right": "20",
+         "bottom": "22",
+         "left": "20",
+         "isLinked": false
+        },
+        "_css_classes": "scroll-left",
+        "selected_icon": {
+         "value": "fab fa-whatsapp",
+         "library": "fa-brands"
+        },
+        "icon_indent": {
+         "unit": "px",
+         "size": 8,
+         "sizes": []
+        },
+        "link": {
+         "url": "teste",
+         "is_external": "",
+         "nofollow": "",
+         "custom_attributes": ""
+        }
+       },
+       "elements": [],
+       "isInner": false,
+       "widgetType": "button",
+       "elType": "widget"
+      }
+     ],
+     "isInner": true,
+     "elType": "container"
+    }
+   ],
+   "isInner": false,
+   "elType": "container"
+  }
+ ],
+ "page_settings": [],
+ "version": "0.4",
+ "title": "quem sou eu 02",
+ "type": "container"
+}

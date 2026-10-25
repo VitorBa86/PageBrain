@@ -1,0 +1,238 @@
+{
+ "nome": "Rayane Guedes ADV | Advocacia Criminal",
+ "slug": "adv-rayane-guedes-criminal",
+ "pasta_original": "Rayane Adv",
+ "origem": "paginas/gerais",
+ "prioridade": "referencia",
+ "url": "https://rayaneguedesadvocacia.com.br/",
+ "plataforma": "SPA (React/Vue)",
+ "nicho": "Advocacia",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#111317",
+   "#191B1F",
+   "#25D366",
+   "#C49464"
+  ],
+  "textos": [
+   "#F1EEEA",
+   "#C49464",
+   "#111317",
+   "#483726",
+   "#241C15",
+   "#D4AF37"
+  ],
+  "destaques": [
+   "#25D366",
+   "#C49464"
+  ],
+  "gradientes": [
+   "linear-gradient(105deg, rgb(17, 19, 23) 40%, rgba(17, 19, 23, 0.8) 60%, rgba(17, 19, 23, 0.4) 100%)",
+   "linear-gradient(rgba(17, 19, 23, 0.5) 0%, rgba(0, 0, 0, 0) 20%, rgba(0, 0, 0, 0) 75%, rgb(17, 19, 23) 100%)",
+   "linear-gradient(rgb(17, 19, 23) 0%, rgba(17, 19, 23, 0.3) 20%, rgba(17, 19, 23, 0.1) 70%, rgb(17, 19, 23) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Inter",
+   "uso_pct": 86
+  },
+  {
+   "familia": "DM Serif Display",
+   "uso_pct": 14
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  216,
+  67,
+  54,
+  48,
+  26,
+  24,
+  18,
+  16
+ ],
+ "escala_tipografica_mobile_px": [
+  59,
+  29,
+  21,
+  18,
+  18,
+  16,
+  16,
+  15
+ ],
+ "h1_mobile": "36.8px",
+ "botao_principal": {
+  "fundo": "#00000000",
+  "gradiente": null,
+  "texto": "#F1EEEA",
+  "raio": "0px",
+  "padding": "28px 28px",
+  "fonte": "Inter",
+  "tamanho": "16px",
+  "peso": "300",
+  "caixa": "none",
+  "exemplos": [
+   "01 O que fazer em caso de violência doméstica?",
+   "02 Como funcionam as medidas protetivas?",
+   "03 Preciso de advogado imediatamente?"
+  ]
+ },
+ "raios": [
+  "9999px",
+  "16px",
+  "100px",
+  "12px",
+  "8px",
+  "20px"
+ ],
+ "sombras": [
+  "rgba(196, 148, 100, 0.15) 0px 4px 30px 0px",
+  "rgba(0, 0, 0, 0.7) 0px 20px 50px 0px, rgba(212, 175, 55, 0.08) 0px 0px 40px 0px",
+  "rgba(196, 148, 100, 0) 0px 0px 0px 17.9509px",
+  "rgba(0, 0, 0, 0.3) 0px 4px 15px 0px"
+ ],
+ "gaps": [
+  "16px",
+  "8px",
+  "24px",
+  "6px",
+  "12px",
+  "40px"
+ ],
+ "largura_conteudo_px": null,
+ "altura_pagina_px": 8524,
+ "secoes_qtde": 9,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "Defesa Criminal Estratégica e Implacável.",
+   "fundo": "transparente",
+   "altura_px": 900
+  },
+  {
+   "ordem": 2,
+   "tipo": "sobre",
+   "titulo": "Conheça a Dra. Rayane Ferreira Guedes",
+   "fundo": "#111317",
+   "altura_px": 1014
+  },
+  {
+   "ordem": 3,
+   "tipo": "servicos",
+   "titulo": "Áreas de Atuação",
+   "fundo": "transparente",
+   "altura_px": 1066
+  },
+  {
+   "ordem": 4,
+   "tipo": "diferenciais",
+   "titulo": "Nossos Diferenciais",
+   "fundo": "#111317",
+   "altura_px": 668
+  },
+  {
+   "ordem": 5,
+   "tipo": "como-funciona",
+   "titulo": "Como Funciona o Atendimento",
+   "fundo": "#191B1F",
+   "altura_px": 873
+  },
+  {
+   "ordem": 6,
+   "tipo": "faq",
+   "titulo": "Perguntas Frequentes",
+   "fundo": "#111317",
+   "altura_px": 872
+  },
+  {
+   "ordem": 7,
+   "tipo": "",
+   "titulo": "",
+   "fundo": "#111317",
+   "altura_px": 501
+  },
+  {
+   "ordem": 8,
+   "tipo": "blog",
+   "titulo": "Artigos Recomendados",
+   "fundo": "#191B1F",
+   "altura_px": 1278
+  },
+  {
+   "ordem": 9,
+   "tipo": "cta-final",
+   "titulo": "Precisa de Proteção Jurídica na Lei Maria da Penha?",
+   "fundo": "#111317",
+   "altura_px": 831
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "sobre",
+  "servicos",
+  "diferenciais",
+  "como-funciona",
+  "faq",
+  "",
+  "blog",
+  "cta-final"
+ ],
+ "tags_estilo": [
+  "preto",
+  "bronze",
+  "serifa-italica",
+  "premium",
+  "feminino"
+ ],
+ "tecnicas": [
+  "Foto P&B com tom quente"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "accordion-down",
+   "accordion-up",
+   "ambient-glow",
+   "enter",
+   "exit",
+   "heroBgFade",
+   "heroNavFade",
+   "heroPhotoFadeRightToLeft",
+   "heroTextFadeDown",
+   "marqueeSobre",
+   "pulse",
+   "pulse-gold-hero",
+   "shimmer-glass",
+   "sonner-fade-in",
+   "sonner-fade-out",
+   "sonner-spin",
+   "swipe-out-down",
+   "swipe-out-left",
+   "swipe-out-right",
+   "swipe-out-up",
+   "whatsapp-pulse"
+  ],
+  "entrada_elementor": [],
+  "classes_scroll": []
+ },
+ "bibliotecas": [
+  "ga4",
+  "google-ads",
+  "meta-pixel"
+ ],
+ "snippets_usados": [],
+ "relevancia": 4,
+ "resumo": "Advogada criminal em preto e bronze com serifa itálica dourada. Foto P&B, cards escuros de área com um card dourado de destaque, diferenciais em lista com números grandes de fundo e artigos.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": null,
+  "copy_real": null,
+  "json_elementor": null,
+  "ref": "ref/"
+ }
+}

@@ -1,0 +1,227 @@
+{
+ "nome": "Home - Evelyn Mendes - Psicóloga",
+ "slug": "psi-evelyn-mendes",
+ "pasta_original": "PSI EVELY",
+ "origem": "paginas/gerais",
+ "prioridade": "referencia",
+ "url": "https://psievelynmendes.com.br/",
+ "plataforma": "WordPress + Elementor",
+ "nicho": "Psicologia",
+ "tipo_pagina": "captacao",
+ "paleta": {
+  "fundos": [
+   "#BCC6CE",
+   "#FAF9F8",
+   "#F2EFEA",
+   "#95A5B1",
+   "#798E9D",
+   "#445261"
+  ],
+  "textos": [
+   "#5E5D5A",
+   "#483C33",
+   "#35445B",
+   "#7A7A7A",
+   "#727D5A",
+   "#FFFFFF"
+  ],
+  "destaques": [
+   "#35445B"
+  ],
+  "gradientes": [
+   "radial-gradient(165.91% 647.63% at 45.92% -308.33%, rgb(75, 96, 129) 0%, rgb(121, 142, 157) 100%)"
+  ]
+ },
+ "fontes": [
+  {
+   "familia": "Onest",
+   "uso_pct": 91
+  },
+  {
+   "familia": "Noto Serif TC",
+   "uso_pct": 9
+  }
+ ],
+ "escala_tipografica_desktop_px": [
+  56,
+  48,
+  44,
+  40,
+  32,
+  24,
+  22,
+  21,
+  19,
+  18
+ ],
+ "escala_tipografica_mobile_px": [
+  48,
+  32,
+  28,
+  24,
+  19,
+  19,
+  18,
+  17
+ ],
+ "h1_mobile": "28px",
+ "botao_principal": {
+  "fundo": "#00000000",
+  "gradiente": "radial-gradient(165.91% 647.63% at 45.92% -308.33%, rgb(75, 96, 129) 0%, rgb(121, 142, 157) 100%)",
+  "texto": "#FFFFFF",
+  "raio": "4px",
+  "padding": "20px 40px",
+  "fonte": "Onest",
+  "tamanho": "18.4px",
+  "peso": "500",
+  "caixa": "none",
+  "exemplos": [
+   "Quero dar meu primeiro passo"
+  ]
+ },
+ "raios": [
+  "100px",
+  "4px",
+  "16px",
+  "24px 24px 0px 0px",
+  "24px",
+  "8px"
+ ],
+ "sombras": [],
+ "gaps": [
+  "16px",
+  "20px",
+  "0px 10px",
+  "24px",
+  "8px",
+  "32px"
+ ],
+ "largura_conteudo_px": 1392,
+ "altura_pagina_px": 7090,
+ "secoes_qtde": 9,
+ "secoes": [
+  {
+   "ordem": 1,
+   "tipo": "hero",
+   "titulo": "",
+   "fundo": "transparente",
+   "altura_px": 100
+  },
+  {
+   "ordem": 2,
+   "tipo": "",
+   "titulo": "Psicoterapia para mulheres cansadas de sustentar tudo sozinhas.",
+   "fundo": "imagem",
+   "altura_px": 900
+  },
+  {
+   "ordem": 3,
+   "tipo": "prova-social",
+   "titulo": "Depoimentos",
+   "fundo": "#F2EFEA",
+   "altura_px": 242
+  },
+  {
+   "ordem": 4,
+   "tipo": "para-quem-e",
+   "titulo": "Identificação",
+   "fundo": "#BCC6CE",
+   "altura_px": 696
+  },
+  {
+   "ordem": 5,
+   "tipo": "beneficios",
+   "titulo": "Benefícios da terapia",
+   "fundo": "#FAF9F8",
+   "altura_px": 690
+  },
+  {
+   "ordem": 6,
+   "tipo": "",
+   "titulo": "Evelyn Mendes Oliveira",
+   "fundo": "#BCC6CE",
+   "altura_px": 1353
+  },
+  {
+   "ordem": 7,
+   "tipo": "",
+   "titulo": "Sem complicações",
+   "fundo": "#BCC6CE",
+   "altura_px": 764
+  },
+  {
+   "ordem": 8,
+   "tipo": "faq",
+   "titulo": "Perguntas frequentes",
+   "fundo": "#FAF9F8",
+   "altura_px": 840
+  },
+  {
+   "ordem": 9,
+   "tipo": "blog",
+   "titulo": "Blog",
+   "fundo": "imagem",
+   "altura_px": 900
+  }
+ ],
+ "tipos_de_secao": [
+  "hero",
+  "",
+  "prova-social",
+  "para-quem-e",
+  "beneficios",
+  "",
+  "",
+  "faq",
+  "blog"
+ ],
+ "tags_estilo": [
+  "azul-acinzentado",
+  "creme",
+  "serifa",
+  "feminino",
+  "textura"
+ ],
+ "tecnicas": [
+  "Textura topográfica de fundo"
+ ],
+ "animacoes": {
+  "keyframes": [
+   "brilho",
+   "fadeIn",
+   "mensagem",
+   "sbi-sk-scaleout",
+   "seta"
+  ],
+  "entrada_elementor": [
+   "fadeIn",
+   "none"
+  ],
+  "classes_scroll": [
+   "scroll-bottom",
+   "scroll-left",
+   "scroll-right",
+   "scroll-top"
+  ]
+ },
+ "bibliotecas": [
+  "ga4",
+  "gsap",
+  "jquery",
+  "lenis",
+  "lottie",
+  "swiper"
+ ],
+ "snippets_usados": [],
+ "relevancia": 4,
+ "resumo": "Psicóloga para mulheres sobrecarregadas: azul acinzentado e creme com textura topográfica. Selo Google no hero, depoimentos logo após, cards de identificação, benefícios, bio com credenciais, cards de formato de atendimento, 4 passos, FAQ e feed do Instagram.",
+ "arquivos": {
+  "style_guide": "style-guide.html",
+  "como_usar": "como-usar.md",
+  "screenshot": "print.jpg",
+  "html": null,
+  "copy_real": null,
+  "json_elementor": null,
+  "ref": "ref/"
+ }
+}
